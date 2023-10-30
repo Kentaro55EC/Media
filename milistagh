@@ -1,0 +1,83 @@
+#EXTM3U
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/jEsbtAh.png",Twitch
+https://d1m7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgw9sxS.png",Esports Max
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/cgw9sxS.png",Esports Max.
+https://streamyes.alsolnet.com/esportsmax/live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8w4gGfc.png",Liga de Campeones 🇪🇸
+http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/jxxlrPM.png",ESPN Deportes 🇺🇸
+http://66.70.176.103:8081/LATINO%7CESPNDEPORTESR/LATINO%7CESPNDEPORTESR/chunks.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/HtNVzJz.png",FOX Deportes 🇺🇸
+http://66.70.176.103:8081/LATINO%7CFOXDEPORTESR/LATINO%7CFOXDEPORTESR/chunks.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/sXZB00S.png",Claro Sports
+http://66.70.176.103:8081/LATINO%7CCLAROSPORTSR/LATINO%7CCLAROSPORTSR/chunks.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/nX2Pu6X.png",Discovery Science
+http://66.70.176.103:8081/LATINO%7CDISCOVERYSCIENCER/LATINO%7CDISCOVERYSCIENCER/chunks.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/77WlGgt.png",Sony
+http://66.70.176.103:8081/LATINO%7CSONYCHANNELR/LATINO%7CSONYCHANNELR/chunks.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/kppGUJ6.png",Imagen TV 🇲🇽
+http://66.70.176.103:8081/LATINO%7CIMAGENTVR/LATINO%7CIMAGENTVR/chunks.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/BdHKMuv.png",Disney JR
+http://66.70.176.103:8081/LATINO%7CDISNEYJRR/LATINO%7CDISNEYJRR/chunks.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/iPcbTgU.png",Nick
+http://66.70.176.103:8081/LATINO%7CNICKR/LATINO%7CNICKR/chunks.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/m4BvHkA.png",HBO
+http://66.70.176.103:8081/LATINO%7CHBOR/LATINO%7CHBOR/chunks.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/z5znHZs.png",AXN
+http://66.70.176.103:8081/LATINO%7CAXNR/LATINO%7CAXNR/chunks.m3u8
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRAñ 🇺🇸 / SD
+https://bein-esp-xumo.amagi.tv/playlistR404p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRAñ 🇺🇸 / HD
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRAñ 🇺🇸 / FHD
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRAñ 🇺🇸
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRA 🇺🇸 / SD
+https://d12zdp766bxba6.cloudfront.net/playlist404p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRA 🇺🇸 / HD
+https://d12zdp766bxba6.cloudfront.net/playlist720P.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRA 🇺🇸 / FHD
+https://d12zdp766bxba6.cloudfront.net/playlist1080p.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRA 🇺🇸
+https://d12zdp766bxba6.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fBgJinv.jpg",DeporTV 🇦🇷
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tmgIhCz.jpg",Tigo Sports 🇬🇹
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WYvweGv.png",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9UlzSsl.jpg",Euro News en Español
+https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/8ZXS0CH.png",ATV+ 🇵🇪 SD
+https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZXS0CH.png",ATV+ 🇵🇪 HD
+https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist_1280x720.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/8ZXS0CH.png",ATV+ 🇵🇪
+https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VtTkCyd.jpg",VIVO Play
+https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4tm5C0t.png",N+ / Las Estrellas / VIX ~
+https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/zZgiI8a.png",Las Estrellas 🇲🇽 / LD
+https://channel01.akamaized.net/hls/live/2022749/event01/index_3.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/zZgiI8a.png",Las Estrellas 🇲🇽 / SD
+https://channel01.akamaized.net/hls/live/2022749/event01/index_4.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/zZgiI8a.png",Las Estrellas 🇲🇽 / SD+
+https://channel01.akamaized.net/hls/live/2022749/event01/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zZgiI8a.png",Las Estrellas 🇲🇽 / HD
+https://channel01.akamaized.net/hls/live/2022749/event01/index_6.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/zZgiI8a.png",Las Estrellas 🇲🇽 ~
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Py4JHTJ.png",ADN 40 🇲🇽
+http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
