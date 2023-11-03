@@ -440,8 +440,8 @@ http://45.5.119.155:8000/play/a03w/index.m3u8?p15
 http://161.132.108.72:50001/play/a02w/index.m3u8?~~72a79~~161.132.108.79:50001~~161.132.243.192:50001
 #EXTINF:-04 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/Uz7zeTc.png",Claro Sports 2 HD ~p4~
 http://161.132.108.72:50001/play/a03v/index.m3u8?~~72a79~~161.132.108.79:50001~~161.132.243.192:50001
-#EXTINF:-09 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/hxtTywb.png",CDO 🇨🇱 ~p9~
-http://190.216.162.155:8001/play/a0a7?p9-CDOp
+#EXTINF:-09 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/Acsiddt.png",CDO 🇨🇱 ~p9~
+http://190.216.162.155:8001/play/a0a7?p9-CDOp(https://i.imgur.com/hxtTywb.png?logocdop)
 #EXTINF:-09 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/Acsiddt.png",CDO 2 🇨🇱 ~p9~
 http://190.216.162.155:8001/play/a0a6?p9-CDOb
 #EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/wAOTTs1.png",DAZN LaLiga HD
