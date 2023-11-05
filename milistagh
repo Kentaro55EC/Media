@@ -31,19 +31,19 @@ http://66.70.176.103:8081/LATINO%7CHBOR/LATINO%7CHBOR/chunks.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/z5znHZs.png",AXN
 http://66.70.176.103:8081/LATINO%7CAXNR/LATINO%7CAXNR/chunks.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRAñ 🇺🇸 / SD
+EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRAñ 🇺🇸 SD
 https://bein-esp-xumo.amagi.tv/playlistR404p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRAñ 🇺🇸 / HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRAñ 🇺🇸 HD
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRAñ 🇺🇸 / FHD
+EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRAñ 🇺🇸 FHD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRAñ 🇺🇸
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRA 🇺🇸 / SD
+EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRA 🇺🇸 SD
 https://d12zdp766bxba6.cloudfront.net/playlist404p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRA 🇺🇸 / HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRA 🇺🇸 HD
 https://d12zdp766bxba6.cloudfront.net/playlist720P.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRA 🇺🇸 / FHD
+EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRA 🇺🇸 FHD
 https://d12zdp766bxba6.cloudfront.net/playlist1080p.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRA 🇺🇸
 https://d12zdp766bxba6.cloudfront.net/playlist.m3u8
@@ -462,7 +462,7 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/205.m3u8?inf
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/211.m3u8?inf
 #EXTINF:-19 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/qqNHbGk.png",DIRECTV Sports HD ~p19~
 http://181.189.246.86:58004/play/a006/index.m3u8?p19
-EXTINF:-04 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/qqNHbGk.png",DIRECTV Sports HD ~p4~
+#EXTINF:-04 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/qqNHbGk.png",DIRECTV Sports HD ~p4~
 http://161.132.108.72:50001/play/a03o/index.m3u8?~~72a79~~161.132.108.79:50001~~161.132.243.192:50001
 #EXTINF:-19 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/gJCjTqi.png",DIRECTV Sports 2 HD ~p19~
 http://181.189.246.86:58004/play/a001/index.m3u8?p19
@@ -480,7 +480,7 @@ EXTINF:-34 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/DjNEwg
 http://190.60.37.126:8001/play/a02w/index.m3u8?p42
 #EXTINF:-21 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/S5Pm5ww.png",ESPN 2 🇨🇴
 http://186.3.76.238:8000/play/a08h/index.m3u8
-EXTINF:-08 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/S5Pm5ww.png",ESPN 2 🇨🇱 ~p8~
+#EXTINF:-08 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/S5Pm5ww.png",ESPN 2 🇨🇱 ~p8~
 http://190.95.220.212:8000/play/a03f/index.m3u8?p8~
 EXTINF:-28 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/S5Pm5ww.png",ESPN 2 🇨🇱 ~p45~
 http://181.78.22.27:8098/play/a011/index.m3u8?p45sd
@@ -530,6 +530,8 @@ http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8?livex
 http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8?livex
 #EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/VhpAPAN.png",ESPN 3 🇲🇽 ~LIVEX~
 http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8?livex
+#EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/rv1Zsxu.png",ECDF
+http://186.3.76.238:8000/play/a0c8/index.m3u8
 #EXTINF:-03 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/rv1Zsxu.png",ECDF ~p3~
 http://177.234.242.150:50032/play/a0f1/index.m3u8?p3
 #EXTINF:-08 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/rv1Zsxu.png",ECDF ~p8~
@@ -550,8 +552,6 @@ http://186.3.76.238:8000/play/a08s/index.m3u8
 http://186.3.76.238:8000/play/a08t/index.m3u8
 #EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/wCtXE23.png",FOX Sports HD 🇦🇷 ~pARG~
 http://45.5.151.151:8000/play/a0bf/index.m3u8?PremiumARG
-#EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/wCtXE23.png",FOX Sports HD 🇦🇷. ~pARG~
-http://45.5.151.151:8000/play/a01d/index.m3u8?PremiumARG
 EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/PROHjGV.png",FOX Sports 2 HD 🇦🇷 ~pARG~
 http://45.186.252.17:8000/play/a023??PremiumARG
 EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/Xj3iwS9.png",FOX Sports 3 HD 🇦🇷 ~pARG~
@@ -578,18 +578,20 @@ http://177.234.230.226:8010/play/a003/index.m3u8?p10
 http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8?livex
 #EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/B191WFs.png",GOLTV 🇪🇨 ~Infinitv~
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/208.m3u8?inf
-#EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/B191WFs.png",GOLTV LAT ~
-http://45.71.252.16:8000/play/a0hn/index.m3u8?~
+#EXTINF:-34 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/B191WFs.png",GOLTV 🇪🇨
+http://186.3.85.27:8000/play/a001/index.m3u8
+#EXTINF:-34 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/B191WFs.png",GOLTV 🇪🇨.
+http://186.3.85.115:8000/play/a001/index.m3u8
 #EXTINF:-03 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/B191WFs.png",GOLTV LAT ~p3~
 http://177.234.242.150:50032/play/a0cy/index.m3u8?p3
 #EXTINF:-06 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/B191WFs.png",GOLTV LAT ~p6~
 http://177.234.245.26:8000/play/a03l/index.m3u8?p6
+#EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/B191WFs.png",GOLTV 🇵🇪 ~
+http://45.71.252.16:8000/play/a0hn/index.m3u8?~
+#EXTINF:-03 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/B191WFs.png",GOLTV 🇵🇪 HD ~p3~
+http://177.234.242.150:50032/play/a0fr/index.m3u8?p3
 #EXTINF:-09 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/B191WFs.png",GOLTV 🇵🇪 HD ~p9~
 http://190.216.162.155:8001/play/a028?p9
-#EXTINF:-03 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/B191WFs.png",GOLTV LAT HD ~p3~
-http://177.234.242.150:50032/play/a0fr/index.m3u8?p3
-#EXTINF:-11 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/B191WFs.png",GOLTV LAT HD ~p11~
-http://181.129.198.235:8000/play/a01o/index.m3u8?p11
 #EXTINF:-46 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/B191WFs.png",GOLTV LAT HD ~p46~
 http://45.166.92.22:58001/play/a04k/index.m3u8?p46
 #EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/1VWIGJM.png",GOLPERU HD~
@@ -940,18 +942,30 @@ http://170.82.37.21:8000/play/a02y/index.m3u8?p5
 http://186.3.76.238:8000/play/a0a6/index.m3u8
 #EXTINF:-21 group-title="Premium 1" tvg-logo="https://i.imgur.com/iohwpbg.png",Studio Universal
 http://186.3.76.238:8000/play/a084/index.m3u8
-#EXTINF:-21 group-title="Premium 1" tvg-logo="https://i.imgur.com/LyuvBlS.png",TNT
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/LyuvBlS.png",TNT (Pacifico)
 http://186.3.76.238:8000/play/a07l/index.m3u8
-#EXTINF:-05 group-title="Premium 1" tvg-logo="https://i.imgur.com/LyuvBlS.png",TNT HD Centro ~p5~
-http://170.82.37.21:8000/play/a03a/index.m3u8?p5
+EXTINF:-43 group-title="Premium 1" tvg-logo="https://i.imgur.com/LyuvBlS.png",TNT (Pacifico) ~p43~
+http://190.60.36.103:8000/play/a00e/index.m3u8?p43
+EXTINF:-02 group-title="Premium 1" tvg-logo="https://i.imgur.com/LyuvBlS.png",TNT HD (Pacifico) ~p2~
+http://45.160.12.253:8000/play/109?p2
+#EXTINF:-09 group-title="Premium 1" tvg-logo="https://i.imgur.com/LyuvBlS.png",TNT HD (Pacifico) ~p9~
+http://190.216.162.155:8001/play/a00v?p9
+EXTINF:-22 group-title="Premium 1" tvg-logo="https://i.imgur.com/LyuvBlS.png",TNT HD (Pacifico) ~p22~
+http://181.78.12.119:16123/play/a08i/index.m3u8?p22
+EXTINF:-42 group-title="Premium 1" tvg-logo="https://i.imgur.com/LyuvBlS.png",TNT HD (Pacifico) ~p42~
+http://190.60.37.126:8001/play/a02z/index.m3u8?p42
+#EXTINF:-09 group-title="Premium 1" tvg-logo="https://i.imgur.com/LyuvBlS.png",TNT Centro ~p9~
+http://190.216.162.155:8001/play/a093?p9
+EXTINF:-08 group-title="Premium 1" tvg-logo="https://i.imgur.com/LyuvBlS.png",TNT Centro ~p8~
+http://190.95.220.212:8000/play/a02n/index.m3u8?p8
+#EXTINF:-24 group-title="Premium 1" tvg-logo="https://i.imgur.com/LyuvBlS.png",TNT Centro HD ~p24~
+http://168.228.194.117:58001/play/a02k/index.m3u8?p24
 #EXTINF:-05 group-title="Premium 1" tvg-logo="https://i.imgur.com/yZQyDgV.png",TNT Series HD ~p5~
 http://170.82.37.21:8000/play/a03c/index.m3u8?p5
 #EXTINF:-06 group-title="Premium 1" tvg-logo="https://i.imgur.com/wFzIyMt.png",TNT Novelas ~p6~
 http://177.234.245.26:8000/play/a040/index.m3u8?p6
 #EXTINF:-09 group-title="Premium 1" tvg-logo="https://i.imgur.com/fOhYW3W.png",TRU TV HD (SUB) ~p9~
 http://190.216.162.155:8001/play/a013?p9
-#EXTINF:-11 group-title="Premium 1" tvg-logo="https://i.imgur.com/fOhYW3W.png",TRU TV HD ~p11~
-http://181.129.198.235:8000/play/a00q/index.m3u8?p11
 #EXTINF:-05 group-title="Premium 1" tvg-logo="https://i.imgur.com/fOhYW3W.png",TRU TV ~p5~
 http://170.82.37.21:8000/play/a034/index.m3u8?p5
 #EXTINF:-12 group-title="Premium 1" tvg-logo="https://i.imgur.com/fOhYW3W.png",TRU TV ~p12~
