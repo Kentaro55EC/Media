@@ -39,7 +39,7 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRAñ 🇺🇸
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRAñ 🇺🇸
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRA 🇺🇸 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRA 🇺🇸 SD
 https://d12zdp766bxba6.cloudfront.net/playlist404p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRA 🇺🇸 HD
 https://d12zdp766bxba6.cloudfront.net/playlist720P.m3u8
