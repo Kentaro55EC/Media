@@ -39,7 +39,7 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRAñ 🇺🇸
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRAñ 🇺🇸
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRA 🇺🇸 SD
+EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRA 🇺🇸 SD
 https://d12zdp766bxba6.cloudfront.net/playlist404p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRA 🇺🇸 HD
 https://d12zdp766bxba6.cloudfront.net/playlist720P.m3u8
@@ -428,9 +428,9 @@ http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8?livex
 http://190.95.220.212:8000/play/a050/index.m3u8?p8
 #EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/NFmnDri.png",beIN SPORTS ñ 🇺🇸 ~INFINITV~
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/176.m3u8?~inf
-#EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRAñ HD 🇺🇸
+#EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRAñ 🇺🇸 HD
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8?~
-#EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRA 🇺🇸
+#EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/92cskNM.png",beIN SPORTS XTRA 🇺🇸 HD
 https://d12zdp766bxba6.cloudfront.net/playlist720P.m3u8?~
 #EXTINF:-21 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/sXZB00S.png",Claro Sports
 http://186.3.76.238:8000/play/a07m/index.m3u8
