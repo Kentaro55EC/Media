@@ -194,14 +194,6 @@ https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5Acvj8.jpg",Latina
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5rRmbh0.png",Liga+ SD
-https://tvup-fast-hiway-media-laligaplus.secure2.footprint.net/out/v1/17fa8ab97d4b41128ae5d069d90d9feb/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5rRmbh0.png",Liga+ HD
-https://tvup-fast-hiway-media-laligaplus.secure2.footprint.net/out/v1/17fa8ab97d4b41128ae5d069d90d9feb/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5rRmbh0.png",Liga+ FHD
-https://tvup-fast-hiway-media-laligaplus.secure2.footprint.net/out/v1/17fa8ab97d4b41128ae5d069d90d9feb/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pAExllH.jpg",Mega Cine
-https://stmv1.cnarlatam.com/supercine/supercine/chunklist_w1200068634.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tYiQ6hq.png",TV Publica / SD
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/chunklist_w2050684810_b578000.m3u8
@@ -522,10 +514,18 @@ http://~
 http://38.43.150.126:8000/play/a04j/index.m3u8?p47
 #EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/8w4gGfc.png",Liga de Campeones 🇪🇸 ~
 http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8?~
+#EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/5rRmbh0.png",LaLiga+ SD ~
+https://tvup-fast-hiway-media-laligaplus.secure2.footprint.net/out/v1/17fa8ab97d4b41128ae5d069d90d9feb/index_3.m3u8
+#EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/5rRmbh0.png",LaLiga+ HD ~
+https://tvup-fast-hiway-media-laligaplus.secure2.footprint.net/out/v1/17fa8ab97d4b41128ae5d069d90d9feb/index_2.m3u8
+EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/5rRmbh0.png",LaLiga+ FHD ~
+https://tvup-fast-hiway-media-laligaplus.secure2.footprint.net/out/v1/17fa8ab97d4b41128ae5d069d90d9feb/index_1.m3u8
 #EXTINF:-04 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/SQD2OwP.jpg",Movistar Deportes 🇵🇪 ~p4~
 http://190.95.220.212:8000/play/a053/index.m3u8?p4
 #EXTINF:-47 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/SQD2OwP.jpg",Movistar Deportes 🇵🇪 HD ~p47~
 http://38.43.150.126:8000/play/a03d/index.m3u8?p47
+#EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/WlV874k.png",Real Madrid TV ~
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8?~
 #EXTINF:-19 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/3uDDYdf.png",Sky Sports ~p19~
 http://45.228.234.173:8000/play/a007/index.m3u8?p19
 #EXTINF:-19 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/dn0Rdqm.png",Sky Sports LaLiga ~p19~
@@ -542,6 +542,8 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv2.m3u8?cdb
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv3.m3u8?cdb
 #EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/PtEgIuN.png",SPORT-TV 4 🇵🇹 ~cbd~
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv4.m3u8?cdb
+#EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/QYKhHfC.jpg",Sportstv ~
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8?~
 EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/xA6zci4.png",TNT SPORTS 🇦🇷 / X
 http://TNT-Sports-ARG
 #EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/xxml8bA.png",TNT SPORTS 🇨🇱 ~+2~
@@ -856,7 +858,7 @@ http://181.129.198.235:8000/play/a084/index.m3u8?~
 #EXTINF:-14 group-title="Premium 1" tvg-logo="https://i.imgur.com/KTTlnow.png",Stingray iConcerts HD ~p14~
 http://177.128.113.8:1/play/a09t ?p14
 -----KIDS
-#EXTINF:-24 group-title="Premium 1" tvg-logo="https://i.imgur.com/3OeEjlW.png",Adult Swim. ~p24~
+#EXTINF:-24 group-title="Premium 1" tvg-logo="https://i.imgur.com/3OeEjlW.png",Adult Swim ~p24~
 http://168.228.194.117:58001/play/a014/index.m3u8?p24
 #EXTINF:-22 group-title="Premium 1" tvg-logo="https://i.imgur.com/3OeEjlW.png",Adult Swim HD ~p22~
 http://181.78.12.119:16123/play/ch75/index.m3u8?p22
@@ -895,6 +897,8 @@ http://45.5.119.155:8090/play/a03k/index.m3u8?p15
 #EXTINF:-10 group-title="Premium 1" tvg-logo="https://i.imgur.com/IxTrNuX.png",ZooMoo ~p10~
 http://177.234.230.226:8010/play/a02x/index.m3u8?p10
 -----NOTICIAS
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/SKYVmvv.png",Cable Noticias HD ~
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/chunklist.m3u8?~
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/SF1NmfW.png",CNN Espanol
 http://45.4.3.75:7577/play/a13j/index.m3u8
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/pSgzHg8.png",CNN Chile
@@ -922,6 +926,18 @@ EXTINF:-05 group-title="Premium 1" tvg-logo="https://i.imgur.com/94V1qtv.png",Az
 http://170.82.37.21:8000/play/a00e/index.m3u8?p5
 EXTINF:-15 group-title="Premium 1" tvg-logo="https://i.imgur.com/lko0b60.png",Azteca 🇬🇹 ~p15~
 http://45.5.119.155:8090/play/a0h3/index.m3u8?p15
+EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/LLYdOHw.png",DW Latino LD ~
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8360p?~
+EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/LLYdOHw.png",DW Latino SD ~
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8?400p?~
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/LLYdOHw.png",DW Latino SD+ ~
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8?575p?~
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/LLYdOHw.png",DW Latino HD ~
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8?720p?~
+EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/LLYdOHw.png",DW Latino FHD ~
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8?1080p?~
+EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/LLYdOHw.png",DW Latino ~
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8?~
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/rvNx2md.png",E! Entertainment
 http://45.4.3.75:7577/play/a147/index.m3u8
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/qNWr6S1.jpg",Enlace
@@ -942,9 +958,9 @@ http://190.216.162.155:8001/play/a09m?p9
 http://45.4.3.75:7577/play/a14r/index.m3u8
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/6hWF2WK.jpg",TV CAMARA
 http://45.4.3.75:7577/play/a15w/index.m3u8
-#EXTINF:-24 group-title="Premium 1" tvg-logo="https://i.imgur.com/OSvss7x.png",Telesistema (CH3 Honduras) ~p24~
+#EXTINF:-24 group-title="Premium 1" tvg-logo="https://i.imgur.com/H25r3tn.png",Telesistema (CH3 Honduras) ~p24~
 http://168.228.194.117:58001/play/a04s/index.m3u8?p24
-#EXTINF:-46 group-title="Premium 1" tvg-logo="https://i.imgur.com/OSvss7x.png",Telesistema (CH3 Honduras) ~p46~
+#EXTINF:-46 group-title="Premium 1" tvg-logo="https://i.imgur.com/H25r3tn.png",Telesistema (CH3 Honduras) ~p46~
 http://45.166.92.22:58001/play/a020/index.m3u8?p46
 #EXTINF:-24 group-title="Premium 1" tvg-logo="https://i.imgur.com/g8o1wdB.png",Teletica 🇨🇷 ~p24~
 http://168.228.194.117:58001/play/a05n/index.m3u8?p24
@@ -954,6 +970,16 @@ http://45.166.92.22:58001/play/a059/index.m3u8?p46
 http://45.4.3.75:7577/play/a13e/index.m3u8
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/DuUVF8v.jpg",Telefe Int
 http://45.4.3.75:7577/play/a15l/index.m3u8
+EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/awMbhFO.png",Telemundo 🇵🇷 LD ~
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_360.m3u8?~
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/awMbhFO.png",Telemundo 🇵🇷 SD ~
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_540.m3u8?~
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/awMbhFO.png",Telemundo 🇵🇷 HD ~
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8?~
+EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/awMbhFO.png",Telemundo 🇵🇷 FHD ~
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8?~
+EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/awMbhFO.png",Telemundo 🇵🇷 PR ~
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8?~
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/awMbhFO.png",Telemundo Int
 http://45.4.3.75:7577/play/a14q/index.m3u8
 #EXTINF:-15 group-title="Premium 1" tvg-logo="https://i.imgur.com/AixwvQS.png",Univision Internacional ~p15~
@@ -971,6 +997,16 @@ http://177.234.230.226:8010/play/a00j/index.m3u8?p10
 http://190.95.220.212:8000/play/a02q/index.m3u8?p8
 #EXTINF:-10 group-title="Premium 1" tvg-logo="https://i.imgur.com/AQ278Vd.png",🇨🇴 RCN Internacional ~p10~
 http://177.234.230.226:8010/play/a02r/index.m3u8?p10
+EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/hoSTUxl.png",🇨🇴 RCN+ LD ~
+https://rcntv-rcnmas-1-us.roku.wurl.tv/1200.m3u8
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/hoSTUxl.png",🇨🇴 RCN+ SD ~
+https://rcntv-rcnmas-1-us.roku.wurl.tv/2000.m3u8
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/hoSTUxl.png",🇨🇴 RCN+ HD ~
+https://rcntv-rcnmas-1-us.roku.wurl.tv/3000.m3u8
+EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/hoSTUxl.png",🇨🇴 RCN+ FHD ~
+https://rcntv-rcnmas-1-us.roku.wurl.tv/4300.m3u8
+EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/hoSTUxl.png",🇨🇴 RCN+ ~
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-08 group-title="Premium 1" tvg-logo="https://i.imgur.com/Kx7JGxX.png",🇨🇴 CANAL 1 ~p8~
 http://190.95.220.212:8000/play/a043/index.m3u8?p8
 EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/213J5ei.png",🇨🇴 CITY TV / X
@@ -983,6 +1019,14 @@ http://45.4.3.75:7577/play/a15s/index.m3u8
 http://45.4.3.75:7577/play/a15j/index.m3u8
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/l8KfLRY.jpg",🇨🇴 Trece Colombia
 http://45.4.3.75:7577/play/a15v/index.m3u8
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/XHjRD4I.png",🇨🇴 Señal Colombia ~
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?~
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/gnZCbPR.png",🇨🇴 Canal Capital SD ~
+https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-700/index.m3u8?~
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/gnZCbPR.png",🇨🇴 Canal Capital HD ~
+https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-1500/index.m3u8?~
+EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/gnZCbPR.png",🇨🇴 Canal Capital FHD ~
+https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8?~
 -----CHILE
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/FaeYEsX.png",🇨🇱 CANAL 13
 http://45.4.3.75:7577/play/a13o/index.m3u8
@@ -992,6 +1036,8 @@ http://45.4.3.75:7577/play/a13n/index.m3u8
 http://45.4.3.75:7577/play/a13k/index.m3u8
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/rBbwWnQ.png",🇨🇱 Mega
 http://45.4.3.75:7577/play/a13m/index.m3u8
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/rBbwWnQ.png",🇨🇱 Mega ~
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?~
 #EXTINF:-08 group-title="Premium 1" tvg-logo="https://i.imgur.com/Ol6vUsk.png",🇨🇱 REC TV ~p8~
 http://190.95.220.212:8000/play/a01m/index.m3u8?p8
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/YVaUsbd.png",🇨🇱 TVN
@@ -1011,6 +1057,8 @@ http://45.4.3.75:7577/play/a15k/index.m3u8
 http://45.4.3.75:7577/play/a15h/index.m3u8
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/PpCkKQ3.png",🇪🇨 Ecuador TV
 http://45.4.3.75:7577/play/a157/index.m3u8
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/PpCkKQ3.png",🇪🇨 Ecuador TV ~
+https://samson.streamerr.co:8081/akira/tracks-v1a1/mono.m3u8?~
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/U9bTD28.png",🇪🇨 GamaTV
 http://45.4.3.75:7577/play/a158/index.m3u8
 #EXTINF:-08 group-title="Premium 1" tvg-logo="https://i.imgur.com/ypRSypr.png",🇪🇨 TC Television ~p8~
@@ -1019,23 +1067,45 @@ http://190.95.220.212:8000/play/a04g/index.m3u8?p8
 http://190.95.220.212:8000/play/a04o/index.m3u8?p8
 #EXTINF:-08 group-title="Premium 1" tvg-logo="https://i.imgur.com/CBiKf6d.png",🇪🇨 OROMAR TV ~p8~
 http://190.95.220.212:8000/play/a04j/index.m3u8?p8
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/CBiKf6d.png",🇪🇨 OROMAR TV ~
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8?~
 #EXTINF:-08 group-title="Premium 1" tvg-logo="https://i.imgur.com/ghvy425.jpg",🇪🇨 RTU ~p8~
 http://190.95.220.212:8000/play/a04f/index.m3u8?p8
 EXTINF:-10 group-title="Premium 1" tvg-logo="https://i.imgur.com/ghvy425.jpg",🇪🇨 RTU ~p10~
 http://177.234.230.226:8010/play/a029/index.m3u8?p10
-#EXTINF:-08 group-title="Premium 1" tvg-logo="https://i.imgur.com/RgOFP6f.png",🇪🇨 WUAN+ ~p8~
-http://190.95.220.212:8000/play/a04p/index.m3u8?p8
 #EXTINF:-10 group-title="Premium 1" tvg-logo="https://i.imgur.com/2fuP0wh.png",🇪🇨 TELERAMA ~p10~
 http://177.234.230.226:8010/play/a02a/index.m3u8?p10
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/VLOPC0m.jpg",🇪🇨 Ecotel TV ~
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8?~
 #EXTINF:-10 group-title="Premium 1" tvg-logo="https://i.imgur.com/frsQ3bu.png",🇪🇨 VITO TVO ~p10~
 http://177.234.230.226:8010/play/a02f/index.m3u8?p10
+#EXTINF:-08 group-title="Premium 1" tvg-logo="https://i.imgur.com/RgOFP6f.png",🇪🇨 WUAN+ ~p8~
+http://190.95.220.212:8000/play/a04p/index.m3u8?p8
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/StOYVE5.png",🇪🇨 EcuaradioTV ~
+https://sv72.ecuaradiotv.net/rtvhd/live/playlist.m3u8
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/cy7ZGMs.jpg",🇪🇨 El Sol Radio y Television ~
+http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
 -----PERU
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/wCu3KiF.png",🇵🇪 ATV
 http://45.4.3.75:7577/play/a151/index.m3u8
+EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/wCu3KiF.png",ATV LD ~
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV3/chunks.m3u8?~
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/wCu3KiF.png",ATV SD ~
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV2/chunks.m3u8?~
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/wCu3KiF.png",ATV HD ~
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8?~
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/8ZXS0CH.png",ATV+ 🇵🇪 SD ~
+https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist_1024x576.m3u8?~
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/8ZXS0CH.png",ATV+ 🇵🇪 HD ~
+https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist_1280x720.m3u8?~
+EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/8ZXS0CH.png",ATV+ 🇵🇪 ~
+https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8?~
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/OdA49mU.png",🇵🇪 AmericaTV (Peru)
 http://45.4.3.75:7577/play/a14z/index.m3u8
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/J5Acvj8.jpg",🇵🇪 Latina
 http://45.4.3.75:7577/play/a14y/index.m3u8
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/J5Acvj8.jpg",🇵🇪 Latina ~
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?~
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/F0nGDoG.png",🇵🇪 Panamericana TV
 http://45.4.3.75:7577/play/a150/index.m3u8
 EXTINF:-07 group-title="Premium 1" tvg-logo="https://i.imgur.com/9KnPXI7.png",🇵🇪 Peru Magico ~p7~ / X
@@ -1074,8 +1144,8 @@ http://181.78.105.146:2000/play/a08z?p25
 http://181.78.105.146:2000/play/a04p?p25
 EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/WjJWtgD.jpg",🇲🇽 a mas / X
 http://170.247.86.39:58002/play/a015/index.m3u8?pmx
-EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/Py4JHTJ.png",ADN40 / X
-http://170.247.86.39:58002/play/a00s/index.m3u8?~
+#EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/Py4JHTJ.png",🇲🇽 ADN 40 ~
+http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?~
 #EXTINF:-25 group-title="Premium 1" tvg-logo="https://i.imgur.com/jJ6v5ea.png",🇲🇽 CANAL 5 ~p25~
 http://181.78.105.146:2000/play/a038?p25
 EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/zZgiI8a.png",🇲🇽 Las Estrellas LD
@@ -2052,6 +2122,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1339238975.m3u8
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="RAKUTEN TV & +" tvg-logo="https://i.imgur.com/meD3tDP.png",Retro Plus 3 (RetroSeries)
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist.m3u8
+#EXTINF:-1 group-title="RAKUTEN TV & +" tvg-logo="https://i.imgur.com/pAExllH.jpg",Mega Cine
+https://stmv1.cnarlatam.com/supercine/supercine/chunklist_w1200068634.m3u8
 -----
 EXTINF:-1 group-title="RAKUTEN TV & +" tvg-logo="https://i.imgur.com/AMaZPVr.png",RakutenTV Action LD
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/1200.m3u8
