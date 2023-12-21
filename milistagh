@@ -142,7 +142,7 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SKYVmvv.png",Cable Noticias HD
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="",Ecuador TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PpCkKQ3.png",Ecuador TV
 https://samson.streamerr.co:8081/akira/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CBiKf6d.png",Oromar TV
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
@@ -192,30 +192,16 @@ https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCu3KiF.png",ATV HD
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
-#EXTINF:-1 tvg-logo="",Televen SD
-https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/streams/sessions/afdd7bf2e3d5469c8066b2d79d59718c/media/index.m3u8/2
-#EXTINF:-1 tvg-logo="",Televen HD
-https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/streams/sessions/afdd7bf2e3d5469c8066b2d79d59718c/media/index.m3u8/1
-EXTINF:-1 tvg-logo="",Televen FHD
-https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/streams/sessions/afdd7bf2e3d5469c8066b2d79d59718c/media/index.m3u8/0
-#EXTINF:-1 tvg-logo="",Latina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5Acvj8.jpg",Latina
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-logo="",Liga+ SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5rRmbh0.png",Liga+ SD
 https://tvup-fast-hiway-media-laligaplus.secure2.footprint.net/out/v1/17fa8ab97d4b41128ae5d069d90d9feb/index_3.m3u8
-#EXTINF:-1 tvg-logo="",Liga+ HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5rRmbh0.png",Liga+ HD
 https://tvup-fast-hiway-media-laligaplus.secure2.footprint.net/out/v1/17fa8ab97d4b41128ae5d069d90d9feb/index_2.m3u8
-EXTINF:-1 tvg-logo="",Liga+ FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5rRmbh0.png",Liga+ FHD
 https://tvup-fast-hiway-media-laligaplus.secure2.footprint.net/out/v1/17fa8ab97d4b41128ae5d069d90d9feb/index_1.m3u8
-#EXTINF:-1 tvg-logo="",Mega Cine
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pAExllH.jpg",Mega Cine
 https://stmv1.cnarlatam.com/supercine/supercine/chunklist_w1200068634.m3u8
-EXTINF:-1 tvg-logo="",Todo Cine LD
-https://stream.ads.ottera.tv/cl/231209clpsi7l21antegfepoe0/640x360_921600_1_f.m3u8
-#EXTINF:-1 tvg-logo="",Todo Cine SD
-https://stream.ads.ottera.tv/cl/231209clpsi7l21antegfepoe0/960x540_2048000_4_f.m3u8
-#EXTINF:-1 tvg-logo="",Todo Cine HD
-https://stream.ads.ottera.tv/cl/231209clpsi7l21antegfepoe0/1280x720_3072000_0_f.m3u8
-EXTINF:-1 tvg-logo="",Todo Cine FHD
-https://stream.ads.ottera.tv/cl/231209clpsi7l21antegfepoe0/1920x1080_4403200_5_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tYiQ6hq.png",TV Publica / SD
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/chunklist_w2050684810_b578000.m3u8
@@ -354,7 +340,7 @@ https://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9rV8jNa.png",TVS - Republica Dominicana / X
 https://TVS-dominicana
 
-#EXTINF:-1 tvg-logo="",ATB - Bolivia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hI7sMkm.png",ATB - Bolivia
 https://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OiCGFlo.png",OLIMPIC CHANEL
 https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
@@ -586,7 +572,7 @@ http://45.228.234.173:8000/play/a00l/index.m3u8?p19
 http://204.157.251.250:8000/play/a06b/index.m3u8?p48
 #EXTINF:-48 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/iwyU8c4.png",TD+2 HD 🇨🇷 ~p48~
 http://204.157.251.250:8000/play/a06c/index.m3u8?p48
-#EXTINF:-08 group-title="Premium 1 Deportes" tvg-logo="",Via X Esports ~p8~
+#EXTINF:-08 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/ZAxVg5q.jpg",Via X Esports ~p8~
 http://190.95.220.212:8000/play/a04c/index.m3u8?p8
 #EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/XMhwx7c.png",Win Sports
 http://45.4.3.75:7577/play/a15i/index.m3u8
@@ -870,11 +856,11 @@ http://181.129.198.235:8000/play/a084/index.m3u8?~
 #EXTINF:-14 group-title="Premium 1" tvg-logo="https://i.imgur.com/KTTlnow.png",Stingray iConcerts HD ~p14~
 http://177.128.113.8:1/play/a09t ?p14
 -----KIDS
-#EXTINF:-24 group-title="Premium 1" tvg-logo="",Adult Swim. ~p24~
+#EXTINF:-24 group-title="Premium 1" tvg-logo="https://i.imgur.com/3OeEjlW.png",Adult Swim. ~p24~
 http://168.228.194.117:58001/play/a014/index.m3u8?p24
-#EXTINF:-22 group-title="Premium 1" tvg-logo="",Adult Swim HD ~p22~
+#EXTINF:-22 group-title="Premium 1" tvg-logo="https://i.imgur.com/3OeEjlW.png",Adult Swim HD ~p22~
 http://181.78.12.119:16123/play/ch75/index.m3u8?p22
-#EXTINF:-15 group-title="Premium 1" tvg-logo="",Adult Swim ~p15~
+#EXTINF:-15 group-title="Premium 1" tvg-logo="https://i.imgur.com/3OeEjlW.png",Adult Swim ~p15~
 http://45.5.119.155:8090/play/a0g4/index.m3u8?p15(AudioIngles)
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/g4UIwlE.png",BabyFirst
 http://45.4.3.75:7577/play/a13f/index.m3u8
@@ -1006,11 +992,11 @@ http://45.4.3.75:7577/play/a13n/index.m3u8
 http://45.4.3.75:7577/play/a13k/index.m3u8
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/rBbwWnQ.png",🇨🇱 Mega
 http://45.4.3.75:7577/play/a13m/index.m3u8
-#EXTINF:-08 group-title="Premium 1" tvg-logo="",🇨🇱 REC TV ~p8~
+#EXTINF:-08 group-title="Premium 1" tvg-logo="https://i.imgur.com/Ol6vUsk.png",🇨🇱 REC TV ~p8~
 http://190.95.220.212:8000/play/a01m/index.m3u8?p8
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/YVaUsbd.png",🇨🇱 TVN
 http://45.4.3.75:7577/play/a13l/index.m3u8
-#EXTINF:-08 group-title="Premium 1" tvg-logo="",🇨🇱 TV+ ~p8~
+#EXTINF:-08 group-title="Premium 1" tvg-logo="https://i.imgur.com/hOlyLia.png",🇨🇱 TV+ ~p8~
 http://190.95.220.212:8000/play/a018/index.m3u8?p8
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/N7Vrxup.jpg",🇨🇱 Via X
 http://45.4.3.75:7577/play/a14m/index.m3u8
