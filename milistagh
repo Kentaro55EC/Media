@@ -524,9 +524,15 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/205.m3u8?inf
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/211.m3u8?inf
 EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/wAOTTs1.png",DAZN LaLiga / X
 https://DAZN-LaLiga
-#EXTINF:-04 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/qqNHbGk.png",D Sports ~teleclub~
+#EXTINF:-04 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/qqNHbGk.png",D Sports ~p4~
+http://161.132.108.72:50001/play/a03o/index.m3u8?p4
+#EXTINF:-04 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/gJCjTqi.png",D Sports 2 ~p4~
+http://161.132.108.72:50001/play/a03p/index.m3u8?p4
+#EXTINF:-04 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/0GvuS50.png",D Sports + ~p4~
+http://161.132.108.72:50001/play/a03q/index.m3u8?p4
+#EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/qqNHbGk.png",D Sports ~teleclub~
 http://tv.teleclub.xyz/envivo/Deportes/DIRECTV/index.m3u8?teleclub
-#EXTINF:-19 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/gJCjTqi.png",D Sports 2 ~teleclub~
+#EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/gJCjTqi.png",D Sports 2 ~teleclub~
 http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_2/index.m3u8?teleclub
 #EXTINF:-01 group-title="Premium 1 Deportes" tvg-logo="https://i.imgur.com/0GvuS50.png",D Sports + ~teleclub~
 http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_PLUS/index.m3u8?teleclub
@@ -1020,9 +1026,9 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/70.m3u8?inf
 http://204.157.251.250:8000/play/a06m/index.m3u8?p48
 #EXTINF:-46 group-title="Premium 1" tvg-logo="https://i.imgur.com/Da8XjhV.png",Film&Arts HD ~p46~
 http://45.166.92.22:58001/play/a00o/index.m3u8?p46
-#EXTINF:-12 group-title="Premium 12" tvg-logo="https://i.imgur.com/DbpOdjT.jpg",FMH FAMILY ~p12~
+#EXTINF:-12 group-title="Premium 1" tvg-logo="https://i.imgur.com/DbpOdjT.jpg",FMH FAMILY ~p12~
 http://160.20.165.246:8000/play/a01j/index.m3u8?p12
-#EXTINF:-12 group-title="Premium 12" tvg-logo="https://i.imgur.com/XKByyKx.jpg",FMH KIDS ~p12~
+#EXTINF:-12 group-title="Premium 1" tvg-logo="https://i.imgur.com/XKByyKx.jpg",FMH KIDS ~p12~
 http://160.20.165.246:8000/play/a01f/index.m3u8?p12
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/pwwwGLH.png",Golden HD
 http://170.81.147.241:37000/play/a058?golden_plus
