@@ -375,6 +375,24 @@ SAB 22	<programme channel="ESPN Centro" start="20240622160000 -0500" stop="20240
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
+LUN 24	<programme channel="ESPN Centro" start="20240624000000 -0500" stop="20240624134500 -0500">
+		<title>Programacion ESPN Centroamerica</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="ESPN Centro" start="20240624134500 -0500" stop="20240624160000 -0500">
+		<title>EUROCOPA ~ Albania vs España ~ Grupo B / J3</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="ESPN Centro" start="20240624160000 -0500" stop="20240625000000 -0500">
+		<title>Programacion ESPN Centroamerica</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
 *************************************************************************************************************
 MAR 11	<programme channel="ESPN 2 🇨🇴" start="20240611130000 -0500" stop="20240612000000 -0500">
 		<title>Programacion ESPN 2 Colombia</title>
@@ -1274,7 +1292,7 @@ DOM 23	<programme channel="TVMAX" start="20240623230000 -0500" stop="20240624010
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-LUN 24	<programme channel="TVMAX" start="20240624000000 -0500" stop="20240624170000 -0500">
+LUN 24	<programme channel="TVMAX" start="20240624010000 -0500" stop="20240624170000 -0500">
 		<title>Programacion TVMAX Panama</title>
 		<desc></desc>
 		<icon src=""/>
@@ -1639,7 +1657,7 @@ VIE 28	<programme channel="VIX" start="20240628200000 -0500" stop="2024062822000
 		<category>Deportivo</category>
 	</programme>
 SAB 29	<programme channel="VIX" start="20240629190000 -0500" stop="20240629210000 -0500">
-		<title>COPA AMERICA ~ Canada vs Chile</title>
+		<title>*********COPA AMERICA ~ Canada vs Chile</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
@@ -1663,21 +1681,155 @@ MAR 2	<programme channel="VIX" start="20240702200000 -0500" stop="20240702220000
 		<category>Deportivo</category>
 	</programme>
 ******************************************************************************************************
-	<channel id="Canal 11 🇭🇳">
-		<display-name>Canal 11 🇭🇳</display-name>
+	<channel id="Canales Varios">
+		<display-name>Canales Varios</display-name>
 	</channel>
-VIE 21	<programme channel="Canal 11 🇭🇳" start="20240621210000 -0500" stop="20240622000000 -0500">
-		<title>Programacion Canal 11 Honduras</title>
+LUN 24	<programme channel="Canales Varios" start="20240624170000 -0500" stop="20240624190000 -0500">
+		<title>COPA AMERICA ~ Colombia vs Paraguay</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-******************************************************************************************************
-	<channel id="Azteca Guatemala">
-		<display-name>Azteca 🇬🇹</display-name>
+LUN 24	<programme channel="Canales Varios" start="20240624200000 -0500" stop="20240624220000 -0500">
+		<title>COPA AMERICA ~ Brasil vs Costa Rica/title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 25	<programme channel="Canales Varios" start="20240625170000 -0500" stop="20240625190000 -0500">
+		<title>COPA AMERICA ~ Peru vs Canada</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 25	<programme channel="Canales Varios" start="20240625200000 -0500" stop="20240625220000 -0500">
+		<title>COPA AMERICA ~ Chile vs Argentina</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="Canales Varios" start="20240626170000 -0500" stop="20240626190000 -0500">
+		<title>COPA AMERICA ~ Ecuador vs Jamaica</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="Canales Varios" start="20240626200000 -0500" stop="20240626220000 -0500">
+		<title>COPA AMERICA ~ Venezuela vs Mexico</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 27	<programme channel="Canales Varios" start="20240627170000 -0500" stop="20240627190000 -0500">
+		<title>COPA AMERICA ~ Panama vs Estados Unidos</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 27	<programme channel="Canales Varios" start="20240627200000 -0500" stop="20240627220000 -0500">
+		<title>COPA AMERICA ~ Uruguay vs Bolivia</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 28	<programme channel="Canales Varios" start="20240628170000 -0500" stop="20240628190000 -0500">
+		<title>COPA AMERICA ~ Colombia vs Costa Rica</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 28	<programme channel="Canales Varios" start="20240628200000 -0500" stop="20240628220000 -0500">
+		<title>COPA AMERICA ~ Paraguay vs Brasil</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 29	<programme channel="Canales Varios" start="20240629190000 -0500" stop="20240629210000 -0500">
+		<title>COPA AMERICA ~ Argentina vs Peru</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 30	<programme channel="Canales Varios" start="20240630190000 -0500" stop="20240630210000 -0500">
+		<title>COPA AMERICA ~ Mexico vs Ecuador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 1	<programme channel="Canales Varios" start="20240701200000 -0500" stop="20240701220000 -0500">
+		<title>COPA AMERICA ~ Estados Unidos vs Uruguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 2	<programme channel="Canales Varios" start="20240702200000 -0500" stop="20240702220000 -0500">
+		<title>COPA AMERICA ~ Brasil vs Colombia</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+*****************************************************************************************************
+	<channel id="Paraguay">
+		<display-name>Paraguay</display-name>
 	</channel>
-VIE 21	<programme channel="Azteca Guatemala" start="20240621210000 -0500" stop="20240622000000 -0500">
-		<title>Programacion Azteca Guatemala</title>
+LUN 24	<programme channel="Paraguay" start="20240624000000 -0500" stop="20240624170000 -0500">
+		<title>17:00 ~ COLvsPAR</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="Paraguay" start="20240624170000 -0500" stop="20240624190000 -0500">
+		<title>COPA AMERICA ~ Colombia vs Paraguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="Paraguay" start="20240624190000 -0500" stop="20240625000000 -0500">
+		<title>Canales Paraguayos</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+*****************************************************************************************************
+	<channel id="Colombia">
+		<display-name>Colombia</display-name>
+	</channel>
+LUN 24	<programme channel="Colombia" start="20240624000000 -0500" stop="20240624170000 -0500">
+		<title>17:00 ~ COLvsPAR</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="Colombia" start="20240624170000 -0500" stop="20240624190000 -0500">
+		<title>COPA AMERICA ~ Colombia vs Paraguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="Colombia" start="20240624190000 -0500" stop="20240625000000 -0500">
+		<title>Canales Colombiano</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+*************************************************************************************************************
+	<channel id="Win Sports +">
+		<display-name>Win Sports +</display-name>
+	</channel>
+LUN 24	<programme channel="Win Sports +" start="20240624000000 -0500" stop="20240624200000 -0500">
+		<title>20:00 ~ BRAvsPAR</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="Win Sports +" start="20240624200000 -0500" stop="20240624220000 -0500">
+		<title>COPA AMERICA ~ Brasil vs Paraguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="Win Sports +" start="20240624220000 -0500" stop="20240625000000 -0500">
+		<title>Programacion Win Sports +</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
@@ -1902,39 +2054,13 @@ SAB 8	<programme channel="VTV Plus" start="20240608200000 -0500" stop="202406090
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::WIN SPORTS & WIN SPORTS +:::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
+******************************************************************************************************
 	<channel id="Win Sports">
 		<display-name>Win Sports</display-name>
 	</channel>
 VIE 14	<programme channel="Win Sports" start="20240614210000 -0500" stop="20240615000000 -0500">
 		<title>Programacion Win Sports</title>
 		<desc>Liga Dimayor (Serie A) y Torneo Dimayor (Serie B)</desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-*************************************************************************************************************
-	<channel id="Win Sports +">
-		<display-name>Win Sports +</display-name>
-	</channel>
-MIE 19	<programme channel="Win Sports +" start="20240619000000 -0500" stop="20240619190000 -0500">
-		<title>Programacion Win Sports +</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 19	<programme channel="Win Sports +" start="20240619190000 -0500" stop="20240619210000 -0500">
-		<title>Torneo Dimayor ~ Llaneros vs Orsomarso ~ FINAL VUELTA</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 19	<programme channel="Win Sports +" start="20240619210000 -0500" stop="20240620000000 -0500">
-		<title>Programacion Win Sports +</title>
-		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
@@ -2040,26 +2166,6 @@ DOM 16	<programme channel="ECDF" start="20240616163000 -0500" stop="202406170000
 	</channel>
 VIE 14	<programme channel="America Television" start="20240614213000 -0500" stop="20240615000000 -0500">
 		<title>Programacion America Television</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-*****************************************************************************************************
-	<channel id="Caracol">
-		<display-name>Caracol</display-name>
-	</channel>
-SAB 15	<programme channel="Caracol" start="20240615180000 -0500" stop="20240616000000 -0500">
-		<title>Programacion Caracol</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-*****************************************************************************************************
-	<channel id="RCN">
-		<display-name>RCN</display-name>
-	</channel>
-SAB 15	<programme channel="RCN" start="20240615180000 -0500" stop="20240616000000 -0500">
-		<title>Programacion RCN</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
