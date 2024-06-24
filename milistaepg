@@ -109,12 +109,90 @@ DOM 23	<programme channel="ESPN 🇨🇴" start="20240623100000 -0500" stop="202
 		<category>Deportivo</category>
 	</programme>
 DOM 23	<programme channel="ESPN 🇨🇴" start="20240623134500 -0500" stop="20240623160000 -0500">
-		<title>EUROCOPA ~ Suiza vs Alemania ~ Grupo A/ J3</title>
+		<title>EUROCOPA ~ Suiza vs Alemania ~ Grupo A / J3</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
 DOM 23	<programme channel="ESPN 🇨🇴" start="20240623160000 -0500" stop="20240624000000 -0500">
+		<title>Programacion ESPN Colombia</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="ESPN 🇨🇴" start="20240624000000 -0500" stop="20240624134500 -0500">
+		<title>Programacion ESPN Colombia</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="ESPN 🇨🇴" start="20240624134500 -0500" stop="20240624160000 -0500">
+		<title>EUROCOPA ~ Croacia vs Italia ~ Grupo B / J3</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="ESPN 🇨🇴" start="20240624160000 -0500" stop="20240625000000 -0500">
+		<title>Programacion ESPN Colombia</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 25	<programme channel="ESPN 🇨🇴" start="20240625000000 -0500" stop="20240625104500 -0500">
+		<title>Programacion ESPN Colombia</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 25	<programme channel="ESPN 🇨🇴" start="20240625104500 -0500" stop="20240625130000 -0500">
+		<title>EUROCOPA ~ Paises Bajos vs Austria ~ Grupo D / J3</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 25	<programme channel="ESPN 🇨🇴" start="20240625130000 -0500" stop="20240625134500 -0500">
+		<title>SportsCenter</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 25	<programme channel="ESPN 🇨🇴" start="20240625134500 -0500" stop="20240625160000 -0500">
+		<title>EUROCOPA ~ Inglaterra vs Eslovenia ~ Grupo C / J3</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 25	<programme channel="ESPN 🇨🇴" start="20240625160000 -0500" stop="20240626000000 -0500">
+		<title>Programacion ESPN Colombia</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="ESPN 🇨🇴" start="20240626000000 -0500" stop="20240626104500 -0500">
+		<title>Programacion ESPN Colombia</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="ESPN 🇨🇴" start="20240626104500 -0500" stop="20240626130000 -0500">
+		<title>EUROCOPA ~ Eslovaquia vs Rumania ~ Grupo E / J3</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="ESPN 🇨🇴" start="20240626130000 -0500" stop="20240626134500 -0500">
+		<title>SportsCenter</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="ESPN 🇨🇴" start="20240626134500 -0500" stop="20240626160000 -0500">
+		<title>EUROCOPA ~ Georgia vs Portugal ~ Grupo F / J3</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="ESPN 🇨🇴" start="20240626160000 -0500" stop="20240627000000 -0500">
 		<title>Programacion ESPN Colombia</title>
 		<desc></desc>
 		<icon src=""/>
@@ -732,6 +810,9 @@ MAR 2	<programme channel="Directv Sports 2" start="20240702220000 -0500" stop="2
 	<channel id="Canal 4 El Salvador">
 		<display-name>Canal 4 El Salvador</display-name>
 	</channel>
+	<channel id="TCS+">
+		<display-name>Canal 4 El Salvador</display-name>
+	</channel>
 SAB 22	<programme channel="Canal 4 El Salvador" start="20240622000000 -0500" stop="20240622163000 -0500">
 		<title>Programacion Canal 4 El Salvador</title>
 		<desc></desc>
@@ -768,7 +849,344 @@ SAB 22	<programme channel="Canal 4 El Salvador" start="20240622230000 -0500" sto
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-******************************************************************************************************
+DOM 23	<programme channel="Canal 4 El Salvador" start="20240623000000 -0500" stop="20240623140000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 23	<programme channel="Canal 4 El Salvador" start="20240623140000 -0500" stop="20240623160000 -0500">
+		<title>EUROCOPA ~ Suiza vs Alemania ~ Grupo A / J3</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 23	<programme channel="Canal 4 El Salvador" start="20240623160000 -0500" stop="20240623170000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 23	<programme channel="Canal 4 El Salvador" start="20240623170000 -0500" stop="20240623190000 -0500">
+		<title>COPA AMERICA ~ Estados Unidos vs Bolivia</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 23	<programme channel="Canal 4 El Salvador" start="20240623190000 -0500" stop="20240623200000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 23	<programme channel="Canal 4 El Salvador" start="20240623200000 -0500" stop="20240623220000 -0500">
+		<title>COPA AMERICA ~ Uruguay vs Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 23	<programme channel="Canal 4 El Salvador" start="20240623220000 -0500" stop="20240624000000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="Canal 4 El Salvador" start="20240624000000 -0500" stop="20240624170000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="Canal 4 El Salvador" start="20240624170000 -0500" stop="20240624190000 -0500">
+		<title>COPA AMERICA ~ Colombia vs Paraguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="Canal 4 El Salvador" start="20240624190000 -0500" stop="20240624200000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="Canal 4 El Salvador" start="20240624200000 -0500" stop="20240624220000 -0500">
+		<title>COPA AMERICA ~ Brasil vs Costa Rica</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="Canal 4 El Salvador" start="20240624220000 -0500" stop="20240625000000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 25	<programme channel="Canal 4 El Salvador" start="20240625000000 -0500" stop="20240625170000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 25	<programme channel="Canal 4 El Salvador" start="20240625170000 -0500" stop="20240625190000 -0500">
+		<title>COPA AMERICA ~ Paraguay vs Canada</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 25	<programme channel="Canal 4 El Salvador" start="20240625190000 -0500" stop="20240625200000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 25	<programme channel="Canal 4 El Salvador" start="20240625200000 -0500" stop="20240625220000 -0500">
+		<title>COPA AMERICA ~ Chile vs Argentina</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 25	<programme channel="Canal 4 El Salvador" start="20240625220000 -0500" stop="20240626000000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="Canal 4 El Salvador" start="20240626000000 -0500" stop="20240626170000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="Canal 4 El Salvador" start="20240626170000 -0500" stop="20240626190000 -0500">
+		<title>COPA AMERICA ~ Ecuador vs Jamaica</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="Canal 4 El Salvador" start="20240626190000 -0500" stop="20240626200000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="Canal 4 El Salvador" start="20240626200000 -0500" stop="20240626220000 -0500">
+		<title>COPA AMERICA ~ Venezuela vs Mexico</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="Canal 4 El Salvador" start="20240626220000 -0500" stop="20240627000000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 27	<programme channel="Canal 4 El Salvador" start="20240627000000 -0500" stop="20240627170000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 27	<programme channel="Canal 4 El Salvador" start="20240627170000 -0500" stop="20240627190000 -0500">
+		<title>COPA AMERICA ~ Panama vs Estados Unidos</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 27	<programme channel="Canal 4 El Salvador" start="20240627190000 -0500" stop="20240627200000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 27	<programme channel="Canal 4 El Salvador" start="20240627200000 -0500" stop="20240627220000 -0500">
+		<title>COPA AMERICA ~ Uruguay vs Bolivia</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 27	<programme channel="Canal 4 El Salvador" start="20240627220000 -0500" stop="20240628000000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 28	<programme channel="Canal 4 El Salvador" start="20240628000000 -0500" stop="20240628170000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 28	<programme channel="Canal 4 El Salvador" start="20240628170000 -0500" stop="20240628190000 -0500">
+		<title>COPA AMERICA ~ Colombia vs Costa Rica</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 28	<programme channel="Canal 4 El Salvador" start="20240628190000 -0500" stop="20240628200000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 28	<programme channel="Canal 4 El Salvador" start="20240628200000 -0500" stop="20240628220000 -0500">
+		<title>COPA AMERICA ~ Paraguay vs Brasil</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 28	<programme channel="Canal 4 El Salvador" start="20240628220000 -0500" stop="20240629000000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 29	<programme channel="Canal 4 El Salvador" start="20240629000000 -0500" stop="20240629190000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 29	<programme channel="Canal 4 El Salvador" start="20240629190000 -0500" stop="20240629210000 -0500">
+		<title>COPA AMERICA ~ Argentina vs Peru</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 29	<programme channel="Canal 4 El Salvador" start="20240629210000 -0500" stop="20240630000000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 30	<programme channel="Canal 4 El Salvador" start="20240630000000 -0500" stop="20240630190000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 30	<programme channel="Canal 4 El Salvador" start="20240630190000 -0500" stop="20240630210000 -0500">
+		<title>COPA AMERICA ~ Mexico vs Ecuador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 30	<programme channel="Canal 4 El Salvador" start="20240630210000 -0500" stop="20240701000000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 1	<programme channel="Canal 4 El Salvador" start="20240701000000 -0500" stop="20240701200000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 1	<programme channel="Canal 4 El Salvador" start="20240701200000 -0500" stop="20240701220000 -0500">
+		<title>COPA AMERICA ~ Estados Unidos vs Uruguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 1	<programme channel="Canal 4 El Salvador" start="20240701220000 -0500" stop="20240702000000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 2	<programme channel="Canal 4 El Salvador" start="20240702000000 -0500" stop="20240702200000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 2	<programme channel="Canal 4 El Salvador" start="20240702200000 -0500" stop="20240702220000 -0500">
+		<title>COPA AMERICA ~ Brasil vs Colombia</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 2	<programme channel="Canal 4 El Salvador" start="20240702220000 -0500" stop="20240703000000 -0500">
+		<title>Programacion Canal 4 El Salvador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+*********************************************************************************************************
+SAB 29	<programme channel="TCS+" start="20240629000000 -0500" stop="20240629190000 -0500">
+		<title>Programacion TCS+</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 29	<programme channel="TCS+" start="20240629190000 -0500" stop="20240629210000 -0500">
+		<title>COPA AMERICA ~ Canada vs Chile</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 29	<programme channel="TCS+" start="20240629210000 -0500" stop="20240630000000 -0500">
+		<title>Programacion TCS+</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 30	<programme channel="TCS+" start="20240630000000 -0500" stop="20240630190000 -0500">
+		<title>Programacion TCS+</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 30	<programme channel="TCS+" start="20240630190000 -0500" stop="20240630210000 -0500">
+		<title>COPA AMERICA ~ Jamaica vs Venezuela</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 30	<programme channel="TCS+" start="20240630210000 -0500" stop="20240701000000 -0500">
+		<title>Programacion TCS+</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 1	<programme channel="TCS+" start="20240701000000 -0500" stop="20240701200000 -0500">
+		<title>Programacion TCS+</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 1	<programme channel="TCS+" start="20240701200000 -0500" stop="20240701220000 -0500">
+		<title>COPA AMERICA ~ Bolivia vs Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 1	<programme channel="TCS+" start="20240701220000 -0500" stop="20240702000000 -0500">
+		<title>Programacion TCS+</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 2	<programme channel="TCS+" start="20240702000000 -0500" stop="20240702200000 -0500">
+		<title>Programacion TCS+</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 2	<programme channel="TCS+" start="20240702200000 -0500" stop="20240702220000 -0500">
+		<title>COPA AMERICA ~ Costa Rica vs Paraguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 2	<programme channel="TCS+" start="20240702220000 -0500" stop="20240703000000 -0500">
+		<title>Programacion TCS+</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+*********************************************************************************************************
 	<channel id="TVMAX">
 		<display-name>TVMAX</display-name>
 	</channel>
@@ -856,6 +1274,228 @@ DOM 23	<programme channel="TVMAX" start="20240623230000 -0500" stop="20240624010
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
+LUN 24	<programme channel="TVMAX" start="20240624000000 -0500" stop="20240624170000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="TVMAX" start="20240624170000 -0500" stop="20240624190000 -0500">
+		<title>COPA AMERICA ~ Colombia vs Paraguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="TVMAX" start="20240624190000 -0500" stop="20240624200000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="TVMAX" start="20240624200000 -0500" stop="20240624220000 -0500">
+		<title>COPA AMERICA ~ Brasil vs Costa Rica</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 24	<programme channel="TVMAX" start="20240624220000 -0500" stop="20240625000000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 25	<programme channel="TVMAX" start="20240625000000 -0500" stop="20240625170000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 25	<programme channel="TVMAX" start="20240625170000 -0500" stop="20240625190000 -0500">
+		<title>COPA AMERICA ~ Paraguay vs Canada</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 25	<programme channel="TVMAX" start="20240625190000 -0500" stop="20240625200000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 25	<programme channel="TVMAX" start="20240625200000 -0500" stop="20240625220000 -0500">
+		<title>COPA AMERICA ~ Chile vs Argentina</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 25	<programme channel="TVMAX" start="20240625220000 -0500" stop="20240626000000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="TVMAX" start="20240626000000 -0500" stop="20240626170000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="TVMAX" start="20240626170000 -0500" stop="20240626190000 -0500">
+		<title>COPA AMERICA ~ Ecuador vs Jamaica</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="TVMAX" start="20240626190000 -0500" stop="20240626200000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="TVMAX" start="20240626200000 -0500" stop="20240626220000 -0500">
+		<title>COPA AMERICA ~ Venezuela vs Mexico</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="TVMAX" start="20240626220000 -0500" stop="20240627000000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 27	<programme channel="TVMAX" start="20240627000000 -0500" stop="20240627170000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 27	<programme channel="TVMAX" start="20240627170000 -0500" stop="20240627190000 -0500">
+		<title>COPA AMERICA ~ Panama vs Estados Unidos</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 27	<programme channel="TVMAX" start="20240627190000 -0500" stop="20240627200000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 27	<programme channel="TVMAX" start="20240627200000 -0500" stop="20240627220000 -0500">
+		<title>COPA AMERICA ~ Uruguay vs Bolivia</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 27	<programme channel="TVMAX" start="20240627220000 -0500" stop="20240628000000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 28	<programme channel="TVMAX" start="20240628000000 -0500" stop="20240628170000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 28	<programme channel="TVMAX" start="20240628170000 -0500" stop="20240628190000 -0500">
+		<title>COPA AMERICA ~ Colombia vs Costa Rica</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 28	<programme channel="TVMAX" start="20240628190000 -0500" stop="20240628200000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 28	<programme channel="TVMAX" start="20240628200000 -0500" stop="20240628220000 -0500">
+		<title>COPA AMERICA ~ Paraguay vs Brasil</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 28	<programme channel="TVMAX" start="20240628220000 -0500" stop="20240629000000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 29	<programme channel="TVMAX" start="20240629000000 -0500" stop="20240629190000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 29	<programme channel="TVMAX" start="20240629190000 -0500" stop="20240629210000 -0500">
+		<title>COPA AMERICA ~ Argentina vs Peru</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 29	<programme channel="TVMAX" start="20240629210000 -0500" stop="20240630000000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 30	<programme channel="TVMAX" start="20240630000000 -0500" stop="20240630190000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 30	<programme channel="TVMAX" start="20240630190000 -0500" stop="20240630210000 -0500">
+		<title>COPA AMERICA ~ Mexico vs Ecuador</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 30	<programme channel="TVMAX" start="20240630210000 -0500" stop="20240701000000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 1	<programme channel="TVMAX" start="20240701000000 -0500" stop="20240701200000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 1	<programme channel="TVMAX" start="20240701200000 -0500" stop="20240701220000 -0500">
+		<title>COPA AMERICA ~ Estados Unidos vs Uruguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 1	<programme channel="TVMAX" start="20240701220000 -0500" stop="20240702000000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 2	<programme channel="TVMAX" start="20240702000000 -0500" stop="20240702200000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 2	<programme channel="TVMAX" start="20240702200000 -0500" stop="20240702220000 -0500">
+		<title>COPA AMERICA ~ Brasil vs Colombia</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 2	<programme channel="TVMAX" start="20240702220000 -0500" stop="20240703000000 -0500">
+		<title>Programacion TVMAX Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
 ******************************************************************************************************
 	<channel id="VIX">
 		<display-name>VIX</display-name>
@@ -891,7 +1531,7 @@ SAB 22	<programme channel="VIX" start="20240622200000 -0500" stop="2024062222000
 		<category>Deportivo</category>
 	</programme>
 DOM 23	<programme channel="VIX" start="20240623140000 -0500" stop="20240623160000 -0500">
-		<title>EUROCOPA</title>
+		<title>EUROCOPA ~ Escocia vs Hungria ~ Grupo A / J3</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
@@ -909,7 +1549,7 @@ DOM 23	<programme channel="VIX" start="20240623200000 -0500" stop="2024062322000
 		<category>Deportivo</category>
 	</programme>
 LUN 24	<programme channel="VIX" start="20240624140000 -0500" stop="20240624160000 -0500">
-		<title>EUROCOPA</title>
+		<title>EUROCOPA ~ Albania vs España ~ Grupo B / J3</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
@@ -926,8 +1566,14 @@ LUN 24	<programme channel="VIX" start="20240624200000 -0500" stop="2024062422000
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
+MAR 25	<programme channel="VIX" start="20240625110000 -0500" stop="20240625130000 -0500">
+		<title>EUROCOPA ~ Francia vs Polonia ~ Grupo D / J3</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
 MAR 25	<programme channel="VIX" start="20240625140000 -0500" stop="20240625160000 -0500">
-		<title>EUROCOPA</title>
+		<title>EUROCOPA ~ Dinamarca vs Serbia ~ Grupo C / J3</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
@@ -940,6 +1586,78 @@ MAR 25	<programme channel="VIX" start="20240625170000 -0500" stop="2024062519000
 	</programme>
 MAR 25	<programme channel="VIX" start="20240625200000 -0500" stop="20240625220000 -0500">
 		<title>COPA AMERICA ~ Chile vs Argentina</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="VIX" start="20240626110000 -0500" stop="20240626130000 -0500">
+		<title>EUROCOPA ~ Ucrania vs Belgica ~ Grupo E / J3</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="VIX" start="20240626140000 -0500" stop="20240626160000 -0500">
+		<title>EUROCOPA ~ Republica Checa vs Turquia ~ Grupo F / J3</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="VIX" start="20240626170000 -0500" stop="20240626190000 -0500">
+		<title>COPA AMERICA ~ Ecuador vs Jamaica</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 26	<programme channel="VIX" start="20240626200000 -0500" stop="20240626220000 -0500">
+		<title>COPA AMERICA ~ Venezuela vs Mexico</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 27	<programme channel="VIX" start="20240627170000 -0500" stop="20240627190000 -0500">
+		<title>COPA AMERICA ~ Panama vs Estados Unidos</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 27	<programme channel="VIX" start="20240627200000 -0500" stop="20240627220000 -0500">
+		<title>COPA AMERICA ~ Uruguay vs Bolivia</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 28	<programme channel="VIX" start="20240628170000 -0500" stop="20240628190000 -0500">
+		<title>COPA AMERICA ~ Colombia vs Costa Rica</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 28	<programme channel="VIX" start="20240628200000 -0500" stop="20240628220000 -0500">
+		<title>COPA AMERICA ~ Paraguay vs Brasil</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 29	<programme channel="VIX" start="20240629190000 -0500" stop="20240629210000 -0500">
+		<title>COPA AMERICA ~ Canada vs Chile</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 30	<programme channel="VIX" start="20240630190000 -0500" stop="20240630210000 -0500">
+		<title>COPA AMERICA ~ Jamaica vs Venezuela</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 1	<programme channel="VIX" start="20240701200000 -0500" stop="20240701220000 -0500">
+		<title>COPA AMERICA ~ Bolivia vs Panama</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 2	<programme channel="VIX" start="20240702200000 -0500" stop="20240702220000 -0500">
+		<title>COPA AMERICA ~ Costa Rica vs Paraguay</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
