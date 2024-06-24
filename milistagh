@@ -3215,6 +3215,8 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
 EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/K3TZokt.jpg" tvg-id="TVMAX",🇵🇦 TVMAX
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8?~EVENTO
 #EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/HiDrzFj.png" tvg-id="VIX",🇺🇸 VIX (EVENTO)
+https://linear-362.frequency.stream/mt/studio/362/hls/master/playlist.m3u8?~EVENTO
+EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/HiDrzFj.png" tvg-id="VIX",🇺🇸 VIX (EVENTO)
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8?~EVENTO
 #EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/HiDrzFj.png" tvg-id="VIX",🇲🇽 VIX (EVENTO)
 https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8?~EVENTO
@@ -4443,6 +4445,7 @@ http://45.166.92.22:58001/play/a059/index.m3u8?p46~
 						TWITCH
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #EXTINF:-01 group-title="Premium 1" tvg-logo="https://i.imgur.com/jEsbtAh.png?___twitch___",Mai Noboshi
 https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CuwF18XvJ27hJMhXFiCfrEw89TPhUTEnYQUYdJswrcXFlXdWxo5-ZbJFMwjfvS5SF1wkuWFkshTzxboaoeRR86ttLyMfWzxqqLIuXtsVU02Vt4kq53K3TQnLuqDkwiXhPIUFw9KJy3lLPYeSJphZtv-A4g2YWcTL4wfzRAF7GZIyIzlaq6hp28FH-3hZ3Z8D3elZYI0bt10JZ0TtS2mTtqbNQo4yTSBMxvq7uGmMgFyCToNaraS75ByHP-AMZlWhZw9-6S1XkF4IUFo3mWFW6TV0dAYjbvnmk8xAEnR7IkwP5VQypOQeFm9Aa8-iQK4b-rDX-HOLhzYPLoo0A1Y62dqS2rDfs5ZTz9lOuyd1o0fka7A3Ox6QZqVUwYaYkpJQBfOVXBlMy2buhyihyW6uSMYYKsQltJHbWbZon2dmjYbOeqcTKZWz-hbyQtTf6rhmvlPDjaPROhbNvuArhdE0SCYAKyMY_ZmOmLViIWkiAyusackuFbl9Im7JkRSXT6UePoZaDizo_ggDKKqpqGh9h3O-0NARid1BDyInBbLzEFAJ9-CPoxSMnZ-M5Co1zgTvcf3WPzAuNpsg7kjEEi_yfXfo5pD34mbESplOysjDjzjgJeng-utZLXqJ7krBFvCrdsm8uYuNfmwU8POQj8Cyod8eD4wcEeF_HLfQju5AHYzIXyg36YXPTPxCuW76PJ-DAYGBR7P9CsTpe-iBFH-1QhKMKotT2a2hlBy42VKalkgwEfobqnszRjP0DVlJ-LqiKZaR-OzBnzQgOKT64hDZhx4uu5jE4VspxDB1QB_v46x7AmeXNDvbH4E4u_7m-VMK6Dfkl1T8klPI0aV7F7CRlB63G8S6CZ-dO0HwuXr_7ONEXDx3LRvHfm0Cmfal1yksKtADhvnvvhxHQ2nVKcaS8AJhfkpCvokbgYqWIK4jP5KBy9KKd0b8NKhrnW_P4Okvd7EyMxKJ87b06GGP3TC9x0yQmdUZxqvDKUuVn3-pbxoM3tNirola4actAg35IAEqCXVzLWVhc3QtMTCUCA.m3u8
 -----
