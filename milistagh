@@ -1,48 +1,16 @@
 #EXTM3U
 
-EXTINF:-1,Canal 5 Honduras LD (Televicentro / TVC) GEO
-https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-dai/b3c785ac3a2f40f091a7e16330a41949/manifest/f624fec49dadc88894ebeff1d974eab019af7757/6287fda8ea3b8b397d1ca2ed/d92bf258-d549-422d-a121-88cbbe1f9237/2.m3u8
-EXTINF:-1,Canal 5 Honduras SD (Televicentro / TVC) GEO
-https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-dai/b3c785ac3a2f40f091a7e16330a41949/manifest/f624fec49dadc88894ebeff1d974eab019af7757/6287fda8ea3b8b397d1ca2ed/d92bf258-d549-422d-a121-88cbbe1f9237/1.m3u8
-EXTINF:-1,Canal 5 Honduras HD (Televicentro / TVC) GEO
-https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-dai/b3c785ac3a2f40f091a7e16330a41949/manifest/f624fec49dadc88894ebeff1d974eab019af7757/6287fda8ea3b8b397d1ca2ed/d92bf258-d549-422d-a121-88cbbe1f9237/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xHhwMTe.png",24/7 Futurama
+http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=futurama_mania_
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o6HpSUf.png",24/7 Netflix Movies
+http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=a_neflix01
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gtgr17n.jpg",24/7 Peliculas Mania
+http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=peliculas_mania
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9mw2Nz.png",ESPN en Disney+
 https://stream.brics.vin/memfs/95e49196-f74e-4ec6-b911-783babe6e7d2_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SYChfda.png",ESPN / Star+
 https://stream.brics.vin/memfs/17076b7c-1676-47a0-9a53-cac6710ee46d_output_0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NtIJZeL.png",WTV (Nicaragua)
-https://cloudvideo.servers10.com:8081/8130/index.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/RZrKd68.jpg",VIVA Nicaragua (Canal 13)
-https://live-c.cf.dmcdn.net/sec2(1egrjWQRSrKKKbKeKU_JPoRohsCcvWo914ojH-Szo_J9ITQlUQCWip6qXRX5A1OBlsh1gINrhnLFoIE1RlKal_p6CkOvcpOJA_-z_D8vkpw)/dm/3/x7u200z/s/live-1.m3u8
-
-EXTINF:-01 tvg-logo="https://i.imgur.com/vn5jBfm.png",Canal 2 🇸🇻 LD
-https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=729984-audio_0=64000.m3u8
-#EXTINF:-01 tvg-logo="https://i.imgur.com/vn5jBfm.png",Canal 2 🇸🇻 SD
-https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=2000000-audio_0=64000.m3u8
-EXTINF:-01 tvg-logo="https://i.imgur.com/vn5jBfm.png",Canal 2 🇸🇻
-https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live.m3u8
-EXTINF:-01 tvg-logo="https://i.imgur.com/PDmg6Pb.png",Canal 4 🇸🇻 LD
-https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/live-video=729984-audio_0=64000.m3u8?360p
-#EXTINF:-01 tvg-logo="https://i.imgur.com/PDmg6Pb.png",Canal 4 🇸🇻 SD
-https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/live-video=2000000-audio_0=64000.m3u8?540p
-#EXTINF:-01 tvg-logo="https://i.imgur.com/PDmg6Pb.png",Canal 4 🇸🇻 HD
-https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/live-video=3000000-audio_0=64000.m3u8?720p
-EXTINF:-01 tvg-logo="https://i.imgur.com/PDmg6Pb.png",Canal 4 🇸🇻
-https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/live.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/YmY8FGT.png",CANAL 6 🇸🇻 LD
-https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-video=729984-audio_0=64000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YmY8FGT.png",CANAL 6 🇸🇻 SD
-https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-video=2000000-audio_0=64000.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/YmY8FGT.png",CANAL 6 🇸🇻
-https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/5ipcbkm.jpeg",TCS+ 🇸🇻 LD
-https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-video=729984-audio_0=64000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ipcbkm.jpeg",TCS+ 🇸🇻 SD
-https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-video=2000000-audio_0=64000.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/5ipcbkm.jpeg",TCS+ 🇸🇻
-https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live.m3u8
 
 #EXTINF:-1,DSports Uruguay
 http://nxt.plus:8080/jesus01/jesus01/166706
@@ -102,33 +70,15 @@ EXTINF:-1,VTV Plus
 http://nxt.plus:8080/olmos/1234guz/9797
 #EXTINF:-1,VTV Plus.
 http://nxt.plus:8080/jesus01/jesus01/9797
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/colombia/caracol-tv-hd.png",CARACOL TV HD
 http://nxt.plus:8080/jesus01/jesus01/43506
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/colombia/rcn-hd.png",RCN HD
 http://nxt.plus:8080/jesus01/jesus01/43555
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/mscr1Wm.jpg",Dragon Ball Super 24/7 (L6)
-http://pe.shortgod.com/awester/tv6.php?id=191
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xHhwMTe.png",24/7 Futurama
-http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=futurama_mania_
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kwMgohx.jpg",24/7 Los Simpson
-http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=simpson_maniahd189
-EXTINF:-1 tvg-logo="https://i.imgur.com/kwMgohx.jpg",24/7 Los Simpson.
-http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=simpson_maniahd192
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o6HpSUf.png",24/7 Netflix Movies
-http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=a_neflix01
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gtgr17n.jpg",24/7 Peliculas Mania
-http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=peliculas_mania
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgw9sxS.png",Esports Max
 https://vcp13.myplaytv.com/esportsmax/esportsmax/chunklist_w1844809160.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/cgw9sxS.png",Esports Max.
 https://vcp13.myplaytv.com/esportsmax/esportsmax/playlist.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/cgw9sxS.png",Esports Max / X
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/cgw9sxS.png",Esports Max. / X
-https://streamyes.alsolnet.com/esportsmax/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vQwwncY.png",Orbit TV (Peliculas)
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1339238975.m3u8
@@ -168,6 +118,33 @@ https://tunzilla.com/http://51.81.93.239:8084/hls/telecentro.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/RDyWed1.png",Telsistema / Costa Rica / X
 https://k4.usastreams.com/ARBtv/teleplus/chunklist_w1521187998.m3u8
 
+EXTINF:-01 tvg-logo="https://i.imgur.com/vn5jBfm.png",Canal 2 🇸🇻 LD
+https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=729984-audio_0=64000.m3u8
+#EXTINF:-01 tvg-logo="https://i.imgur.com/vn5jBfm.png",Canal 2 🇸🇻 SD
+https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=2000000-audio_0=64000.m3u8
+EXTINF:-01 tvg-logo="https://i.imgur.com/vn5jBfm.png",Canal 2 🇸🇻
+https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live.m3u8
+EXTINF:-01 tvg-logo="https://i.imgur.com/PDmg6Pb.png",Canal 4 🇸🇻 LD
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/live-video=729984-audio_0=64000.m3u8?360p
+#EXTINF:-01 tvg-logo="https://i.imgur.com/PDmg6Pb.png",Canal 4 🇸🇻 SD
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/live-video=2000000-audio_0=64000.m3u8?540p
+#EXTINF:-01 tvg-logo="https://i.imgur.com/PDmg6Pb.png",Canal 4 🇸🇻 HD
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/live-video=3000000-audio_0=64000.m3u8?720p
+EXTINF:-01 tvg-logo="https://i.imgur.com/PDmg6Pb.png",Canal 4 🇸🇻
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/live.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/YmY8FGT.png",CANAL 6 🇸🇻 LD
+https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-video=729984-audio_0=64000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YmY8FGT.png",CANAL 6 🇸🇻 SD
+https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-video=2000000-audio_0=64000.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/YmY8FGT.png",CANAL 6 🇸🇻
+https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/5ipcbkm.jpeg",TCS+ 🇸🇻 LD
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-video=729984-audio_0=64000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ipcbkm.jpeg",TCS+ 🇸🇻 SD
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-video=2000000-audio_0=64000.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/5ipcbkm.jpeg",TCS+ 🇸🇻
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live.m3u8
+
 EXTINF:-1 tvg-logo="https://i.imgur.com/6jDdZaF.png",REPETEL ~ Canal 2 🇨🇷 / LD
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/360p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6jDdZaF.png",REPETEL ~ Canal 2 🇨🇷 / SD
@@ -201,6 +178,11 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/c
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kl4K7Qg.png",Telediario TV
 https://stmvideo2.livecastv.com/telediario/telediario/chunklist_w1688792799.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NtIJZeL.png",WTV (Nicaragua)
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/RZrKd68.jpg",VIVA Nicaragua (Canal 13) / X
+https://live-c.cf.dmcdn.net/sec2(1egrjWQRSrKKKbKeKU_JPoRohsCcvWo914ojH-Szo_J9ITQlUQCWip6qXRX5A1OBlsh1gINrhnLFoIE1RlKal_p6CkOvcpOJA_-z_D8vkpw)/dm/3/x7u200z/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tYiQ6hq.png",TV Publica (catamarcatv) / SD
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/chunklist_w2050684810_b578000.m3u8
@@ -3206,7 +3188,7 @@ EXTINF:-03 group-title="EVENTO" tvg-logo="https://i.imgur.com/DjNEwg8.png" tvg-i
 http://177.234.247.66:8888/play/a00k/index.m3u8?p3~~ESPNpeHD
 #EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/4Zk9FYq.png" tvg-id="ESPN Centro",ESPN Centro
 http://45.228.234.167:8000/play/a07t/index.m3u8?pdish~ESPNcentroHD
-#EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/qqNHbGk.png" tvg-id="Directv Sports 🇪🇨",DIRECTV Sports 🇪🇨
+EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/qqNHbGk.png" tvg-id="Directv Sports 🇪🇨",DIRECTV Sports 🇪🇨
 http://nxt.plus:8080/jesus01/jesus01/116425?~Evento
 EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/gJCjTqi.png" tvg-id="Directv Sports 2",DIRECTV Sports 2
 http://nxt.plus:8080/jesus01/jesus01/68829?~Evento?
@@ -3228,22 +3210,77 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/profile_2/chunklist_dvr.m3u8?~EVENTO
 #EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/K3TZokt.jpg" tvg-id="TVMAX",🇵🇦 TVMAX HD
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/profile_1/chunklist_dvr.m3u8?~EVENTO
-#EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/K3TZokt.jpg" tvg-id="TVMAX",🇵🇦 TVMAX FHD
+EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/K3TZokt.jpg" tvg-id="TVMAX",🇵🇦 TVMAX FHD
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8?~EVENTO
 EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/K3TZokt.jpg" tvg-id="TVMAX",🇵🇦 TVMAX
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8?~EVENTO
-#EXTINF:-48 group-title="EVENTO" tvg-logo="https://i.imgur.com/9tMQDny.png" tvg-id="TVMAX",🇵🇦 RPC
-http://204.157.251.250:8000/play/a083/index.m3u8?48~EVENTO
 #EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/HiDrzFj.png" tvg-id="VIX",🇺🇸 VIX (EVENTO)
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8?~EVENTO
 #EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/HiDrzFj.png" tvg-id="VIX",🇲🇽 VIX (EVENTO)
 https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8?~EVENTO
-#EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/lko0b60.png",🇬🇹 Azteca 
+#EXTINF:-48 group-title="EVENTO" tvg-logo="https://i.imgur.com/9tMQDny.png" tvg-id="Canales Varios",🇵🇦 RPC
+http://204.157.251.250:8000/play/a083/index.m3u8?48~EVENTO
+#EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/lko0b60.png" tvg-id="Canales Varios",🇬🇹 Azteca
 http://45.228.234.167:8000/play/a02g/index.m3u8?pdish~EVENTO
-#EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/T3tacs3.jpg",🇭🇳 Canal 11
+#EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/T3tacs3.jpg" tvg-id="Canales Varios",🇭🇳 Canal 11
 http://45.228.234.167:8000/play/a04j/index.m3u8?~EVENTO
-EXTINF:-15 group-title="EVENTO" tvg-logo="https://i.imgur.com/T3tacs3.jpg",🇭🇳 Canal 11
+EXTINF:-15 group-title="EVENTO" tvg-logo="https://i.imgur.com/T3tacs3.jpg" tvg-id="Canales Varios",🇭🇳 Canal 11
 http://45.5.116.178:8000/play/a01c/index.m3u8?~EVENTO
+-----
+EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/n2DMtWO.png" tvg-id="Colombia",🇨🇴 Caracol Play
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8?COL~EVENTO
+EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Colombia",🇨🇴 Caracol
+http://181.78.74.226:45000/play/a02g?p1~EVENTO
+#EXTINF:-03 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Colombia",🇨🇴 Caracol.
+http://177.234.247.66:8888/play/a07j/index.m3u8?p3~EVENTO
+EXTINF:-05 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Colombia",🇨🇴 Caracol
+http://45.182.190.228:8000/play/a06r/index.m3u8?p5~CaracolSD-EVENTO
+EXTINF:-08 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Colombia",🇨🇴 Caracol..
+http://190.95.220.212:8000/play/a02d/index.m3u8?p8~EVENTO
+EXTINF:-05 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Colombia",🇨🇴 Caracol HD
+http://45.182.190.228:8000/play/a04b/index.m3u8?p5~CaracolHD-EVENTO
+#EXTINF:-06 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Colombia",🇨🇴 Caracol HD
+http://190.242.46.20:8000/play/a09o/index.m3u8?p6~EVENTO
+EXTINF:-10 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Colombia",🇨🇴 Caracol HD.
+http://177.234.230.226:8010/play/a03p/index.m3u8?p10~EVENTO
+EXTINF:-11 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Colombia",🇨🇴 Caracol HD..
+http://181.78.64.71:16123/play/ch58?p11~EVENTO
+EXTINF:-12 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Colombia",🇨🇴 Caracol HD...
+http://160.20.165.246:8000/play/a00x/index.m3u8?p12~EVENTO
+EXTINF:-23 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Colombia",🇨🇴 Caracol HD....
+http://181.78.11.12:1010/play/a083/index.m3u8?p23~EVENTO
+EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="Colombia",🇨🇴 RCN
+http://181.78.74.226:45000/play/a02h?p1~EVENTO
+#EXTINF:-03 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="Colombia",🇨🇴 RCN.
+http://177.234.247.66:8888/play/a076/index.m3u8?p3~EVENTO
+EXTINF:-08 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="Colombia",🇨🇴 RCN..
+http://190.95.220.212:8000/play/a02q/index.m3u8?p8~EVENTO
+EXTINF:-11 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="Colombia",🇨🇴 RCN...
+http://181.78.64.71:16123/play/ch59?p11~EVENTO
+EXTINF:-21 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="Colombia",🇨🇴 RCN....
+http://138.186.20.13:23200/play/a0bw?p21~EVENTO
+EXTINF:-05 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="Colombia",🇨🇴 RCN HD
+http://45.182.190.228:8000/play/a01s/index.m3u8?p5~EVENTO
+#EXTINF:-06 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="Colombia",🇨🇴 RCN HD
+http://190.242.46.20:8000/play/a07j/index.m3u8?p6~EVENTO
+EXTINF:-06 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="Colombia",🇨🇴 RCN HD.
+http://190.242.46.20:8000/play/a09q/index.m3u8?p6~EVENTO
+EXTINF:-21 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="Colombia",🇨🇴 RCN HD..
+http://138.186.20.13:23200/play/a0fm?p21~EVENTO
+EXTINF:-23 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="Colombia",🇨🇴 RCN HD...
+http://181.78.11.12:1010/play/a097/index.m3u8?p23~EVENTO
+-----
+#EXTINF:-27 group-title="EVENTO" tvg-logo="https://i.imgur.com/vW41sYu.jpg" tvg-id="Paraguay",🇵🇾 Telefuturo
+http://45.71.252.16:8000/play/a0cz/index.m3u8?p27~EVENTO
+#EXTINF:-10 group-title="EVENTO" tvg-logo="https://i.imgur.com/vW41sYu.jpg" tvg-id="Paraguay",🇵🇾 Telefuturo HD
+http://177.234.230.226:8010/play/a033/index.m3u8?p10~EVENTO
+#EXTINF:-27 group-title="EVENTO" tvg-logo="https://i.imgur.com/A5CyTGp.jpg" tvg-id="Paraguay",🇵🇾 Trece
+http://45.71.252.16:8000/play/a0je/index.m3u8?p27~EVENTO
+#EXTINF:-27 group-title="EVENTO" tvg-logo="https://i.imgur.com/KhgYrRJ.jpg" tvg-id="Paraguay",🇵🇾 SNT
+http://45.71.252.16:8000/play/a0cy/index.m3u8?p27~EVENTO
+-----
+#EXTINF:-03 group-title="EVENTO" tvg-logo="https://i.imgur.com/KqNKrh3.png" tvg-id="Win Sports +",🇨🇴 Win Sports +
+http://177.234.247.66:8888/play/a02g/index.m3u8?p3~WinSports+HD-EVENTO
 -----
 EXTINF:-08 group-title="EVENTO" tvg-logo="https://i.imgur.com/OdA49mU.png" tvg-id="America Television",🇵🇪 America Television
 http://190.95.220.212:8000/play/a00i/index.m3u8?p8~EVENTO
@@ -3300,61 +3337,6 @@ http://45.189.148.24:8000/play/a00k/index.m3u8?p18~EVENTO
 EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/NBQMNwZ.png" tvg-id="TUDN USA",TUDN 🇺🇸.
 http://45.5.117.182:8000/play/a0km/index.m3u8?p20~EVENTO
 -----
-EXTINF:-27 group-title="EVENTO" tvg-logo="https://i.imgur.com/vW41sYu.jpg" tvg-id="PANvsPAR",🇵🇾 Telefuturo
-http://45.71.252.16:8000/play/a0cz/index.m3u8?p27~EVENTO
-EXTINF:-10 group-title="EVENTO" tvg-logo="https://i.imgur.com/vW41sYu.jpg" tvg-id="PANvsPAR",🇵🇾 Telefuturo HD
-http://177.234.230.226:8010/play/a033/index.m3u8?p10~EVENTO
-EXTINF:-27 group-title="EVENTO" tvg-logo="https://i.imgur.com/KhgYrRJ.jpg" tvg-id="PANvsPAR",🇵🇾 SNT
-http://45.71.252.16:8000/play/a0cy/index.m3u8?p27~EVENTO
-EXTINF:-27 group-title="EVENTO" tvg-logo="https://i.imgur.com/A5CyTGp.jpg" tvg-id="PANvsPAR",🇵🇾 Trece
-http://45.71.252.16:8000/play/a0je/index.m3u8?p27~EVENTO
------
-EXTINF:-19 group-title="EVENTO" tvg-logo="https://i.imgur.com/tmgIhCz.jpg" tvg-id="Tigo Sports Guatemala",🇬🇹 Tigo Sports
-http://45.228.234.173:4000/play/a00l/index.m3u8?p19~TigoSportsGuatemala~EVENTO
------
-EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/n2DMtWO.png" tvg-id="Caracol",🇨🇴 Caracol Play
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8?COL~EVENTO
-EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Caracol",🇨🇴 Caracol
-http://181.78.74.226:45000/play/a02g?p1~EVENTO
-EXTINF:-03 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Caracol",🇨🇴 Caracol.
-http://177.234.247.66:8888/play/a07j/index.m3u8?p3~EVENTO
-EXTINF:-05 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Caracol",🇨🇴 Caracol
-http://45.182.190.228:8000/play/a06r/index.m3u8?p5~CaracolSD-EVENTO
-EXTINF:-08 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Caracol",🇨🇴 Caracol..
-http://190.95.220.212:8000/play/a02d/index.m3u8?p8~EVENTO
-EXTINF:-05 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Caracol",🇨🇴 Caracol HD
-http://45.182.190.228:8000/play/a04b/index.m3u8?p5~CaracolHD-EVENTO
-EXTINF:-06 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Caracol",🇨🇴 Caracol HD
-http://190.242.46.20:8000/play/a09o/index.m3u8?p6~EVENTO
-EXTINF:-10 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Caracol",🇨🇴 Caracol HD.
-http://177.234.230.226:8010/play/a03p/index.m3u8?p10~EVENTO
-EXTINF:-11 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Caracol",🇨🇴 Caracol HD..
-http://181.78.64.71:16123/play/ch58?p11~EVENTO
-EXTINF:-12 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Caracol",🇨🇴 Caracol HD...
-http://160.20.165.246:8000/play/a00x/index.m3u8?p12~EVENTO
-EXTINF:-23 group-title="EVENTO" tvg-logo="https://i.imgur.com/WpBK6aa.png" tvg-id="Caracol",🇨🇴 Caracol HD....
-http://181.78.11.12:1010/play/a083/index.m3u8?p23~EVENTO
-EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="RCN",🇨🇴 RCN
-http://181.78.74.226:45000/play/a02h?p1~EVENTO
-EXTINF:-03 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="RCN",🇨🇴 RCN.
-http://177.234.247.66:8888/play/a076/index.m3u8?p3~EVENTO
-EXTINF:-08 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="RCN",🇨🇴 RCN..
-http://190.95.220.212:8000/play/a02q/index.m3u8?p8~EVENTO
-EXTINF:-11 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="RCN",🇨🇴 RCN...
-http://181.78.64.71:16123/play/ch59?p11~EVENTO
-EXTINF:-21 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="RCN",🇨🇴 RCN....
-http://138.186.20.13:23200/play/a0bw?p21~EVENTO
-EXTINF:-05 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="RCN",🇨🇴 RCN HD
-http://45.182.190.228:8000/play/a01s/index.m3u8?p5~EVENTO
-EXTINF:-06 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="RCN",🇨🇴 RCN HD
-http://190.242.46.20:8000/play/a07j/index.m3u8?p6~EVENTO
-EXTINF:-06 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="RCN",🇨🇴 RCN HD.
-http://190.242.46.20:8000/play/a09q/index.m3u8?p6~EVENTO
-EXTINF:-21 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="RCN",🇨🇴 RCN HD..
-http://138.186.20.13:23200/play/a0fm?p21~EVENTO
-EXTINF:-23 group-title="EVENTO" tvg-logo="https://i.imgur.com/NOks01S.png" tvg-id="RCN",🇨🇴 RCN HD...
-http://181.78.11.12:1010/play/a097/index.m3u8?p23~EVENTO
------
 EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/wnzya1x.png" tvg-id="ESPN 🇧🇷",ESPN 🇧🇷
 https://brflu.walk-tv.com/5912/index.m3u8?cdb~ESPNbrHD
 EXTINF:-05 group-title="EVENTO" tvg-logo="https://i.imgur.com/S5Pm5ww.png" tvg-id="ESPN 2 🇨🇴",ESPN 2 🇨🇴
@@ -3383,8 +3365,6 @@ EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/9aRQPdG.png" tvg-i
 http://45.5.151.151:8000/play/a0eo/index.m3u8?p-arg~TyCsportsARGhd
 EXTINF:-03 group-title="EVENTO" tvg-logo="https://i.imgur.com/XMhwx7c.png" tvg-id="Win Sports",Win Sports 🇨🇴
 http://177.234.247.66:8888/play/a00e/index.m3u8?p3~WinSportsHD-EVENTO
-EXTINF:-03 group-title="EVENTO" tvg-logo="https://i.imgur.com/KqNKrh3.png" tvg-id="Win Sports +",Win Sports + 🇨🇴
-http://177.234.247.66:8888/play/a02g/index.m3u8?p3~WinSports+HD-EVENTO
 EXTINF:-03 group-title="EVENTO" tvg-logo="https://i.imgur.com/Cs8NNOS.png" tvg-id="TNT Sports Premium 🇨🇱",TNT Sports Premium 🇨🇱
 http://177.234.247.66:8888/play/a00b/index.m3u8?p3~(exTNTsportsHD)TNTsportsPcl-EVENTO
 EXTINF:-03 group-title="EVENTO" tvg-logo="https://i.imgur.com/B191WFs.png" tvg-id="GOLTV",GOLTV 🇵🇪
