@@ -856,7 +856,7 @@ LUN 24	<programme channel="Colombia" start="20240624190000 -0500" stop="20240625
 		<display-name>Win Sports +</display-name>
 	</channel>
 LUN 24	<programme channel="Win Sports +" start="20240624000000 -0500" stop="20240624200000 -0500">
-		<title>17:00 ~ BRAvsCOS</title>
+		<title>20:00 ~ BRAvsCOS</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
