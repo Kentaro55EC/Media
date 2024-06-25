@@ -3281,7 +3281,9 @@ http://45.71.252.16:8000/play/a0je/index.m3u8?p27~EVENTO
 #EXTINF:-27 group-title="EVENTO" tvg-logo="https://i.imgur.com/KhgYrRJ.jpg" tvg-id="Paraguay",🇵🇾 SNT
 http://45.71.252.16:8000/play/a0cy/index.m3u8?p27~EVENTO
 -----
-#EXTINF:-03 group-title="EVENTO" tvg-logo="https://i.imgur.com/KqNKrh3.png" tvg-id="Win Sports +",🇨🇴 Win Sports +
+#EXTINF:-08 group-title="EVENTO" tvg-logo="https://i.imgur.com/KqNKrh3.png" tvg-id="Win Sports +",🇨🇴 Win Sports +
+http://190.95.220.212:8000/play/a01j/index.m3u8?p8~WinSports+SD-EVENTO
+#EXTINF:-03 group-title="EVENTO" tvg-logo="https://i.imgur.com/KqNKrh3.png" tvg-id="Win Sports +",🇨🇴 Win Sports + HD
 http://177.234.247.66:8888/play/a02g/index.m3u8?p3~WinSports+HD-EVENTO
 -----
 EXTINF:-08 group-title="EVENTO" tvg-logo="https://i.imgur.com/OdA49mU.png" tvg-id="America Television",🇵🇪 America Television
@@ -3423,8 +3425,6 @@ EXTINF:-01 group-title="EVENTO" tvg-logo="https://i.imgur.com/m9OjncS.png" tvg-i
 http://181.188.234.21:8000/play/a045/index.m3u8?ESPN7SD
 EXTINF:-02 group-title="EVENTO" tvg-logo="https://i.imgur.com/XMhwx7c.png"tvg-id="Win Sports",Win Sports 🇨🇴 SD
 http://181.78.74.226:45000/play/a034?p2~WinSportsSD~EVENTO
-EXTINF:-08 group-title="EVENTO" tvg-logo="https://i.imgur.com/KqNKrh3.png" tvg-id="Win Sports +",Win Sports + 🇨🇴 SD
-http://190.95.220.212:8000/play/a01j/index.m3u8?p8~WinSports+SD-EVENTO
 EXTINF:-17 group-title="EVENTO" tvg-logo="https://i.imgur.com/2HpiXvP.png" tvg-id="TNT Sports 🇨🇱",TNT Sports 🇨🇱 SD
 http://45.232.176.17:8000/play/a01q?p17~(exTNTsports3)TNTsportsCL-EVENTO
 EXTINF:-03 group-title="EVENTO" tvg-logo="https://i.imgur.com/Cs8NNOS.png" tvg-id="TNT Sports P 🇨🇱",TNT Sports Premium 🇨🇱 SD
