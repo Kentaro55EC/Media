@@ -1,549 +1,1055 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-	<channel id="La 1 rtve">
-		<display-name>La 1 rtve</display-name>
+	<channel id="Zapping Sports EC">
+		<display-name>Zapping Sports EC</display-name>
 	</channel>
-JUE 27	<programme channel="La 1 rtve" start="20240627000000 -1000" stop="20240627235959 -1000">
-		<title>EUROCOPA ~ 8vos de Final ~ SAB 29 por La 1</title>
+VIE 9	<programme channel="Zapping Sports EC" start="20240809000000 -1000" stop="20240809190000 -1000">
+		<title>Zapping Sports Ecuador</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-VIE 28	<programme channel="La 1 rtve" start="20240628000000 -1000" stop="20240628235959 -1000">
-		<title>EUROCOPA ~ 8vos de Final ~ SAB 29 por La 1</title>
+VIE 9	<programme channel="Zapping Sports EC" start="20240809190000 -1000" stop="20240809210000 -1000">
+		<title>LigaPro ~ Deportivo Cuenca vs Orense ~ 2da Etapa / F2</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-SAB 29	<programme channel="La 1 rtve" start="20240629000000 -1000" stop="20240629080000 -1000">
-		<title>La 1 rtve</title>
+VIE 9	<programme channel="Zapping Sports EC" start="20240809210000 -1000" stop="20240810000000 -1000">
+		<title>Zapping Sports Ecuador</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-SAB 29	<programme channel="La 1 rtve" start="20240629080000 -1000" stop="20240629090000 -1000">
-		<title>Telediario 1</title>
+SAB 10	<programme channel="Zapping Sports EC" start="20240810000000 -1000" stop="20240810123000 -1000">
+		<title>Zapping Sports Ecuador</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-SAB 29	<programme channel="La 1 rtve" start="20240629090000 -1000" stop="20240629104000 -1000">
-		<title>Tour de Francia 2024</title>
+SAB 10	<programme channel="Zapping Sports EC" start="20240810123000 -1000" stop="20240810143000 -1000">
+		<title>LigaPro ~ Universidad Catolica vs Libertad ~ 2da Etapa / F2</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-SAB 29	<programme channel="La 1 rtve" start="20240629104000 -1000" stop="20240629110000 -1000">
-		<title>Previo Eurocopa</title>
+SAB 10	<programme channel="Zapping Sports EC" start="20240810143000 -1000" stop="20240810150000 -1000">
+		<title>Zapping Sports Ecuador</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-SAB 29	<programme channel="La 1 rtve" start="20240629110000 -1000" stop="20240629130000 -1000">
-		<title>EUROCOPA ~ Suiza vs Italia ~ 8vos</title>
+SAB 10	<programme channel="Zapping Sports EC" start="20240810150000 -1000" stop="20240810170000 -1000">
+		<title>LigaPro ~ Liga de Quito vs Cumbayá ~ 2da Etapa / F2</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-SAB 29	<programme channel="La 1 rtve" start="20240629130000 -1000" stop="20240629134000 -1000">
-		<title>Euro 2024: Camino a Berlín</title>
+SAB 10	<programme channel="Zapping Sports EC" start="20240810170000 -1000" stop="20240810180000 -1000">
+		<title>Zapping Sports Ecuador</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-SAB 29	<programme channel="La 1 rtve" start="20240629134000 -1000" stop="20240629140000 -1000">
-		<title>Previo Eurocopa</title>
+SAB 10	<programme channel="Zapping Sports EC" start="20240810180000 -1000" stop="20240810200000 -1000">
+		<title>LigaPro ~ Barcelona vs Indepenciente del Valle ~ 2da Etapa / F2</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-SAB 29	<programme channel="La 1 rtve" start="20240629140000 -1000" stop="20240629160000 -1000">
-		<title>EUROCOPA ~ Alemania vs Dinamarca ~ 8vos</title>
+SAB 10	<programme channel="Zapping Sports EC" start="20240810200000 -1000" stop="20240811000000 -1000">
+		<title>Zapping Sports Ecuador</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-SAB 29	<programme channel="La 1 rtve" start="20240629160000 -1000" stop="20240629173000 -1000">
-		<title>Cine</title>
+DOM 11	<programme channel="Zapping Sports EC" start="20240811000000 -1000" stop="20240811130000 -1000">
+		<title>Zapping Sports Ecuador</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-SAB 29	<programme channel="La 1 rtve" start="20240629173000 -1000" stop="20240629192000 -1000">
-		<title>Cine</title>
+DOM 11	<programme channel="Zapping Sports EC" start="20240811130000 -1000" stop="20240811150000 -1000">
+		<title>LigaPro ~ El Nacional vs Macará ~ 2da Etapa / F2</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-SAB 29	<programme channel="La 1 rtve" start="20240629192000 -1000" stop="20240629204000 -1000">
-		<title>Cine</title>
+DOM 11	<programme channel="Zapping Sports EC" start="20240811150000 -1000" stop="20240811153000 -1000">
+		<title>Zapping Sports Ecuador</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-SAB 29	<programme channel="La 1 rtve" start="20240629204000 -1000" stop="20240629230000 -1000">
-		<title>Noticias 24h</title>
+DOM 11	<programme channel="Zapping Sports EC" start="20240811153000 -1000" stop="20240811173000 -1000">
+		<title>LigaPro ~ Delfín vs Imbabura ~ 2da Etapa / F2</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-SAB 29	<programme channel="La 1 rtve" start="20240629230000 -1000" stop="20240630031500 -1000">
-		<title>Noticias 24h</title>
+DOM 11	<programme channel="Zapping Sports EC" start="20240811173000 -1000" stop="20240811180000 -1000">
+		<title>Zapping Sports Ecuador</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-DOM 30	<programme channel="La 1 rtve" start="20240630031500 -1000" stop="20240630080000 -1000">
-		<title>La 1 rtve</title>
+DOM 11	<programme channel="Zapping Sports EC" start="20240811180000 -1000" stop="20240811200000 -1000">
+		<title>LigaPro ~ Mushuc Runa vs Emelec ~ 2da Etapa / F2</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-DOM 30	<programme channel="La 1 rtve" start="20240630080000 -1000" stop="20240630090000 -1000">
-		<title>Telediario</title>
+DOM 11	<programme channel="Zapping Sports EC" start="20240811200000 -1000" stop="20240812000000 -1000">
+		<title>Zapping Sports Ecuador</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-DOM 30	<programme channel="La 1 rtve" start="20240630090000 -1000" stop="20240630104000 -1000">
-		<title>Cine</title>
+LUN 12	<programme channel="Zapping Sports EC" start="20240812000000 -1000" stop="20240812190000 -1000">
+		<title>Zapping Sports Ecuador</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-DOM 30	<programme channel="La 1 rtve" start="20240630104000 -1000" stop="20240630110000 -1000">
-		<title>Previo Eurocopa</title>
+LUN 12	<programme channel="Zapping Sports EC" start="20240812190000 -1000" stop="20240812210000 -1000">
+		<title>LigaPro ~ Técnico Universitario vs Aucas ~ 2da Etapa / F2</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-DOM 30	<programme channel="La 1 rtve" start="20240630110000 -1000" stop="20240630130000 -1000">
-		<title>EUROCOPA ~ Inglaterra vs Eslovaquia ~ 8vos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="La 1 rtve" start="20240630130000 -1000" stop="20240630134000 -1000">
-		<title>Euro 2024: Camino a Berlín</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="La 1 rtve" start="20240630134000 -1000" stop="20240630140000 -1000">
-		<title>Previo Eurocopa</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="La 1 rtve" start="20240630140000 -1000" stop="20240630160000 -1000">
-		<title>EUROCOPA ~ España vs Georgia ~ 8vos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="La 1 rtve" start="20240630160000 -1000" stop="20240630211500 -1000">
-		<title>Cine</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="La 1 rtve" start="20240630211500 -1000" stop="20240630230000 -1000">
-		<title>Noticias 24h</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="La 1 rtve" start="20240630230000 -1000" stop="20240701010000 -1000">
-		<title>Telediario matinal</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="La 1 rtve" start="20240701000000 -1000" stop="20240701110000 -1000">
-		<title>La 1 rtve</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="La 1 rtve" start="20240701110000 -1000" stop="20240701130000 -1000">
-		<title>EUROCOPA ~ Francia vs Bélgica ~ 8vos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="La 1 rtve" start="20240701130000 -1000" stop="20240701140000 -1000">
-		<title>La 1 rtve</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="La 1 rtve" start="20240701140000 -1000" stop="20240701160000 -1000">
-		<title>EUROCOPA ~ Portugal vs Eslovenia ~ 8vos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="La 1 rtve" start="20240701160000 -1000" stop="20240702000000 -1000">
-		<title>La 1 rtve</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="La 1 rtve" start="20240702000000 -1000" stop="20240702110000 -1000">
-		<title>La 1 rtve</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="La 1 rtve" start="20240702110000 -1000" stop="20240702130000 -1000">
-		<title>EUROCOPA ~ Rumania vs Países Bajos ~ 8vos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="La 1 rtve" start="20240702130000 -1000" stop="20240702140000 -1000">
-		<title>La 1 rtve</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="La 1 rtve" start="20240702140000 -1000" stop="20240702160000 -1000">
-		<title>EUROCOPA ~ Austria vs Turquía ~ 8vos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="La 1 rtve" start="20240702160000 -1000" stop="20240703000000 -1000">
-		<title>La 1 rtve</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 5	<programme channel="La 1 rtve" start="20240705000000 -1000" stop="20240705110000 -1000">
-		<title>La 1 rtve</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 5	<programme channel="La 1 rtve" start="20240705110000 -1000" stop="20240705130000 -1000">
-		<title>EUROCOPA ~ 39 vs 37 ~ 4tos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 5	<programme channel="La 1 rtve" start="20240705130000 -1000" stop="20240705140000 -1000">
-		<title>La 1 rtve</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 5	<programme channel="La 1 rtve" start="20240705140000 -1000" stop="20240705160000 -1000">
-		<title>EUROCOPA ~ 41 vs 42 ~ 4tos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 5	<programme channel="La 1 rtve" start="20240705160000 -1000" stop="20240706000000 -1000">
-		<title>La 1 rtve</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 6	<programme channel="La 1 rtve" start="20240706000000 -1000" stop="20240706110000 -1000">
-		<title>La 1 rtve</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 6	<programme channel="La 1 rtve" start="20240706110000 -1000" stop="20240706130000 -1000">
-		<title>EUROCOPA ~ 40 vs 38 ~ 4tos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 6	<programme channel="La 1 rtve" start="20240706130000 -1000" stop="20240706140000 -1000">
-		<title>La 1 rtve</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 6	<programme channel="La 1 rtve" start="20240706140000 -1000" stop="20240706160000 -1000">
-		<title>EUROCOPA ~ 43 vs 44 ~ 4tos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 6	<programme channel="La 1 rtve" start="20240706160000 -1000" stop="20240707000000 -1000">
-		<title>La 1 rtve</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 9	<programme channel="La 1 rtve" start="20240709000000 -1000" stop="20240709140000 -1000">
-		<title>La 1 rtve</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 9	<programme channel="La 1 rtve" start="20240709140000 -1000" stop="20240709160000 -1000">
-		<title>EUROCOPA ~ 45 vs 46 ~ Semifinal 1</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 9	<programme channel="La 1 rtve" start="20240709160000 -1000" stop="20240710000000 -1000">
-		<title>La 1 rtve</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 10	<programme channel="La 1 rtve" start="20240710000000 -1000" stop="20240710140000 -1000">
-		<title>La 1 rtve</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 10	<programme channel="La 1 rtve" start="20240710140000 -1000" stop="20240710160000 -1000">
-		<title>EUROCOPA ~ 47 vs 48 ~ Semifinal 1</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 10	<programme channel="La 1 rtve" start="20240710160000 -1000" stop="20240711000000 -1000">
-		<title>La 1 rtve</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 14	<programme channel="La 1 rtve" start="20240714000000 -1000" stop="20240714140000 -1000">
-		<title>La 1 rtve</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 14	<programme channel="La 1 rtve" start="20240714140000 -1000" stop="20240714160000 -1000">
-		<title>EUROCOPA ~ 49 vs 50 ~ Final 1</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 14	<programme channel="La 1 rtve" start="20240714160000 -1000" stop="20240715000000 -1000">
-		<title>La 1 rtve</title>
+LUN 12	<programme channel="Zapping Sports EC" start="20240812210000 -1000" stop="20240813000000 -1000">
+		<title>Zapping Sports Ecuador</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
 *****************************************************************************************************
-	<channel id="ESPN">
-		<display-name>ESPN</display-name>
+	<channel id="Teleamazonas">
+		<display-name>Teleamazonas</display-name>
 	</channel>
-JUE 27	<programme channel="ESPN" start="20240627000000 -1000" stop="20240627235959 -1000">
-		<title>EUROCOPA ~ 8vos de Final ~ SAB 29 por ESPN</title>
+DOM 4	<programme channel="Teleamazonas" start="20240804130000 -1000" stop="20240804150000 -1000">
+		<title>LigaPro ~ El Nacional vs Universidad Catolica ~ 2da Etapa / F1</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-VIE 28	<programme channel="ESPN" start="20240628000000 -1000" stop="20240628235959 -1000">
-		<title>EUROCOPA ~ 8vos de Final ~ SAB 29 por ESPN</title>
+DOM 4	<programme channel="Teleamazonas" start="20240804153000 -1000" stop="20240804173000 -1000">
+		<title>LigaPro ~ Macara vs Liga de Quito ~ 2da Etapa / F1</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-SAB 29	<programme channel="ESPN" start="20240629000000 -1000" stop="20240629045000 -1000">
+DOM 11	<programme channel="Teleamazonas" start="20240811000000 -1000" stop="20240811100000 -1000">
+		<title>Teleamazonas</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 11	<programme channel="Teleamazonas" start="20240811100000 -1000" stop="20240811103000 -1000">
+		<title>Documental</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 11	<programme channel="Teleamazonas" start="20240811103000 -1000" stop="20240811113000 -1000">
+		<title>El after</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 11	<programme channel="Teleamazonas" start="20240811113000 -1000" stop="20240811120000 -1000">
+		<title>Deporte Total</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 11	<programme channel="Teleamazonas" start="20240811120000 -1000" stop="20240811124500 -1000">
+		<title>24horas: Emision Central</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 11	<programme channel="Teleamazonas" start="20240811124500 -1000" stop="20240811130000 -1000">
+		<title>Futbol Previa</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 11	<programme channel="Teleamazonas" start="20240811130000 -1000" stop="20240811150500 -1000">
+		<title>LigaPro ~ El Nacional vs Macara ~ 2da Etapa / F1</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 11	<programme channel="Teleamazonas" start="20240811150500 -1000" stop="20240811174500 -1000">
+		<title>Misión imposible 2</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 11	<programme channel="Teleamazonas" start="20240811174500 -1000" stop="20240811180000 -1000">
+		<title>Futbol Previa</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 11	<programme channel="Teleamazonas" start="20240811180000 -1000" stop="20240811200500 -1000">
+		<title>LigaPro ~ Mushuc Runa vs Emelec ~ 2da Etapa / F1</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 11	<programme channel="Teleamazonas" start="20240811200500 -1000" stop="20240811210000 -1000">
+		<title>No-ticias</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 11	<programme channel="Teleamazonas" start="20240811210000 -1000" stop="20240811220000 -1000">
+		<title>Dia a dia</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 11	<programme channel="Teleamazonas" start="20240811220000 -1000" stop="20240811223500 -1000">
+		<title>24horas: Emision Central</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 11	<programme channel="Teleamazonas" start="20240811223500 -1000" stop="20240811233500 -1000">
+		<title>Hora 25</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 11	<programme channel="Teleamazonas" start="20240811233500 -1000" stop="20240812000500 -1000">
+		<title>Deporte Total</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 12	<programme channel="Teleamazonas" start="20240812000500 -1000" stop="20240812003000 -1000">
+		<title>En corto</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+LUN 12	<programme channel="Teleamazonas" start="20240812003000 -1000" stop="20240812013000 -1000">
+		<title>Mitos y Verdades</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+*****************************************************************************************************
+	<channel id="ECDF">
+		<display-name>ECDF</display-name>
+	</channel>
+MAR 6	<programme channel="ECDF" start="20240806000000 -1000" stop="20240806173000 -1000">
+		<title>El Canal del Futbol</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 6	<programme channel="ECDF" start="20240806173000 -1000" stop="20240806180000 -1000">
+		<title>Futbol Previa</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 6	<programme channel="ECDF" start="20240806180000 -1000" stop="20240806200000 -1000">
+		<title>Champions Tour ~ Real Madrid vs Chelsea</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 6	<programme channel="ECDF" start="20240806200000 -1000" stop="20240806210000 -1000">
+		<title>Futbol Previa</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 6	<programme channel="ECDF" start="20240806210000 -1000" stop="20240806230000 -1000">
+		<title>Champions Tour ~ FC Barcelona vs AC Milan ~ (R)</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 6	<programme channel="ECDF" start="20240806230000 -1000" stop="20240807000000 -1000">
+		<title>El Canal del Futbol</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+*****************************************************************************************************
+	<channel id="WIN+ Futbol">
+		<display-name>WIN+ Futbol</display-name>
+	</channel>
+MAR 6	<programme channel="WIN+ Futbol" start="20240806000000 -1000" stop="20240806200000 -1000">
+		<title>WIN+ Futbol</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 6	<programme channel="WIN+ Futbol" start="20240806200000 -1000" stop="20240806220000 -1000">
+		<title>Deportivo Pereira vs Boyacá Chicó ~ Liga Dimayor ~ Jornada 4</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 6	<programme channel="WIN+ Futbol" start="20240806220000 -1000" stop="20240807000000 -1000">
+		<title>WIN+ Futbol</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 7	<programme channel="WIN+ Futbol" start="20240807000000 -1000" stop="20240807160000 -1000">
+		<title>WIN+ Futbol</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 7	<programme channel="WIN+ Futbol" start="20240807160000 -1000" stop="20240807180000 -1000">
+		<title>Cúcuta vs Real Cartagena ~ Torneo Dimayor ~ Jornada 3</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 7	<programme channel="WIN+ Futbol" start="20240807180000 -1000" stop="20240807190000 -1000">
+		<title>Fútbol Previa: Liga Dimayor</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 7	<programme channel="WIN+ Futbol" start="20240807190000 -1000" stop="20240807210000 -1000">
+		<title>Bucaramanga vs Santa Fe ~ Liga Dimayor ~ Jornada 4</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 7	<programme channel="WIN+ Futbol" start="20240807210000 -1000" stop="20240808000000 -1000">
+		<title>WIN+ Futbol</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+*****************************************************************************************************
+	<channel id="TNT Sports Chile">
+		<display-name>TNT Sports Chile</display-name>
+	</channel>
+DOM 21	<programme channel="TNT Sports Chile" start="20240721195000 -1000" stop="20240722000000 -1000">
+		<title>TNT Sports Chile</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+*****************************************************************************************************
+	<channel id="TNT Sports Premium Chile">
+		<display-name>TNT Sports Premium Chile</display-name>
+	</channel>
+VIE 9	<programme channel="TNT Sports Premium Chile" start="20240809000000 -1000" stop="20240809140000 -1000">
+		<title>TNT Sports Premium Chile</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 9	<programme channel="TNT Sports Premium Chile" start="20240809140000 -1000" stop="20240809160000 -1000">
+		<title>Palestino vs O´Higgins ~ 1ra Division / F19</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 9	<programme channel="TNT Sports Premium Chile" start="20240809160000 -1000" stop="20240809170000 -1000">
+		<title>TNT Sports Premium Chile</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 9	<programme channel="TNT Sports Premium Chile" start="20240809170000 -1000" stop="20240809190000 -1000">
+		<title>Huachipato vs Cobresal ~ 1ra Division / F19</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 9	<programme channel="TNT Sports Premium Chile" start="20240809190000 -1000" stop="20240809193000 -1000">
+		<title>TNT Sports Premium Chile</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 9	<programme channel="TNT Sports Premium Chile" start="20240809193000 -1000" stop="20240809213000 -1000">
+		<title>Cobreloa vs Union La Calera ~ 1ra Division / F19</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 9	<programme channel="TNT Sports Premium Chile" start="20240809213000 -1000" stop="20240810000000 -1000">
+		<title>TNT Sports Premium Chile</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 10	<programme channel="TNT Sports Premium Chile" start="20240810000000 -1000" stop="20240810110000 -1000">
+		<title>TNT Sports Premium Chile</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 10	<programme channel="TNT Sports Premium Chile" start="20240810110000 -1000" stop="20240810130000 -1000">
+		<title>Copiapó vs Ñublense ~ 1ra Division / F19</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 10	<programme channel="TNT Sports Premium Chile" start="20240810130000 -1000" stop="20240810140000 -1000">
+		<title>TNT Sports Premium Chile</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 10	<programme channel="TNT Sports Premium Chile" start="20240810140000 -1000" stop="20240810160000 -1000">
+		<title>Universidad de Chile vs Colo Colo ~ 1ra Division / F19</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 10	<programme channel="TNT Sports Premium Chile" start="20240810160000 -1000" stop="20240810180000 -1000">
+		<title>TNT Sports Premium Chile</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 10	<programme channel="TNT Sports Premium Chile" start="20240810180000 -1000" stop="20240810200000 -1000">
+		<title>Coquimbo Unido vs Iquique ~ 1ra Division / F19</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 10	<programme channel="TNT Sports Premium Chile" start="20240810200000 -1000" stop="20240811000000 -1000">
+		<title>TNT Sports Premium Chile</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 11	<programme channel="TNT Sports Premium Chile" start="20240811000000 -1000" stop="20240811113000 -1000">
+		<title>TNT Sports Premium Chile</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 11	<programme channel="TNT Sports Premium Chile" start="20240811113000 -1000" stop="20240811133000 -1000">
+		<title>Audax Italiano vs Union Española ~ 1ra Division / F19</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 11	<programme channel="TNT Sports Premium Chile" start="20240811133000 -1000" stop="20240811140000 -1000">
+		<title>TNT Sports Premium Chile</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 11	<programme channel="TNT Sports Premium Chile" start="20240811140000 -1000" stop="20240811160000 -1000">
+		<title>Everton vs Universidad Catolica ~ 1ra Division / F19</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 11	<programme channel="TNT Sports Premium Chile" start="20240811160000 -1000" stop="20240812000000 -1000">
+		<title>TNT Sports Premium Chile</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+*****************************************************************************************************
+	<channel id="GOLTV">
+		<display-name>GOLTV</display-name>
+	</channel>
+DOM 21	<programme channel="GOLTV" start="20240721000000 -1000" stop="20240722000000 -1000">
+		<title>GOLTV</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+*****************************************************************************************************
+	<channel id="VTVplus">
+		<display-name>VTVplus</display-name>
+	</channel>
+SAB 20	<programme channel="VTVplus" start="20240720000000 -1000" stop="20240720103000 -1000">
+		<title>VTVplus</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 20	<programme channel="VTVplus" start="20240720103000 -1000" stop="20240720123000 -1000">
+		<title>Racing vs Wanderers ~ Futbol de Uruguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 20	<programme channel="VTVplus" start="20240720123000 -1000" stop="20240720133000 -1000">
+		<title>VTVplus</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 20	<programme channel="VTVplus" start="20240720133000 -1000" stop="20240720153000 -1000">
+		<title>Nacional vs Miramar Misiones ~ Futbol de Uruguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 20	<programme channel="VTVplus" start="20240720153000 -1000" stop="20240721000000 -1000">
+		<title>VTVplus</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 21	<programme channel="VTVplus" start="20240721000000 -1000" stop="20240721080000 -1000">
+		<title>VTVplus</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 21	<programme channel="VTVplus" start="20240721080000 -1000" stop="20240721100000 -1000">
+		<title>Liverpool vs Cerro ~ Futbol de Uruguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 21	<programme channel="VTVplus" start="20240721100000 -1000" stop="20240721103000 -1000">
+		<title>VTVplus</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 21	<programme channel="VTVplus" start="20240721103000 -1000" stop="20240721123000 -1000">
+		<title>Progreso vs Deportivo Maldonao ~ Futbol de Uruguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 21	<programme channel="VTVplus" start="20240721123000 -1000" stop="20240721140000 -1000">
+		<title>VTVplus</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 21	<programme channel="VTVplus" start="20240721140000 -1000" stop="20240721160000 -1000">
+		<title>Peñarol vs Fenix ~ Futbol de Uruguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 21	<programme channel="VTVplus" start="20240721160000 -1000" stop="20240721163000 -1000">
+		<title>VTVplus</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 21	<programme channel="VTVplus" start="20240721163000 -1000" stop="20240721183000 -1000">
+		<title>Boston River vs Danubio ~ Futbol de Uruguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 21	<programme channel="VTVplus" start="20240721183000 -1000" stop="20240722000000 -1000">
+		<title>VTVplus</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 27	<programme channel="VTVplus" start="20240727000000 -1000" stop="20240727080000 -1000">
+		<title>VTV plus</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 27	<programme channel="VTVplus" start="20240727080000 -1000" stop="20240727100000 -1000">
+		<title>Montevideo Wanderers vs Deportivo Maldonado - Futbol de Uruguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 27	<programme channel="VTVplus" start="20240727100000 -1000" stop="20240727103000 -1000">
+		<title>VTV plus</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 27	<programme channel="VTVplus" start="20240727103000 -1000" stop="20240727123000 -1000">
+		<title>Miramar Misiones vs Cerro Largo - Futbol de Uruguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 27	<programme channel="VTVplus" start="20240727123000 -1000" stop="20240727130000 -1000">
+		<title>VTV plus</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 27	<programme channel="VTVplus" start="20240727130000 -1000" stop="20240727150000 -1000">
+		<title>Fenix vs Progreso - Futbol de Uruguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 27	<programme channel="VTVplus" start="20240727150000 -1000" stop="20240727153000 -1000">
+		<title>VTV plus</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 27	<programme channel="VTVplus" start="20240727153000 -1000" stop="20240727173000 -1000">
+		<title>Peñarol vs Defensor Sporting - Futbol de Uruguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 27	<programme channel="VTVplus" start="20240727173000 -1000" stop="20240728000000 -1000">
+		<title>VTV plus</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 28	<programme channel="VTVplus" start="20240728000000 -1000" stop="20240728080000 -1000">
+		<title>VTV plus</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 28	<programme channel="VTVplus" start="20240728080000 -1000" stop="20240728100000 -1000">
+		<title>Danubio vs Liverpool - Futbol de Uruguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 28	<programme channel="VTVplus" start="20240728100000 -1000" stop="20240728103000 -1000">
+		<title>VTV plus</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 28	<programme channel="VTVplus" start="20240728103000 -1000" stop="20240728123000 -1000">
+		<title>River Plate vs Racing - Futbol de Uruguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 28	<programme channel="VTVplus" start="20240728123000 -1000" stop="20240728130000 -1000">
+		<title>VTV plus</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 28	<programme channel="VTVplus" start="20240728130000 -1000" stop="20240728150000 -1000">
+		<title>Cerro vs Rampla - Futbol de Uruguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 28	<programme channel="VTVplus" start="20240728150000 -1000" stop="20240728153000 -1000">
+		<title>VTV plus</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 28	<programme channel="VTVplus" start="20240728153000 -1000" stop="20240728173000 -1000">
+		<title>Naconal vs Boston River - Futbol de Uruguay</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 28	<programme channel="VTVplus" start="20240728173000 -1000" stop="20240729000000 -1000">
+		<title>VTV plus</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+*****************************************************************************************************
+	<channel id="TUDN MX">
+		<display-name>TUDN MX</display-name>
+	</channel>
+DOM 21	<programme channel="TUDN MX" start="20240721200000 -1000" stop="20240722000000 -1000">
+		<title>TUDN Mexico</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+*****************************************************************************************************
+	<channel id="TUDN USA">
+		<display-name>TUDN USA</display-name>
+	</channel>
+VIE 26	<programme channel="TUDN USA" start="20240726000000 -1000" stop="20240726200000 -1000">
+		<title>TUDN Estados Unidos</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 26	<programme channel="TUDN USA" start="20240726200000 -1000" stop="20240726220000 -1000">
+		<title>Pumas vs Austin ~ Leagues Cup</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 26	<programme channel="TUDN USA" start="20240726220000 -1000" stop="20240727000000 -1000">
+		<title>TUDN Estados Unidos</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 27	<programme channel="TUDN USA" start="20240727000000 -1000" stop="20240727190000 -1000">
+		<title>TUDN Estados Unidos</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 27	<programme channel="TUDN USA" start="20240727190000 -1000" stop="20240727210000 -1000">
+		<title>Houston Dynamo vs Atlas ~ Leagues Cup</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 27	<programme channel="TUDN USA" start="20240727210000 -1000" stop="20240727230000 -1000">
+		<title>Chivas vs SJ Earthquakes ~ Leagues Cup</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+SAB 27	<programme channel="TUDN USA" start="20240727230000 -1000" stop="20240728000000 -1000">
+		<title>TUDN Estados Unidos</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 28	<programme channel="TUDN USA" start="20240728000000 -1000" stop="20240728190000 -1000">
+		<title>TUDN Estados Unidos</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 28	<programme channel="TUDN USA" start="20240728190000 -1000" stop="20240728210000 -1000">
+		<title>New York City vs Queretaro ~ Leagues Cup</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 28	<programme channel="TUDN USA" start="20240728210000 -1000" stop="20240728213000 -1000">
+		<title>TUDN Estados Unidos</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 28	<programme channel="TUDN USA" start="20240728213000 -1000" stop="20240728233000 -1000">
+		<title>Leon vs Portland Timbers ~ Leagues Cup</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 28	<programme channel="TUDN USA" start="20240728233000 -1000" stop="20240729000000 -1000">
+		<title>TUDN Estados Unidos</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 2	<programme channel="TUDN USA" start="20240802000000 -1000" stop="20240802190000 -1000">
+		<title>TUDN Estados Unidos</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 2	<programme channel="TUDN USA" start="20240802190000 -1000" stop="20240802210000 -1000">
+		<title>NJ-NY Gotham FC vs Guadalajara ~ Leagues Cup</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 2	<programme channel="TUDN USA" start="20240802210000 -1000" stop="20240802213000 -1000">
+		<title>TUDN Estados Unidos</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 2	<programme channel="TUDN USA" start="20240802213000 -1000" stop="20240802233000 -1000">
+		<title>Bay FC vs America ~ Leagues Cup</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+VIE 2	<programme channel="TUDN USA" start="20240802233000 -1000" stop="20240803000000 -1000">
+		<title>TUDN Estados Unidos</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+*****************************************************************************************************
+	<channel id="Directv Sports Ecuador">
+		<display-name>Directv Sports Ecuador</display-name>
+	</channel>
+DOM 21	<programme channel="Directv Sports Ecuador" start="20240721000000 -1000" stop="20240721163000 -1000">
+		<title>DIRECTV SPORTS Ecuador</title>
+		<desc>Directv Sports para Ecuador, Colombia y Venezuela</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 21	<programme channel="Directv Sports Ecuador" start="20240721163000 -1000" stop="20240721183000 -1000">
+		<title>Leones del Norte vs Mushuc Runa ~ Copa Ecuador / 16vos</title>
+		<desc>Directv Sports para Ecuador, Colombia y Venezuela</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 21	<programme channel="Directv Sports Ecuador" start="20240721183000 -1000" stop="20240721190000 -1000">
+		<title>DIRECTV SPORTS Ecuador</title>
+		<desc>Directv Sports para Ecuador, Colombia y Venezuela</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 21	<programme channel="Directv Sports Ecuador" start="20240721190000 -1000" stop="20240721210000 -1000">
+		<title>Manta vs Deportivo Cuenca ~ Copa Ecuador / 16vos</title>
+		<desc>Directv Sports para Ecuador, Colombia y Venezuela</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+DOM 21	<programme channel="Directv Sports Ecuador" start="20240721210000 -1000" stop="20240722000000 -1000">
+		<title>DIRECTV SPORTS Ecuador</title>
+		<desc>Directv Sports para Ecuador, Colombia y Venezuela</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 23	<programme channel="Directv Sports Ecuador" start="20240723000000 -1000" stop="20240723170000 -1000">
+		<title>Directv Sports Ecuador</title>
+		<desc>Directv Sports para Ecuador, Colombia y Venezuela</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 23	<programme channel="Directv Sports Ecuador" start="20240723170000 -1000" stop="20240723190000 -1000">
+		<title>Copa Sudamericana ~ Racing Club (URU) vs Huachipato (CHi) ~ Playoffs VUELTA (IDA 3-2)</title>
+		<desc>Directv Sports para Ecuador, Colombia y Venezuela</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 23	<programme channel="Directv Sports Ecuador" start="20240723190000 -1000" stop="20240724000000 -1000">
+		<title>Directv Sports Ecuador</title>
+		<desc>Directv Sports para Ecuador, Colombia y Venezuela</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 24	<programme channel="Directv Sports Ecuador" start="20240724000000 -1000" stop="20240724193000 -1000">
+		<title>Directv Sports Ecuador</title>
+		<desc>Directv Sports para Ecuador, Colombia y Venezuela</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 24	<programme channel="Directv Sports Ecuador" start="20240724193000 -1000" stop="20240724213000 -1000">
+		<title>Copa Sudamericana ~ Bragantino (BRA) vs Barcelona (ECU) ~ Playoffs VUELTA (IDA 1-1)</title>
+		<desc>Directv Sports para Ecuador, Colombia y Venezuela</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 24	<programme channel="Directv Sports Ecuador" start="20240724213000 -1000" stop="20240725000000 -1000">
+		<title>Directv Sports Ecuador</title>
+		<desc>Directv Sports para Ecuador, Colombia y Venezuela</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 25	<programme channel="Directv Sports Ecuador" start="20240725000000 -1000" stop="20240725193000 -1000">
+		<title>Directv Sports Ecuador</title>
+		<desc>Directv Sports para Ecuador, Colombia y Venezuela</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 25	<programme channel="Directv Sports Ecuador" start="20240725193000 -1000" stop="20240725213000 -1000">
+		<title>Copa Sudamericana ~ Always Ready (BOL) vs Liga de Quito (ECU) ~ Playoffs VUELTA (IDA 0-3)</title>
+		<desc>Directv Sports para Ecuador, Colombia y Venezuela</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 25	<programme channel="Directv Sports Ecuador" start="20240725213000 -1000" stop="20240726000000 -1000">
+		<title>Directv Sports Ecuador</title>
+		<desc>Directv Sports para Ecuador, Colombia y Venezuela</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+*****************************************************************************************************
+	<channel id="beIN SPORTS">
+		<display-name>beIN SPORTS</display-name>
+	</channel>
+JUE 18	<programme channel="beIN SPORTS" start="20240718193000 -1000" stop="20240718213000 -1000">
+		<title>Copa Sudamericana ~ Liga de Quito (ECU) vs Always Ready (BOL) ~ Playoffs</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+*****************************************************************************************************
+	<channel id="beIN SPORTS XTRA">
+		<display-name>beIN SPORTS XTRA</display-name>
+	</channel>
+MIE 24	<programme channel="beIN SPORTS XTRA" start="20240724000000 -1000" stop="20240724193000 -1000">
+		<title>beIN SPORTS XTRA</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 24	<programme channel="beIN SPORTS XTRA" start="20240724193000 -1000" stop="20240724213000 -1000">
+		<title>Copa Sudamericana ~ Bragantino (BRA) vs Barcelona (ECU) ~ Playoffs VUELTA (IDA 1-1)</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 24	<programme channel="beIN SPORTS XTRA" start="20240724213000 -1000" stop="20240725000000 -1000">
+		<title>beIN SPORTS XTRA</title>
+		<desc></desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+*****************************************************************************************************
+	<channel id="ESPN Peru">
+		<display-name>ESPN Peru</display-name>
+	</channel>
+MAR 23	<programme channel="ESPN Peru" start="20240723000000 -1000" stop="20240723170000 -1000">
+		<title>ESPN Peru</title>
+		<desc>ESPN para Peru, Bolivia, Uruguay y Paraguay</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 23	<programme channel="ESPN Peru" start="20240723170000 -1000" stop="20240723190000 -1000">
+		<title>Copa Sudamericana ~ Racing Club (URU) vs Huachipato (CHi) ~ Playoffs VUELTA (IDA 3-2)</title>
+		<desc>ESPN para Peru, Bolivia, Uruguay y Paraguay</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 23	<programme channel="ESPN Peru" start="20240723190000 -1000" stop="20240723193000 -1000">
+		<title>ESPN Peru</title>
+		<desc>ESPN para Peru, Bolivia, Uruguay y Paraguay</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 23	<programme channel="ESPN Peru" start="20240723193000 -1000" stop="20240723213000 -1000">
+		<title>Copa Sudamericana ~ Internacional (BRA) vs Rosario Central (ARG) ~ Playoffs VUELTA (IDA 0-1)</title>
+		<desc>ESPN para Peru, Bolivia, Uruguay y Paraguay</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MAR 23	<programme channel="ESPN Peru" start="20240723213000 -1000" stop="20240724000000 -1000">
+		<title>ESPN Peru</title>
+		<desc>ESPN para Peru, Bolivia, Uruguay y Paraguay</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 24	<programme channel="ESPN Peru" start="20240724000000 -1000" stop="20240724170000 -1000">
+		<title>ESPN Peru</title>
+		<desc>ESPN para Peru, Bolivia, Uruguay y Paraguay</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 24	<programme channel="ESPN Peru" start="20240724170000 -1000" stop="20240724190000 -1000">
+		<title>Copa Sudamericana ~ Universidad Catolica (ECU) vs Libertad (PAR) ~ Playoffs VUELTA (IDA 0-2)</title>
+		<desc>ESPN para Peru, Bolivia, Uruguay y Paraguay</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+MIE 24	<programme channel="ESPN Peru" start="20240724190000 -1000" stop="20240725000000 -1000">
+		<title>ESPN Peru</title>
+		<desc>ESPN para Peru, Bolivia, Uruguay y Paraguay</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 25	<programme channel="ESPN Peru" start="20240725000000 -1000" stop="20240725193000 -1000">
+		<title>ESPN Peru</title>
+		<desc>ESPN para Peru, Bolivia, Uruguay y Paraguay</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 25	<programme channel="ESPN Peru" start="20240725193000 -1000" stop="20240725213000 -1000">
+		<title>Copa Sudamericana ~ Athletico Paranaense (BRA) vs Cerro Porteño (PAR) ~ Playoffs VUELTA (IDA 1-1)</title>
+		<desc>ESPN para Peru, Bolivia, Uruguay y Paraguay</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+JUE 25	<programme channel="ESPN Peru" start="20240725213000 -1000" stop="20240726000000 -1000">
+		<title>ESPN Peru</title>
+		<desc>ESPN para Peru, Bolivia, Uruguay y Paraguay</desc>
+		<icon src=""/>
+		<category>Deportivo</category>
+	</programme>
+*****************************************************************************************************
+	<channel id="ESPN Colombia">
+		<display-name>ESPN Colombia</display-name>
+	</channel>
+MIE 24	<programme channel="ESPN Colombia" start="20240724000000 -1000" stop="20240724193000 -1000">
 		<title>ESPN Colombia</title>
-		<desc></desc>
+		<desc>ESPN para Colombia, Ecuador y Venezuela</desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-SAB 29	<programme channel="ESPN" start="20240629045000 -1000" stop="20240629112000 -1000">
-		<title>Tour de Francia 2024 - Etapa 1</title>
-		<desc></desc>
+MIE 24	<programme channel="ESPN Colombia" start="20240724193000 -1000" stop="20240724213000 -1000">
+		<title>Copa Sudamericana ~ Boca Juniors (ARG) vs Ind. del Valle (ECU) ~ Playoffs VUELTA (IDA 0-0)</title>
+		<desc>ESPN para Colombia, Ecuador y Venezuela</desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-SAB 29	<programme channel="ESPN" start="20240629112000 -1000" stop="20240629122000 -1000">
-		<title>ESPN Ciclismo</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="ESPN" start="20240629122000 -1000" stop="20240629134500 -1000">
-		<title>SportsCenter+</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="ESPN" start="20240629134500 -1000" stop="20240629170000 -1000">
-		<title>EUROCOPA ~ Alemania vs Dinamarca ~ 8vos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="ESPN" start="20240629170000 -1000" stop="20240630000000 -1000">
+MIE 24	<programme channel="ESPN Colombia" start="20240724213000 -1000" stop="20240725000000 -1000">
 		<title>ESPN Colombia</title>
-		<desc></desc>
+		<desc>ESPN para Colombia, Ecuador y Venezuela</desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-DOM 30	<programme channel="ESPN" start="20240630000000 -1000" stop="20240630050000 -1000">
-		<title>ESPN Colombia</title>
-		<desc></desc>
+*****************************************************************************************************
+	<channel id="ESPN 2 Colombia">
+		<display-name>ESPN 2 Colombia</display-name>
+	</channel>
+MAR 23	<programme channel="ESPN 2 Colombia" start="20240723000000 -1000" stop="20240723193000 -1000">
+		<title>ESPN 2 Colombia</title>
+		<desc>ESPN 2 para Colombia, Ecuador y Venezuela</desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-DOM 30	<programme channel="ESPN" start="20240630050000 -1000" stop="20240630110000 -1000">
-		<title>Tour de Francia 2024 - Etapa 2</title>
-		<desc></desc>
+MAR 23	<programme channel="ESPN 2 Colombia" start="20240723193000 -1000" stop="20240723213000 -1000">
+		<title>Copa Sudamericana ~ Internacional (BRA) vs Rosario Central (ARG) ~ Playoffs VUELTA (IDA 0-1)</title>
+		<desc>ESPN 2 para Colombia, Ecuador y Venezuela</desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-DOM 30	<programme channel="ESPN" start="20240630110000 -1000" stop="20240630120000 -1000">
-		<title>ESPN Ciclismo</title>
-		<desc></desc>
+MAR 23	<programme channel="ESPN 2 Colombia" start="20240723213000 -1000" stop="20240724000000 -1000">
+		<title>ESPN 2 Colombia</title>
+		<desc>ESPN 2 para Colombia, Ecuador y Venezuela</desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-DOM 30	<programme channel="ESPN" start="20240630120000 -1000" stop="20240630134500 -1000">
-		<title>SportsCenter+</title>
-		<desc></desc>
+MIE 24	<programme channel="ESPN 2 Colombia" start="20240724000000 -1000" stop="20240724170000 -1000">
+		<title>ESPN 2 Colombia</title>
+		<desc>ESPN 2 para Colombia, Ecuador y Venezuela</desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-DOM 30	<programme channel="ESPN" start="20240630134500 -1000" stop="20240630170000 -1000">
-		<title>EUROCOPA ~ España vs Georgia ~ 8vos</title>
-		<desc></desc>
+MIE 24	<programme channel="ESPN 2 Colombia" start="20240724170000 -1000" stop="20240724190000 -1000">
+		<title>Copa Sudamericana ~ Universidad Catolica (ECU) vs Libertad (PAR) ~ Playoffs VUELTA (IDA 0-2)</title>
+		<desc>ESPN 2 para Colombia, Ecuador y Venezuela</desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-DOM 30	<programme channel="ESPN" start="20240630170000 -1000" stop="20240701000000 -1000">
-		<title>ESPN Colombia</title>
-		<desc></desc>
+MIE 24	<programme channel="ESPN 2 Colombia" start="20240724190000 -1000" stop="20240725000000 -1000">
+		<title>ESPN 2 Colombia</title>
+		<desc>ESPN 2 para Colombia, Ecuador y Venezuela</desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-LUN 1	<programme channel="ESPN" start="20240701000000 -1000" stop="20240701140000 -1000">
-		<title>ESPN Colombia</title>
-		<desc></desc>
+JUE 25	<programme channel="ESPN 2 Colombia" start="20240725000000 -1000" stop="20240725170000 -1000">
+		<title>ESPN 2 Colombia</title>
+		<desc>ESPN 2 para Colombia, Ecuador y Venezuela</desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-LUN 1	<programme channel="ESPN" start="20240701140000 -1000" stop="20240701160000 -1000">
-		<title>EUROCOPA ~ Portugal vs Eslovenia ~ 8vos</title>
-		<desc></desc>
+JUE 25	<programme channel="ESPN 2 Colombia" start="20240725170000 -1000" stop="20240725190000 -1000">
+		<title>Copa Sudamericana ~ Cuiaba (BRA) vs Palestino (CHI) ~ Playoffs VUELTA (IDA 1-1)</title>
+		<desc>ESPN 2 para Colombia, Ecuador y Venezuela</desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-LUN 1	<programme channel="ESPN" start="20240701160000 -1000" stop="20240702000000 -1000">
-		<title>ESPN Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="ESPN" start="20240702000000 -1000" stop="20240702140000 -1000">
-		<title>ESPN Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="ESPN" start="20240702140000 -1000" stop="20240702160000 -1000">
-		<title>EUROCOPA ~ Austria vs Turquía ~ 8vos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="ESPN" start="20240702160000 -1000" stop="20240703000000 -1000">
-		<title>ESPN Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 5	<programme channel="ESPN" start="20240705000000 -1000" stop="20240705140000 -1000">
-		<title>ESPN Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 5	<programme channel="ESPN" start="20240705140000 -1000" stop="20240705160000 -1000">
-		<title>EUROCOPA ~ 41 vs 42 ~ 4tos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 5	<programme channel="ESPN" start="20240705160000 -1000" stop="20240706000000 -1000">
-		<title>ESPN Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 6	<programme channel="ESPN" start="20240706000000 -1000" stop="20240706140000 -1000">
-		<title>ESPN Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 6	<programme channel="ESPN" start="20240706140000 -1000" stop="20240706160000 -1000">
-		<title>EUROCOPA ~ 43 vs 44 ~ 4tos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 6	<programme channel="ESPN" start="20240706160000 -1000" stop="20240707000000 -1000">
-		<title>ESPN Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 9	<programme channel="ESPN" start="20240709000000 -1000" stop="20240709140000 -1000">
-		<title>ESPN Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 9	<programme channel="ESPN" start="20240709140000 -1000" stop="20240709160000 -1000">
-		<title>EUROCOPA ~ 45 vs 46 ~ Semifinal 1</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 9	<programme channel="ESPN" start="20240709160000 -1000" stop="20240710000000 -1000">
-		<title>ESPN Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 10	<programme channel="ESPN" start="20240710000000 -1000" stop="20240710140000 -1000">
-		<title>ESPN Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 10	<programme channel="ESPN" start="20240710140000 -1000" stop="20240710160000 -1000">
-		<title>EUROCOPA ~ 47 vs 48 ~ Semifinal 1</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 10	<programme channel="ESPN" start="20240710160000 -1000" stop="20240711000000 -1000">
-		<title>ESPN Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 14	<programme channel="ESPN" start="20240714000000 -1000" stop="20240714140000 -1000">
-		<title>ESPN Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 14	<programme channel="ESPN" start="20240714140000 -1000" stop="20240714160000 -1000">
-		<title>EUROCOPA ~ 49 vs 50 ~ Final 1</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 14	<programme channel="ESPN" start="20240714160000 -1000" stop="20240715000000 -1000">
-		<title>ESPN Colombia</title>
-		<desc></desc>
+JUE 25	<programme channel="ESPN 2 Colombia" start="20240725190000 -1000" stop="20240726000000 -1000">
+		<title>ESPN 2 Colombia</title>
+		<desc>ESPN 2 para Colombia, Ecuador y Venezuela</desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
@@ -551,246 +1057,8 @@ DOM 14	<programme channel="ESPN" start="20240714160000 -1000" stop="202407150000
 	<channel id="ESPN Centro">
 		<display-name>ESPN Centro</display-name>
 	</channel>
-JUE 27	<programme channel="ESPN Centro" start="20240627000000 -1000" stop="20240627235959 -1000">
-		<title>EUROCOPA ~ 8vos de Final ~ SAB 29 por ESPN</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="ESPN Centro" start="20240628000000 -1000" stop="20240628235959 -1000">
-		<title>EUROCOPA ~ 8vos de Final ~ SAB 29 por ESPN</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="ESPN Centro" start="20240629000000 -1000" stop="20240629140000 -1000">
-		<title>ESPN Centroamerica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="ESPN Centro" start="20240629140000 -1000" stop="20240629160000 -1000">
-		<title>EUROCOPA ~ Alemania vs Dinamarca ~ 8vos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="ESPN Centro" start="20240629160000 -1000" stop="20240630000000 -1000">
-		<title>ESPN Centroamerica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="ESPN Centro" start="20240630000000 -1000" stop="20240630140000 -1000">
-		<title>ESPN Centroamerica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="ESPN Centro" start="20240630140000 -1000" stop="20240630160000 -1000">
-		<title>EUROCOPA ~ España vs Georgia ~ 8vos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="ESPN Centro" start="20240630160000 -1000" stop="20240701000000 -1000">
-		<title>ESPN Centroamerica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="ESPN Centro" start="20240701000000 -1000" stop="20240701140000 -1000">
-		<title>ESPN Centroamerica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="ESPN Centro" start="20240701140000 -1000" stop="20240701160000 -1000">
-		<title>EUROCOPA ~ Portugal vs Eslovenia ~ 8vos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="ESPN Centro" start="20240701160000 -1000" stop="20240702000000 -1000">
-		<title>ESPN Centroamerica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="ESPN Centro" start="20240702000000 -1000" stop="20240702140000 -1000">
-		<title>ESPN Centroamerica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="ESPN Centro" start="20240702140000 -1000" stop="20240702160000 -1000">
-		<title>EUROCOPA ~ Austria vs Turquía ~ 8vos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="ESPN Centro" start="20240702160000 -1000" stop="20240703000000 -1000">
-		<title>ESPN Centroamerica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 5	<programme channel="ESPN Centro" start="20240705000000 -1000" stop="20240705140000 -1000">
-		<title>ESPN Centroamerica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 5	<programme channel="ESPN Centro" start="20240705140000 -1000" stop="20240705160000 -1000">
-		<title>EUROCOPA ~ 41 vs 42 ~ 4tos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 5	<programme channel="ESPN Centro" start="20240705160000 -1000" stop="20240706000000 -1000">
-		<title>ESPN Centroamerica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 6	<programme channel="ESPN Centro" start="20240706000000 -1000" stop="20240706140000 -1000">
-		<title>ESPN Centroamerica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 6	<programme channel="ESPN Centro" start="20240706140000 -1000" stop="20240706160000 -1000">
-		<title>EUROCOPA ~ 43 vs 44 ~ 4tos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 6	<programme channel="ESPN Centro" start="20240706160000 -1000" stop="20240707000000 -1000">
-		<title>ESPN Centroamerica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 9	<programme channel="ESPN Centro" start="20240709000000 -1000" stop="20240709140000 -1000">
-		<title>ESPN Centroamerica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 9	<programme channel="ESPN Centro" start="20240709140000 -1000" stop="20240709160000 -1000">
-		<title>EUROCOPA ~ 45 vs 46 ~ Semifinal 1</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 9	<programme channel="ESPN Centro" start="20240709160000 -1000" stop="20240710000000 -1000">
-		<title>ESPN Centroamerica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 10	<programme channel="ESPN Centro" start="20240710000000 -1000" stop="20240710140000 -1000">
-		<title>ESPN Centroamerica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 10	<programme channel="ESPN Centro" start="20240710140000 -1000" stop="20240710160000 -1000">
-		<title>EUROCOPA ~ 47 vs 48 ~ Semifinal 1</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 10	<programme channel="ESPN Centro" start="20240710160000 -1000" stop="20240711000000 -1000">
-		<title>ESPN Centroamerica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 14	<programme channel="ESPN Centro" start="20240714000000 -1000" stop="20240714140000 -1000">
-		<title>ESPN Centroamerica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 14	<programme channel="ESPN Centro" start="20240714140000 -1000" stop="20240714160000 -1000">
-		<title>EUROCOPA ~ 49 vs 50 ~ Final 1</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 14	<programme channel="ESPN Centro" start="20240714160000 -1000" stop="20240715000000 -1000">
-		<title>ESPN Centroamerica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-*****************************************************************************************************
-	<channel id="ESPN 2">
-		<display-name>ESPN 2</display-name>
-	</channel>
-SAB 29	<programme channel="ESPN 2" start="20240629000000 -1000" stop="20240629235959 -1000">
-		<title>ESPN 2 Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="ESPN 2" start="20240630000000 -1000" stop="20240630023000 -1000">
-		<title>ESPN 2 Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="ESPN 2" start="20240630023000 -1000" stop="20240630034500 -1000">
-		<title>Campeonato Mundial de MotoGP - Motul TT Assen, Sprint Race</title>
-		<desc>Carrera esprint de la octava ronda del MotoGP temporada 2024. Desde el Circuito de Assen, en Países Bajos.</desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="ESPN 2" start="20240630034500 -1000" stop="20240630081500 -1000">
-		<title>Campeonato Mundial de MotoGP - Motul TT Assen</title>
-		<desc>Crónica de la carrera de MotoGP de Assen, disputada en Assen, Países Bajos.</desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="ESPN 2" start="20240630081500 -1000" stop="20240630120000 -1000">
-		<title>SportsCenter AM</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="ESPN 2" start="20240630081500 -1000" stop="20240630120000 -1000">
-		<title>SportsCenter AM</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="ESPN 2" start="20240630120000 -1000" stop="20240630140000 -1000">
-		<title>(R) Gran Premio de Austria: Carrera : Fórmula 1 - Gran Premio de Austria: Carrera</title>
-		<desc>Carrera principal de la ronda 11 de la FIA Fórmula 1 en su temporada 2024. Desde el circuito Red Bull Ring, en Spielberg, Austria.</desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="ESPN 2" start="20240630140000 -1000" stop="20240630160000 -1000">
-		<title>Baloncesto de la WNBA : Indiana Fever vs. Phoenix Mercury</title>
-		<desc>La gira de Caitlin Clark continúa y sus Fever visitan el Valle del Sol para enfrentarse a las Mercury. La temporada pasada ambos equipos se enfrentaron en cuatro ocasiones, con una victoria para cada uno en casa.</desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="ESPN 2" start="20240630160000 -1000" stop="20240630190000 -1000">
-		<title>(R) Campeonato Mundial de MotoGP - Motul TT Assen</title>
-		<desc>Crónica de la carrera de MotoGP de Assen, disputada en Assen, Países Bajos.</desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="ESPN 2" start="20240630190000 -1000" stop="20240630210000 -1000">
-		<title>(R) Gran Premio de Austria: Carrera : Fórmula 1 - Gran Premio de Austria: Carrera</title>
-		<desc>Carrera principal de la ronda 11 de la FIA Fórmula 1 en su temporada 2024. Desde el circuito Red Bull Ring, en Spielberg, Austria.</desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="ESPN 2" start="20240630210000 -1000" stop="20240701000000 -1000">
-		<title>ESPN 2 Colombia</title>
+MAR 9	<programme channel="ESPN Centro" start="20240709000000 -1000" stop="20240709134000 -1000">
+		<title>14:00 ~ ESPvsFRA</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
@@ -799,258 +1067,6 @@ DOM 30	<programme channel="ESPN 2" start="20240630210000 -1000" stop="2024070100
 	<channel id="Sportv">
 		<display-name>Sportv</display-name>
 	</channel>
-LUN 24	<programme channel="Sportv" start="20240624000000 -1000" stop="20240624140000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Sportv" start="20240624140000 -1000" stop="20240624160000 -1000">
-		<title>EUROCOPA ~ Croacia vs Italia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Sportv" start="20240624160000 -1000" stop="20240624170000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Sportv" start="20240624170000 -1000" stop="20240624190000 -1000">
-		<title>COPA AMERICA ~ Colombia vs Paraguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Sportv" start="20240624190000 -1000" stop="20240624200000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Sportv" start="20240624200000 -1000" stop="20240624220000 -1000">
-		<title>COPA AMERICA ~ Brasil vs Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Sportv" start="20240624220000 -1000" stop="20240625000000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Sportv" start="20240625000000 -1000" stop="20240625110000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Sportv" start="20240625110000 -1000" stop="20240625130000 -1000">
-		<title>EUROCOPA ~ Francia vs Polonia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Sportv" start="20240625130000 -1000" stop="20240625140000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Sportv" start="20240625140000 -1000" stop="20240625160000 -1000">
-		<title>EUROCOPA ~ Dinamarca vs Serbia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Sportv" start="20240625160000 -1000" stop="20240625170000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Sportv" start="20240625170000 -1000" stop="20240625190000 -1000">
-		<title>COPA AMERICA ~ Perú vs Canadá</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Sportv" start="20240625190000 -1000" stop="20240625200000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Sportv" start="20240625200000 -1000" stop="20240625220000 -1000">
-		<title>COPA AMERICA ~ Chile vs Argentina</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Sportv" start="20240625220000 -1000" stop="20240626000000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Sportv" start="20240626000000 -1000" stop="20240626110000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Sportv" start="20240626110000 -1000" stop="20240626130000 -1000">
-		<title>EUROCOPA ~ Eslovaquia vs Rumania</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Sportv" start="20240626130000 -1000" stop="20240626140000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Sportv" start="20240626140000 -1000" stop="20240626160000 -1000">
-		<title>EUROCOPA ~ Republica Checa vs Turquia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Sportv" start="20240626160000 -1000" stop="20240626170000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Sportv" start="20240626170000 -1000" stop="20240626190000 -1000">
-		<title>FUTBOL BRASILEÑO ~ (ECUvsJAM por SPORTV2)</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Sportv" start="20240626190000 -1000" stop="20240626200000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Sportv" start="20240626200000 -1000" stop="20240626220000 -1000">
-		<title>COPA AMERICA ~ Venezuela vs Mexico</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Sportv" start="20240626220000 -1000" stop="20240627000000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Sportv" start="20240627000000 -1000" stop="20240627170000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Sportv" start="20240627170000 -1000" stop="20240627190000 -1000">
-		<title>FUTBOL BRASILEÑO ~ (PANvsUSA por SPORTV2)</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Sportv" start="20240627190000 -1000" stop="20240627200000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Sportv" start="20240627200000 -1000" stop="20240627220000 -1000">
-		<title>COPA AMERICA ~ Uruguay vs Bolivia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Sportv" start="20240627220000 -1000" stop="20240628000000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Sportv" start="20240628000000 -1000" stop="20240628170000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Sportv" start="20240628170000 -1000" stop="20240628190000 -1000">
-		<title>COPA AMERICA ~ Colombia vs Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Sportv" start="20240628190000 -1000" stop="20240628200000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Sportv" start="20240628200000 -1000" stop="20240628220000 -1000">
-		<title>COPA AMERICA ~ Paraguay vs Brasil</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Sportv" start="20240628220000 -1000" stop="20240629000000 -1000">
-		<title>Sportv</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Sportv" start="20240630163000 -1000" stop="20240630183000 -1000">
-		<title>Brasileirao ~ Criciuma vs Internacional</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Sportv" start="20240630190000 -1000" stop="20240630210000 -1000">
-		<title>COPA AMERICA ~ Mexico vs Ecuador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Sportv" start="20240701170000 -1000" stop="20240701190000 -1000">
-		<title>Serie B ~ Santos vs Chapecoense</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Sportv" start="20240701200000 -1000" stop="20240701220000 -1000">
-		<title>COPA AMERICA ~ Estados Unidos vs Uruguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Sportv" start="20240702110000 -1000" stop="20240701130000 -1000">
-		<title>EUROCOPA ~ Rumania vs Paises Bajos ~ 8vos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Sportv" start="20240702140000 -1000" stop="20240701160000 -1000">
-		<title>EUROCOPA ~ Austria vs Turquia ~ 8vos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Sportv" start="20240702163000 -1000" stop="20240701183000 -1000">
-		<title>Serie B ~ Goias vs America Mineiro</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
 MAR 2	<programme channel="Sportv" start="20240702200000 -1000" stop="20240701220000 -1000">
 		<title>COPA AMERICA ~ Brasil vs Colombia</title>
 		<desc></desc>
@@ -1061,714 +1077,18 @@ MAR 2	<programme channel="Sportv" start="20240702200000 -1000" stop="20240701220
 	<channel id="Canal 4 El Salvador">
 		<display-name>Canal 4 El Salvador</display-name>
 	</channel>
-LUN 24	<programme channel="Canal 4 El Salvador" start="20240624000000 -1000" stop="20240624170000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Canal 4 El Salvador" start="20240624170000 -1000" stop="20240624190000 -1000">
-		<title>COPA AMERICA ~ Colombia vs Paraguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Canal 4 El Salvador" start="20240624190000 -1000" stop="20240624200000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Canal 4 El Salvador" start="20240624200000 -1000" stop="20240624220000 -1000">
-		<title>COPA AMERICA ~ Brasil vs Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Canal 4 El Salvador" start="20240624220000 -1000" stop="20240625000000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Canal 4 El Salvador" start="20240625000000 -1000" stop="20240625170000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Canal 4 El Salvador" start="20240625170000 -1000" stop="20240625190000 -1000">
-		<title>COPA AMERICA ~ Peru vs Canada</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Canal 4 El Salvador" start="20240625190000 -1000" stop="20240625200000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Canal 4 El Salvador" start="20240625200000 -1000" stop="20240625220000 -1000">
-		<title>COPA AMERICA ~ Chile vs Argentina</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Canal 4 El Salvador" start="20240625220000 -1000" stop="20240626000000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Canal 4 El Salvador" start="20240626000000 -1000" stop="20240626170000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Canal 4 El Salvador" start="20240626170000 -1000" stop="20240626190000 -1000">
-		<title>COPA AMERICA ~ Ecuador vs Jamaica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Canal 4 El Salvador" start="20240626190000 -1000" stop="20240626200000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Canal 4 El Salvador" start="20240626200000 -1000" stop="20240626220000 -1000">
-		<title>COPA AMERICA ~ Venezuela vs Mexico</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Canal 4 El Salvador" start="20240626220000 -1000" stop="20240627000000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Canal 4 El Salvador" start="20240627000000 -1000" stop="20240627163000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Canal 4 El Salvador" start="20240627163000 -1000" stop="20240627190000 -1000">
-		<title>COPA AMERICA ~ Panama vs Estados Unidos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Canal 4 El Salvador" start="20240627190000 -1000" stop="20240627194500 -1000">
-		<title>La Polemica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Canal 4 El Salvador" start="20240627194500 -1000" stop="20240627220000 -1000">
-		<title>COPA AMERICA ~ Bolivia vs Uruguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Canal 4 El Salvador" start="20240627220000 -1000" stop="20240628000000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Canal 4 El Salvador" start="20240628000000 -1000" stop="20240628170000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Canal 4 El Salvador" start="20240628170000 -1000" stop="20240628190000 -1000">
-		<title>COPA AMERICA ~ Colombia vs Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Canal 4 El Salvador" start="20240628190000 -1000" stop="20240628200000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Canal 4 El Salvador" start="20240628200000 -1000" stop="20240628220000 -1000">
-		<title>COPA AMERICA ~ Paraguay vs Brasil</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Canal 4 El Salvador" start="20240628220000 -1000" stop="20240629000000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Canal 4 El Salvador" start="20240629000000 -1000" stop="20240629190000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Canal 4 El Salvador" start="20240629190000 -1000" stop="20240629210000 -1000">
-		<title>COPA AMERICA ~ Argentina vs Peru</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Canal 4 El Salvador" start="20240629210000 -1000" stop="20240630000000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Canal 4 El Salvador" start="20240630000000 -1000" stop="20240630190000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Canal 4 El Salvador" start="20240630190000 -1000" stop="20240630210000 -1000">
-		<title>COPA AMERICA ~ Mexico vs Ecuador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Canal 4 El Salvador" start="20240630210000 -1000" stop="20240701000000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Canal 4 El Salvador" start="20240701000000 -1000" stop="20240701200000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Canal 4 El Salvador" start="20240701200000 -1000" stop="20240701220000 -1000">
-		<title>COPA AMERICA ~ Estados Unidos vs Uruguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Canal 4 El Salvador" start="20240701220000 -1000" stop="20240702000000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Canal 4 El Salvador" start="20240702000000 -1000" stop="20240702200000 -1000">
-		<title>Canal 4 El Salvador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Canal 4 El Salvador" start="20240702200000 -1000" stop="20240702220000 -1000">
-		<title>COPA AMERICA ~ Brasil vs Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Canal 4 El Salvador" start="20240702220000 -1000" stop="20240703000000 -1000">
+DOM 14	<programme channel="Canal 4 El Salvador" start="20240714220000 -1000" stop="20240715000000 -1000">
 		<title>Canal 4 El Salvador</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
 *****************************************************************************************************
-	<channel id="TCS+">
-		<display-name>TCS+</display-name>
+	<channel id="VIX">
+		<display-name>VIX</display-name>
 	</channel>
-SAB 29	<programme channel="TCS+" start="20240629000000 -1000" stop="20240629190000 -1000">
-		<title>TCS+</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="TCS+" start="20240629190000 -1000" stop="20240629210000 -1000">
-		<title>COPA AMERICA ~ Canada vs Chile</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="TCS+" start="20240629210000 -1000" stop="20240630000000 -1000">
-		<title>TCS+</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="TCS+" start="20240630000000 -1000" stop="20240630190000 -1000">
-		<title>TCS+</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="TCS+" start="20240630190000 -1000" stop="20240630210000 -1000">
-		<title>COPA AMERICA ~ Jamaica vs Venezuela</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="TCS+" start="20240630210000 -1000" stop="20240701000000 -1000">
-		<title>TCS+</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="TCS+" start="20240701000000 -1000" stop="20240701200000 -1000">
-		<title>TCS+</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="TCS+" start="20240701200000 -1000" stop="20240701220000 -1000">
-		<title>COPA AMERICA ~ Bolivia vs Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="TCS+" start="20240701220000 -1000" stop="20240702000000 -1000">
-		<title>TCS+</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="TCS+" start="20240702000000 -1000" stop="20240702200000 -1000">
-		<title>TCS+</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="TCS+" start="20240702200000 -1000" stop="20240702220000 -1000">
-		<title>COPA AMERICA ~ Costa Rica vs Paraguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="TCS+" start="20240702220000 -1000" stop="20240703000000 -1000">
-		<title>TCS+</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-*****************************************************************************************************
-	<channel id="TVMAX">
-		<display-name>TVMAX</display-name>
-	</channel>
-LUN 24	<programme channel="TVMAX" start="20240624000000 -1000" stop="20240624170000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="TVMAX" start="20240624170000 -1000" stop="20240624190000 -1000">
-		<title>COPA AMERICA ~ Colombia vs Paraguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="TVMAX" start="20240624190000 -1000" stop="20240624200000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="TVMAX" start="20240624200000 -1000" stop="20240624220000 -1000">
-		<title>COPA AMERICA ~ Brasil vs Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="TVMAX" start="20240624220000 -1000" stop="20240625000000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="TVMAX" start="20240625000000 -1000" stop="20240625170000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="TVMAX" start="20240625170000 -1000" stop="20240625190000 -1000">
-		<title>COPA AMERICA ~ Peru vs Paraguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="TVMAX" start="20240625190000 -1000" stop="20240625200000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="TVMAX" start="20240625200000 -1000" stop="20240625220000 -1000">
-		<title>COPA AMERICA ~ Chile vs Argentina</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="TVMAX" start="20240625220000 -1000" stop="20240626000000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="TVMAX" start="20240626000000 -1000" stop="20240626170000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="TVMAX" start="20240626170000 -1000" stop="20240626190000 -1000">
-		<title>COPA AMERICA ~ Ecuador vs Jamaica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="TVMAX" start="20240626190000 -1000" stop="20240626200000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="TVMAX" start="20240626200000 -1000" stop="20240626220000 -1000">
-		<title>COPA AMERICA ~ Venezuela vs Mexico</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="TVMAX" start="20240626220000 -1000" stop="20240627000000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="TVMAX" start="20240627000000 -1000" stop="20240627170000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="TVMAX" start="20240627170000 -1000" stop="20240627190000 -1000">
-		<title>COPA AMERICA ~ Panama vs Estados Unidos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="TVMAX" start="20240627190000 -1000" stop="20240627200000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="TVMAX" start="20240627200000 -1000" stop="20240627220000 -1000">
-		<title>COPA AMERICA ~ Uruguay vs Bolivia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="TVMAX" start="20240627220000 -1000" stop="20240628000000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="TVMAX" start="20240628000000 -1000" stop="20240628170000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="TVMAX" start="20240628170000 -1000" stop="20240628190000 -1000">
-		<title>COPA AMERICA ~ Colombia vs Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="TVMAX" start="20240628190000 -1000" stop="20240628200000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="TVMAX" start="20240628200000 -1000" stop="20240628220000 -1000">
-		<title>COPA AMERICA ~ Paraguay vs Brasil</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="TVMAX" start="20240628220000 -1000" stop="20240629000000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="TVMAX" start="20240629000000 -1000" stop="20240629190000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="TVMAX" start="20240629190000 -1000" stop="20240629210000 -1000">
-		<title>COPA AMERICA ~ Argentina vs Peru</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="TVMAX" start="20240629210000 -1000" stop="20240630000000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="TVMAX" start="20240630000000 -1000" stop="20240630190000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="TVMAX" start="20240630190000 -1000" stop="20240630210000 -1000">
-		<title>COPA AMERICA ~ Mexico vs Ecuador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="TVMAX" start="20240630210000 -1000" stop="20240701000000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="TVMAX" start="20240701000000 -1000" stop="20240701200000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="TVMAX" start="20240701200000 -1000" stop="20240701220000 -1000">
-		<title>COPA AMERICA ~ Estados Unidos vs Uruguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="TVMAX" start="20240701220000 -1000" stop="20240702000000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="TVMAX" start="20240702000000 -1000" stop="20240702200000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="TVMAX" start="20240702200000 -1000" stop="20240702220000 -1000">
-		<title>COPA AMERICA ~ Brasil vs Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="TVMAX" start="20240702220000 -1000" stop="20240703000000 -1000">
-		<title>TVMAX Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-*****************************************************************************************************
-	<channel id="VIX evento A">
-		<display-name>VIX evento A</display-name>
-	</channel>
-LUN 24	<programme channel="VIX evento A" start="20240624140000 -1000" stop="20240624160000 -1000">
-		<title>*EUROCOPA ~ Albania vs España ~ Grupo B / J3</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="VIX evento A" start="20240624170000 -1000" stop="20240624190000 -1000">
-		<title>COPA AMERICA ~ Colombia vs Paraguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="VIX evento A" start="20240624200000 -1000" stop="20240624220000 -1000">
-		<title>COPA AMERICA ~ Brasil vs Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="VIX evento A" start="20240625110000 -1000" stop="20240625130000 -1000">
-		<title>EUROCOPA ~ Francia vs Polonia ~ Grupo D / J3</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="VIX evento A" start="20240625140000 -1000" stop="20240625160000 -1000">
-		<title>EUROCOPA ~ Dinamarca vs Serbia ~ Grupo C / J3</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="VIX evento A" start="20240625170000 -1000" stop="20240625190000 -1000">
-		<title>COPA AMERICA ~ Peru vs Canada</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="VIX evento A" start="20240625190000 -1000" stop="20240625200000 -1000">
-		<title>🇺🇸 VIX evento A & VIX evento A 🇲🇽</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="VIX evento A" start="20240625200000 -1000" stop="20240625220000 -1000">
-		<title>COPA AMERICA ~ Chile vs Argentina</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="VIX evento A" start="20240625220000 -1000" stop="20240626000000 -1000">
-		<title>🇺🇸 VIX evento A & VIX evento A 🇲🇽</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="VIX evento A" start="20240626000000 -1000" stop="20240626110000 -1000">
-		<title>🇺🇸 VIX evento A & VIX evento A 🇲🇽</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="VIX evento A" start="20240626110000 -1000" stop="20240626130000 -1000">
-		<title>EUROCOPA ~ Ucrania vs Belgica ~ Grupo E / J3</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="VIX evento A" start="20240626130000 -1000" stop="20240626140000 -1000">
-		<title>🇺🇸 VIX evento A & VIX evento A 🇲🇽</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="VIX evento A" start="20240626140000 -1000" stop="20240626160000 -1000">
-		<title>EUROCOPA ~ Republica Checa vs Turquia ~ Grupo F / J3</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="VIX evento A" start="20240626160000 -1000" stop="20240626170000 -1000">
-		<title>🇺🇸 VIX evento A & VIX evento A 🇲🇽</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="VIX evento A" start="20240626170000 -1000" stop="20240626190000 -1000">
-		<title>COPA AMERICA ~ Ecuador vs Jamaica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="VIX evento A" start="20240626190000 -1000" stop="20240626200000 -1000">
-		<title>🇺🇸 VIX evento A & VIX evento A 🇲🇽</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="VIX evento A" start="20240626200000 -1000" stop="20240626220000 -1000">
-		<title>COPA AMERICA ~ Venezuela vs Mexico</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="VIX evento A" start="20240626220000 -1000" stop="20240627000000 -1000">
-		<title>🇺🇸 VIX evento A & VIX evento A 🇲🇽</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="VIX evento A" start="20240627170000 -1000" stop="20240627190000 -1000">
-		<title>COPA AMERICA ~ Panama vs Estados Unidos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="VIX evento A" start="20240627200000 -1000" stop="20240627220000 -1000">
-		<title>COPA AMERICA ~ Uruguay vs Bolivia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="VIX evento A" start="20240628170000 -1000" stop="20240628190000 -1000">
-		<title>COPA AMERICA ~ Colombia vs Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="VIX evento A" start="20240628200000 -1000" stop="20240628220000 -1000">
-		<title>COPA AMERICA ~ Paraguay vs Brasil</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="VIX evento A" start="20240629110000 -1000" stop="20240629130000 -1000">
-		<title>EUROCOPA ~ Suiza vs Italia ~ 8vos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="VIX evento A" start="20240629130000 -1000" stop="20240629140000 -1000">
-		<title>NEXT ~ ALEvsDIN</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="VIX evento A" start="20240629140000 -1000" stop="20240629160000 -1000">
-		<title>EUROCOPA ~ Alemania vs Dinamarca ~ 8vos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="VIX evento A" start="20240629190000 -1000" stop="20240629210000 -1000">
-		<title>COPA AMERICA ~ Argentina vs Peru</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="VIX evento A" start="20240630190000 -1000" stop="20240630210000 -1000">
-		<title>COPA AMERICA ~ Jamaica vs Venezuela</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="VIX evento A" start="20240701200000 -1000" stop="20240701220000 -1000">
-		<title>COPA AMERICA ~ Bolivia vs Panama</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="VIX evento A" start="20240702200000 -1000" stop="20240702220000 -1000">
-		<title>COPA AMERICA ~ Costa Rica vs Paraguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-*****************************************************************************************************
-	<channel id="VIX evento B">
-		<display-name>VIX evento B</display-name>
-	</channel>
-SAB 29	<programme channel="VIX evento B" start="20240629190000 -1000" stop="20240629210000 -1000">
-		<title>COPA AMERICA ~ Canada vs Chile</title>
+DOM 14	<programme channel="VIX" start="20240714220000 -1000" stop="20240715000000 -1000">
+		<title>VIX</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
@@ -1777,144 +1097,8 @@ SAB 29	<programme channel="VIX evento B" start="20240629190000 -1000" stop="2024
 	<channel id="Canales Varios">
 		<display-name>Canales Varios</display-name>
 	</channel>
-LUN 24	<programme channel="Canales Varios" start="20240624170000 -1000" stop="20240624190000 -1000">
-		<title>COPA AMERICA ~ Colombia vs Paraguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Canales Varios" start="20240624200000 -1000" stop="20240624220000 -1000">
-		<title>COPA AMERICA ~ Brasil vs Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Canales Varios" start="20240625170000 -1000" stop="20240625190000 -1000">
-		<title>COPA AMERICA ~ Peru vs Canada</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Canales Varios" start="20240625200000 -1000" stop="20240625220000 -1000">
-		<title>COPA AMERICA ~ Chile vs Argentina</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Canales Varios" start="20240626170000 -1000" stop="20240626190000 -1000">
-		<title>COPA AMERICA ~ Ecuador vs Jamaica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Canales Varios" start="20240626200000 -1000" stop="20240626220000 -1000">
-		<title>COPA AMERICA ~ Venezuela vs Mexico</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Canales Varios" start="20240627170000 -1000" stop="20240627190000 -1000">
-		<title>COPA AMERICA ~ Panama vs Estados Unidos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Canales Varios" start="20240627200000 -1000" stop="20240627220000 -1000">
-		<title>COPA AMERICA ~ Uruguay vs Bolivia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Canales Varios" start="20240628170000 -1000" stop="20240628190000 -1000">
-		<title>COPA AMERICA ~ Colombia vs Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Canales Varios" start="20240628200000 -1000" stop="20240628220000 -1000">
-		<title>COPA AMERICA ~ Paraguay vs Brasil</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Canales Varios" start="20240629190000 -1000" stop="20240629210000 -1000">
-		<title>COPA AMERICA ~ Argentina vs Peru</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Canales Varios" start="20240630190000 -1000" stop="20240630210000 -1000">
-		<title>COPA AMERICA ~ Mexico vs Ecuador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Canales Varios" start="20240701200000 -1000" stop="20240701220000 -1000">
-		<title>COPA AMERICA ~ Estados Unidos vs Uruguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Canales Varios" start="20240702200000 -1000" stop="20240702220000 -1000">
-		<title>COPA AMERICA ~ Brasil vs Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-*****************************************************************************************************
-	<channel id="Paraguay">
-		<display-name>Paraguay</display-name>
-	</channel>
-LUN 24	<programme channel="Paraguay" start="20240624000000 -1000" stop="20240624170000 -1000">
-		<title>17:00 ~ COLvsPAR</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Paraguay" start="20240624170000 -1000" stop="20240624190000 -1000">
-		<title>COPA AMERICA ~ Colombia vs Paraguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Paraguay" start="20240624190000 -1000" stop="20240625000000 -1000">
-		<title>Canales de Paraguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Paraguay" start="20240628000000 -1000" stop="20240628200000 -1000">
-		<title>20:00 ~ PARvsBRA</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Paraguay" start="20240628200000 -1000" stop="20240628220000 -1000">
-		<title>COPA AMERICA ~ Paraguay vs Brasil</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Paraguay" start="20240628220000 -1000" stop="20240629000000 -1000">
-		<title>Canales de Paraguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Paraguay" start="20240702000000 -1000" stop="20240702200000 -1000">
-		<title>20:00 ~ CRCvsPAR</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Paraguay" start="20240702200000 -1000" stop="20240702220000 -1000">
-		<title>COPA AMERICA ~ Costa Rica vs Paraguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Paraguay" start="20240702220000 -1000" stop="20240702000000 -1000">
-		<title>Canales de Paraguay</title>
+DOM 14	<programme channel="Canales Varios" start="20240714220000 -1000" stop="20240715000000 -1000">
+		<title>Canales Varios</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
@@ -1923,222 +1107,8 @@ MAR 2	<programme channel="Paraguay" start="20240702220000 -1000" stop="202407020
 	<channel id="Colombia">
 		<display-name>Colombia</display-name>
 	</channel>
-LUN 24	<programme channel="Colombia" start="20240624000000 -1000" stop="20240624170000 -1000">
-		<title>17:00 ~ COLvsPAR</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Colombia" start="20240624170000 -1000" stop="20240624190000 -1000">
-		<title>COPA AMERICA ~ Colombia vs Paraguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Colombia" start="20240624190000 -1000" stop="20240625000000 -1000">
+DOM 14	<programme channel="Colombia" start="20240714210000 -1000" stop="20240715000000 -1000">
 		<title>Canales de Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Colombia" start="20240628000000 -1000" stop="20240628170000 -1000">
-		<title>17:00 ~ COLvsCRC</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Colombia" start="20240628170000 -1000" stop="20240628190000 -1000">
-		<title>COPA AMERICA ~ Colombia vs Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Colombia" start="20240628190000 -1000" stop="20240629000000 -1000">
-		<title>Canales de Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Colombia" start="20240702000000 -1000" stop="20240702200000 -1000">
-		<title>20:00 ~ BRAvsCOL</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Colombia" start="20240702200000 -1000" stop="20240702220000 -1000">
-		<title>COPA AMERICA ~ Brasil vs Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Colombia" start="20240702220000 -1000" stop="20240703000000 -1000">
-		<title>Canales de Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-*****************************************************************************************************
-	<channel id="Win Sports +">
-		<display-name>Win Sports +</display-name>
-	</channel>
-LUN 24	<programme channel="Win Sports +" start="20240624000000 -1000" stop="20240624200000 -1000">
-		<title>20:00 ~ BRAvsCRC</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Win Sports +" start="20240624200000 -1000" stop="20240624220000 -1000">
-		<title>COPA AMERICA ~ Brasil vs Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Win Sports +" start="20240624220000 -1000" stop="20240625000000 -1000">
-		<title>Win Sports +</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Win Sports +" start="20240626000000 -1000" stop="20240626200000 -1000">
-		<title>20:00 ~ VENvsMEX</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Win Sports +" start="20240626200000 -1000" stop="20240626220000 -1000">
-		<title>COPA AMERICA ~ Venezuela vs Mexico</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Win Sports +" start="20240626220000 -1000" stop="20240627000000 -1000">
-		<title>Win Sports +</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Win Sports +" start="20240627000000 -1000" stop="20240627170000 -1000">
-		<title>17:00 ~ PANvsUSA</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Win Sports +" start="20240627170000 -1000" stop="20240627190000 -1000">
-		<title>COPA AMERICA ~ Panama vs Estados Unidos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Win Sports +" start="20240627190000 -1000" stop="20240628000000 -1000">
-		<title>Win Sports +</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Win Sports +" start="20240629000000 -1000" stop="20240629190000 -1000">
-		<title>19:00 ~ ARGvsPER</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Win Sports +" start="20240629190000 -1000" stop="20240629210000 -1000">
-		<title>COPA AMERICA ~ Argentina vs Peru</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Win Sports +" start="20240629210000 -1000" stop="20240629220000 -1000">
-		<title>Futbol Previa</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Win Sports +" start="20240629220000 -1000" stop="20240630000000 -1000">
-		<title>Cruz Azul vs America de Cali ~ Copa Fundadores 2024</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Win Sports +" start="20240630000000 -1000" stop="20240630110000 -1000">
-		<title>Win Sports +</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Win Sports +" start="20240630110000 -1000" stop="20240630113000 -1000">
-		<title>Futbol Previa</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Win Sports +" start="20240630113000 -1000" stop="20240630133000 -1000">
-		<title>Bolivar vs Atletico Nacional ~ FINAL ~ Copa Ciudad de los Reyes</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Win Sports +" start="20240630133000 -1000" stop="20240630140000 -1000">
-		<title>Campañas</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Win Sports +" start="20240630140000 -1000" stop="20240630160000 -1000">
-		<title>(R) COPA AMERICA ~ Argentina vs Peru</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Win Sports +" start="20240630160000 -1000" stop="20240630163000 -1000">
-		<title>Futbol Previa</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Win Sports +" start="20240630163000 -1000" stop="20240630183000 -1000">
-		<title>Alianza Lima vs Sporting Cristal ~ 3er Puesto ~ Copa Ciudad de los Reyes</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Win Sports +" start="20240630183000 -1000" stop="20240630190000 -1000">
-		<title>Futbol Previa</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Win Sports +" start="20240630190000 -1000" stop="20240630210000 -1000">
-		<title>COPA AMERICA ~ Jamaica vs Venezuela</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Win Sports +" start="20240630210000 -1000" stop="20240630220000 -1000">
-		<title>Win + Noticias noche</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Win Sports +" start="20240630220000 -1000" stop="20240701000000 -1000">
-		<title>(R) COPA AMERICA ~ Jamaica vs Venezuela</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Win Sports +" start="20240701000000 -1000" stop="20240701200000 -1000">
-		<title>20:00 ~ USAvsURU</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Win Sports +" start="20240701200000 -1000" stop="20240701220000 -1000">
-		<title>COPA AMERICA ~ Estados Unidos vs Uruguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Win Sports +" start="20240701220000 -1000" stop="20240702000000 -1000">
-		<title>Win Sports +</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
@@ -2147,157 +1117,7 @@ LUN 1	<programme channel="Win Sports +" start="20240701220000 -1000" stop="20240
 	<channel id="Costa Rica">
 		<display-name>Costa Rica</display-name>
 	</channel>
-LUN 24	<programme channel="Costa Rica" start="20240624000000 -1000" stop="20240624200000 -1000">
-		<title>20:00 ~ BRAvsCRC</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Costa Rica" start="20240624200000 -1000" stop="20240624220000 -1000">
-		<title>COPA AMERICA ~ Brasil vs Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Costa Rica" start="20240624220000 -1000" stop="20240625000000 -1000">
-		<title>Canales de Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Costa Rica" start="20240625000000 -1000" stop="20240625200000 -1000">
-		<title>20:00 ~ CHIvsARG</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Costa Rica" start="20240625200000 -1000" stop="20240625220000 -1000">
-		<title>COPA AMERICA ~ Chile vs Argentina</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Costa Rica" start="20240625220000 -1000" stop="20240626000000 -1000">
-		<title>Canales de Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Costa Rica" start="20240627000000 -1000" stop="20240627170000 -1000">
-		<title>17:00 ~ PANvsUSA</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Costa Rica" start="20240627170000 -1000" stop="20240627190000 -1000">
-		<title>COPA AMERICA ~ Panama vs Estados Unidos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Costa Rica" start="20240627190000 -1000" stop="20240628000000 -1000">
-		<title>Canales de Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Costa Rica" start="20240628000000 -1000" stop="20240628170000 -1000">
-		<title>17:00 ~ COLvsCRC</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Costa Rica" start="20240628170000 -1000" stop="20240628190000 -1000">
-		<title>COPA AMERICA ~ Colombia vs Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Costa Rica" start="20240628190000 -1000" stop="20240628200000 -1000">
-		<title>20:00 ~ PARvsBRA</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Costa Rica" start="20240628200000 -1000" stop="20240628220000 -1000">
-		<title>COPA AMERICA ~ Paraguay vs Brasil</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Costa Rica" start="20240628220000 -1000" stop="20240629000000 -1000">
-		<title>Canales de Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Costa Rica" start="20240629000000 -1000" stop="20240629190000 -1000">
-		<title>19:00 ~ ARGvsPER</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Costa Rica" start="20240629190000 -1000" stop="20240629210000 -1000">
-		<title>COPA AMERICA ~ Argentina vs Peru</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Costa Rica" start="20240629210000 -1000" stop="20240630000000 -1000">
-		<title>Canales de Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Costa Rica" start="20240630000000 -1000" stop="20240630190000 -1000">
-		<title>19:00 ~ MEXvsECU</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Costa Rica" start="20240630190000 -1000" stop="20240630210000 -1000">
-		<title>COPA AMERICA ~ Mexico vs Ecuador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Costa Rica" start="20240630210000 -1000" stop="20240701000000 -1000">
-		<title>Canales de Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Costa Rica" start="20240701000000 -1000" stop="20240701200000 -1000">
-		<title>19:00 ~ USAvsURU</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Costa Rica" start="20240701200000 -1000" stop="20240701220000 -1000">
-		<title>COPA AMERICA ~ Estados Unidos vs Uruguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Costa Rica" start="20240701220000 -1000" stop="20240702000000 -1000">
-		<title>Canales de Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Costa Rica" start="20240702000000 -1000" stop="20240702200000 -1000">
-		<title>19:00 ~ CRCvsPAR</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Costa Rica" start="20240702200000 -1000" stop="20240702220000 -1000">
-		<title>COPA AMERICA ~ Costa Rica vs Paraguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Costa Rica" start="20240702220000 -1000" stop="20240703000000 -1000">
+DOM 14	<programme channel="Costa Rica" start="20240714220000 -1000" stop="20240715000000 -1000">
 		<title>Canales de Costa Rica</title>
 		<desc></desc>
 		<icon src=""/>
@@ -2307,158 +1127,8 @@ MAR 2	<programme channel="Costa Rica" start="20240702220000 -1000" stop="2024070
 	<channel id="Mexico">
 		<display-name>Mexico</display-name>
 	</channel>
-MAR 25	<programme channel="Mexico" start="20240625000000 -1000" stop="20240625200000 -1000">
-		<title>20:00 ~ CHIvsARG</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Mexico" start="20240625200000 -1000" stop="20240625220000 -1000">
-		<title>COPA AMERICA ~ Chile vs Argentina</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Mexico" start="20240625220000 -1000" stop="20240626000000 -1000">
+DOM 14	<programme channel="Mexico" start="20240714220000 -1000" stop="20240715000000 -1000">
 		<title>Canales de Mexico</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Mexico" start="20240626000000 -1000" stop="20240626200000 -1000">
-		<title>20:00 ~ VENvsMEX</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Mexico" start="20240626200000 -1000" stop="20240626220000 -1000">
-		<title>COPA AMERICA ~ Venezuela vs Mexico</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Mexico" start="20240626220000 -1000" stop="20240627000000 -1000">
-		<title>Canales de Mexico</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Mexico" start="20240628000000 -1000" stop="20240628200000 -1000">
-		<title>20:00 ~ PARvsBRA</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Mexico" start="20240628200000 -1000" stop="20240628220000 -1000">
-		<title>COPA AMERICA ~ Paraguay vs Brasil</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Mexico" start="20240628220000 -1000" stop="20240629000000 -1000">
-		<title>Canales de Mexico</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Mexico" start="20240629000000 -1000" stop="20240629190000 -1000">
-		<title>19:00 ~ ARGvsPER</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Mexico" start="20240629190000 -1000" stop="20240629210000 -1000">
-		<title>COPA AMERICA ~ Argentina vs Peru</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Mexico" start="20240629210000 -1000" stop="20240630000000 -1000">
-		<title>Canales de Mexico</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Mexico" start="20240630000000 -1000" stop="20240630190000 -1000">
-		<title>19:00 ~ MEXvsECU</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Mexico" start="20240630190000 -1000" stop="20240630210000 -1000">
-		<title>COPA AMERICA ~ Mexico vs Ecuador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Mexico" start="20240630210000 -1000" stop="20240701000000 -1000">
-		<title>Canales de Mexico</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Mexico" start="20240701000000 -1000" stop="20240701110000 -1000">
-		<title>11:00 ~ FRAvsBEL ~ NO AZTECA 7</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Mexico" start="20240701110000 -1000" stop="20240701130000 -1000">
-		<title>EUROCOPA ~ Francia vs Belgica ~ 8vos ~ NO AZTECA 7</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Mexico" start="20240701130000 -1000" stop="20240701200000 -1000">
-		<title>20:00 ~ USAvsURU</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Mexico" start="20240701200000 -1000" stop="20240701220000 -1000">
-		<title>COPA AMERICA ~ Estados Unidos vs Uruguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Mexico" start="20240701220000 -1000" stop="20240702000000 -1000">
-		<title>Canales de Mexico</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Mexico" start="20240702000000 -1000" stop="20240702110000 -1000">
-		<title>11:00 ~ RUMvsNET ~ NO AZTECA 7</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Mexico" start="20240702110000 -1000" stop="20240702130000 -1000">
-		<title>EUROCOPA ~ Rumania vs Paises Bajos ~ 8vos ~ NO AZTECA 7</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Mexico" start="20240702130000 -1000" stop="20240702200000 -1000">
-		<title>20:00 ~ BRAvsCOL</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Mexico" start="20240702200000 -1000" stop="20240702220000 -1000">
-		<title>COPA AMERICA ~ Brasil vs Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Mexico" start="20240702220000 -1000" stop="20240703000000 -1000">
-		<title>Canales de Mexico</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 14	<programme channel="Mexico" start="20240714140000 -1000" stop="20240714170000 -1000">
-		<title>EUROCOPA FINAL ~ NO AZTECA 7</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
@@ -2467,176 +1137,8 @@ DOM 14	<programme channel="Mexico" start="20240714140000 -1000" stop="2024071417
 	<channel id="TUDN USA">
 		<display-name>TUDN USA</display-name>
 	</channel>
-VIE 28	<programme channel="TUDN USA" start="20240628000000 -1000" stop="20240628150000 -1000">
+DOM 14	<programme channel="TUDN USA" start="20240714220000 -1000" stop="20240715000000 -1000">
 		<title>TUDN USA</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="TUDN USA" start="20240628150000 -1000" stop="20240628160000 -1000">
-		<title>Copa America en 60 ~ COLvsPAR</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="TUDN USA" start="20240628160000 -1000" stop="20240628163000 -1000">
-		<title>Futbol Central</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="TUDN USA" start="20240628163000 -1000" stop="20240628190000 -1000">
-		<title>COPA AMERICA ~ Colombia vs Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="TUDN USA" start="20240628190000 -1000" stop="20240628193000 -1000">
-		<title>Futbol Central</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="TUDN USA" start="20240628193000 -1000" stop="20240628220000 -1000">
-		<title>COPA AMERICA ~ Paraguay vs Brasil</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="TUDN USA" start="20240628220000 -1000" stop="20240628230000 -1000">
-		<title>Linea de Cuatro</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="TUDN USA" start="20240628230000 -1000" stop="20240629000000 -1000">
-		<title>Contacto Deportivo</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="TUDN USA" start="20240629000000 -1000" stop="20240629100000 -1000">
-		<title>11:00 ~ SUIvsITA</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="TUDN USA" start="20240629100000 -1000" stop="20240629103000 -1000">
-		<title>Futbol Central</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="TUDN USA" start="20240629103000 -1000" stop="20240629130000 -1000">
-		<title>EUROCOPA ~ Suiza vs Italia ~ 8vos de Final</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="TUDN USA" start="20240629130000 -1000" stop="20240629140000 -1000">
-		<title>Linea de Cuatro</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="TUDN USA" start="20240629140000 -1000" stop="20240629180000 -1000">
-		<title>19:00 ~ ARGvsPER</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="TUDN USA" start="20240629180000 -1000" stop="20240629183000 -1000">
-		<title>Futbol Central</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="TUDN USA" start="20240629183000 -1000" stop="20240629210000 -1000">
-		<title>COPA AMERICA ~ Argentina vs Peru</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="TUDN USA" start="20240629210000 -1000" stop="20240629230000 -1000">
-		<title>Uforia: Concierto de Campeones</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="TUDN USA" start="20240629230000 -1000" stop="20240630000000 -1000">
-		<title>Linea de Cuatro</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="TUDN USA" start="20240630000000 -1000" stop="20240630100000 -1000">
-		<title>TUDN USA</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="TUDN USA" start="20240630100000 -1000" stop="20240630103000 -1000">
-		<title>Futbol Central</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="TUDN USA" start="20240630103000 -1000" stop="20240630130000 -1000">
-		<title>EUROCOPA ~ Inglaterra vs Eslovaquia ~ 8vos de Final</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="TUDN USA" start="20240630130000 -1000" stop="20240630140000 -1000">
-		<title>Linea de Cuatro</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="TUDN USA" start="20240630140000 -1000" stop="20240630150000 -1000">
-		<title>Copa America en 60 ~ VENvsMEX</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="TUDN USA" start="20240630150000 -1000" stop="20240630152000 -1000">
-		<title>Futbol Central</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="TUDN USA" start="20240630152000 -1000" stop="20240630180000 -1000">
-		<title>America vs Tigres ~ Supercopa MX</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="TUDN USA" start="20240630180000 -1000" stop="20240630183000 -1000">
-		<title>Futbol Central</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="TUDN USA" start="20240630183000 -1000" stop="20240630210000 -1000">
-		<title>COPA AMERICA ~ Mexico vs Ecuador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="TUDN USA" start="20240630210000 -1000" stop="20240630220000 -1000">
-		<title>Balon de Oro LigaMX</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="TUDN USA" start="20240630220000 -1000" stop="20240630230000 -1000">
-		<title>Linea de Cuatro</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="TUDN USA" start="20240630230000 -1000" stop="20240701000000 -1000">
-		<title>La Jugada del Verano</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
@@ -2645,193 +1147,7 @@ DOM 30	<programme channel="TUDN USA" start="20240630230000 -1000" stop="20240701
 	<channel id="Univision">
 		<display-name>Univision</display-name>
 	</channel>
-VIE 28	<programme channel="Univision" start="20240628000000 -1000" stop="20240628153000 -1000">
-		<title>Univision</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Univision" start="20240628153000 -1000" stop="20240628160000 -1000">
-		<title>Noticieron Univision</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Univision" start="20240628160000 -1000" stop="20240628163000 -1000">
-		<title>Futbol Central</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Univision" start="20240628163000 -1000" stop="20240628190000 -1000">
-		<title>COPA AMERICA ~ Colombia vs Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Univision" start="20240628190000 -1000" stop="20240628193000 -1000">
-		<title>Futbol Central</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Univision" start="20240628193000 -1000" stop="20240628220000 -1000">
-		<title>COPA AMERICA ~ Paraguay vs Brasil</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Univision" start="20240628220000 -1000" stop="20240628223000 -1000">
-		<title>Noticiero Univision</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Univision" start="20240628223000 -1000" stop="20240629000000 -1000">
-		<title>Univision</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Univision" start="20240629000000 -1000" stop="20240629100000 -1000">
-		<title>11:00 ~ SUIvsITA</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Univision" start="20240629100000 -1000" stop="20240629103000 -1000">
-		<title>Futbol Central</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Univision" start="20240629103000 -1000" stop="20240629130000 -1000">
-		<title>EUROCOPA ~ Suiza vs Italia ~ 8vos de Final</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Univision" start="20240629130000 -1000" stop="20240629173000 -1000">
-		<title>19:00 ~ ARGvsPER</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Univision" start="20240629173000 -1000" stop="20240629180000 -1000">
-		<title>Noticieron Univision</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Univision" start="20240629180000 -1000" stop="20240629183000 -1000">
-		<title>Futbol Central</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Univision" start="20240629183000 -1000" stop="20240629210000 -1000">
-		<title>COPA AMERICA ~ Argentina vs Peru</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Univision" start="20240629210000 -1000" stop="20240629230000 -1000">
-		<title>Uforia: Concierto de Campeones</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Univision" start="20240629230000 -1000" stop="20240630000000 -1000">
-		<title>Univision</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Univision" start="20240630000000 -1000" stop="20240630100000 -1000">
-		<title>Univision</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Univision" start="20240630100000 -1000" stop="20240630103000 -1000">
-		<title>Futbol Central</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Univision" start="20240630103000 -1000" stop="20240630130000 -1000">
-		<title>EUROCOPA ~ Inglaterra vs Eslovaquia ~ 8vos de Final</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Univision" start="20240630130000 -1000" stop="20240630140000 -1000">
-		<title>Aqui y Ahora</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Univision" start="20240630140000 -1000" stop="20240630143000 -1000">
-		<title>Maria de Todos los Angeles</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Univision" start="20240630143000 -1000" stop="20240630150000 -1000">
-		<title>Noticiero Univision: Fin de Semana</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Univision" start="20240630150000 -1000" stop="20240630152000 -1000">
-		<title>Futbol Central</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Univision" start="20240630152000 -1000" stop="20240630180000 -1000">
-		<title>America vs Tigres ~ Supercopa MX</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Univision" start="20240630180000 -1000" stop="20240630183000 -1000">
-		<title>Futbol Central</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Univision" start="20240630183000 -1000" stop="20240630210000 -1000">
-		<title>COPA AMERICA ~ Mexico vs Ecuador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Univision" start="20240630210000 -1000" stop="20240630220000 -1000">
-		<title>Balon de Oro LigaMX</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Univision" start="20240630220000 -1000" stop="20240630223000 -1000">
-		<title>Noticiero Univision: Fin de Semana</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Univision" start="20240630223000 -1000" stop="20240630223500 -1000">
-		<title>Sabor de mañana</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Univision" start="20240630223500 -1000" stop="20240630230000 -1000">
-		<title>Noticiero Univision: Fin de Semana</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Univision" start="20240630230000 -1000" stop="20240701000000 -1000">
+MIE 10	<programme channel="Univision" start="20240710210000 -1000" stop="20240711000000 -1000">
 		<title>Univision</title>
 		<desc></desc>
 		<icon src=""/>
@@ -2841,86 +1157,18 @@ DOM 30	<programme channel="Univision" start="20240630230000 -1000" stop="2024070
 	<channel id="Unimas">
 		<display-name>Unimas</display-name>
 	</channel>
-VIE 28	<programme channel="Unimas" start="20240628000000 -1000" stop="20240629000000 -1000">
-		<title>Sabado 19:00 ~ Canada vs Chile</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Unimas" start="20240629000000 -1000" stop="20240629160000 -1000">
-		<title>19:00 ~ CANvsCHI</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Unimas" start="20240629160000 -1000" stop="20240629180000 -1000">
-		<title>Pelicula: Ride ON (Jackie Chan)</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Unimas" start="20240629180000 -1000" stop="20240629183000 -1000">
-		<title>Futbol Central</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Unimas" start="20240629183000 -1000" stop="20240629210000 -1000">
-		<title>COPA AMERICA ~ Canada vs Chile</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Unimas" start="20240629210000 -1000" stop="20240629230000 -1000">
-		<title>Pelicula: Geotormenta</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Unimas" start="20240629230000 -1000" stop="20240630000000 -1000">
+MAR 2	<programme channel="Unimas" start="20240702220000 -1000" stop="202407030000000 -1000">
 		<title>Unimas</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
 	</programme>
-DOM 30	<programme channel="Unimas" start="20240630000000 -1000" stop="20240630123000 -1000">
-		<title>Unimas</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Unimas" start="20240630123000 -1000" stop="20240630143000 -1000">
-		<title>Pelicula: Tactical Force</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Unimas" start="20240630143000 -1000" stop="20240630160000 -1000">
-		<title>Pelicula: Piraña 3D</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Unimas" start="20240630160000 -1000" stop="20240630180000 -1000">
-		<title>Pelicula: Clash of the Titans</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Unimas" start="20240630180000 -1000" stop="20240630183000 -1000">
-		<title>Futbol Cental</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Unimas" start="20240630183000 -1000" stop="20240630210000 -1000">
-		<title>COPA AMERICA ~ Jamaica vs Venezuela</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Unimas" start="20240630210000 -1000" stop="20240630230000 -1000">
-		<title>Pelicula: Rush Hour 3 (Jackie Chan)</title>
+*****************************************************************************************************
+	<channel id="FS1">
+		<display-name>FS1</display-name>
+	</channel>
+MIE 10	<programme channel="FS1" start="20240710210000 -1000" stop="20240711000000 -1000">
+		<title>FS1</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
@@ -2929,54 +1177,6 @@ DOM 30	<programme channel="Unimas" start="20240630210000 -1000" stop="2024063023
 	<channel id="Brasil">
 		<display-name>Brasil</display-name>
 	</channel>
-LUN 24	<programme channel="Brasil" start="20240624000000 -1000" stop="20240624200000 -1000">
-		<title>20:00 ~ BRAvsCRC</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Brasil" start="20240624200000 -1000" stop="20240624220000 -1000">
-		<title>COPA AMERICA ~ Brasil vs Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Brasil" start="20240624220000 -1000" stop="20240625000000 -1000">
-		<title>GLOBO</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Brasil" start="20240628000000 -1000" stop="20240628200000 -1000">
-		<title>20:00 ~ PARvsBRA</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Brasil" start="20240628200000 -1000" stop="20240628220000 -1000">
-		<title>COPA AMERICA ~ Paraguay vs Brasil</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Brasil" start="20240628220000 -1000" stop="20240629000000 -1000">
-		<title>GLOBO</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Brasil" start="20240702000000 -1000" stop="20240702200000 -1000">
-		<title>20:00 ~ BRAvsCOL</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Brasil" start="20240702200000 -1000" stop="20240702220000 -1000">
-		<title>COPA AMERICA ~ Brasil vs Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
 MAR 2	<programme channel="Brasil" start="20240702220000 -1000" stop="20240703000000 -1000">
 		<title>GLOBO</title>
 		<desc></desc>
@@ -2984,41 +1184,11 @@ MAR 2	<programme channel="Brasil" start="20240702220000 -1000" stop="20240703000
 		<category>Deportivo</category>
 	</programme>
 *****************************************************************************************************
-	<channel id="Peru">
-		<display-name>Peru</display-name>
+	<channel id="America Television">
+		<display-name>America Television</display-name>
 	</channel>
-VIE 21	<programme channel="Peru" start="20240621000000 -1000" stop="20240621170000 -1000">
-		<title>17:00 ~ PERvsCHI</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 21 	<programme channel="Peru" start="20240621170000 -1000" stop="20240621190000 -1000">
-		<title>COPA AMERICA ~ Peru vs Chile</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Peru" start="20240625000000 -1000" stop="20240625170000 -1000">
-		<title>17:00 ~ PERvsCAN</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Peru" start="20240625170000 -1000" stop="20240625190000 -1000">
-		<title>COPA AMERICA ~ Peru vs Canada</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Peru" start="20240629000000 -1000" stop="20240629190000 -1000">
-		<title>19:00 ~ ARGvsPER</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Peru" start="20240629190000 -1000" stop="20240629210000 -1000">
-		<title>COPA AMERICA ~ Argentina vs Peru</title>
+DOM 14	<programme channel="America Television" start="20240714220000 -1000" stop="20240715000000 -1000">
+		<title>America Television</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
@@ -3027,38 +1197,8 @@ SAB 29	<programme channel="Peru" start="20240629190000 -1000" stop="202406292100
 	<channel id="Chile">
 		<display-name>Chile</display-name>
 	</channel>
-VIE 21	<programme channel="Chile" start="20240621000000 -1000" stop="20240621190000 -1000">
-		<title>19:00 ~ PERvsCHI</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 21	<programme channel="Chile" start="20240621190000 -1000" stop="20240621210000 -1000">
-		<title>COPA AMERICA ~ Peru vs Chile</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Chile" start="20240625000000 -1000" stop="20240625200000 -1000">
-		<title>20:00 ~ CHIvsARG</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Chile" start="20240625200000 -1000" stop="20240625220000 -1000">
-		<title>COPA AMERICA ~ Chile vs Argentina</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Chile" start="20240629000000 -1000" stop="20240629190000 -1000">
-		<title>19:00 ~ CANvsCHI</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Chile" start="20240629190000 -1000" stop="20240629210000 -1000">
-		<title>COPA AMERICA ~ Canada vs Chile</title>
+DOM 14	<programme channel="Chile" start="20240714220000 -1000" stop="20240715000000 -1000">
+		<title>Canales de Chile</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
@@ -3067,264 +1207,8 @@ SAB 29	<programme channel="Chile" start="20240629190000 -1000" stop="20240629210
 	<channel id="Telefe">
 		<display-name>Telefe</display-name>
 	</channel>
-JUE 20	<programme channel="Telefe" start="20240620000000 -1000" stop="20240620190000 -1000">
-		<title>19:00 ~ ARGvsCAN</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 20	<programme channel="Telefe" start="20240620190000 -1000" stop="20240620210000 -1000">
-		<title>COPA AMERICA ~ Argentina vs Canada</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Telefe" start="20240625000000 -1000" stop="20240625200000 -1000">
-		<title>20:00 ~ CHIvsARG</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Telefe" start="20240625200000 -1000" stop="20240625220000 -1000">
-		<title>COPA AMERICA ~ Chile vs Argentina</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Telefe" start="20240629000000 -1000" stop="20240629190000 -1000">
-		<title>19:00 ~ ARGvsPER</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
 SAB 29	<programme channel="Telefe" start="20240629190000 -1000" stop="20240629210000 -1000">
 		<title>COPA AMERICA ~ Argentina vs Peru</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-*****************************************************************************************************
-	<channel id="Directv Sports">
-		<display-name>Directv Sports</display-name>
-	</channel>
-LUN 24	<programme channel="Directv Sports" start="20240624000000 -1000" stop="20240624170000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Directv Sports" start="20240624170000 -1000" stop="20240624190000 -1000">
-		<title>COPA AMERICA ~ Colombia vs Paraguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Directv Sports" start="20240624190000 -1000" stop="20240624200000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Directv Sports" start="20240624200000 -1000" stop="20240624220000 -1000">
-		<title>COPA AMERICA ~ Brasil vs Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 24	<programme channel="Directv Sports" start="20240624220000 -1000" stop="20240625000000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Directv Sports" start="20240625000000 -1000" stop="20240625170000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Directv Sports" start="20240625170000 -1000" stop="20240625190000 -1000">
-		<title>COPA AMERICA ~ Peru vs Paraguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Directv Sports" start="20240625190000 -1000" stop="20240625200000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Directv Sports" start="20240625200000 -1000" stop="20240625220000 -1000">
-		<title>COPA AMERICA ~ Chile vs Argentina</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 25	<programme channel="Directv Sports" start="20240625220000 -1000" stop="20240626000000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Directv Sports" start="20240626000000 -1000" stop="20240626170000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Directv Sports" start="20240626170000 -1000" stop="20240626190000 -1000">
-		<title>COPA AMERICA ~ Ecuador vs Jamaica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Directv Sports" start="20240626190000 -1000" stop="20240626200000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Directv Sports" start="20240626200000 -1000" stop="20240626220000 -1000">
-		<title>COPA AMERICA ~ Venezuela vs Mexico</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Directv Sports" start="20240626220000 -1000" stop="20240627000000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Directv Sports" start="20240627000000 -1000" stop="20240627170000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Directv Sports" start="20240627170000 -1000" stop="20240627190000 -1000">
-		<title>COPA AMERICA ~ Panama vs Estados Unidos</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Directv Sports" start="20240627190000 -1000" stop="20240627200000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Directv Sports" start="20240627200000 -1000" stop="20240627220000 -1000">
-		<title>COPA AMERICA ~ Uruguay vs Bolivia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-JUE 27	<programme channel="Directv Sports" start="20240627220000 -1000" stop="20240628000000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Directv Sports" start="20240628000000 -1000" stop="20240628170000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Directv Sports" start="20240628170000 -1000" stop="20240628190000 -1000">
-		<title>COPA AMERICA ~ Colombia vs Costa Rica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Directv Sports" start="20240628190000 -1000" stop="20240628200000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Directv Sports" start="20240628200000 -1000" stop="20240628220000 -1000">
-		<title>COPA AMERICA ~ Paraguay vs Brasil</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-VIE 28	<programme channel="Directv Sports" start="20240628220000 -1000" stop="20240629000000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Directv Sports" start="20240629000000 -1000" stop="20240629190000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Directv Sports" start="20240629190000 -1000" stop="20240629210000 -1000">
-		<title>COPA AMERICA ~ Argentina vs Peru</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-SAB 29	<programme channel="Directv Sports" start="20240629210000 -1000" stop="20240630000000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Directv Sports" start="20240630000000 -1000" stop="20240630190000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Directv Sports" start="20240630190000 -1000" stop="20240630210000 -1000">
-		<title>COPA AMERICA ~ Mexico vs Ecuador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Directv Sports" start="20240630210000 -1000" stop="20240701000000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Directv Sports" start="20240701000000 -1000" stop="20240701200000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Directv Sports" start="20240701200000 -1000" stop="20240701220000 -1000">
-		<title>COPA AMERICA ~ Estados Unidos vs Uruguay</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-LUN 1	<programme channel="Directv Sports" start="20240701220000 -1000" stop="20240702000000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Directv Sports" start="20240702000000 -1000" stop="20240702200000 -1000">
-		<title>DIRECTV SPORTS</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Directv Sports" start="20240702200000 -1000" stop="20240702220000 -1000">
-		<title>COPA AMERICA ~ Brasil vs Colombia</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MAR 2	<programme channel="Directv Sports" start="20240702220000 -1000" stop="20240703000000 -1000">
-		<title>DIRECTV SPORTS</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
@@ -3333,78 +1217,8 @@ MAR 2	<programme channel="Directv Sports" start="20240702220000 -1000" stop="202
 	<channel id="Ecuavisa">
 		<display-name>Ecuavisa</display-name>
 	</channel>
-MIE 26	<programme channel="Ecuavisa" start="20240626000000 -1000" stop="20240626170000 -1000">
-		<title>17:00 ~ ECUvsJAM</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Ecuavisa" start="20240626170000 -1000" stop="20240626190000 -1000">
-		<title>COPA AMERICA ~ Ecuador vs Jamaica</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Ecuavisa" start="20240626190000 -1000" stop="20240627000000 -1000">
-		<title>Ecuavisa</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Ecuavisa" start="20240630000000 -1000" stop="20240630190000 -1000">
-		<title>19:00 ~ MEXvsECU</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Ecuavisa" start="20240630190000 -1000" stop="20240630210000 -1000">
-		<title>COPA AMERICA ~ Mexico vs Ecuador</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
 DOM 30	<programme channel="Ecuavisa" start="20240630210000 -1000" stop="20240701000000 -1000">
 		<title>Ecuavisa</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-*****************************************************************************************************
-	<channel id="Televen">
-		<display-name>Televen</display-name>
-	</channel>
-MIE 26	<programme channel="Televen" start="20240626000000 -1000" stop="20240626200000 -1000">
-		<title>20:00 ~ VENvsMEX</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Televen" start="20240626200000 -1000" stop="20240626220000 -1000">
-		<title>COPA AMERICA ~ Venezuela vs Mexico</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-MIE 26	<programme channel="Televen" start="20240626220000 -1000" stop="20240627000000 -1000">
-		<title>Televen</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Televen" start="20240630000000 -1000" stop="20240630190000 -1000">
-		<title>19:00 ~ JAMvsVEN</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Televen" start="20240630190000 -1000" stop="20240630210000 -1000">
-		<title>COPA AMERICA ~ Jamaica vs Venezuela</title>
-		<desc></desc>
-		<icon src=""/>
-		<category>Deportivo</category>
-	</programme>
-DOM 30	<programme channel="Televen" start="20240630210000 -1000" stop="20240701000000 -1000">
-		<title>Televen</title>
 		<desc></desc>
 		<icon src=""/>
 		<category>Deportivo</category>
