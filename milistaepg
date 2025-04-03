@@ -3,192 +3,250 @@
 	<channel id="Zapping & ECDF">
 		<display-name>Zapping & ECDF</display-name>
 	</channel>
-VIE 7	<programme channel="Zapping & ECDF" start="20250307000000 -1000" stop="20250307190000 -1000">
+VIE 28	<programme channel="Zapping & ECDF" start="20250328000000 -1000" stop="20250328163000 -1000">
 		<title>LigaPro 🇪🇨</title>
 	</programme>
-VIE 7	<programme channel="Zapping & ECDF" start="20250307190000 -1000" stop="20250307210000 -1000">
-		<title>Deportivo Cuenca vs Libertad ~ LigaPro ~ J4</title>
+VIE 28	<programme channel="Zapping & ECDF" start="20250328163000 -1000" stop="20250328183000 -1000">
+		<title>Aucas vs Independiente del Valle ~ LigaPro ~ J6</title>
 	</programme>
-VIE 7	<programme channel="Zapping & ECDF" start="20250307210000 -1000" stop="20250308000000 -1000">
+VIE 28	<programme channel="Zapping & ECDF" start="20250328183000 -1000" stop="20250328190000 -1000">
 		<title>LigaPro 🇪🇨</title>
 	</programme>
-SAB 8	<programme channel="Zapping & ECDF" start="20250308000000 -1000" stop="20250308140000 -1000">
+VIE 28	<programme channel="Zapping & ECDF" start="20250328190000 -1000" stop="20250328210000 -1000">
+		<title>Barcelona vs Delfin ~ LigaPro ~ J6</title>
+	</programme>
+VIE 28	<programme channel="Zapping & ECDF" start="20250328210000 -1000" stop="20250329000000 -1000">
 		<title>LigaPro 🇪🇨</title>
 	</programme>
-SAB 8	<programme channel="Zapping & ECDF" start="20250308140000 -1000" stop="20250308160000 -1000">
-		<title>Liga de Quito vs Delfin ~ LigaPro ~ J4</title>
-	</programme>
-SAB 8	<programme channel="Zapping & ECDF" start="20250308160000 -1000" stop="20250308163000 -1000">
+SAB 29	<programme channel="Zapping & ECDF" start="20250329000000 -1000" stop="20250329140000 -1000">
 		<title>LigaPro 🇪🇨</title>
 	</programme>
-SAB 8	<programme channel="Zapping & ECDF" start="20250308163000 -1000" stop="20250308183000 -1000">
-		<title>Manta vs El Nacional ~ LigaPro ~ J4</title>
+SAB 29	<programme channel="Zapping & ECDF" start="20250329140000 -1000" stop="20250329160000 -1000">
+		<title>Vinotinto vs Universidad Catolica ~ LigaPro ~ J6</title>
 	</programme>
-SAB 8	<programme channel="Zapping & ECDF" start="20250308183000 -1000" stop="20250308190000 -1000">
+SAB 29	<programme channel="Zapping & ECDF" start="20250329160000 -1000" stop="20250329163000 -1000">
 		<title>LigaPro 🇪🇨</title>
 	</programme>
-SAB 8	<programme channel="Zapping & ECDF" start="20250308190000 -1000" stop="20250308210000 -1000">
-		<title>Barcelona vs Independiente del Valle ~ LigaPro / J4 </title>
+SAB 29	<programme channel="Zapping & ECDF" start="20250329163000 -1000" stop="20250329183000 -1000">
+		<title>Deportivo Cuenca vs Liga de Quito ~ LigaPro ~ J6</title>
 	</programme>
-SAB 8	<programme channel="Zapping & ECDF" start="20250308210000 -1000" stop="20250309000000 -1000">
+SAB 29	<programme channel="Zapping & ECDF" start="20250329183000 -1000" stop="20250329190000 -1000">
 		<title>LigaPro 🇪🇨</title>
 	</programme>
-DOM 9	<programme channel="Zapping & ECDF" start="20250309000000 -1000" stop="20250309130000 -1000">
+SAB 29	<programme channel="Zapping & ECDF" start="20250329190000 -1000" stop="20250329210000 -1000">
+		<title>Mushuc Runa vs Emelec ~ LigaPro ~ J6</title>
+	</programme>
+SAB 29	<programme channel="Zapping & ECDF" start="20250329210000 -1000" stop="20250330000000 -1000">
 		<title>LigaPro 🇪🇨</title>
 	</programme>
-DOM 9	<programme channel="Zapping & ECDF" start="20250309130000 -1000" stop="20250309150000 -1000">
-		<title>Universidad Catolica vs Mushuc Runa ~ LigaPro ~ J4</title>
-	</programme>
-DOM 9	<programme channel="Zapping & ECDF" start="20250309150000 -1000" stop="20250309153000 -1000">
+DOM 30	<programme channel="Zapping & ECDF" start="20250330000000 -1000" stop="20250330130000 -1000">
 		<title>LigaPro 🇪🇨</title>
 	</programme>
-DOM 9	<programme channel="Zapping & ECDF" start="20250309153000 -1000" stop="20250309173000 -1000">
-		<title>Macara vs Aucas ~ LigaPro / J4</title>
+DOM 30	<programme channel="Zapping & ECDF" start="20250330130000 -1000" stop="20250330150000 -1000">
+		<title>Macara vs Tecnico Universitario ~ LigaPro ~ J6</title>
 	</programme>
-DOM 9	<programme channel="Zapping & ECDF" start="20250309173000 -1000" stop="20250309180000 -1000">
+DOM 30	<programme channel="Zapping & ECDF" start="20250330150000 -1000" stop="20250330153000 -1000">
 		<title>LigaPro 🇪🇨</title>
 	</programme>
-DOM 9	<programme channel="Zapping & ECDF" start="20250309180000 -1000" stop="20250309200000 -1000">
-		<title>Vinotinto vs Emelec ~ LigaPro ~ J4</title>
+DOM 30	<programme channel="Zapping & ECDF" start="20250330153000 -1000" stop="20250330173000 -1000">
+		<title>Manta vs >Libertad ~ LigaPro ~ J6</title>
 	</programme>
-DOM 9	<programme channel="Zapping & ECDF" start="20250309200000 -1000" stop="20250310000000 -1000">
+DOM 30	<programme channel="Zapping & ECDF" start="20250330173000 -1000" stop="20250330180000 -1000">
 		<title>LigaPro 🇪🇨</title>
 	</programme>
-LUN 10	<programme channel="Zapping & ECDF" start="20250310000000 -1000" stop="20250310190000 -1000">
+DOM 30	<programme channel="Zapping & ECDF" start="20250330180000 -1000" stop="20250330200000 -1000">
+		<title>El Nacional vs Orense ~ LigaPro ~ J6</title>
+	</programme>
+DOM 30	<programme channel="Zapping & ECDF" start="20250330200000 -1000" stop="20250331000000 -1000">
 		<title>LigaPro 🇪🇨</title>
 	</programme>
-LUN 10	<programme channel="Zapping & ECDF" start="20250310190000 -1000" stop="20250310210000 -1000">
-		<title>Orense vs Tecnico Universitaio ~ LigaPro ~ J4</title>
+
+VIE 4	<programme channel="Zapping & ECDF" start="20250404000000 -1000" stop="20250404190000 -1000">
+		<title>LigaPro 🇪🇨</title>
 	</programme>
-LUN 10	<programme channel="Zapping & ECDF" start="20250310210000 -1000" stop="20250311000000 -1000">
+VIE 4	<programme channel="Zapping & ECDF" start="20250404190000 -1000" stop="20250404210000 -1000">
+		<title>Libertad vs El Nacional ~ LigaPro ~ J7</title>
+	</programme>
+VIE 4	<programme channel="Zapping & ECDF" start="20250404210000 -1000" stop="20250405000000 -1000">
+		<title>LigaPro 🇪🇨</title>
+	</programme>
+SAB 5	<programme channel="Zapping & ECDF" start="20250405000000 -1000" stop="20250405140000 -1000">
+		<title>LigaPro 🇪🇨</title>
+	</programme>
+SAB 5	<programme channel="Zapping & ECDF" start="20250405140000 -1000" stop="20250405160000 -1000">
+		<title>Delfin vs Aucas ~ LigaPro ~ J7</title>
+	</programme>
+SAB 5	<programme channel="Zapping & ECDF" start="20250405160000 -1000" stop="20250405163000 -1000">
+		<title>Previa</title>
+	</programme>
+SAB 5	<programme channel="Zapping & ECDF" start="20250405163000 -1000" stop="20250405183000 -1000">
+		<title>Orense vs Vinotinto ~ LigaPro ~ J7</title>
+	</programme>
+SAB 5	<programme channel="Zapping & ECDF" start="20250405183000 -1000" stop="20250405190000 -1000">
+		<title>Previa</title>
+	</programme>
+SAB 5	<programme channel="Zapping & ECDF" start="20250405190000 -1000" stop="20250405210000 -1000">
+		<title>Pollo Corrupto vs Deportivo Cuenca ~ LigaPro ~ J7</title>
+	</programme>
+SAB 5	<programme channel="Zapping & ECDF" start="20250405210000 -1000" stop="20250406000000 -1000">
+		<title>LigaPro 🇪🇨</title>
+	</programme>
+DOM 6	<programme channel="Zapping & ECDF" start="20250406000000 -1000" stop="20250406130000 -1000">
+		<title>LigaPro 🇪🇨</title>
+	</programme>
+DOM 6	<programme channel="Zapping & ECDF" start="20250406130000 -1000" stop="20250406150000 -1000">
+		<title>Tecnico Universitario vs Mushuc Runa ~ LigaPro ~ J7</title>
+	</programme>
+DOM 6	<programme channel="Zapping & ECDF" start="20250406150000 -1000" stop="20250406153000 -1000">
+		<title>Previa</title>
+	</programme>
+DOM 6	<programme channel="Zapping & ECDF" start="20250406153000 -1000" stop="20250406173000 -1000">
+		<title>Universidad Catolica vs Macara ~ LigaPro ~ J7</title>
+	</programme>
+DOM 6	<programme channel="Zapping & ECDF" start="20250406173000 -1000" stop="20250406180000 -1000">
+		<title>Previa</title>
+	</programme>
+DOM 6	<programme channel="Zapping & ECDF" start="20250406180000 -1000" stop="20250406200000 -1000">
+		<title>Emelec vs Manta ~ LigaPro ~ J7</title>
+	</programme>
+DOM 6	<programme channel="Zapping & ECDF" start="20250406200000 -1000" stop="20250407000000 -1000">
 		<title>LigaPro 🇪🇨</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="Ecuavisa">
 		<display-name>Ecuavisa</display-name>
+		<display-name>🇪🇨 Ecuavisa</display-name>
 	</channel>
-SAB 8	<programme channel="Ecuavisa" start="20250308000000 -1000" stop="20250308160000 -1000">
+SAB 5	<programme channel="Ecuavisa" start="20250405000000 -1000" stop="20250405163000 -1000">
 		<title>Ecuavisa</title>
 	</programme>
-SAB 8	<programme channel="Ecuavisa" start="20250308160000 -1000" stop="20250308163000 -1000">
-		<title>Previa MANvsNAC ~ Ecuavisa Sports</title>
+SAB 5	<programme channel="Ecuavisa" start="20250405163000 -1000" stop="20250405183000 -1000">
+		<title>Orense vs Vinotinto ~ LigaPro ~ J7</title>
 	</programme>
-SAB 8	<programme channel="Ecuavisa" start="20250308163000 -1000" stop="20250308183000 -1000">
-		<title>Manta vs El Nacional ~ LigaPro ~ J4</title>
+SAB 5	<programme channel="Ecuavisa" start="20250405183000 -1000" stop="20250405190000 -1000">
+		<title>Previa</title>
 	</programme>
-SAB 8	<programme channel="Ecuavisa" start="20250308183000 -1000" stop="20250308190000 -1000">
-		<title>Previa BSCvsIDV ~ Ecuavisa Sports</title>
+SAB 5	<programme channel="Ecuavisa" start="20250405190000 -1000" stop="20250405210000 -1000">
+		<title>Pollo Corrupto vs Deportivo Cuenca ~ LigaPro ~ J7</title>
 	</programme>
-SAB 8	<programme channel="Ecuavisa" start="20250308190000 -1000" stop="20250308210000 -1000">
-		<title>Barcelona vs Independiente del Valle ~ LigaPro / J4 </title>
-	</programme>
-SAB 8	<programme channel="Ecuavisa" start="20250308210000 -1000" stop="20250309000000 -1000">
+SAB 5	<programme channel="Ecuavisa" start="20250405210000 -1000" stop="20250406000000 -1000">
 		<title>Ecuavisa</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="Teleamazonas">
 		<display-name>Teleamazonas</display-name>
 	</channel>
-SAB 8	<programme channel="Teleamazonas" start="20250308000000 -1000" stop="20250308140000 -1000">
+DOM 6	<programme channel="Teleamazonas" start="20250406000000 -1000" stop="20250406153000 -1000">
 		<title>Teleamazonas</title>
 	</programme>
-SAB 8	<programme channel="Teleamazonas" start="20250308140000 -1000" stop="20250308160000 -1000">
-		<title>Liga de Quito vs Delfin ~ LigaPro / J4</title>
+DOM 6	<programme channel="Teleamazonas" start="20250406153000 -1000" stop="20250406173000 -1000">
+		<title>Universidad Catolica vs Macara ~ LigaPro ~ J7</title>
 	</programme>
-SAB 8	<programme channel="Teleamazonas" start="20250308160000 -1000" stop="20250309000000 -1000">
+DOM 6	<programme channel="Teleamazonas" start="20250406173000 -1000" stop="20250406180000 -1000">
+		<title>Previa</title>
+	</programme>
+DOM 6	<programme channel="Teleamazonas" start="20250406180000 -1000" stop="20250406200000 -1000">
+		<title>Emelec vs Manta ~ LigaPro ~ J7</title>
+	</programme>
+DOM 6	<programme channel="Teleamazonas" start="20250406200000 -1000" stop="20250407000000 -1000">
 		<title>Teleamazonas</title>
 	</programme>
-DOM 9	<programme channel="Teleamazonas" start="20250309000000 -1000" stop="20250309153000 -1000">
-		<title>Teleamazonas</title>
-	</programme>
-DOM 9	<programme channel="Teleamazonas" start="20250309153000 -1000" stop="20250309173000 -1000">
-		<title>Macara vs Aucas ~ LigaPro / J4</title>
-	</programme>
-DOM 9	<programme channel="Teleamazonas" start="20250309173000 -1000" stop="20250310000000 -1000">
-		<title>Teleamazonas</title>
-	</programme>
-
 *****************************************************************************************************
 	<channel id="ECDF">
 		<display-name>ECDF</display-name>
 	</channel>
-JUE 10	<programme channel="ECDF" start="20241010000000 -1000" stop="20241010160000 -1000">
+MIE 2	<programme channel="ECDF" start="20250402000000 -1000" stop="20250402143000 -1000">
+		<title>El Canal del Futbol</title>
+	</programme>
+MIE 2	<programme channel="ECDF" start="20250402143000 -1000" stop="20250402163000 -1000">
+		<title>Atletico Madrid vs Barcelona ~ Copa del Rey</title>
+	</programme>
+MIE 2	<programme channel="ECDF" start="20250402163000 -1000" stop="20250403000000 -1000">
 		<title>El Canal del Futbol</title>
 	</programme>
 *****************************************************************************************************
-	<channel id="Tubi Mexico">
-		<display-name>Tubi Mexico</display-name>
+	<channel id="TUBI Mexico">
+		<display-name>TUBI Mexico</display-name>
 	</channel>
-SAB 8	<programme channel="Tubi Mexico" start="20250308000000 -1000" stop="20250308073000 -1000">
+MAR 1	<programme channel="TUBI Mexico" start="20250401000000 -1000" stop="20250401140000 -1000">
 		<title>TUBI 🇲🇽</title>
 	</programme>
-SAB 8	<programme channel="Tubi Mexico" start="20250308073000 -1000" stop="20250308093000 -1000">
-		<title>Nottingham Forest vs Manchester City ~ Premier League ~ J28</title>
+MAR 1	<programme channel="TUBI Mexico" start="20250401140000 -1000" stop="20250401160000 -1000">
+		<title>Nottingham Forest vs Manchester United ~ Premier League</title>
 	</programme>
-SAB 8	<programme channel="Tubi Mexico" start="20250308093000 -1000" stop="20250308100000 -1000">
+MAR 1	<programme channel="TUBI Mexico" start="20250401160000 -1000" stop="20250401201500 -1000">
 		<title>TUBI 🇲🇽</title>
 	</programme>
-SAB 8	<programme channel="Tubi Mexico" start="20250308100000 -1000" stop="20250308120000 -1000">
-		<title>Brighton vs Fulham ~ Premier League ~ J28</title>
+MAR 1	<programme channel="TUBI Mexico" start="20250401201500 -1000" stop="20250401221500 -1000">
+		<title>América vs Cruz Azul ~ Liga Campeones CONCACAF</title>
 	</programme>
-SAB 8	<programme channel="Tubi Mexico" start="20250308120000 -1000" stop="20250308123000 -1000">
+MAR 1	<programme channel="TUBI Mexico" start="20250401221500 -1000" stop="20250402001500 -1000">
+		<title>LA Galaxy vs Tigres UANL ~ Liga Campeones CONCACAF</title>
+	</programme>
+MIE 2	<programme channel="TUBI Mexico" start="20250402001500 -1000" stop="20250402134500 -1000">
 		<title>TUBI 🇲🇽</title>
 	</programme>
-SAB 8	<programme channel="Tubi Mexico" start="20250308123000 -1000" stop="20250308143000 -1000">
-		<title>Brentford vs Aston Villa ~ Premier League ~ J28</title>
+MIE 2	<programme channel="TUBI Mexico" start="20250402134500 -1000" stop="20250402154500 -1000">
+		<title>Newcastle vs Brentford ~ Premier League</title>
 	</programme>
-SAB 8	<programme channel="Tubi Mexico" start="20250308143000 -1000" stop="20250309000000 -1000">
+MIE 2	<programme channel="TUBI Mexico" start="20250402154500 -1000" stop="20250402160000 -1000">
 		<title>TUBI 🇲🇽</title>
 	</programme>
-DOM 9	<programme channel="Tubi Mexico" start="20250309000000 -1000" stop="20250309090000 -1000">
+MIE 2	<programme channel="TUBI Mexico" start="20250402160000 -1000" stop="20250402180000 -1000">
+		<title>(R) Southampton vs Crystal Palace ~ Premier League</title>
+	</programme>
+MIE 2	<programme channel="TUBI Mexico" start="20250402180000 -1000" stop="20250402203000 -1000">
 		<title>TUBI 🇲🇽</title>
 	</programme>
-DOM 9	<programme channel="Tubi Mexico" start="20250309090000 -1000" stop="20250309110000 -1000">
-		<title>Tottenham vs Bournemouth ~ Premier League ~ J28</title>
+MIE 2	<programme channel="TUBI Mexico" start="20250402203000 -1000" stop="20250402223000 -1000">
+		<title>Vancouver Whitecaps vs Pumas UNAM ~ Liga Campeones CONCACAF</title>
 	</programme>
-DOM 9	<programme channel="Tubi Mexico" start="20250309110000 -1000" stop="20250310000000 -1000">
+MIE 2	<programme channel="TUBI Mexico" start="20250402223000 -1000" stop="20250403003000 -1000">
+		<title>Los Angeles FC vs Inter Miami ~ Liga Campeones CONCACAF</title>
+	</programme>
+JUE 3	<programme channel="TUBI Mexico" start="20250403003000 -1000" stop="20250403140000 -1000">
 		<title>TUBI 🇲🇽</title>
 	</programme>
-LUN 10	<programme channel="Tubi Mexico" start="20250310000000 -1000" stop="20250310150000 -1000">
+JUE 3	<programme channel="TUBI Mexico" start="20250403140000 -1000" stop="20250403160000 -1000">
+		<title>Chelsea vs Tottenham ~ Premier League</title>
+	</programme>
+JUE 3	<programme channel="TUBI Mexico" start="20250403160000 -1000" stop="20250404000000 -1000">
 		<title>TUBI 🇲🇽</title>
 	</programme>
-LUN 10	<programme channel="Tubi Mexico" start="20250310150000 -1000" stop="20250310170000 -1000">
-		<title>West Ham vs Newcastle ~ Premier League ~ J28</title>
-	</programme>
-LUN 10	<programme channel="Tubi Mexico" start="20250310170000 -1000" stop="20250311000000 -1000">
+SAB 5	<programme channel="TUBI Mexico" start="20250405000000 -1000" stop="20250405180000 -1000">
 		<title>TUBI 🇲🇽</title>
 	</programme>
-MAR 11	<programme channel="Tubi Mexico" start="20250311000000 -1000" stop="20250311183000 -1000">
+SAB 5	<programme channel="TUBI Mexico" start="20250405180000 -1000" stop="20250405200000 -1000">
+		<title>Pachuca vs América ~ Liga MX</title>
+	</programme>
+SAB 5	<programme channel="TUBI Mexico" start="20250405200000 -1000" stop="20250406000000 -1000">
 		<title>TUBI 🇲🇽</title>
 	</programme>
-MAR 11	<programme channel="Tubi Mexico" start="20250311183000 -1000" stop="20250311203000 -1000">
-		<title>Cruz Azul vs S. Sounders ~ Concachampions ~ 8vos VUELTA (IDA 0-0)</title>
-	</programme>
-MAR 11	<programme channel="Tubi Mexico" start="20250311203000 -1000" stop="20250312000000 -1000">
-		<title>Tigres vs Cincinnati ~ Concachampions ~ 8vos VUELTA (IDA 1-1)</title>
-	</programme>
-MIE 12	<programme channel="Tubi Mexico" start="20250312000000 -1000" stop="20250312183000 -1000">
+MAR 8	<programme channel="TUBI Mexico" start="20250408000000 -1000" stop="20250408200000 -1000">
 		<title>TUBI 🇲🇽</title>
 	</programme>
-MIE 12	<programme channel="Tubi Mexico" start="20250312183000 -1000" stop="20250312203000 -1000">
-		<title>Monterrey vs Vancouver ~ Concachampions ~ 8vos VUELTA (IDA 1-1)</title>
+MAR 8	<programme channel="TUBI Mexico" start="20250408200000 -1000" stop="20250408220000 -1000">
+		<title>Tigres UANL vs LA Galaxy ~ Liga Campeones CONCACAF</title>
 	</programme>
-MIE 12	<programme channel="Tubi Mexico" start="20250312213000 -1000" stop="20250312233000 -1000">
-		<title>America vs Chivas ~ Concachampions ~ 8vos VUELTA (IDA 0-1)</title>
-	</programme>
-MIE 12	<programme channel="Tubi Mexico" start="20250312233000 -1000" stop="20250313000000 -1000">
+MAR 8	<programme channel="TUBI Mexico" start="20250408220000 -1000" stop="20250408223000 -1000">
 		<title>TUBI 🇲🇽</title>
 	</programme>
-JUE 13	<programme channel="Tubi Mexico" start="20250313000000 -1000" stop="20250313180000 -1000">
+MAR 8	<programme channel="TUBI Mexico" start="20250408223000 -1000" stop="20250409003000 -1000">
+		<title>Cruz Azul vs América ~ Liga Campeones CONCACAF</title>
+	</programme>
+MIE 9	<programme channel="TUBI Mexico" start="20250409000000 -1000" stop="20250409190000 -1000">
 		<title>TUBI 🇲🇽</title>
 	</programme>
-JUE 13	<programme channel="Tubi Mexico" start="20250313180000 -1000" stop="20250313200000 -1000">
-		<title>Cavalier vs Inter Miami ~ Concachampions ~ 8vos VUELTA (IDA 0-2)</title>
+MIE 9	<programme channel="TUBI Mexico" start="20250409190000 -1000" stop="20250409210000 -1000">
+		<title>Inter Miami vs Los Angeles FC ~ Liga Campeones CONCACAF</title>
 	</programme>
-JUE 13	<programme channel="Tubi Mexico" start="20250313200000 -1000" stop="20250313220000 -1000">
-		<title>Alajuelense vs Pumas ~ Concachampions ~ 8vos VUELTA (IDA 0-2)</title>
+MIE 9	<programme channel="TUBI Mexico" start="20250409210000 -1000" stop="20250409213000 -1000">
+		<title>TUBI 🇲🇽</title>
 	</programme>
-JUE 13	<programme channel="Tubi Mexico" start="20250313220000 -1000" stop="20250314000000 -1000">
+MIE 9	<programme channel="TUBI Mexico" start="20250409213000 -1000" stop="20250409233000 -1000">
+		<title>Pumas UNAM vs Vancouver Whitecaps ~ Liga Campeones CONCACAF</title>
+	</programme>
+MIE 9	<programme channel="TUBI Mexico" start="20250409233000 -1000" stop="20250410000000 -1000">
 		<title>TUBI 🇲🇽</title>
 	</programme>
 *****************************************************************************************************
@@ -201,36 +259,399 @@ MIE 18	<programme channel="WIN Sports" start="20240918000000 -1000" stop="202409
 *****************************************************************************************************
 	<channel id="WIN+ Futbol">
 		<display-name>WIN+ Futbol</display-name>
+		<display-name>WIN+ Futbol SD</display-name>
+		<display-name>WIN+ Futbol HD</display-name>
+		<display-name>WIN+ Futbol 🇨🇴</display-name>
+		<display-name>WIN+ Futbol 🇨🇴 SD</display-name>
+		<display-name>WIN+ Futbol 🇨🇴 HD</display-name>
+		<display-name>Win Sports +</display-name>
 	</channel>
-VIE 20	<programme channel="WIN+ Futbol" start="20240920000000 -1000" stop="20240920200000 -1000">
-		<title>WIN+ Futbol</title>
+JUE 27	<programme channel="WIN+ Futbol" start="20250327000000 -1000" stop="20250327180000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+JUE 27	<programme channel="WIN+ Futbol" start="20250327180000 -1000" stop="20250327200000 -1000">
+		<title>Once Caldas vs Llaneros ~ Liga Dimayor</title>
+	</programme>
+JUE 27	<programme channel="WIN+ Futbol" start="20250327200000 -1000" stop="20250327221000 -1000">
+		<title>América de Cali vs Boyacá Chicó ~ Liga Dimayor</title>
+	</programme>
+JUE 27	<programme channel="WIN+ Futbol" start="20250327221000 -1000" stop="20250328000000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+VIE 28	<programme channel="WIN+ Futbol" start="20250328000000 -1000" stop="20250328193000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+VIE 28	<programme channel="WIN+ Futbol" start="20250328193000 -1000" stop="20250328213000 -1000">
+		<title>Atlético Bucaramanga vs Atlético Nacional ~ Liga Dimayor</title>
+	</programme>
+VIE 28	<programme channel="WIN+ Futbol" start="20250328213000 -1000" stop="20250329000000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+SAB 29	<programme channel="WIN+ Futbol" start="20250329000000 -1000" stop="20250329170500 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+SAB 29	<programme channel="WIN+ Futbol" start="20250329170500 -1000" stop="20250329190500 -1000">
+		<title>Deportivo Pasto vs Deportivo Cali ~ Liga Dimayor</title>
+	</programme>
+SAB 29	<programme channel="WIN+ Futbol" start="20250329190500 -1000" stop="20250329201000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+SAB 29	<programme channel="WIN+ Futbol" start="20250329201000 -1000" stop="20250329221000 -1000">
+		<title>Medellín vs Rionegro Águilas ~ Liga Dimayor</title>
+	</programme>
+SAB 29	<programme channel="WIN+ Futbol" start="20250329221000 -1000" stop="20250330000000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+DOM 30	<programme channel="WIN+ Futbol" start="20250330000000 -1000" stop="20250330153000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+DOM 30	<programme channel="WIN+ Futbol" start="20250330153000 -1000" stop="20250330173000 -1000">
+		<title>Millonarios vs Alianza Petrolera ~ Liga Dimayor</title>
+	</programme>
+DOM 30	<programme channel="WIN+ Futbol" start="20250330173000 -1000" stop="20250330174500 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+DOM 30	<programme channel="WIN+ Futbol" start="20250330174500 -1000" stop="20250330194500 -1000">
+		<title>Unión Magdalena vs Santa Fe ~ Liga Dimayor</title>
+	</programme>
+DOM 30	<programme channel="WIN+ Futbol" start="20250330194500 -1000" stop="20250330200000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+DOM 30	<programme channel="WIN+ Futbol" start="20250330200000 -1000" stop="20250330220000 -1000">
+		<title>América de Cali vs Fortaleza CEIF ~ Liga Dimayor</title>
+	</programme>
+DOM 30	<programme channel="WIN+ Futbol" start="20250330220000 -1000" stop="20250331000000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+LUN 31	<programme channel="WIN+ Futbol" start="20250331000000 -1000" stop="20250331193000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+LUN 31	<programme channel="WIN+ Futbol" start="20250331193000 -1000" stop="20250331213000 -1000">
+		<title>La Equidad vs Junior ~ Liga Dimayor</title>
+	</programme>
+LUN 31	<programme channel="WIN+ Futbol" start="20250331213000 -1000" stop="20250401000000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+MAR 1	<programme channel="WIN+ Futbol" start="20250401000000 -1000" stop="20250401180000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+MAR 1	<programme channel="WIN+ Futbol" start="20250401180000 -1000" stop="20250401200000 -1000">
+		<title>Llaneros vs Deportivo Pereira ~ Liga Dimayor</title>
+	</programme>
+MAR 1	<programme channel="WIN+ Futbol" start="20250401200000 -1000" stop="20250401221000 -1000">
+		<title>	Boyacá Chicó vs Deportes Tolima ~ Liga Dimayor</title>
+	</programme>
+MAR 1	<programme channel="WIN+ Futbol" start="20250401221000 -1000" stop="20250402000000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+VIE 4	<programme channel="WIN+ Futbol" start="20250404000000 -1000" stop="20250404160000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+VIE 4	<programme channel="WIN+ Futbol" start="20250404160000 -1000" stop="20250404180000 -1000">
+		<title>Alianza Petrolera vs Envigado ~ Liga Dimayor</title>
+	</programme>
+VIE 4	<programme channel="WIN+ Futbol" start="20250404180000 -1000" stop="20250404190000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+VIE 4	<programme channel="WIN+ Futbol" start="20250404190000 -1000" stop="20250404210000 -1000">
+		<title>Santa Fe vs Deportivo Pasto ~ Liga Dimayor</title>
+	</programme>
+VIE 4	<programme channel="WIN+ Futbol" start="20250404210000 -1000" stop="20250405000000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+SAB 5	<programme channel="WIN+ Futbol" start="20250405000000 -1000" stop="20250405140000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+SAB 5	<programme channel="WIN+ Futbol" start="20250405140000 -1000" stop="20250405160000 -1000">
+		<title>Atletico Nacional vs Union Magdalena ~ Liga Dimayor</title>
+	</programme>
+SAB 5	<programme channel="WIN+ Futbol" start="20250405160000 -1000" stop="20250405182000 -1000">
+		<title>Deportivo Cali vs La Equidad ~ Liga Dimayor</title>
+	</programme>
+SAB 5	<programme channel="WIN+ Futbol" start="20250405182000 -1000" stop="20250405202000 -1000">
+		<title>Once Caldas vs America de Cali ~ Liga Dimayor</title>
+	</programme>
+SAB 5	<programme channel="WIN+ Futbol" start="20250405202000 -1000" stop="20250405223000 -1000">
+		<title>Deportes Tolima vs Atletico Bucaramanga ~ Liga Dimayor</title>
+	</programme>
+SAB 5	<programme channel="WIN+ Futbol" start="20250405223000 -1000" stop="20250406000000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+DOM 6	<programme channel="WIN+ Futbol" start="20250406000000 -1000" stop="20250406140000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+DOM 6	<programme channel="WIN+ Futbol" start="20250406140000 -1000" stop="20250406160000 -1000">
+		<title>Deportivo Pereira vs Boyaca Chico ~ Liga Dimayor</title>
+	</programme>
+DOM 6	<programme channel="WIN+ Futbol" start="20250406160000 -1000" stop="20250406182000 -1000">
+		<title>Fortaleza vs Millonarios ~ Liga Dimayor</title>
+	</programme>
+DOM 6	<programme channel="WIN+ Futbol" start="20250406182000 -1000" stop="20250406202000 -1000">
+		<title>Junior vs Medellin ~ Liga Dimayor</title>
+	</programme>
+DOM 6	<programme channel="WIN+ Futbol" start="20250406202000 -1000" stop="20250406223000 -1000">
+		<title>Rionegro Aguilas vs Llaneros ~ Liga Dimayor</title>
+	</programme>
+DOM 6	<programme channel="WIN+ Futbol" start="20250406223000 -1000" stop="20250407000000 -1000">
+		<title>WIN+ Futbol 🇨🇴</title>
+	</programme>
+*****************************************************************************************************
+	<channel id="RCN Nuestra Tele">
+		<display-name>RCN Nuestra Tele</display-name>
+		<display-name>RCN Nuestra Tele SD</display-name>
+		<display-name>RCN Nuestra Tele SD.</display-name>
+		<display-name>RCN Nuestra Tele HD</display-name>
+		<display-name>RCN Nuestra Tele HD.</display-name>
+		<display-name>RCN Nuestra Tele 🇨🇴</display-name>
+		<display-name>RCN Nuestra Tele 🇨🇴 SD</display-name>
+		<display-name>RCN Nuestra Tele 🇨🇴 HD</display-name>
+	</channel>
+JUE 27	<programme channel="RCN Nuestra Tele" start="20250327000000 -1000" stop="20250327200000 -1000">
+		<title>RCN Nuestra Tele 🇨🇴</title>
+	</programme>
+JUE 27	<programme channel="RCN Nuestra Tele" start="20250327200000 -1000" stop="20250327221000 -1000">
+		<title>América de Cali vs Boyacá Chicó ~ Liga Dimayor</title>
+	</programme>
+JUE 27	<programme channel="RCN Nuestra Tele" start="20250327221000 -1000" stop="20250328000000 -1000">
+		<title>RCN Nuestra Tele 🇨🇴</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="TNT Sports Chile">
 		<display-name>TNT Sports Chile</display-name>
 	</channel>
-MAR 24	<programme channel="TNT Sports Chile" start="20240924000000 -1000" stop="20240924180000 -1000">
+MAR 24	<programme channel="TNT Sports Chile" start="2025022000000 -1000" stop="2025022161500 -1000">
 		<title>TNT Sports Chile</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="TNT Sports Premium Chile">
 		<display-name>TNT Sports Premium Chile</display-name>
 	</channel>
-MAR 24	<programme channel="TNT Sports Premium Chile" start="20240924000000 -1000" stop="20240924130000 -1000">
-		<title>TNT Sports Premium Chile</title>
+JUE 27	<programme channel="TNT Sports Premium Chile" start="20250327000000 -1000" stop="20250327161500 -1000">
+		<title>TNT Sports Premium 🇨🇱</title>
+	</programme>
+JUE 27	<programme channel="TNT Sports Premium Chile" start="20250327161500 -1000" stop="20250327181500 -1000">
+		<title>Colo-Colo vs Palestino ~ 1ra Division</title>
+	</programme>
+JUE 27	<programme channel="TNT Sports Premium Chile" start="20250327181500 -1000" stop="20250327183000 -1000">
+		<title>TNT Sports Premium 🇨🇱</title>
+	</programme>
+JUE 27	<programme channel="TNT Sports Premium Chile" start="20250327183000 -1000" stop="20250327203000 -1000">
+		<title>Everton vs Universidad Chile ~ 1ra Division</title>
+	</programme>
+JUE 27	<programme channel="TNT Sports Premium Chile" start="20250327203000 -1000" stop="20250328000000 -1000">
+		<title>TNT Sports Premium 🇨🇱</title>
+	</programme>
+VIE 28	<programme channel="TNT Sports Premium Chile" start="20250328000000 -1000" stop="20250328161500 -1000">
+		<title>TNT Sports Premium 🇨🇱</title>
+	</programme>
+VIE 28	<programme channel="TNT Sports Premium Chile" start="20250328161500 -1000" stop="20250328181500 -1000">
+		<title>Unión Española vs Universidad Católica ~ 1ra Division</title>
+	</programme>
+VIE 28	<programme channel="TNT Sports Premium Chile" start="20250328181500 -1000" stop="20250328183000 -1000">
+		<title>TNT Sports Premium 🇨🇱</title>
+	</programme>
+VIE 28	<programme channel="TNT Sports Premium Chile" start="20250328183000 -1000" stop="20250328203000 -1000">
+		<title>Ñublense vs Deportes Iquique ~ 1ra Division</title>
+	</programme>
+VIE 28	<programme channel="TNT Sports Premium Chile" start="20250328203000 -1000" stop="20250329000000 -1000">
+		<title>TNT Sports Premium 🇨🇱</title>
+	</programme>
+SAB 30	<programme channel="TNT Sports Premium Chile" start="20250329000000 -1000" stop="20250329160000 -1000">
+		<title>TNT Sports Premium 🇨🇱</title>
+	</programme>
+SAB 30	<programme channel="TNT Sports Premium Chile" start="20250329160000 -1000" stop="20250329180000 -1000">
+		<title>O'Higgins vs Deportes Limache ~ 1ra Division</title>
+	</programme>
+SAB 30	<programme channel="TNT Sports Premium Chile" start="20250329180000 -1000" stop="20250330000000 -1000">
+		<title>TNT Sports Premium 🇨🇱</title>
+	</programme>
+DOM 30	<programme channel="TNT Sports Premium Chile" start="20250330000000 -1000" stop="20250330100000 -1000">
+		<title>TNT Sports Premium 🇨🇱</title>
+	</programme>
+DOM 30	<programme channel="TNT Sports Premium Chile" start="20250330100000 -1000" stop="20250330120000 -1000">
+		<title>Huachipato vs La Serena ~ 1ra Division</title>
+	</programme>
+DOM 30	<programme channel="TNT Sports Premium Chile" start="20250330120000 -1000" stop="20250330160000 -1000">
+		<title>TNT Sports Premium 🇨🇱</title>
+	</programme>
+DOM 30	<programme channel="TNT Sports Premium Chile" start="20250330160000 -1000" stop="20250330180000 -1000">
+		<title>Union La Calera vs Cobresal ~ 1ra Division</title>
+	</programme>
+DOM 30	<programme channel="TNT Sports Premium Chile" start="20250330180000 -1000" stop="20250330183000 -1000">
+		<title>TNT Sports Premium 🇨🇱</title>
+	</programme>
+DOM 30	<programme channel="TNT Sports Premium Chile" start="20250330183000 -1000" stop="20250330203000 -1000">
+		<title>Unión La Calera vs Cobresal ~ 1ra Division</title>
+	</programme>
+DOM 30	<programme channel="TNT Sports Premium Chile" start="20250330203000 -1000" stop="20250331000000 -1000">
+		<title>TNT Sports Premium 🇨🇱</title>
+	</programme>
+*****************************************************************************************************
+	<channel id="TNT Sports MX">
+		<display-name>TNT Sports MX</display-name>
+	</channel>
+MAR 1	<programme channel="TNT Sports MX" start="20250401000000 -1000" stop="20250401134500 -1000">
+		<title>TNT Sports 🇲🇽</title>
+	</programme>
+MAR 1	<programme channel="TNT Sports MX" start="20250401134500 -1000" stop="20250401154500 -1000">
+		<title>Wolverhampton Wanderers vs West Ham United ~ Premier League</title>
+	</programme>
+MAR 1	<programme channel="TNT Sports MX" start="20250401154500 -1000" stop="20250402000000 -1000">
+		<title>TNT Sports 🇲🇽</title>
+	</programme>
+MIE 2	<programme channel="TNT Sports MX" start="20250402000000 -1000" stop="20250402134500 -1000">
+		<title>TNT Sports 🇲🇽</title>
+	</programme>
+MIE 2	<programme channel="TNT Sports MX" start="20250402134500 -1000" stop="20250402154500 -1000">
+		<title>Manchester City vs Leicester City ~ Premier League</title>
+	</programme>
+MIE 2	<programme channel="TNT Sports MX" start="20250402154500 -1000" stop="20250403000000 -1000">
+		<title>TNT Sports 🇲🇽</title>
+	</programme>
+*****************************************************************************************************
+	<channel id="Tigo Sports Guatemala">
+		<display-name>Tigo Sports Guatemala</display-name>
+	</channel>
+JUE 20	<programme channel="Tigo Sports Guatemala" start="20250320000000 -1000" stop="20250320180000 -1000">
+		<title>Tigo Sports 🇬🇹</title>
+	</programme>
+JUE 20	<programme channel="Tigo Sports Guatemala" start="20250320180000 -1000" stop="20250320200000 -1000">
+		<title>Estados Unidos vs Panama</title>
+	</programme>
+JUE 20	<programme channel="Tigo Sports Guatemala" start="20250320200000 -1000" stop="20250320213000 -1000">
+		<title>Tigo Sports 🇬🇹</title>
+	</programme>
+JUE 20	<programme channel="Tigo Sports Guatemala" start="20250320213000 -1000" stop="20250320233000 -1000">
+		<title>Canada vs Mexico</title>
+	</programme>
+JUE 20	<programme channel="Tigo Sports Guatemala" start="20250320233000 -1000" stop="20250321000000 -1000">
+		<title>Tigo Sports 🇬🇹</title>
+	</programme>
+VIE 21	<programme channel="Tigo Sports Guatemala" start="20250321000000 -1000" stop="20250321183000 -1000">
+		<title>Tigo Sports 🇬🇹</title>
+	</programme>
+VIE 21	<programme channel="Tigo Sports Guatemala" start="20250321183000 -1000" stop="20250321203000 -1000">
+		<title>Uruguay vs Argentina ~ Eliminatorias CONMEBOL ~ J13</title>
+	</programme>
+VIE 21	<programme channel="Tigo Sports Guatemala" start="20250321203000 -1000" stop="20250321223000 -1000">
+		<title>Veraguas vs Costa del Este ~ LPF</title>
+	</programme>
+VIE 21	<programme channel="Tigo Sports Guatemala" start="20250321223000 -1000" stop="20250322000000 -1000">
+		<title>Tigo Sports 🇬🇹</title>
+	</programme>
+DOM 23	<programme channel="Tigo Sports Guatemala" start="20250323000000 -1000" stop="20250323170000 -1000">
+		<title>Tigo Sports 🇬🇹</title>
+	</programme>
+DOM 23	<programme channel="Tigo Sports Guatemala" start="20250323170000 -1000" stop="20250323190000 -1000">
+		<title>CONCACAF Nations League: Third Place Match</title>
+	</programme>
+DOM 23	<programme channel="Tigo Sports Guatemala" start="20250323190000 -1000" stop="20250323203000 -1000">
+		<title>Tigo Sports 🇬🇹</title>
+	</programme>
+DOM 23	<programme channel="Tigo Sports Guatemala" start="20250323203000 -1000" stop="20250323223000 -1000">
+		<title>CONCACAF Nations League: Final</title>
+	</programme>
+DOM 23	<programme channel="Tigo Sports Guatemala" start="20250323223000 -1000" stop="20250324000000 -1000">
+		<title>Tigo Sports 🇬🇹</title>
+	</programme>
+MAR 25	<programme channel="Tigo Sports Guatemala" start="20250325000000 -1000" stop="20250325190000 -1000">
+		<title>Tigo Sports 🇬🇹</title>
+	</programme>
+MAR 25	<programme channel="Tigo Sports Guatemala" start="20250325190000 -1000" stop="20250325210000 -1000">
+		<title>Colombia vs Paraguay ~ Eliminatorias CONMEBOL ~ J14</title>
+	</programme>
+MAR 25	<programme channel="Tigo Sports Guatemala" start="20250325210000 -1000" stop="20250326000000 -1000">
+		<title>Tigo Sports 🇬🇹</title>
+	</programme>
+*****************************************************************************************************
+	<channel id="Claro Sports Centro">
+		<display-name>Claro Sports Centro</display-name>
+	</channel>
+VIE 21	<programme channel="Claro Sports Centro" start="20250321000000 -1000" stop="20250321160000 -1000">
+		<title>Claro Sports Centroamerica</title>
+	</programme>
+*****************************************************************************************************
+	<channel id="Claro Sports 2 Centro">
+		<display-name>Claro Sports 2 Centro</display-name>
+	</channel>
+JUE 20	<programme channel="Claro Sports 2 Centro" start="20250320000000 -1000" stop="20250320194500 -1000">
+		<title>Claro Sports 2 Centroamerica</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="L1MAX">
 		<display-name>L1MAX</display-name>
 	</channel>
-MIE 18	<programme channel="L1MAX" start="20240918000000 -1000" stop="20240918180000 -1000">
+JUE 27	<programme channel="L1MAX" start="20250327000000 -1000" stop="20250327130000 -1000">
+		<title>L1MAX</title>
+	</programme>
+JUE 27	<programme channel="L1MAX" start="20250327130000 -1000" stop="20250327150000 -1000">
+		<title>Comerciantes Unidos vs Atlético Grau</title>
+	</programme>
+JUE 27	<programme channel="L1MAX" start="20250327150000 -1000" stop="20250327153000 -1000">
+		<title>L1MAX</title>
+	</programme>
+JUE 27	<programme channel="L1MAX" start="20250327153000 -1000" stop="20250327173000 -1000">
+		<title>Ayacucho vs Melgar</title>
+	</programme>
+JUE 27	<programme channel="L1MAX" start="20250327173000 -1000" stop="20250328000000 -1000">
+		<title>L1MAX</title>
+	</programme>
+VIE 28	<programme channel="L1MAX" start="20250328000000 -1000" stop="20250328153000 -1000">
+		<title>L1MAX</title>
+	</programme>
+VIE 28	<programme channel="L1MAX" start="20250328153000 -1000" stop="20250328173000 -1000">
+		<title>Alianza Atlético vs Cusco ~ Liga 1</title>
+	</programme>
+VIE 28	<programme channel="L1MAX" start="20250328173000 -1000" stop="20250329000000 -1000">
+		<title>L1MAX</title>
+	</programme>
+SAB 29	<programme channel="L1MAX" start="20250329000000 -1000" stop="20250329130000 -1000">
+		<title>L1MAX</title>
+	</programme>
+SAB 29	<programme channel="L1MAX" start="20250329130000 -1000" stop="20250329150000 -1000">
+		<title>ADT vs Alianza Lima ~ Liga 1</title>
+	</programme>
+SAB 29	<programme channel="L1MAX" start="20250329150000 -1000" stop="20250329153000 -1000">
+		<title>L1MAX</title>
+	</programme>
+SAB 29	<programme channel="L1MAX" start="20250329153000 -1000" stop="20250329173000 -1000">
+		<title>Sporting Cristal vs Binacional ~ Liga 1</title>
+	</programme>
+SAB 29	<programme channel="L1MAX" start="20250329173000 -1000" stop="20250329180000 -1000">
+		<title>L1MAX</title>
+	</programme>
+SAB 29	<programme channel="L1MAX" start="20250329180000 -1000" stop="20250329200000 -1000">
+		<title>Deportivo Garcilaso vs Sport Boys ~ Liga 1</title>
+	</programme>
+SAB 29	<programme channel="L1MAX" start="20250329200000 -1000" stop="20250330000000 -1000">
+		<title>L1MAX</title>
+	</programme>
+DOM 30	<programme channel="L1MAX" start="20250330000000 -1000" stop="20250330130000 -1000">
+		<title>L1MAX</title>
+	</programme>
+DOM 30	<programme channel="L1MAX" start="20250330130000 -1000" stop="20250330150000 -1000">
+		<title>Los Chankas vs Alianza Universidad ~ Liga 1</title>
+	</programme>
+DOM 30	<programme channel="L1MAX" start="20250330150000 -1000" stop="20250330153000 -1000">
+		<title>L1MAX</title>
+	</programme>
+DOM 30	<programme channel="L1MAX" start="20250330153000 -1000" stop="20250330173000 -1000">
+		<title>Juan Pablo II College vs UTC Cajamarca ~ Liga 1</title>
+	</programme>
+DOM 30	<programme channel="L1MAX" start="20250330173000 -1000" stop="20250331000000 -1000">
 		<title>L1MAX</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="GOLPERU">
 		<display-name>GOLPERU</display-name>
 	</channel>
-MAR 15	<programme channel="GOLPERU" start="20241015000000 -1000" stop="20241015183000 -1000">
+VIE 28	<programme channel="GOLPERU" start="20250328000000 -1000" stop="20250328200000 -1000">
+		<title>GOLPERU</title>
+	</programme>
+VIE 28	<programme channel="GOLPERU" start="20250328200000 -1000" stop="20250328220000 -1000">
+		<title>Universitario vs Sport Huancayo ~ Liga 1</title>
+	</programme>
+VIE 28	<programme channel="GOLPERU" start="20250328220000 -1000" stop="20250329000000 -1000">
 		<title>GOLPERU</title>
 	</programme>
 *****************************************************************************************************
@@ -251,69 +672,90 @@ VIE 20	<programme channel="VTVplus" start="20240920000000 -1000" stop="202409201
 	<channel id="TUDN USA">
 		<display-name>TUDN USA</display-name>
 	</channel>
-MAR 4	<programme channel="TUDN USA" start="20250304000000 -1000" stop="20250304124500 -1000">
+MAR 1	<programme channel="TUDN USA" start="20250401000000 -1000" stop="20250401163000 -1000">
 		<title>TUDN 🇺🇸</title>
 	</programme>
-MAR 4	<programme channel="TUDN USA" start="20250304124500 -1000" stop="20250304144500 -1000">
-		<title>Club Brugge vs Aston Villa ~ UEFA Champions League</title>
+MAR 1	<programme channel="TUDN USA" start="20250401163000 -1000" stop="20250401183000 -1000">
+		<title>Uruguay vs Bolivia ~ Sudamericano Sub17</title>
 	</programme>
-MAR 4	<programme channel="TUDN USA" start="20250304144500 -1000" stop="20250304170000 -1000">
-		<title>Real Madrid vs Atletico Madrid ~ UEFA Champions League</title>
-	</programme>
-MAR 4	<programme channel="TUDN USA" start="20250304170000 -1000" stop="20250304183000 -1000">
+MAR 1	<programme channel="TUDN USA" start="20250401183000 -1000" stop="20250401201500 -1000">
 		<title>TUDN 🇺🇸</title>
 	</programme>
-MAR 4	<programme channel="TUDN USA" start="20250304183000 -1000" stop="20250304203000 -1000">
-		<title>Cincinnati vs Tigres ~ CONCACAF Champions Cup</title>
+MAR 1	<programme channel="TUDN USA" start="20250401201500 -1000" stop="20250401221500 -1000">
+		<title>América vs Cruz Azul ~ Liga Campeones CONCACAF</title>
 	</programme>
-MAR 4	<programme channel="TUDN USA" start="20250304203000 -1000" stop="20250304223000 -1000">
-		<title>Pumas vs Alajuelense ~ CONCACAF Champions Cup</title>
+MAR 1	<programme channel="TUDN USA" start="20250401221500 -1000" stop="20250402001500 -1000">
+		<title>LA Galaxy vs Tigres UANL ~ Liga Campeones CONCACAF</title>
 	</programme>
-MAR 4	<programme channel="TUDN USA" start="20250304223000 -1000" stop="20250305003000 -1000">
-		<title>Los Angeles FC vs Columbus Crew ~ CONCACAF Champions Cup</title>
-	</programme>
-MIE 5	<programme channel="TUDN USA" start="20250305003000 -1000" stop="20250305124500 -1000">
+MIE 2	<programme channel="TUDN USA" start="20250402001500 -1000" stop="20250402203000 -1000">
 		<title>TUDN 🇺🇸</title>
 	</programme>
-MIE 5	<programme channel="TUDN USA" start="20250305124500 -1000" stop="20250305144500 -1000">
-		<title>Feyenoord vs Internazionale ~ UEFA Champions League</title>
+MIE 2	<programme channel="TUDN USA" start="20250402203000 -1000" stop="20250402223000 -1000">
+		<title>Vancouver Whitecaps vs Pumas UNAM ~ Liga Campeones CONCACAF</title>
 	</programme>
-MIE 5	<programme channel="TUDN USA" start="20250305144500 -1000" stop="20250305170000 -1000">
-		<title>Benfica vs Barcelona ~ UEFA Champions League</title>
+MIE 2	<programme channel="TUDN USA" start="20250402223000 -1000" stop="20250403003000 -1000">
+		<title>Los Angeles FC vs Inter Miami ~ Liga Campeones CONCACAF</title>
 	</programme>
-MIE 5	<programme channel="TUDN USA" start="20250305170000 -1000" stop="20250305203000 -1000">
+JUE 3	<programme channel="TUDN USA" start="20250403003000 -1000" stop="20250403163000 -1000">
 		<title>TUDN 🇺🇸</title>
 	</programme>
-MIE 5	<programme channel="TUDN USA" start="20250305203000 -1000" stop="20250305223000 -1000">
-		<title>Chivas vs America ~ CONCACAF Champions Cup</title>
+JUE 3	<programme channel="TUDN USA" start="20250403163000 -1000" stop="20250403183000 -1000">
+		<title>Ecuador vs Bolivia ~ Sudamericano Sub17</title>
 	</programme>
-MIE 5	<programme channel="TUDN USA" start="20250305223000 -1000" stop="20250306003000 -1000">
-		<title>Seattle Sounders vs Cruz Azul ~ CONCACAF Champions Cup</title>
-	</programme>
-JUE 6	<programme channel="TUDN USA" start="20250306003000 -1000" stop="20250306124500 -1000">
+JUE 3	<programme channel="TUDN USA" start="20250403183000 -1000" stop="20250403190000 -1000">
 		<title>TUDN 🇺🇸</title>
 	</programme>
-JUE 6	<programme channel="TUDN USA" start="20250306124500 -1000" stop="20250306144500 -1000">
-		<title>Real Sociedad vs Manchester United ~ UEFA Europa League</title>
+JUE 3	<programme channel="TUDN USA" start="20250403190000 -1000" stop="20250403210000 -1000">
+		<title>Venezuela vs Brasil ~ Sudamericano Sub17</title>
 	</programme>
-JUE 6	<programme channel="TUDN USA" start="20250306144500 -1000" stop="20250306170000 -1000">
-		<title>Roma vs Athletic Club ~ UEFA Europa League</title>
-	</programme>
-JUE 6	<programme channel="TUDN USA" start="20250306170000 -1000" stop="20250306200000 -1000">
+JUE 3	<programme channel="TUDN USA" start="20250403210000 -1000" stop="20250404000000 -1000">
 		<title>TUDN 🇺🇸</title>
 	</programme>
-JUE 6	<programme channel="TUDN USA" start="20250306200000 -1000" stop="20250306220000 -1000">
-		<title>Inter Miami vs Cavalier ~ CONCACAF Champions Cup</title>
+VIE 4	<programme channel="TUDN USA" start="20250404000000 -1000" stop="20250404200000 -1000">
+		<title>TUDN 🇺🇸</title>
 	</programme>
-JUE 6	<programme channel="TUDN USA" start="20250306220000 -1000" stop="20250307000000 -1000">
+VIE 4	<programme channel="TUDN USA" start="20250404200000 -1000" stop="20250404220000 -1000">
+		<title>Queretaro vs Leon ~ LigaMX</title>
+	</programme>
+VIE 4	<programme channel="TUDN USA" start="20250404220000 -1000" stop="20250405000500 -1000">
+		<title>Puebla vs Tigres ~ LigaMX</title>
+	</programme>
+SAB 5	<programme channel="TUDN USA" start="20250405000500 -1000" stop="20250405180000 -1000">
+		<title>TUDN 🇺🇸</title>
+	</programme>
+SAB 5	<programme channel="TUDN USA" start="20250405180000 -1000" stop="20250405200000 -1000">
+		<title>Pachuca vs América</title>
+	</programme>
+SAB 5	<programme channel="TUDN USA" start="20250405200000 -1000" stop="20250405220000 -1000">
+		<title>Monterrey vs Chivas ~ Liga MX</title>
+	</programme>
+SAB 5	<programme channel="TUDN USA" start="20250405220000 -1000" stop="20250406001000 -1000">
+		<title>Cruz Azul vs Pumas ~ Liga MX</title>
+	</programme>
+DOM 6	<programme channel="TUDN USA" start="20250406001000 -1000" stop="20250406190000 -1000">
+		<title>TUDN 🇺🇸</title>
+	</programme>
+DOM 6	<programme channel="TUDN USA" start="20250406190000 -1000" stop="20250406210000 -1000">
+		<title>Toluca vs Santos ~ Liga MX</title>
+	</programme>
+DOM 6	<programme channel="TUDN USA" start="20250406210000 -1000" stop="20250407000000 -1000">
 		<title>TUDN 🇺🇸</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="TUDN MX">
 		<display-name>TUDN MX</display-name>
 	</channel>
-DOM 21	<programme channel="TUDN MX" start="20240721200000 -1000" stop="20240722000000 -1000">
-		<title>TUDN Mexico</title>
+SAB 29	<programme channel="TUDN MX" start="20250329000000 -1000" stop="20250329180000 -1000">
+		<title>TUDN 🇲🇽</title>
+	</programme>
+SAB 29	<programme channel="TUDN MX" start="20250329180000 -1000" stop="20250329200000 -1000">
+		<title>Toluca vs Pachuca ~ Liga MX</title>
+	</programme>
+SAB 29	<programme channel="TUDN MX" start="20250329200000 -1000" stop="20250329220000 -1000">
+		<title>America vs Tigres ~ Liga MX</title>
+	</programme>
+SAB 29	<programme channel="TUDN MX" start="20250329220000 -1000" stop="20250330000000 -1000">
+		<title>Monterrey vs Tijuana ~ Liga MX</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="Univision">
@@ -326,14 +768,65 @@ MAR 17	<programme channel="Univision" start="20240917000000 -1000" stop="2024091
 	<channel id="Telemundo">
 		<display-name>Telemundo</display-name>
 	</channel>
-SAB 21	<programme channel="Telemundo" start="20240921000000 -1000" stop="20240921113000 -1000">
+JUE 20	<programme channel="Telemundo" start="20250320000000 -1000" stop="20250320194500 -1000">
 		<title>Telemundo</title>
+	</programme>
+JUE 20	<programme channel="Telemundo" start="20250320194500 -1000" stop="20250320214500 -1000">
+		<title>Brasil vs Colombia ~ Eliminatorias CONMEBOL ~ J13</title>
+	</programme>
+JUE 20	<programme channel="Telemundo" start="20250320214500 -1000" stop="20250321000000 -1000">
+		<title>Telemundo</title>
+	</programme>
+MAR 25	<programme channel="Telemundo" start="20250325000000 -1000" stop="20250325190000 -1000">
+		<title>Telemundo</title>
+	</programme>
+MAR 25	<programme channel="Telemundo" start="20250325190000 -1000" stop="20250325210000 -1000">
+		<title>Argentina vs Brasil ~ Eliminatorias CONMEBOL</title>
+	</programme>
+MAR 25	<programme channel="Telemundo" start="20250325210000 -1000" stop="20250326000000 -1000">
+		<title>Telemundo</title>
+	</programme>
+SAB 29	<programme channel="Telemundo" start="20250329000000 -1000" stop="20250329220500 -1000">
+		<title>Telemundo</title>
+	</programme>
+SAB 29	<programme channel="Telemundo" start="20250329220500 -1000" stop="20250330000500 -1000">
+		<title>Chivas vs Cruz Azul ~ LigaMX</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="NBC Universo">
 		<display-name>NBC Universo</display-name>
 	</channel>
-SAB 21	<programme channel="NBC Universo" start="20240921000000 -1000" stop="20240921063000 -1000">
+MAR 1	<programme channel="NBC Universo" start="20250401000000 -1000" stop="20250401134500 -1000">
+		<title>NBC Universo</title>
+	</programme>
+MAR 1	<programme channel="NBC Universo" start="20250401134500 -1000" stop="20250401154500 -1000">
+		<title>Wolverhampton Wanderers vs West Ham United ~ Premier League</title>
+	</programme>
+MAR 1	<programme channel="NBC Universo" start="20250401154500 -1000" stop="20250402000000 -1000">
+		<title>NBC Universo</title>
+	</programme>
+MIE 2	<programme channel="NBC Universo" start="20250402000000 -1000" stop="20250402134500 -1000">
+		<title>NBC Universo</title>
+	</programme>
+MIE 2	<programme channel="NBC Universo" start="20250402134500 -1000" stop="20250402154500 -1000">
+		<title>Manchester City vs Leicester City ~ Premier League</title>
+	</programme>
+MIE 2	<programme channel="NBC Universo" start="20250402154500 -1000" stop="20250403000000 -1000">
+		<title>NBC Universo</title>
+	</programme>
+SAB 5	<programme channel="NBC Universo" start="20250405000000 -1000" stop="20250405063000 -1000">
+		<title>NBC Universo</title>
+	</programme>
+SAB 5	<programme channel="NBC Universo" start="20250405063000 -1000" stop="20250405083000 -1000">
+		<title>Everton vs Arsenal ~ Premier League</title>
+	</programme>
+SAB 5	<programme channel="NBC Universo" start="20250405083000 -1000" stop="20250405160000 -1000">
+		<title>NBC Universo</title>
+	</programme>
+SAB 5	<programme channel="NBC Universo" start="20250405160000 -1000" stop="20250405180000 -1000">
+		<title>Estados Unidos vs Brasil ~ Amistoso ~ Mujeres</title>
+	</programme>
+SAB 5	<programme channel="NBC Universo" start="20250405180000 -1000" stop="20250406000000 -1000">
 		<title>NBC Universo</title>
 	</programme>
 *****************************************************************************************************
@@ -347,63 +840,141 @@ SAB 21	<programme channel="USA Network" start="20240921000000 -1000" stop="20240
 	<channel id="Directv Sports">
 		<display-name>Directv Sports</display-name>
 	</channel>
-MAR 4	<programme channel="Directv Sports" start="20250304000000 -1000" stop="20250304210000 -1000">
+MIE 2	<programme channel="Directv Sports" start="20250402000000 -1000" stop="20250402170000 -1000">
 		<title>Directv Sports</title>
 	</programme>
-MAR 4	<programme channel="Directv Sports" start="20250304210000 -1000" stop="20250304230000 -1000">
-		<title>AD Tarma vs Cienciano ~ SUD2025 F1</title>
+MIE 2	<programme channel="Directv Sports" start="20250402170000 -1000" stop="20250402190000 -1000">
+		<title>Corinthians vs Huracan ~ CONMEBOL Sudamericana</title>
 	</programme>
-MAR 4	<programme channel="Directv Sports" start="20250304230000 -1000" stop="20250305000000 -1000">
-		<title>Directv Sports</title>
+MIE 2	<programme channel="Directv Sports" start="20250402190000 -1000" stop="20250402193000 -1000">
+		<title>Previa</title>
 	</programme>
-MIE 5	<programme channel="Directv Sports" start="20250305000000 -1000" stop="20250305170000 -1000">
-		<title>Directv Sports</title>
+MIE 2	<programme channel="Directv Sports" start="20250402193000 -1000" stop="20250402213000 -1000">
+		<title>Racing (URU) vs America de Cali ~ CONMEBOL Sudamericana</title>
 	</programme>
-MIE 5	<programme channel="Directv Sports" start="20250305170000 -1000" stop="20250305190000 -1000">
-		<title>Union Española vs Everton ~ SUD2025 F1</title>
-	</programme>
-MIE 5	<programme channel="Directv Sports" start="20250305190000 -1000" stop="20250305210000 -1000">
-		<title>Once Caldas vs Millonarios ~ SUD2025 F1</title>
-	</programme>
-MIE 5	<programme channel="Directv Sports" start="20250305210000 -1000" stop="20250306000000 -1000">
-		<title>Directv Sports</title>
-	</programme>
-JUE 6	<programme channel="Directv Sports" start="20250306000000 -1000" stop="20250306210000 -1000">
-		<title>Directv Sports</title>
-	</programme>
-JUE 6	<programme channel="Directv Sports" start="20250306210000 -1000" stop="20250306230000 -1000">
-		<title>Universidad Catolica (ECU) vs Aucas</title>
-	</programme>
-JUE 6	<programme channel="Directv Sports" start="20250306230000 -1000" stop="20250307000000 -1000">
+MIE 2	<programme channel="Directv Sports" start="20250402213000 -1000" stop="20250403000000 -1000">
 		<title>Directv Sports</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="Directv Sports 2">
 		<display-name>Directv Sports 2</display-name>
 	</channel>
-MIE 5	<programme channel="Directv Sports 2" start="20250305000000 -1000" stop="20250305170000 -1000">
+MAR 1	<programme channel="Directv Sports 2" start="20250401000000 -1000" stop="20250401162000 -1000">
 		<title>Directv Sports 2</title>
 	</programme>
-MIE 5	<programme channel="Directv Sports 2" start="20250305170000 -1000" stop="20250305190000 -1000">
-		<title>Racing (URU) vs Wanderers ~ SUD2025 F1</title>
+MAR 1	<programme channel="Directv Sports 2" start="20250401162000 -1000" stop="20250401183000 -1000">
+		<title>Uruguay vs Bolivis ~ Sudamericano Sub17</title>
 	</programme>
-MIE 5	<programme channel="Directv Sports 2" start="20250305190000 -1000" stop="20250306000000 -1000">
+MAR 1	<programme channel="Directv Sports 2" start="20250401183000 -1000" stop="20250401185000 -1000">
 		<title>Directv Sports 2</title>
 	</programme>
-JUE 6	<programme channel="Directv Sports 2" start="20250306000000 -1000" stop="20250306170000 -1000">
+MAR 1	<programme channel="Directv Sports 2" start="20250401185000 -1000" stop="20250401210000 -1000">
+		<title>Ecuador vs Venezuela ~ Sudamericano Sub17</title>
+	</programme>
+MAR 1	<programme channel="Directv Sports 2" start="20250401210000 -1000" stop="20250402000000 -1000">
 		<title>Directv Sports 2</title>
 	</programme>
-JUE 6	<programme channel="Directv Sports 2" start="20250306170000 -1000" stop="20250306190000 -1000">
-		<title>Guarani vs 2 de Mayo ~ SUD2025 F1</title>
-	</programme>
-JUE 6	<programme channel="Directv Sports 2" start="20250306190000 -1000" stop="20250306193000 -1000">
+MIE 2	<programme channel="Directv Sports 2" start="20250402000000 -1000" stop="20250402060000 -1000">
 		<title>Directv Sports 2</title>
 	</programme>
-JUE 6	<programme channel="Directv Sports 2" start="20250306193000 -1000" stop="20250306213000 -1000">
-		<title>Deportivo La Guaira vs Caracas ~ SUD2025 F1</title>
+MIE 2	<programme channel="Directv Sports 2" start="20250402060000 -1000" stop="20250402070000 -1000">
+		<title>Lo Mejor de DSPORTS Fight</title>
 	</programme>
-JUE 6	<programme channel="Directv Sports 2" start="20250306213000 -1000" stop="20250307000000 -1000">
-		<title>Directv Sports 2</title>
+MIE 2	<programme channel="Directv Sports 2" start="20250402070000 -1000" stop="20250402073000 -1000">
+		<title>Hilos</title>
+	</programme>
+MIE 2	<programme channel="Directv Sports 2" start="20250402073000 -1000" stop="20250402083000 -1000">
+		<title>Ciclismo</title>
+	</programme>
+MIE 2	<programme channel="Directv Sports 2" start="20250402083000 -1000" stop="20250402103000 -1000">
+		<title>Torneo Regional del Litoral: Parana Rowing vs Crai ~ Rugby Argentino</title>
+	</programme>
+MIE 2	<programme channel="Directv Sports 2" start="20250402103000 -1000" stop="20250402110000 -1000">
+		<title>Hilos</title>
+	</programme>
+MIE 2	<programme channel="Directv Sports 2" start="20250402110000 -1000" stop="20250402113000 -1000">
+		<title>Mass Participation: Jordan Jordan</title>
+	</programme>
+MIE 2	<programme channel="Directv Sports 2" start="20250402113000 -1000" stop="20250402120000 -1000">
+		<title>Euroliga: Rivalidades - España</title>
+	</programme>
+MIE 2	<programme channel="Directv Sports 2" start="20250402120000 -1000" stop="20250402140000 -1000">
+		<title>Torneo Top 10 A de Cordoba: Jockey Villa Maria vs San Martin Villa Maria</title>
+	</programme>
+MIE 2	<programme channel="Directv Sports 2" start="20250402140000 -1000" stop="20250402160000 -1000">
+		<title>Ciclismo</title>
+	</programme>
+MIE 2	<programme channel="Directv Sports 2" start="20250402160000 -1000" stop="20250402162000 -1000">
+		<title>Rivales: Estudiantes vs Gimnasia</title>
+	</programme>
+MIE 2	<programme channel="Directv Sports 2" start="20250402162000 -1000" stop="20250402183000 -1000">
+		<title>Argentina vs Peru ~ Sudamericano Sub17</title>
+	</programme>
+MIE 2	<programme channel="Directv Sports 2" start="20250402183000 -1000" stop="20250402185000 -1000">
+		<title>DSPORTS Historias: Cristiano vs Messi</title>
+	</programme>
+MIE 2	<programme channel="Directv Sports 2" start="20250402185000 -1000" stop="20250402210000 -1000">
+		<title>Paraguay vs Colombia ~ Sudamericano Sub17</title>
+	</programme>
+MIE 2	<programme channel="Directv Sports 2" start="20250402210000 -1000" stop="20250402230000 -1000">
+		<title>DSPORTS Basquet</title>
+	</programme>
+MIE 2	<programme channel="Directv Sports 2" start="20250402230000 -1000" stop="20250403010000 -1000">
+		<title>Torneo Top 10 A de Cordoba: Jockey Villa Maria vs San Martin Villa Maria</title>
+	</programme>
+JUE 3	<programme channel="Directv Sports 2" start="20250403010000 -1000" stop="20250403020000 -1000">
+		<title>Fecha 7: Lo Mejor de la Kings League</title>
+	</programme>
+JUE 3	<programme channel="Directv Sports 2" start="20250403020000 -1000" stop="20250403040000 -1000">
+		<title>UCI ProSeries Cycling - Milano - Torino</title>
+	</programme>
+JUE 3	<programme channel="Directv Sports 2" start="20250403040000 -1000" stop="20250403060000 -1000">
+		<title>Torneo Regional del Litoral: Parana Rowing vs Crai ~ Rugby Argentino</title>
+	</programme>
+JUE 3	<programme channel="Directv Sports 2" start="20250403060000 -1000" stop="20250403070000 -1000">
+		<title>DSPORTS Basquet</title>
+	</programme>
+JUE 3	<programme channel="Directv Sports 2" start="20250403070000 -1000" stop="20250403073000 -1000">
+		<title>Hilos: Luis Scola</title>
+	</programme>
+JUE 3	<programme channel="Directv Sports 2" start="20250403073000 -1000" stop="20250403083000 -1000">
+		<title>Ciclismo: Alula Tour</title>
+	</programme>
+JUE 3	<programme channel="Directv Sports 2" start="20250403083000 -1000" stop="20250403110000 -1000">
+		<title>Equitacion</title>
+	</programme>
+JUE 3	<programme channel="Directv Sports 2" start="20250403110000 -1000" stop="20250403113000 -1000">
+		<title>Mass Participation: Barcelona</title>
+	</programme>
+JUE 3	<programme channel="Directv Sports 2" start="20250403113000 -1000" stop="20250403115500 -1000">
+		<title>DSPORTS Historias</title>
+	</programme>
+JUE 3	<programme channel="Directv Sports 2" start="20250403115500 -1000" stop="20250403135500 -1000">
+		<title>Monaco vs Panathinaikos Aktor ~ Baloncesto Euroliga</title>
+	</programme>
+JUE 3	<programme channel="Directv Sports 2" start="20250403135500 -1000" stop="20250403160000 -1000">
+		<title>Real Madrid vs Paris ~ Baloncesto Euroliga</title>
+	</programme>
+JUE 3	<programme channel="Directv Sports 2" start="20250403160000 -1000" stop="20250403162000 -1000">
+		<title>Rivales: Universidad de Chile vs Colo Colo</title>
+	</programme>
+JUE 3	<programme channel="Directv Sports 2" start="20250403162000 -1000" stop="20250403183000 -1000">
+		<title>Ecuador vs Bolivia ~ Sudamericano Sub17</title>
+	</programme>
+JUE 3	<programme channel="Directv Sports 2" start="20250403183000 -1000" stop="20250403185000 -1000">
+		<title>DSPORTS Historias: Cristiano vs Messi</title>
+	</programme>
+JUE 3	<programme channel="Directv Sports 2" start="20250403185000 -1000" stop="20250403210000 -1000">
+		<title>Venezuela vs Brasil ~ Sudamericano Sub 17</title>
+	</programme>
+JUE 3	<programme channel="Directv Sports 2" start="20250403210000 -1000" stop="20250403220000 -1000">
+		<title>Fecha 7: Lo Mejor de la Kings League</title>
+	</programme>
+JUE 3	<programme channel="Directv Sports 2" start="20250403220000 -1000" stop="20250403230000 -1000">
+		<title>Lo Mejor de DSPORTS Fight</title>
+	</programme>
+JUE 3	<programme channel="Directv Sports 2" start="20250403230000 -1000" stop="20250404010000 -1000">
+		<title>Monaco vs Panathinaikos Aktor ~ Baloncesto Euroliga</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="Directv Sports +">
@@ -419,46 +990,215 @@ MIE 5	<programme channel="Directv Sports +" start="20250305190000 -1000" stop="2
 		<title>Directv Sports +</title>
 	</programme>
 *****************************************************************************************************
-	<channel id="beIN SPORTS">
-		<display-name>beIN SPORTS</display-name>
+	<channel id="beIN SPORTS ñ">
+		<display-name>beIN SPORTS ñ</display-name>
 	</channel>
-MAR 17	<programme channel="beIN SPORTS" start="20240917000000 -1000" stop="20240917193000 -1000">
-		<title>beIN SPORTS</title>
+MAR 11	<programme channel="beIN SPORTS ñ" start="20250311000000 -1000" stop="20250311170000 -1000">
+		<title>beIN SPORTS en Español</title>
+	</programme>
+MAR 11	<programme channel="beIN SPORTS ñ" start="20250311170000 -1000" stop="20250311190000 -1000">
+		<title>Alianza Lima vs Deportes Iquique ~ LIB2025 / 3F VUELTA (IDA 2-1)</title>
+	</programme>
+MAR 11	<programme channel="beIN SPORTS ñ" start="20250311190000 -1000" stop="20250312000000 -1000">
+		<title>beIN SPORTS en Español</title>
+	</programme>
+MIE 12	<programme channel="beIN SPORTS ñ" start="20250312000000 -1000" stop="20250312170000 -1000">
+		<title>beIN SPORTS en Español</title>
+	</programme>
+MIE 12	<programme channel="beIN SPORTS ñ" start="20250312170000 -1000" stop="20250312190000 -1000">
+		<title>Cerro Porteño vs Melgar ~ LIB2025 ~ F3 VUELTA (IDA 1-0)</title>
+	</programme>
+MIE 12	<programme channel="beIN SPORTS ñ" start="20250312190000 -1000" stop="20250312193000 -1000">
+		<title>beIN SPORTS en Español</title>
+	</programme>
+MIE 12	<programme channel="beIN SPORTS ñ" start="20250312193000 -1000" stop="20250312213000 -1000">
+		<title>Corinthians vs Barcelona ~ LIB2025 ~ F3 VUELTA (IDA 0-3)</title>
+	</programme>
+MIE 12	<programme channel="beIN SPORTS ñ" start="20250312213000 -1000" stop="20250313000000 -1000">
+		<title>beIN SPORTS en Español</title>
+	</programme>
+JUE 13	<programme channel="beIN SPORTS ñ" start="20250313000000 -1000" stop="20250313193000 -1000">
+		<title>beIN SPORTS en Español</title>
+	</programme>
+JUE 13	<programme channel="beIN SPORTS ñ" start="20250313193000 -1000" stop="20250313213000 -1000">
+		<title>Bahia vs Boston River ~ LIB2025 ~ F3 VUELTA (IDA 0-0)</title>
+	</programme>
+JUE 13	<programme channel="beIN SPORTS ñ" start="20250313213000 -1000" stop="20250314000000 -1000">
+		<title>beIN SPORTS en Español</title>
 	</programme>
 *****************************************************************************************************
-	<channel id="beIN SPORTS XTRA">
-		<display-name>beIN SPORTS XTRA</display-name>
+	<channel id="beIN SPORTS XTRA ñ">
+		<display-name>beIN SPORTS XTRA ñ</display-name>
 	</channel>
-MAR 17	<programme channel="beIN SPORTS XTRA" start="20240917160000 -1000" stop="20240917193000 -1000">
-		<title>beIN SPORTS XTRA</title>
+MIE 2	<programme channel="beIN SPORTS XTRA ñ" start="20250402000000 -1000" stop="20250402170000 -1000">
+		<title>beIN SPORTS XTRA en Español</title>
+	</programme>
+MIE 2	<programme channel="beIN SPORTS XTRA ñ" start="20250402170000 -1000" stop="20250402190000 -1000">
+		<title>Melgar vs Vasco da Gama ~ CONMEBOL Sudamericana</title>
+	</programme>
+MIE 2	<programme channel="beIN SPORTS XTRA ñ" start="20250402190000 -1000" stop="20250402193000 -1000">
+		<title>beIN SPORTS XTRA en Español</title>
+	</programme>
+MIE 2	<programme channel="beIN SPORTS XTRA ñ" start="20250402193000 -1000" stop="20250402213000 -1000">
+		<title>Racing (URU) vs America de Cali ~ CONMEBOL Sudamericana</title>
+	</programme>
+MIE 2	<programme channel="beIN SPORTS XTRA ñ" start="20250402213000 -1000" stop="20250403000000 -1000">
+		<title>beIN SPORTS XTRA en Español</title>
+	</programme>
+JUE 3	<programme channel="beIN SPORTS XTRA ñ" start="20250403000000 -1000" stop="20250403170000 -1000">
+		<title>beIN SPORTS XTRA en Español</title>
+	</programme>
+JUE 3	<programme channel="beIN SPORTS XTRA ñ" start="20250403170000 -1000" stop="20250403190000 -1000">
+		<title>Central Cordoba vs Liga de Quito ~ CONMEBOL Libertadores</title>
+	</programme>
+JUE 3	<programme channel="beIN SPORTS XTRA ñ" start="20250403190000 -1000" stop="20250403193000 -1000">
+		<title>beIN SPORTS XTRA en Español</title>
+	</programme>
+JUE 3	<programme channel="beIN SPORTS XTRA ñ" start="20250403193000 -1000" stop="20250403213000 -1000">
+		<title>Cerro Largo vs Defensa y Justicia ~ CONMEBOL Sudamericana</title>
+	</programme>
+JUE 3	<programme channel="beIN SPORTS XTRA ñ" start="20250403213000 -1000" stop="20250304000000 -1000">
+		<title>beIN SPORTS XTRA en Español</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="TyC Sports ARG">
 		<display-name>TyC Sports ARG</display-name>
 	</channel>
-MAR 15	<programme channel="TyC Sports ARG" start="20241015000000 -1000" stop="20241015153000 -1000">
-		<title>TyC Sports ARG</title>
+MIE 2	<programme channel="TyC Sports ARG" start="20250402000000 -1000" stop="20250402140000 -1000">
+		<title>TyC Sports 🇦🇷</title>
+	</programme>
+MIE 2	<programme channel="TyC Sports ARG" start="20250402140000 -1000" stop="20250402160000 -1000">
+		<title>Atletico Tucuman vs All Boys ~ Copa Argentina</title>
+	</programme>
+MIE 2	<programme channel="TyC Sports ARG" start="20250402160000 -1000" stop="20250402163000 -1000">
+		<title>Previa</title>
+	</programme>
+MIE 2	<programme channel="TyC Sports ARG" start="20250402163000 -1000" stop="20250402183000 -1000">
+		<title>Argentina vs Peru ~ Sudamericano Sub17</title>
+	</programme>
+MIE 2	<programme channel="TyC Sports ARG" start="20250402183000 -1000" stop="20250403000000 -1000">
+		<title>TyC Sports 🇦🇷</title>
+	</programme>
+JUE 3	<programme channel="TyC Sports ARG" start="20250403000000 -1000" stop="20250403164500 -1000">
+		<title>TyC Sports 🇦🇷</title>
+	</programme>
+JUE 3	<programme channel="TyC Sports ARG" start="20250403164500 -1000" stop="20250403184500 -1000">
+		<title>Instituto vs Deportivo Madryn ~ Copa Argentina</title>
+	</programme>
+JUE 3	<programme channel="TyC Sports ARG" start="20250403184500 -1000" stop="20250403191000 -1000">
+		<title>TyC Sports 🇦🇷</title>
+	</programme>
+JUE 3	<programme channel="TyC Sports ARG" start="20250403191000 -1000" stop="20250403211000 -1000">
+		<title>Newell's Old Boys vs Kimberley ~ Copa Argentina</title>
+	</programme>
+JUE 3	<programme channel="TyC Sports ARG" start="20250403211000 -1000" stop="20250404000000 -1000">
+		<title>TyC Sports 🇦🇷</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="TyC Sports LATAM">
 		<display-name>TyC Sports LATAM</display-name>
 	</channel>
-DOM 15	<programme channel="TyC Sports LATAM" start="20240915000000 -1000" stop="20240915130000 -1000">
+MIE 2	<programme channel="TyC Sports LATAM" start="20250402000000 -1000" stop="20250402140000 -1000">
+		<title>TyC Sports Latinoamerica</title>
+	</programme>
+MIE 2	<programme channel="TyC Sports LATAM" start="20250402140000 -1000" stop="20250402160000 -1000">
+		<title>Atletico Tucuman vs All Boys ~ Copa Argentina</title>
+	</programme>
+MIE 2	<programme channel="TyC Sports LATAM" start="20250402160000 -1000" stop="20250403000000 -1000">
+		<title>TyC Sports Latinoamerica</title>
+	</programme>
+JUE 3	<programme channel="TyC Sports LATAM" start="20250403000000 -1000" stop="20250403164500 -1000">
+		<title>TyC Sports Latinoamerica</title>
+	</programme>
+JUE 3	<programme channel="TyC Sports LATAM" start="20250403164500 -1000" stop="20250403184500 -1000">
+		<title>Instituto vs Deportivo Madryn ~ Copa Argentina</title>
+	</programme>
+JUE 3	<programme channel="TyC Sports LATAM" start="20250403184500 -1000" stop="20250403191000 -1000">
+		<title>TyC Sports Latinoamerica</title>
+	</programme>
+JUE 3	<programme channel="TyC Sports LATAM" start="20250403191000 -1000" stop="20250403211000 -1000">
+		<title>Newell's Old Boys vs Kimberley ~ Copa Argentina</title>
+	</programme>
+JUE 3	<programme channel="TyC Sports LATAM" start="20250403211000 -1000" stop="20250404000000 -1000">
 		<title>TyC Sports Latinoamerica</title>
 	</programme>
 *****************************************************************************************************
-	<channel id="TNT Sports Argentina">
-		<display-name>TNT Sports Argentina</display-name>
+	<channel id="TNT Sports Premium Argentina">
+		<display-name>TNT Sports Premium Argentina</display-name>
+		<display-name>TNT Sports Premium Argentina SD</display-name>
+		<display-name>TNT Sports Premium Argentina HD</display-name>
+		<display-name>TNT Sports Premium 🇦🇷</display-name>
+		<display-name>TNT Sports Premium 🇦🇷 SD</display-name>
+		<display-name>TNT Sports Premium 🇦🇷 HD</display-name>
 	</channel>
-VIE 20	<programme channel="TNT Sports Argentina" start="20240920000000 -1000" stop="20240920153000 -1000">
-		<title>TNT Sports Argentina</title>
+JUE 27	<programme channel="TNT Sports Premium Argentina" start="20250327000000 -1000" stop="20250327133000 -1000">
+		<title>TNT Sports Premium 🇦🇷</title>
+	</programme>
+JUE 27	<programme channel="TNT Sports Premium Argentina" start="20250327133000 -1000" stop="20250327153000 -1000">
+		<title>Aldosivi vs Union ~ LPF / J11</title>
+	</programme>
+JUE 27	<programme channel="TNT Sports Premium Argentina" start="20250327153000 -1000" stop="20250327190000 -1000">
+		<title>TNT Sports Premium 🇦🇷</title>
+	</programme>
+JUE 27	<programme channel="TNT Sports Premium Argentina" start="20250327190000 -1000" stop="20250327210000 -1000">
+		<title>Independiente Rivadavia vs Racing Club ~ LPF / J11</title>
+	</programme>
+JUE 27	<programme channel="TNT Sports Premium Argentina" start="20250327210000 -1000" stop="20250328000000 -1000">
+		<title>TNT Sports Premium 🇦🇷</title>
+	</programme>
+VIE 28	<programme channel="TNT Sports Premium Argentina" start="20250328000000 -1000" stop="20250328150000 -1000">
+		<title>TNT Sports Premium 🇦🇷</title>
+	</programme>
+VIE 28	<programme channel="TNT Sports Premium Argentina" start="20250328150000 -1000" stop="20250328170000 -1000">
+		<title>Defensa y Justicia vs Tigre ~ LPF / J11</title>
+	</programme>
+VIE 28	<programme channel="TNT Sports Premium Argentina" start="20250328170000 -1000" stop="20250328191500 -1000">
+		<title>Banfield vs Huracan ~ LPF / J11</title>
+	</programme>
+VIE 28	<programme channel="TNT Sports Premium Argentina" start="20250328191500 -1000" stop="20250328193000 -1000">
+		<title>TNT Sports Premium 🇦🇷</title>
+	</programme>
+VIE 28	<programme channel="TNT Sports Premium Argentina" start="20250328193000 -1000" stop="20250328213000 -1000">
+		<title>Velez Sarsfield vs Deportivo Riestra ~ LPF / J11</title>
+	</programme>
+VIE 28	<programme channel="TNT Sports Premium Argentina" start="20250328213000 -1000" stop="20250329000000 -1000">
+		<title>TNT Sports Premium 🇦🇷</title>
+	</programme>
+SAB 29	<programme channel="TNT Sports Premium Argentina" start="20250329000000 -1000" stop="20250329163000 -1000">
+		<title>TNT Sports Premium 🇦🇷</title>
+	</programme>
+SAB 29	<programme channel="TNT Sports Premium Argentina" start="20250329163000 -1000" stop="20250329183000 -1000">
+		<title>Central Cordoba vs Argentinos ~ LPF / J11</title>
+	</programme>
+SAB 29	<programme channel="TNT Sports Premium Argentina" start="20250329183000 -1000" stop="20250329190000 -1000">
+		<title>TNT Sports Premium 🇦🇷</title>
+	</programme>
+SAB 29	<programme channel="TNT Sports Premium Argentina" start="20250329190000 -1000" stop="20250329210000 -1000">
+		<title>River Plate vs Rosario Central ~ LPF / J11</title>
+	</programme>
+SAB 29	<programme channel="TNT Sports Premium Argentina" start="20250329210000 -1000" stop="20250330000000 -1000">
+		<title>TNT Sports Premium 🇦🇷</title>
+	</programme>
+DOM 30	<programme channel="TNT Sports Premium Argentina" start="20250330000000 -1000" stop="20250330130000 -1000">
+		<title>TNT Sports Premium 🇦🇷</title>
+	</programme>
+DOM 30	<programme channel="TNT Sports Premium Argentina" start="20250330130000 -1000" stop="20250330150000 -1000">
+		<title>Belgrano vs Talleres ~ LPF / J11</title>
+	</programme>
+DOM 30	<programme channel="TNT Sports Premium Argentina" start="20250330150000 -1000" stop="20250331000000 -1000">
+		<title>TNT Sports Premium 🇦🇷</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="ESPN Premium Argentina">
 		<display-name>ESPN Premium Argentina</display-name>
+		<display-name>ESPN Premium Argentina SD</display-name>
+		<display-name>ESPN Premium Argentina HD</display-name>
+		<display-name>ESPN Premium 🇦🇷 </display-name>
+		<display-name>ESPN Premium 🇦🇷 SD</display-name>
+		<display-name>ESPN Premium 🇦🇷 HD</display-name>
 	</channel>
-LUN 23	<programme channel="ESPN Premium Argentina" start="20240923210000 -1000" stop="20240924000000 -1000">
-		<title>ESPN Premium Argentina</title>
+DOM 30	<programme channel="ESPN Premium Argentina" start="20250330000000 -1000" stop="20250330153000 -1000">
+		<title>ESPN Premium 🇦🇷</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="ESPN Premium Chile">
@@ -472,31 +1212,49 @@ LUN 23	<programme channel="ESPN Premium Argentina" start="20240923210000 -1000" 
 		<display-name>ESPN Premium 🇨🇱 SD</display-name>
 		<display-name>ESPN Premium 🇨🇱 HD</display-name>
 	</channel>
-SAB 8	<programme channel="ESPN Premium Chile" start="20250308000000 -1000" stop="20250308093000 -1000">
+MAR 1	<programme channel="ESPN Premium Chile" start="20250401000000 -1000" stop="20250401170000 -1000">
 		<title>ESPN Premium 🇨🇱</title>
 	</programme>
-SAB 8	<programme channel="ESPN Premium Chile" start="20250308093000 -1000" stop="20250308113000 -1000">
-		<title>Borussia Dortmund vs Augsburgo ~ Bundesliga ~ J25</title>
+MAR 1	<programme channel="ESPN Premium Chile" start="20250401170000 -1000" stop="20250401190000 -1000">
+		<title>Cerro Porteño vs Bolivar ~ CONMEBOL Libertadores</title>
 	</programme>
-SAB 8	<programme channel="ESPN Premium Chile" start="20250308113000 -1000" stop="20250309000000 -1000">
+MAR 1	<programme channel="ESPN Premium Chile" start="20250401190000 -1000" stop="20250401193000 -1000">
 		<title>ESPN Premium 🇨🇱</title>
 	</programme>
-DOM 9	<programme channel="ESPN Premium Chile" start="20250309000000 -1000" stop="20250309093000 -1000">
+MAR 1	<programme channel="ESPN Premium Chile" start="20250401193000 -1000" stop="20250401213000 -1000">
+		<title>Atletico Bucaramanga vs Colo Colo ~ CONMEBOL Libertadores</title>
+	</programme>
+MAR 1	<programme channel="ESPN Premium Chile" start="20250401213000 -1000" stop="20250402000000 -1000">
 		<title>ESPN Premium 🇨🇱</title>
 	</programme>
-DOM 9	<programme channel="ESPN Premium Chile" start="20250309093000 -1000" stop="20250309113000 -1000">
-		<title>Eintracht Frankfurt vs FC Union Berlin ~ Bundesliga ~ J25</title>
-	</programme>
-DOM 9	<programme channel="ESPN Premium Chile" start="20250309113000 -1000" stop="20250310000000 -1000">
+MIE 2	<programme channel="ESPN Premium Chile" start="20250402000000 -1000" stop="20250402170000 -1000">
 		<title>ESPN Premium 🇨🇱</title>
 	</programme>
-DOM 9	<programme channel="ESPN Premium Chile" start="20250309000000 -1000" stop="20250309113000 -1000">
+MIE 2	<programme channel="ESPN Premium Chile" start="20250402170000 -1000" stop="20250402190000 -1000">
+		<title>Velez Sarsfield vs Peñarol ~ CONMEBOL Libertadores</title>
+	</programme>
+MIE 2	<programme channel="ESPN Premium Chile" start="20250402190000 -1000" stop="20250402193000 -1000">
 		<title>ESPN Premium 🇨🇱</title>
 	</programme>
-DOM 9	<programme channel="ESPN Premium Chile" start="20250309113000 -1000" stop="20250309133000 -1000">
-		<title>Hoffenheim vs Heidenheim ~ Bundesliga ~ J25</title>
+MIE 2	<programme channel="ESPN Premium Chile" start="20250402193000 -1000" stop="20250402213000 -1000">
+		<title>Universidad de Chile vs Botafogo ~ CONMEBOL Libertadores</title>
 	</programme>
-DOM 9	<programme channel="ESPN Premium Chile" start="20250309113000 -1000" stop="20250310000000 -1000">
+MIE 2	<programme channel="ESPN Premium Chile" start="20250402213000 -1000" stop="20250403000000 -1000">
+		<title>ESPN Premium 🇨🇱</title>
+	</programme>
+JUE 3	<programme channel="ESPN Premium Chile" start="20250403000000 -1000" stop="20250403170000 -1000">
+		<title>ESPN Premium 🇨🇱</title>
+	</programme>
+JUE 3	<programme channel="ESPN Premium Chile" start="20250403170000 -1000" stop="20250403190000 -1000">
+		<title>Sporting Cristal vs Palmeiras ~ CONMEBOL Libertadores</title>
+	</programme>
+JUE 3	<programme channel="ESPN Premium Chile" start="20250403190000 -1000" stop="20250403193000 -1000">
+		<title>ESPN Premium 🇨🇱</title>
+	</programme>
+JUE 3	<programme channel="ESPN Premium Chile" start="20250403193000 -1000" stop="20250403213000 -1000">
+		<title>Deportivo Tachira vs Flamengo ~ CONMEBOL Libertadores</title>
+	</programme>
+JUE 3	<programme channel="ESPN Premium Chile" start="20250403213000 -1000" stop="20250404000000 -1000">
 		<title>ESPN Premium 🇨🇱</title>
 	</programme>
 *****************************************************************************************************
@@ -518,145 +1276,46 @@ SAB 31	<programme channel="ESPN Argentina" start="20240831000000 -1000" stop="20
 		<display-name>ESPN 🇵🇪 SD</display-name>
 		<display-name>ESPN 🇵🇪 HD</display-name>
 	</channel>
-DOM 22	<programme channel="ESPN Peru" start="20240922154500 -1000" stop="20240923000000 -1000">
-		<title>ESPN Peru</title>
-	</programme>
-MAR 4	<programme channel="ESPN Peru" start="20250304000000 -1000" stop="20250304124500 -1000">
+MIE 2	<programme channel="ESPN Peru" start="20250402000000 -1000" stop="20250402140000 -1000">
 		<title>ESPN 🇵🇪</title>
 	</programme>
-MAR 4	<programme channel="ESPN Peru" start="20250304124500 -1000" stop="20250304144500 -1000">
-		<title>Club Brugge vs Aston Villa ~ UEFA Champions League ~ 8vos IDA</title>
+MIE 2	<programme channel="ESPN Peru" start="20250402140000 -1000" stop="20250402160000 -1000">
+		<title>Liverpool vs Everton ~ Premier League</title>
 	</programme>
-MAR 4	<programme channel="ESPN Peru" start="20250304144500 -1000" stop="20250304150000 -1000">
+MIE 2	<programme channel="ESPN Peru" start="20250402160000 -1000" stop="20250402170000 -1000">
 		<title>ESPN 🇵🇪</title>
 	</programme>
-MAR 4	<programme channel="ESPN Peru" start="20250304150000 -1000" stop="20250304170000 -1000">
-		<title>Real Madrid vs Atletico de Madrid ~ UEFA Champions League ~ 8vos IDA</title>
+MIE 2	<programme channel="ESPN Peru" start="20250402170000 -1000" stop="20250402190000 -1000">
+		<title>Velez Sarsfield vs Peñarol ~ CONMEBOL Libertadores</title>
 	</programme>
-MAR 4	<programme channel="ESPN Peru" start="20250304170000 -1000" stop="20250304190000 -1000">
-		<title>Deportes Iquique (CHI) vs Alianza Lima (PER) ~ LIB2025 F3 IDA</title>
-	</programme>
-MAR 4	<programme channel="ESPN Peru" start="20250304190000 -1000" stop="20250305000000 -1000">
+MIE 2	<programme channel="ESPN Peru" start="20250402190000 -1000" stop="20250402210000 -1000">
 		<title>ESPN 🇵🇪</title>
 	</programme>
-MIE 5	<programme channel="ESPN Peru" start="20250305000000 -1000" stop="20250305124500 -1000">
+MIE 2	<programme channel="ESPN Peru" start="20250402210000 -1000" stop="20250402230000 -1000">
+		<title>Atletico Nacional vs Nacional ~ CONMEBOL Libertadores</title>
+	</programme>
+MIE 2	<programme channel="ESPN Peru" start="20250402230000 -1000" stop="20250403000000 -1000">
 		<title>ESPN 🇵🇪</title>
 	</programme>
-MIE 5	<programme channel="ESPN Peru" start="20250305124500 -1000" stop="20250305144500 -1000">
-		<title>Feyenoord vs Inter ~ UEFA Champions League ~ 8vos IDA</title>
-	</programme>
-MIE 5	<programme channel="ESPN Peru" start="20250305144500 -1000" stop="20250305150000 -1000">
+JUE 3	<programme channel="ESPN Peru" start="20250403000000 -1000" stop="20250403140000 -1000">
 		<title>ESPN 🇵🇪</title>
 	</programme>
-MIE 5	<programme channel="ESPN Peru" start="20250305150000 -1000" stop="20250305170000 -1000">
-		<title>PSG vs Liverpool ~ UEFA Champions League ~ 8vos IDA</title>
+JUE 3	<programme channel="ESPN Peru" start="20250403140000 -1000" stop="20250403160000 -1000">
+		<title>Chelsea vs Tottenham ~ Premier League</title>
 	</programme>
-MIE 5	<programme channel="ESPN Peru" start="20250305170000 -1000" stop="20250305190000 -1000">
-		<title>Melgar (PER) vs Cerro Porteño (PAR) ~ LIB2025 F3 IDA</title>
-	</programme>
-MIE 5	<programme channel="ESPN Peru" start="20250305190000 -1000" stop="20250305193000 -1000">
+JUE 3	<programme channel="ESPN Peru" start="20250403160000 -1000" stop="20250403170000 -1000">
 		<title>ESPN 🇵🇪</title>
 	</programme>
-MIE 5	<programme channel="ESPN Peru" start="20250305193000 -1000" stop="20250305213000 -1000">
-		<title>Barcelona (ECU) vs Corinthians (BRA) ~ LIB2025 F3 IDA</title>
+JUE 3	<programme channel="ESPN Peru" start="20250403170000 -1000" stop="20250403190000 -1000">
+		<title>Sporting Cristal vs Palmeiras ~ CONMEBOL Libertadores</title>
 	</programme>
-MIE 5	<programme channel="ESPN Peru" start="20250305213000 -1000" stop="20250306000000 -1000">
+JUE 3	<programme channel="ESPN Peru" start="20250403190000 -1000" stop="20250403193000 -1000">
 		<title>ESPN 🇵🇪</title>
 	</programme>
-JUE 6	<programme channel="ESPN Peru" start="20250306000000 -1000" stop="20250306123000 -1000">
-		<title>ESPN 🇵🇪</title>
+JUE 3	<programme channel="ESPN Peru" start="20250403193000 -1000" stop="20250403213000 -1000">
+		<title>Deportivo Tachira vs Flamengo ~ CONMEBOL Libertadores</title>
 	</programme>
-JUE 6	<programme channel="ESPN Peru" start="20250306123000 -1000" stop="20250306144000 -1000">
-		<title>Real Sociedad vs Manchester United ~ UEFA Europa League</title>
-	</programme>
-JUE 6	<programme channel="ESPN Peru" start="20250306144000 -1000" stop="20250306165500 -1000">
-		<title>Roma vs Athletic de Bilbao ~ UEFA Europa League</title>
-	</programme>
-JUE 6	<programme channel="ESPN Peru" start="20250306165500 -1000" stop="20250306190000 -1000">
-		<title>Cerro Largo vs Danubio ~ LIB2025 F3 IDA</title>
-	</programme>
-JUE 6	<programme channel="ESPN Peru" start="20250306190000 -1000" stop="20250306213000 -1000">
-		<title>Boston River vs Bahia ~ LIB2025 F3 IDA</title>
-	</programme>
-JUE 6	<programme channel="ESPN Peru" start="20250306213000 -1000" stop="20250307000000 -1000">
-		<title>ESPN 🇵🇪</title>
-	</programme>
-VIE 7	<programme channel="ESPN Peru" start="20250307000000 -1000" stop="20250307191500 -1000">
-		<title>ESPN 🇵🇪</title>
-	</programme>
-VIE 7	<programme channel="ESPN Peru" start="20250307191500 -1000" stop="20250307211500 -1000">
-		<title>Central Cordoba vs Boca Junior ~ LPF ~ J9</title>
-	</programme>
-VIE 7	<programme channel="ESPN Peru" start="20250307211500 -1000" stop="20250308000000 -1000">
-		<title>ESPN 🇵🇪</title>
-	</programme>
-SAB 8	<programme channel="ESPN Peru" start="20250308000000 -1000" stop="20250308073000 -1000">
-		<title>ESPN 🇵🇪</title>
-	</programme>
-SAB 8	<programme channel="ESPN Peru" start="20250308073000 -1000" stop="20250308093000 -1000">
-		<title>Nottingham Forest vs Manchester City ~ Premier League ~ J28</title>
-	</programme>
-SAB 8	<programme channel="ESPN Peru" start="20250308093000 -1000" stop="20250308100000 -1000">
-		<title>ESPN 🇵🇪</title>
-	</programme>
-SAB 8	<programme channel="ESPN Peru" start="20250308100000 -1000" stop="20250308120000 -1000">
-		<title>Crystal Palace vs Ipswich ~ Premier League ~ J28</title>
-	</programme>
-SAB 8	<programme channel="ESPN Peru" start="20250308120000 -1000" stop="20250308123000 -1000">
-		<title>ESPN 🇵🇪</title>
-	</programme>
-SAB 8	<programme channel="ESPN Peru" start="20250308123000 -1000" stop="20250308143000 -1000">
-		<title>Brentford vs Aston Villa ~ Premier League ~ J28</title>
-	</programme>
-SAB 8	<programme channel="ESPN Peru" start="20250308143000 -1000" stop="20250308150000 -1000">
-		<title>ESPN 🇵🇪</title>
-	</programme>
-SAB 8	<programme channel="ESPN Peru" start="20250308150000 -1000" stop="20250308170000 -1000">
-		<title>Barcelona vs Osasuna ~ LaLiga ~ J27</title>
-	</programme>
-SAB 8	<programme channel="ESPN Peru" start="20250308170000 -1000" stop="20250309000000 -1000">
-		<title>ESPN 🇵🇪</title>
-	</programme>
-DOM 9	<programme channel="ESPN Peru" start="20250309000000 -1000" stop="20250309063000 -1000">
-		<title>ESPN 🇵🇪</title>
-	</programme>
-DOM 9	<programme channel="ESPN Peru" start="20250309063000 -1000" stop="20250309083000 -1000">
-		<title>Hellas Verona vs Bologna ~ Serie A ~ J28</title>
-	</programme>
-DOM 9	<programme channel="ESPN Peru" start="20250309083000 -1000" stop="20250309090000 -1000">
-		<title>ESPN 🇵🇪</title>
-	</programme>
-DOM 9	<programme channel="ESPN Peru" start="20250309090000 -1000" stop="20250309110000 -1000">
-		<title>Tottenham vs Bournemouth ~ Premier League ~ J28</title>
-	</programme>
-DOM 9	<programme channel="ESPN Peru" start="20250309110000 -1000" stop="20250309113000 -1000">
-		<title>ESPN 🇵🇪</title>
-	</programme>
-DOM 9	<programme channel="ESPN Peru" start="20250309113000 -1000" stop="20250309133000 -1000">
-		<title>Manchester United vs Arsenal ~ Premier League ~ J28</title>
-	</programme>
-DOM 9	<programme channel="ESPN Peru" start="20250309133000 -1000" stop="20250309144500 -1000">
-		<title>ESPN 🇵🇪</title>
-	</programme>
-DOM 9	<programme channel="ESPN Peru" start="20250309144500 -1000" stop="20250309164500 -1000">
-		<title>Juventus vs Atlanta ~ Serie A ~ J28</title>
-	</programme>
-DOM 9	<programme channel="ESPN Peru" start="20250309164500 -1000" stop="20250309171500 -1000">
-		<title>ESPN 🇵🇪</title>
-	</programme>
-DOM 9	<programme channel="ESPN Peru" start="20250309171500 -1000" stop="20250309191500 -1000">
-		<title>River Plate vs Atletico Tucuman ~ LPF ~ J9</title>
-	</programme>
-DOM 9	<programme channel="ESPN Peru" start="20250309191500 -1000" stop="20250310000000 -1000">
-		<title>ESPN 🇵🇪</title>
-	</programme>
-LUN 10	<programme channel="ESPN Peru" start="20250310000000 -1000" stop="20250310150000 -1000">
-		<title>ESPN 🇵🇪</title>
-	</programme>
-LUN 10	<programme channel="ESPN Peru" start="20250310150000 -1000" stop="20250310170000 -1000">
-		<title>West Ham vs Newcastle ~ Premier League ~ J28 (y por ESPN 2 Chile)</title>
-	</programme>
-LUN 10	<programme channel="ESPN Peru" start="20250310170000 -1000" stop="20250311000000 -1000">
+JUE 3	<programme channel="ESPN Peru" start="20250403213000 -1000" stop="20250404000000 -1000">
 		<title>ESPN 🇵🇪</title>
 	</programme>
 *****************************************************************************************************
@@ -671,82 +1330,46 @@ LUN 10	<programme channel="ESPN Peru" start="20250310170000 -1000" stop="2025031
 		<display-name>ESPN 🇨🇴 SD</display-name>
 		<display-name>ESPN 🇨🇴 HD</display-name>
 	</channel>
-VIE 7	<programme channel="ESPN Colombia" start="20250307000000 -1000" stop="20250307191500 -1000">
+MIE 2	<programme channel="ESPN Colombia" start="20250402000000 -1000" stop="20250402134500 -1000">
 		<title>ESPN 🇨🇴</title>
 	</programme>
-VIE 7	<programme channel="ESPN Colombia" start="20250307191500 -1000" stop="20250307211500 -1000">
-		<title>Central Cordoba vs Boca Junior ~ LPF ~ J9</title>
+MIE 2	<programme channel="ESPN Colombia" start="20250402134500 -1000" stop="20250402154500 -1000">
+		<title>Newcastle vs Brentford ~ Premier League</title>
 	</programme>
-VIE 7	<programme channel="ESPN Colombia" start="20250307211500 -1000" stop="20250308000000 -1000">
+MIE 2	<programme channel="ESPN Colombia" start="20250402154500 -1000" stop="20250402170000 -1000">
 		<title>ESPN 🇨🇴</title>
 	</programme>
-SAB 8	<programme channel="ESPN Colombia" start="20250308000000 -1000" stop="20250308073000 -1000">
+MIE 2	<programme channel="ESPN Colombia" start="20250402170000 -1000" stop="20250402190000 -1000">
+		<title>Velez Sarsfield vs Peñarol ~ CONMEBOL Libertadores</title>
+	</programme>
+MIE 2	<programme channel="ESPN Colombia" start="20250402190000 -1000" stop="20250402210000 -1000">
 		<title>ESPN 🇨🇴</title>
 	</programme>
-SAB 8	<programme channel="ESPN Colombia" start="20250308073000 -1000" stop="20250308093000 -1000">
-		<title>Nottingham Forest vs Manchester City ~ Premier League ~ J28</title>
+MIE 2	<programme channel="ESPN Colombia" start="20250402210000 -1000" stop="20250402230000 -1000">
+		<title>Atletico Nacional vs Nacional ~ CONMEBOL Libertadores</title>
 	</programme>
-SAB 8	<programme channel="ESPN Colombia" start="20250308093000 -1000" stop="20250308100000 -1000">
+MIE 2	<programme channel="ESPN Colombia" start="20250402230000 -1000" stop="20250403000000 -1000">
 		<title>ESPN 🇨🇴</title>
 	</programme>
-SAB 8	<programme channel="ESPN Colombia" start="20250308100000 -1000" stop="20250308120000 -1000">
-		<title>Crystal Palace vs Ipswich ~ Premier League ~ J28</title>
-	</programme>
-SAB 8	<programme channel="ESPN Colombia" start="20250308120000 -1000" stop="20250308123000 -1000">
+JUE 3	<programme channel="ESPN Colombia" start="20250403000000 -1000" stop="20250403140000 -1000">
 		<title>ESPN 🇨🇴</title>
 	</programme>
-SAB 8	<programme channel="ESPN Colombia" start="20250308123000 -1000" stop="20250308143000 -1000">
-		<title>Brentford vs Aston Villa ~ Premier League ~ J28</title>
+JUE 3	<programme channel="ESPN Colombia" start="20250403140000 -1000" stop="20250403160000 -1000">
+		<title>Chelsea vs Tottenham ~ Premier League</title>
 	</programme>
-SAB 8	<programme channel="ESPN Colombia" start="20250308143000 -1000" stop="20250308150000 -1000">
+JUE 3	<programme channel="ESPN Colombia" start="20250403160000 -1000" stop="20250403170000 -1000">
 		<title>ESPN 🇨🇴</title>
 	</programme>
-SAB 8	<programme channel="ESPN Colombia" start="20250308150000 -1000" stop="20250308170000 -1000">
-		<title>Barcelona vs Osasuna ~ LaLiga ~ J27</title>
+JUE 3	<programme channel="ESPN Colombia" start="20250403170000 -1000" stop="20250403190000 -1000">
+		<title>Sporting Cristal vs Palmeiras ~ CONMEBOL Libertadores</title>
 	</programme>
-SAB 8	<programme channel="ESPN Colombia" start="20250308170000 -1000" stop="20250309000000 -1000">
+JUE 3	<programme channel="ESPN Colombia" start="20250403190000 -1000" stop="20250403193000 -1000">
 		<title>ESPN 🇨🇴</title>
 	</programme>
-DOM 9	<programme channel="ESPN Colombia" start="20250309000000 -1000" stop="20250309063000 -1000">
-		<title>ESPN 🇨🇴</title>
+JUE 3	<programme channel="ESPN Colombia" start="20250403193000 -1000" stop="20250403213000 -1000">
+		<title>Deportivo Tachira vs Flamengo ~ CONMEBOL Libertadores</title>
 	</programme>
-DOM 9	<programme channel="ESPN Colombia" start="20250309063000 -1000" stop="20250309083000 -1000">
-		<title>Hellas Verona vs Bologna ~ Serie A ~ J28</title>
-	</programme>
-DOM 9	<programme channel="ESPN Colombia" start="20250309083000 -1000" stop="20250309090000 -1000">
-		<title>ESPN 🇨🇴</title>
-	</programme>
-DOM 9	<programme channel="ESPN Colombia" start="20250309090000 -1000" stop="20250309110000 -1000">
-		<title>Tottenham vs Bournemouth ~ Premier League ~ J28</title>
-	</programme>
-DOM 9	<programme channel="ESPN Colombia" start="20250309110000 -1000" stop="20250309113000 -1000">
-		<title>ESPN 🇨🇴</title>
-	</programme>
-DOM 9	<programme channel="ESPN Colombia" start="20250309113000 -1000" stop="20250309133000 -1000">
-		<title>Manchester United vs Arsenal ~ Premier League ~ J28</title>
-	</programme>
-DOM 9	<programme channel="ESPN Colombia" start="20250309133000 -1000" stop="20250309144500 -1000">
-		<title>ESPN 🇨🇴</title>
-	</programme>
-DOM 9	<programme channel="ESPN Colombia" start="20250309144500 -1000" stop="20250309164500 -1000">
-		<title>Juventus vs Atlanta ~ Serie A ~ J28</title>
-	</programme>
-DOM 9	<programme channel="ESPN Colombia" start="20250309164500 -1000" stop="20250309171500 -1000">
-		<title>ESPN 🇨🇴</title>
-	</programme>
-DOM 9	<programme channel="ESPN Colombia" start="20250309171500 -1000" stop="20250309191500 -1000">
-		<title>River Plate vs Atletico Tucuman ~ LPF ~ J9</title>
-	</programme>
-DOM 9	<programme channel="ESPN Colombia" start="20250309191500 -1000" stop="20250310000000 -1000">
-		<title>ESPN 🇨🇴</title>
-	</programme>
-LUN 10	<programme channel="ESPN Colombia" start="20250310000000 -1000" stop="20250310150000 -1000">
-		<title>ESPN 🇨🇴</title>
-	</programme>
-LUN 10	<programme channel="ESPN Colombia" start="20250310150000 -1000" stop="20250310170000 -1000">
-		<title>West Ham vs Newcastle ~ Premier League ~ J28 (y por ESPN 2 Chile)</title>
-	</programme>
-LUN 10	<programme channel="ESPN Colombia" start="20250310170000 -1000" stop="20250311000000 -1000">
+JUE 3	<programme channel="ESPN Colombia" start="20250403213000 -1000" stop="20250404000000 -1000">
 		<title>ESPN 🇨🇴</title>
 	</programme>
 *****************************************************************************************************
@@ -761,82 +1384,34 @@ LUN 10	<programme channel="ESPN Colombia" start="20250310170000 -1000" stop="202
 		<display-name>ESPN 🇨🇱 SD</display-name>
 		<display-name>ESPN 🇨🇱 HD</display-name>
 	</channel>
-VIE 7	<programme channel="ESPN Chile" start="20250307000000 -1000" stop="20250307191500 -1000">
+MIE 2	<programme channel="ESPN Chile" start="20250402000000 -1000" stop="20250402140000 -1000">
 		<title>ESPN 🇨🇱</title>
 	</programme>
-VIE 7	<programme channel="ESPN Chile" start="20250307191500 -1000" stop="20250307211500 -1000">
-		<title>Central Cordoba vs Boca Junior ~ LPF ~ J9</title>
+MIE 2	<programme channel="ESPN Chile" start="20250402140000 -1000" stop="20250402160000 -1000">
+		<title>Liverpool vs Everton ~ Premier League</title>
 	</programme>
-VIE 7	<programme channel="ESPN Chile" start="20250307211500 -1000" stop="20250308000000 -1000">
+MIE 2	<programme channel="ESPN Chile" start="20250402160000 -1000" stop="20250402193000 -1000">
 		<title>ESPN 🇨🇱</title>
 	</programme>
-SAB 8	<programme channel="ESPN Chile" start="20250308000000 -1000" stop="20250308073000 -1000">
+MIE 2	<programme channel="ESPN Chile" start="20250402193000 -1000" stop="20250402213000 -1000">
+		<title>Racing (URU) vs America de Cali ~ CONMEBOL Sudamericana</title>
+	</programme>
+MIE 2	<programme channel="ESPN Chile" start="20250402213000 -1000" stop="20250403000000 -1000">
 		<title>ESPN 🇨🇱</title>
 	</programme>
-SAB 8	<programme channel="ESPN Chile" start="20250308073000 -1000" stop="20250308093000 -1000">
-		<title>Nottingham Forest vs Manchester City ~ Premier League ~ J28</title>
-	</programme>
-SAB 8	<programme channel="ESPN Chile" start="20250308093000 -1000" stop="20250308100000 -1000">
+JUE 3	<programme channel="ESPN Chile" start="20250403000000 -1000" stop="20250403140000 -1000">
 		<title>ESPN 🇨🇱</title>
 	</programme>
-SAB 8	<programme channel="ESPN Chile" start="20250308100000 -1000" stop="20250308120000 -1000">
-		<title>Crystal Palace vs Ipswich ~ Premier League ~ J28</title>
+JUE 3	<programme channel="ESPN Chile" start="20250403140000 -1000" stop="20250403160000 -1000">
+		<title>Chelsea vs Tottenham ~ Premier League</title>
 	</programme>
-SAB 8	<programme channel="ESPN Chile" start="20250308120000 -1000" stop="20250308123000 -1000">
+JUE 3	<programme channel="ESPN Chile" start="20250403160000 -1000" stop="20250403210000 -1000">
 		<title>ESPN 🇨🇱</title>
 	</programme>
-SAB 8	<programme channel="ESPN Chile" start="20250308123000 -1000" stop="20250308143000 -1000">
-		<title>Brentford vs Aston Villa ~ Premier League ~ J28</title>
+JUE 3	<programme channel="ESPN Chile" start="20250403210000 -1000" stop="20250403230000 -1000">
+		<title>Mushuc Runa vs Palestino ~ CONMEBOL Sudamericana</title>
 	</programme>
-SAB 8	<programme channel="ESPN Chile" start="20250308143000 -1000" stop="20250308150000 -1000">
-		<title>ESPN 🇨🇱</title>
-	</programme>
-SAB 8	<programme channel="ESPN Chile" start="20250308150000 -1000" stop="20250308170000 -1000">
-		<title>Barcelona vs Osasuna ~ LaLiga ~ J27</title>
-	</programme>
-SAB 8	<programme channel="ESPN Chile" start="20250308170000 -1000" stop="20250309000000 -1000">
-		<title>ESPN 🇨🇱</title>
-	</programme>
-DOM 9	<programme channel="ESPN Chile" start="20250309000000 -1000" stop="20250309063000 -1000">
-		<title>ESPN 🇨🇱</title>
-	</programme>
-DOM 9	<programme channel="ESPN Chile" start="20250309063000 -1000" stop="20250309083000 -1000">
-		<title>Hellas Verona vs Bologna ~ Serie A ~ J28</title>
-	</programme>
-DOM 9	<programme channel="ESPN Chile" start="20250309083000 -1000" stop="20250309090000 -1000">
-		<title>ESPN 🇨🇱</title>
-	</programme>
-DOM 9	<programme channel="ESPN Chile" start="20250309090000 -1000" stop="20250309110000 -1000">
-		<title>Tottenham vs Bournemouth ~ Premier League ~ J28</title>
-	</programme>
-DOM 9	<programme channel="ESPN Chile" start="20250309110000 -1000" stop="20250309113000 -1000">
-		<title>ESPN 🇨🇱</title>
-	</programme>
-DOM 9	<programme channel="ESPN Chile" start="20250309113000 -1000" stop="20250309133000 -1000">
-		<title>Manchester United vs Arsenal ~ Premier League ~ J28</title>
-	</programme>
-DOM 9	<programme channel="ESPN Chile" start="20250309133000 -1000" stop="20250309144500 -1000">
-		<title>ESPN 🇨🇱</title>
-	</programme>
-DOM 9	<programme channel="ESPN Chile" start="20250309144500 -1000" stop="20250309164500 -1000">
-		<title>Juventus vs Atlanta ~ Serie A ~ J28</title>
-	</programme>
-DOM 9	<programme channel="ESPN Chile" start="20250309164500 -1000" stop="20250309171500 -1000">
-		<title>ESPN 🇨🇱</title>
-	</programme>
-DOM 9	<programme channel="ESPN Chile" start="20250309171500 -1000" stop="20250309191500 -1000">
-		<title>River Plate vs Atletico Tucuman ~ LPF ~ J9</title>
-	</programme>
-DOM 9	<programme channel="ESPN Chile" start="20250309191500 -1000" stop="20250310000000 -1000">
-		<title>ESPN 🇨🇱</title>
-	</programme>
-LUN 10	<programme channel="ESPN Chile" start="20250310000000 -1000" stop="20250310144500 -1000">
-		<title>ESPN 🇨🇱</title>
-	</programme>
-LUN 10	<programme channel="ESPN Chile" start="20250310144500 -1000" stop="20250310164500 -1000">
-		<title>Lazio vs Udinese ~ Serie A ~ J28</title>
-	</programme>
-LUN 10	<programme channel="ESPN Chile" start="20250310164500 -1000" stop="20250311000000 -1000">
+JUE 3	<programme channel="ESPN Chile" start="20250403230000 -1000" stop="20250404000000 -1000">
 		<title>ESPN 🇨🇱</title>
 	</programme>
 *****************************************************************************************************
@@ -851,43 +1426,85 @@ LUN 10	<programme channel="ESPN Chile" start="20250310164500 -1000" stop="202503
 		<display-name>ESPN 2 🇨🇴 SD</display-name>
 		<display-name>ESPN 2 🇨🇴 HD</display-name>
 	</channel>
-SAB 8	<programme channel="ESPN 2 Colombia" start="20250308000000 -1000" stop="20250308093000 -1000">
+MIE 2	<programme channel="ESPN 2 Colombia" start="20250402000000 -1000" stop="20250402170000 -1000">
 		<title>ESPN 2 🇨🇴</title>
 	</programme>
-SAB 8	<programme channel="ESPN 2 Colombia" start="20250308093000 -1000" stop="20250308113000 -1000">
-		<title>Borussia Dortmund vs Augsburgo ~ Bundesliga ~ J25</title>
+MIE 2	<programme channel="ESPN 2 Colombia" start="20250402170000 -1000" stop="20250402190000 -1000">
+		<title>San Antonio Bulo Bulo vs Olimpia ~ CONMEBOL Libertadores</title>
 	</programme>
-SAB 8	<programme channel="ESPN 2 Colombia" start="20250308113000 -1000" stop="20250308120000 -1000">
+MIE 2	<programme channel="ESPN 2 Colombia" start="20250402190000 -1000" stop="20250403000000 -1000">
 		<title>ESPN 2 🇨🇴</title>
 	</programme>
-SAB 8	<programme channel="ESPN 2 Colombia" start="20250308120000 -1000" stop="20250308140000 -1000">
-		<title>Lecce vs Milan ~ Serie A ~ J28</title>
-	</programme>
-SAB 8	<programme channel="ESPN 2 Colombia" start="20250308140000 -1000" stop="20250308150500 -1000">
+JUE 3	<programme channel="ESPN 2 Colombia" start="20250403000000 -1000" stop="20250403170000 -1000">
 		<title>ESPN 2 🇨🇴</title>
 	</programme>
-SAB 8	<programme channel="ESPN 2 Colombia" start="20250308150500 -1000" stop="20250308170500 -1000">
-		<title>Olympique de Marseille vs RC Lens ~ Ligue 1 ~ J25</title>
+JUE 3	<programme channel="ESPN 2 Colombia" start="20250403170000 -1000" stop="20250403190000 -1000">
+		<title>Central Cordoba vs Liga de Quito ~ CONMEBOL Libertadores</title>
 	</programme>
-SAB 8	<programme channel="ESPN 2 Colombia" start="20250308170500 -1000" stop="20250309000000 -1000">
+JUE 3	<programme channel="ESPN 2 Colombia" start="20250403190000 -1000" stop="20250403193000 -1000">
 		<title>ESPN 2 🇨🇴</title>
 	</programme>
-DOM 9	<programme channel="ESPN 2 Colombia" start="20250309000000 -1000" stop="20250309093000 -1000">
+JUE 3	<programme channel="ESPN 2 Colombia" start="20250403193000 -1000" stop="20250403213000 -1000">
+		<title>Cerro Largo vs Defensa y Justicia ~ CONMEBOL Sudamericana</title>
+	</programme>
+JUE 3	<programme channel="ESPN 2 Colombia" start="20250403213000 -1000" stop="20250404000000 -1000">
 		<title>ESPN 2 🇨🇴</title>
 	</programme>
-DOM 9	<programme channel="ESPN 2 Colombia" start="20250309093000 -1000" stop="20250309113000 -1000">
-		<title>Eintracht Frankfurt vs FC Union Berlin ~ Bundesliga ~ J25</title>
-	</programme>
-DOM 9	<programme channel="ESPN 2 Colombia" start="20250309113000 -1000" stop="20250310000000 -1000">
+VIE 4	<programme channel="ESPN 2 Colombia" start="20250404000000 -1000" stop="20250404140000 -1000">
 		<title>ESPN 2 🇨🇴</title>
 	</programme>
-LUN 10	<programme channel="ESPN 2 Colombia" start="20250310000000 -1000" stop="20250310144500 -1000">
+VIE 4	<programme channel="ESPN 2 Colombia" start="20250404140000 -1000" stop="20250404160000 -1000">
+		<title>Rayo Vallecano vs Espanyol ~ LaLiga</title>
+	</programme>
+VIE 4	<programme channel="ESPN 2 Colombia" start="20250404160000 -1000" stop="20250405000000 -1000">
 		<title>ESPN 2 🇨🇴</title>
 	</programme>
-LUN 10	<programme channel="ESPN 2 Colombia" start="20250310144500 -1000" stop="20250310164500 -1000">
-		<title>Lazio vs Udinese ~ Serie A ~ J28</title>
+SAB 5	<programme channel="ESPN 2 Colombia" start="20250405000000 -1000" stop="20250405110000 -1000">
+		<title>ESPN 2 🇨🇴</title>
 	</programme>
-LUN 10	<programme channel="ESPN 2 Colombia" start="20250310164500 -1000" stop="20250311000000 -1000">
+SAB 5	<programme channel="ESPN 2 Colombia" start="20250405110000 -1000" stop="20250405130000 -1000">
+		<title>Parma vs Internazionale ~ Serie A</title>
+	</programme>
+SAB 5	<programme channel="ESPN 2 Colombia" start="20250405130000 -1000" stop="20250406000000 -1000">
+		<title>ESPN 2 🇨🇴</title>
+	</programme>
+DOM 6	<programme channel="ESPN 2 Colombia" start="20250406000000 -1000" stop="20250406053000 -1000">
+		<title>ESPN 2 🇨🇴</title>
+	</programme>
+DOM 6	<programme channel="ESPN 2 Colombia" start="20250406053000 -1000" stop="20250406073000 -1000">
+		<title>Lecce vs Venezia ~ Serie A</title>
+	</programme>
+DOM 6	<programme channel="ESPN 2 Colombia" start="20250406073000 -1000" stop="20250406091500 -1000">
+		<title>ESPN 2 🇨🇴</title>
+	</programme>
+DOM 6	<programme channel="ESPN 2 Colombia" start="20250406091500 -1000" stop="20250406111500 -1000">
+		<title>Sevilla vs Atletico Madrid ~ LaLiga</title>
+	</programme>
+DOM 6	<programme channel="ESPN 2 Colombia" start="20250406111500 -1000" stop="20250406140000 -1000">
+		<title>ESPN 2 🇨🇴</title>
+	</programme>
+DOM 6	<programme channel="ESPN 2 Colombia" start="20250406140000 -1000" stop="20250406160000 -1000">
+		<title>Villareal vs Athletic Club ~ LaLiga</title>
+	</programme>
+DOM 6	<programme channel="ESPN 2 Colombia" start="20250406160000 -1000" stop="20250407000000 -1000">
+		<title>ESPN 2 🇨🇴</title>
+	</programme>
+MAR 8	<programme channel="ESPN 2 Colombia" start="20250408000000 -1000" stop="20250408140000 -1000">
+		<title>ESPN 2 🇨🇴</title>
+	</programme>
+MAR 8	<programme channel="ESPN 2 Colombia" start="20250408140000 -1000" stop="20250408160000 -1000">
+		<title>Bayern Munchen vs Internazionale ~ UEFA Chanpions League</title>
+	</programme>
+MAR 8	<programme channel="ESPN 2 Colombia" start="20250408160000 -1000" stop="20250409000000 -1000">
+		<title>ESPN 2 🇨🇴</title>
+	</programme>
+MIE 9	<programme channel="ESPN 2 Colombia" start="20250409000000 -1000" stop="20250409140000 -1000">
+		<title>ESPN 2 🇨🇴</title>
+	</programme>
+MIE 9	<programme channel="ESPN 2 Colombia" start="20250409140000 -1000" stop="20250409160000 -1000">
+		<title>PSG vs Aston Villa ~ UEFA Chanpions League</title>
+	</programme>
+MIE 9	<programme channel="ESPN 2 Colombia" start="20250409160000 -1000" stop="20250410000000 -1000">
 		<title>ESPN 2 🇨🇴</title>
 	</programme>
 *****************************************************************************************************
@@ -902,28 +1519,28 @@ LUN 10	<programme channel="ESPN 2 Colombia" start="20250310164500 -1000" stop="2
 		<display-name>ESPN 2 🇨🇱 SD</display-name>
 		<display-name>ESPN 2 🇨🇱 HD</display-name>
 	</channel>
-SAB 8	<programme channel="ESPN 2 Chile" start="20250308000000 -1000" stop="20250308120000 -1000">
+MAR 1	<programme channel="ESPN 2 Chile" start="20250401000000 -1000" stop="20250401134500 -1000">
 		<title>ESPN 2 🇨🇱</title>
 	</programme>
-SAB 8	<programme channel="ESPN 2 Chile" start="20250308120000 -1000" stop="20250308140000 -1000">
-		<title>Lecce vs Milan ~ Serie A ~ J28</title>
+MAR 1	<programme channel="ESPN 2 Chile" start="20250401134500 -1000" stop="20250401154500 -1000">
+		<title>Wolverhampton Wanderers vs West Ham United ~ Premier League</title>
 	</programme>
-SAB 8	<programme channel="ESPN 2 Chile" start="20250308140000 -1000" stop="20250308150500 -1000">
+MAR 1	<programme channel="ESPN 2 Chile" start="20250401154500 -1000" stop="20250401170000 -1000">
 		<title>ESPN 2 🇨🇱</title>
 	</programme>
-SAB 8	<programme channel="ESPN 2 Chile" start="20250308150500 -1000" stop="20250308170500 -1000">
-		<title>Olympique de Marseille vs RC Lens ~ Ligue 1 ~ J25</title>
+MAR 1	<programme channel="ESPN 2 Chile" start="20250401170000 -1000" stop="20250401190000 -1000">
+		<title>Union vs Cruzeiro ~ Conmebol Sudamericana</title>
 	</programme>
-SAB 8	<programme channel="ESPN 2 Chile" start="20250308170500 -1000" stop="20250309000000 -1000">
+MAR 1	<programme channel="ESPN 2 Chile" start="20250401190000 -1000" stop="20250402000000 -1000">
 		<title>ESPN 2 🇨🇱</title>
 	</programme>
-LUN 10	<programme channel="ESPN 2 Chile" start="20250310000000 -1000" stop="20250310150000 -1000">
+MIE 2	<programme channel="ESPN 2 Chile" start="20250402000000 -1000" stop="20250402134500 -1000">
 		<title>ESPN 2 🇨🇱</title>
 	</programme>
-LUN 10	<programme channel="ESPN 2 Chile" start="20250310150000 -1000" stop="20250310170000 -1000">
-		<title>West Ham vs Newcastle ~ Premier League ~ J28</title>
+MIE 2	<programme channel="ESPN 2 Chile" start="20250402134500 -1000" stop="20250402154500 -1000">
+		<title>Newcastle vs Brentford ~ Premier League</title>
 	</programme>
-LUN 10	<programme channel="ESPN 2 Chile" start="20250310170000 -1000" stop="20250311000000 -1000">
+MIE 2	<programme channel="ESPN 2 Chile" start="20250402154500 -1000" stop="20250403000000 -1000">
 		<title>ESPN 2 🇨🇱</title>
 	</programme>
 *****************************************************************************************************
@@ -938,28 +1555,55 @@ LUN 10	<programme channel="ESPN 2 Chile" start="20250310170000 -1000" stop="2025
 		<display-name>ESPN 2 🇵🇪 SD</display-name>
 		<display-name>ESPN 2 🇵🇪 HD</display-name>
 	</channel>
-SAB 8	<programme channel="ESPN 2 Peru" start="20250308000000 -1000" stop="20250308120000 -1000">
+MAR 1	<programme channel="ESPN 2 Peru" start="20250401000000 -1000" stop="20250401134500 -1000">
 		<title>ESPN 2 🇵🇪</title>
 	</programme>
-SAB 8	<programme channel="ESPN 2 Peru" start="20250308120000 -1000" stop="20250308140000 -1000">
-		<title>Lecce vs Milan ~ Serie A ~ J28</title>
+MAR 1	<programme channel="ESPN 2 Peru" start="20250401134500 -1000" stop="20250401154500 -1000">
+		<title>Wolverhampton Wanderers vs West Ham United ~ Premier League</title>
 	</programme>
-SAB 8	<programme channel="ESPN 2 Peru" start="20250308140000 -1000" stop="20250308150500 -1000">
+MAR 1	<programme channel="ESPN 2 Peru" start="20250401154500 -1000" stop="20250401170000 -1000">
 		<title>ESPN 2 🇵🇪</title>
 	</programme>
-SAB 8	<programme channel="ESPN 2 Peru" start="20250308150500 -1000" stop="20250308170500 -1000">
-		<title>Olympique de Marseille vs RC Lens ~ Ligue 1 ~ J25</title>
+MAR 1	<programme channel="ESPN 2 Peru" start="20250401170000 -1000" stop="20250401190000 -1000">
+		<title>Union vs Cruzeiro ~ CONMEBOL Sudamericana</title>
 	</programme>
-SAB 8	<programme channel="ESPN 2 Peru" start="20250308170500 -1000" stop="20250309000000 -1000">
+MAR 1	<programme channel="ESPN 2 Peru" start="20250401190000 -1000" stop="20250401193000 -1000">
 		<title>ESPN 2 🇵🇪</title>
 	</programme>
-LUN 10	<programme channel="ESPN 2 Peru" start="20250310000000 -1000" stop="20250310144500 -1000">
+MAR 1	<programme channel="ESPN 2 Peru" start="20250401193000 -1000" stop="20250401213000 -1000">
+		<title>Cienciano vs Atletico Mineiro ~ CONMEBOL Sudamericana</title>
+	</programme>
+MAR 1	<programme channel="ESPN 2 Peru" start="20250401213000 -1000" stop="20250402000000 -1000">
 		<title>ESPN 2 🇵🇪</title>
 	</programme>
-LUN 10	<programme channel="ESPN 2 Peru" start="20250310144500 -1000" stop="20250310164500 -1000">
-		<title>Lazio vs Udinese ~ Serie A ~ J28</title>
+MIE 2	<programme channel="ESPN 2 Peru" start="20250402000000 -1000" stop="20250402134500 -1000">
+		<title>ESPN 2 🇵🇪</title>
 	</programme>
-LUN 10	<programme channel="ESPN 2 Peru" start="20250310164500 -1000" stop="20250311000000 -1000">
+MIE 2	<programme channel="ESPN 2 Peru" start="20250402134500 -1000" stop="20250402154500 -1000">
+		<title>Newcastle vs Brentford ~ Premier League</title>
+	</programme>
+MIE 2	<programme channel="ESPN 2 Peru" start="20250402154500 -1000" stop="20250402170000 -1000">
+		<title>ESPN 2 🇵🇪</title>
+	</programme>
+MIE 2	<programme channel="ESPN 2 Peru" start="20250402170000 -1000" stop="20250402190000 -1000">
+		<title>San Antonio Bulo Bulo vs Olimpia ~ CONMEBOL Libertadores</title>
+	</programme>
+MIE 2	<programme channel="ESPN 2 Peru" start="20250402190000 -1000" stop="20250402193000 -1000">
+		<title>ESPN 2 🇵🇪</title>
+	</programme>
+MIE 2	<programme channel="ESPN 2 Peru" start="20250402193000 -1000" stop="20250402213000 -1000">
+		<title>Racing (URU) vs America de Cali ~ CONMEBOL Sudamericana</title>
+	</programme>
+MIE 2	<programme channel="ESPN 2 Peru" start="20250402213000 -1000" stop="20250403000000 -1000">
+		<title>ESPN 2 🇵🇪</title>
+	</programme>
+JUE 3	<programme channel="ESPN 2 Peru" start="20250403000000 -1000" stop="20250403170000 -1000">
+		<title>ESPN 2 🇵🇪</title>
+	</programme>
+JUE 3	<programme channel="ESPN 2 Peru" start="20250403170000 -1000" stop="20250403190000 -1000">
+		<title>Central Cordoba vs Liga de Quito ~ CONMEBOL Libertadores</title>
+	</programme>
+JUE 3	<programme channel="ESPN 2 Peru" start="20250403190000 -1000" stop="20250404000000 -1000">
 		<title>ESPN 2 🇵🇪</title>
 	</programme>
 *****************************************************************************************************
@@ -968,55 +1612,22 @@ LUN 10	<programme channel="ESPN 2 Peru" start="20250310164500 -1000" stop="20250
 		<display-name>ESPN 3 SD</display-name>
 		<display-name>ESPN 3 HD</display-name>
 	</channel>
-MAR 4	<programme channel="ESPN 3" start="20250304000000 -1000" stop="20250305000000 -1000">
-		<title>el Miercoles, 2 partidos de Copa Sudamericana</title>
-	</programme>
-MIE 5	<programme channel="ESPN 3" start="20250305000000 -1000" stop="20250305170000 -1000">
+MIE 2	<programme channel="ESPN 3" start="20250402000000 -1000" stop="20250402210000 -1000">
 		<title>ESPN 3</title>
 	</programme>
-MIE 5	<programme channel="ESPN 3" start="20250305170000 -1000" stop="20250305190000 -1000">
-		<title>Puerto Cabello vs Metropolitanos ~ SUD2025 F1</title>
+MIE 2	<programme channel="ESPN 3" start="20250402210000 -1000" stop="20250402230000 -1000">
+		<title>Atletico Grau vs Godoy Cruz ~ CONMEBOL Sudamericana</title>
 	</programme>
-MIE 5	<programme channel="ESPN 3" start="20250305190000 -1000" stop="20250305210000 -1000">
+MIE 2	<programme channel="ESPN 3" start="20250402230000 -1000" stop="20250403000000 -1000">
 		<title>ESPN 3</title>
 	</programme>
-MIE 5	<programme channel="ESPN 3" start="20250305210000 -1000" stop="20250305230000 -1000">
-		<title>Mushuc Runa vs Orense ~ SUD2025 F1</title>
-	</programme>
-MIE 5	<programme channel="ESPN 3" start="20250305230000 -1000" stop="20250306000000 -1000">
+JUE 3	<programme channel="ESPN 3" start="20250403000000 -1000" stop="20250403170000 -1000">
 		<title>ESPN 3</title>
 	</programme>
-JUE 6	<programme channel="ESPN 3" start="20250306000000 -1000" stop="20250306191500 -1000">
-		<title>ESPN 3</title>
+JUE 3	<programme channel="ESPN 3" start="20250403170000 -1000" stop="20250403190000 -1000">
+		<title>Atletico Puerto Cabello vs Lanus ~ CONMEBOL Sudamericana</title>
 	</programme>
-JUE 6	<programme channel="ESPN 3" start="20250306191500 -1000" stop="20250306213000 -1000">
-		<title>Atletico Grau vs Cusco FC ~ SUD2025 1F</title>
-	</programme>
-JUE 6	<programme channel="ESPN 3" start="20250306213000 -1000" stop="20250307000000 -1000">
-		<title>ESPN 3</title>
-	</programme>
-SAB 8	<programme channel="ESPN 3" start="20250308000000 -1000" stop="20250308080000 -1000">
-		<title>ESPN 3</title>
-	</programme>
-SAB 8	<programme channel="ESPN 3" start="20250308080000 -1000" stop="20250308100000 -1000">
-		<title>Celta de Vigo vs Leganes ~ LaLiga ~ J27</title>
-	</programme>
-SAB 8	<programme channel="ESPN 3" start="20250308100000 -1000" stop="20250308110000 -1000">
-		<title>ESPN 3</title>
-	</programme>
-SAB 8	<programme channel="ESPN 3" start="20250308110000 -1000" stop="20250308130000 -1000">
-		<title>Stade Rennais FC vs Paris Saint-Germain ~ Ligue 1 ~ J25</title>
-	</programme>
-SAB 8	<programme channel="ESPN 3" start="20250308130000 -1000" stop="20250309000000 -1000">
-		<title>ESPN 3</title>
-	</programme>
-LUN 10	<programme channel="ESPN 3" start="20250310000000 -1000" stop="20250310150000 -1000">
-		<title>ESPN 3</title>
-	</programme>
-LUN 10	<programme channel="ESPN 3" start="20250310150000 -1000" stop="20250310170000 -1000">
-		<title>Espanyol vs Girona ~ LaLiga ~ J27</title>
-	</programme>
-LUN 10	<programme channel="ESPN 3" start="20250310170000 -1000" stop="20250311000000 -1000">
+JUE 3	<programme channel="ESPN 3" start="20250403190000 -1000" stop="20250404000000 -1000">
 		<title>ESPN 3</title>
 	</programme>
 *****************************************************************************************************
@@ -1025,34 +1636,49 @@ LUN 10	<programme channel="ESPN 3" start="20250310170000 -1000" stop="2025031100
 		<display-name>ESPN 4 SD</display-name>
 		<display-name>ESPN 4 HD</display-name>
 	</channel>
-MAR 4	<programme channel="ESPN 4" start="20250304000000 -1000" stop="20250304193000 -1000">
+MIE 2	<programme channel="ESPN 4" start="20250402000000 -1000" stop="20250402134500 -1000">
 		<title>ESPN 4</title>
 	</programme>
-MAR 4	<programme channel="ESPN 4" start="20250304193000 -1000" stop="20250304213000 -1000">
-		<title>Universitario (BOL) vs Nacional Potosi ~ SUD2025 F1</title>
+MIE 2	<programme channel="ESPN 4" start="20250402134500 -1000" stop="20250402154500 -1000">
+		<title>Stuttgart vs RB Leipzing ~ Copa de Alemania</title>
 	</programme>
-MAR 4	<programme channel="ESPN 4" start="20250304213000 -1000" stop="20250305000000 -1000">
+MIE 2	<programme channel="ESPN 4" start="20250402154500 -1000" stop="20250402193000 -1000">
 		<title>ESPN 4</title>
 	</programme>
-DOM 9	<programme channel="ESPN 4" start="20250309000000 -1000" stop="20250309090000 -1000">
+MIE 2	<programme channel="ESPN 4" start="20250402193000 -1000" stop="20250402213000 -1000">
+		<title>Sportivo Luqueño vs Gremio ~ CONMEBOL Sudamericana</title>
+	</programme>
+MIE 2	<programme channel="ESPN 4" start="20250402213000 -1000" stop="20250403000000 -1000">
 		<title>ESPN 4</title>
 	</programme>
-DOM 9	<programme channel="ESPN 4" start="20250309090000 -1000" stop="20250309110000 -1000">
-		<title>Napoli vs Fiorentina ~ Serie A ~ J28</title>
-	</programme>
-DOM 9	<programme channel="ESPN 4" start="20250309110000 -1000" stop="20250309123000 -1000">
+JUE 3	<programme channel="ESPN 4" start="20250403000000 -1000" stop="20250403070000 -1000">
 		<title>ESPN 4</title>
 	</programme>
-DOM 9	<programme channel="ESPN 4" start="20250309123000 -1000" stop="20250309143000 -1000">
-		<title>Real Betis vs Ud Las Palmas ~ LaLiga ~ J27</title>
+JUE 3	<programme channel="ESPN 4" start="20250403070000 -1000" stop="20250403090000 -1000">
+		<title>Hockey NHL</title>
 	</programme>
-DOM 9	<programme channel="ESPN 4" start="20250309143000 -1000" stop="20250309150000 -1000">
+JUE 3	<programme channel="ESPN 4" start="20250403090000 -1000" stop="20250403150000 -1000">
 		<title>ESPN 4</title>
 	</programme>
-DOM 9	<programme channel="ESPN 4" start="20250309150000 -1000" stop="20250309170000 -1000">
-		<title>Real Sociedad vs Sevilla ~ LaLiga ~ J27</title>
+JUE 3	<programme channel="ESPN 4" start="20250403150000 -1000" stop="20250403170000 -1000">
+		<title>Newcastle United vs Brentford</title>
 	</programme>
-DOM 9	<programme channel="ESPN 4" start="20250309170000 -1000" stop="20250310000000 -1000">
+JUE 3	<programme channel="ESPN 4" start="20250403170000 -1000" stop="20250403190000 -1000">
+		<title>ESPN 4</title>
+	</programme>
+JUE 3	<programme channel="ESPN 4" start="20250403190000 -1000" stop="20250403200000 -1000">
+		<title>El Show de la Formula 1</title>
+	</programme>
+JUE 3	<programme channel="ESPN 4" start="20250403200000 -1000" stop="20250404000000 -1000">
+		<title>ESPN 4</title>
+	</programme>
+VIE 4	<programme channel="ESPN 4" start="20250404000000 -1000" stop="20250404134500 -1000">
+		<title>ESPN 4</title>
+	</programme>
+VIE 4	<programme channel="ESPN 4" start="20250404134500 -1000" stop="20250404154500 -1000">
+		<title>Nice vs Nantes ~ Ligue 1</title>
+	</programme>
+VIE 4	<programme channel="ESPN 4" start="20250404154500 -1000" stop="20250405000000 -1000">
 		<title>ESPN 4</title>
 	</programme>
 *****************************************************************************************************
@@ -1061,37 +1687,46 @@ DOM 9	<programme channel="ESPN 4" start="20250309170000 -1000" stop="20250310000
 		<display-name>ESPN 5 SD</display-name>
 		<display-name>ESPN 5 HD</display-name>
 	</channel>
-MAR 4	<programme channel="ESPN 5" start="20250304000000 -1000" stop="20250304150000 -1000">
+MAR 1	<programme channel="ESPN 5" start="20250401000000 -1000" stop="20250401170000 -1000">
 		<title>ESPN 5</title>
 	</programme>
-MAR 4	<programme channel="ESPN 5" start="20250304150000 -1000" stop="20250304170000 -1000">
-		<title>Borussia Dortmund vs Losc Lille ~ UEFA Champions League ~ 8vos IDA</title>
+MAR 1	<programme channel="ESPN 5" start="20250401170000 -1000" stop="20250401190000 -1000">
+		<title>Deportes Iquique vs Caracas ~ CONMEBOL Sudamericana</title>
 	</programme>
-MAR 4	<programme channel="ESPN 5" start="20250304170000 -1000" stop="20250304193000 -1000">
+MAR 1	<programme channel="ESPN 5" start="20250401190000 -1000" stop="20250401210000 -1000">
 		<title>ESPN 5</title>
 	</programme>
-MAR 4	<programme channel="ESPN 5" start="20250304193000 -1000" stop="20250304213000 -1000">
-		<title>SP. Luqueño vs SP. Ameliano ~ SUD2025 F1</title>
+MAR 1	<programme channel="ESPN 5" start="20250401210000 -1000" stop="20250401230000 -1000">
+		<title>Barcelona vs Ind del valle ~ CONMEBOL Libertadores</title>
 	</programme>
-MAR 4	<programme channel="ESPN 5" start="20250304213000 -1000" stop="20250305000000 -1000">
+MAR 1	<programme channel="ESPN 5" start="20250401230000 -1000" stop="20250402000000 -1000">
 		<title>ESPN 5</title>
 	</programme>
-MIE 5	<programme channel="ESPN 5" start="20250305000000 -1000" stop="20250305150000 -1000">
+MIE 2	<programme channel="ESPN 5" start="20250402000000 -1000" stop="20250402193000 -1000">
 		<title>ESPN 5</title>
 	</programme>
-MIE 5	<programme channel="ESPN 5" start="20250305150000 -1000" stop="20250305170000 -1000">
-		<title>Bayern Munich vs Bayer Leverkusen ~ UEFA Champions League ~ 8vos IDA</title>
+MIE 2	<programme channel="ESPN 5" start="20250402193000 -1000" stop="20250402213000 -1000">
+		<title>Universidad de Chile vs Botafogo ~ CONMEBOL Libertadores</title>
 	</programme>
-MIE 5	<programme channel="ESPN 5" start="20250305170000 -1000" stop="20250306000000 -1000">
+MIE 2	<programme channel="ESPN 5" start="20250402213000 -1000" stop="20250403000000 -1000">
 		<title>ESPN 5</title>
 	</programme>
-DOM 9	<programme channel="ESPN 5" start="20250309000000 -1000" stop="20250309113000 -1000">
+JUE 3	<programme channel="ESPN 5" start="20250403000000 -1000" stop="20250403210000 -1000">
 		<title>ESPN 5</title>
 	</programme>
-DOM 9	<programme channel="ESPN 5" start="20250309113000 -1000" stop="20250309133000 -1000">
-		<title>Hoffenheim vs Heidenheim ~ Bundesliga ~ J25</title>
+JUE 3	<programme channel="ESPN 5" start="20250403210000 -1000" stop="20250403230000 -1000">
+		<title>Mushuc Runa vs Palestino ~ CONMEBOL Sudamericana</title>
 	</programme>
-DOM 9	<programme channel="ESPN 5" start="20250309113000 -1000" stop="20250310000000 -1000">
+JUE 3	<programme channel="ESPN 5" start="20250403230000 -1000" stop="20250404000000 -1000">
+		<title>ESPN 5</title>
+	</programme>
+VIE 4	<programme channel="ESPN 5" start="20250404000000 -1000" stop="20250404134500 -1000">
+		<title>ESPN 5</title>
+	</programme>
+VIE 4	<programme channel="ESPN 5" start="20250404134500 -1000" stop="20250404154500 -1000">
+		<title>Genoa vs Udinese ~ Serie A</title>
+	</programme>
+VIE 4	<programme channel="ESPN 5" start="20250404154500 -1000" stop="20250405000000 -1000">
 		<title>ESPN 5</title>
 	</programme>
 *****************************************************************************************************
@@ -1100,8 +1735,23 @@ DOM 9	<programme channel="ESPN 5" start="20250309113000 -1000" stop="20250310000
 		<display-name>ESPN 6 SD</display-name>
 		<display-name>ESPN 6 HD</display-name>
 	</channel>
-MAR 17	<programme channel="ESPN 6" start="20240917000000 -1000" stop="20240917140000 -1000">
-		<title>ESPN 6 Sur y Centroamerica</title>
+MAR 1	<programme channel="ESPN 6" start="20250401000000 -1000" stop="20250401210000 -1000">
+		<title>ESPN 6</title>
+	</programme>
+MAR 1	<programme channel="ESPN 6" start="20250401210000 -1000" stop="20250401230000 -1000">
+		<title>Alianza Lima vs Libertad ~ CONMEBOL Libertadores</title>
+	</programme>
+MAR 1	<programme channel="ESPN 6" start="20250401230000 -1000" stop="20250402000000 -1000">
+		<title>ESPN 6</title>
+	</programme>
+MIE 2	<programme channel="ESPN 6" start="20250402000000 -1000" stop="20250402193000 -1000">
+		<title>ESPN 6</title>
+	</programme>
+MIE 2	<programme channel="ESPN 6" start="20250402193000 -1000" stop="20250402213000 -1000">
+		<title>Talleres Cordoba vs Sao Paulo ~ CONMEBOL Libertadores</title>
+	</programme>
+MIE 2	<programme channel="ESPN 6" start="20250402213000 -1000" stop="20250403000000 -1000">
+		<title>ESPN 6</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="ESPN 7">
@@ -1109,7 +1759,37 @@ MAR 17	<programme channel="ESPN 6" start="20240917000000 -1000" stop="2024091714
 		<display-name>ESPN 7 SD</display-name>
 		<display-name>ESPN 7 HD</display-name>
 	</channel>
-MAR 17	<programme channel="ESPN 7" start="20240917000000 -1000" stop="20240917140000 -1000">
+MAR 1	<programme channel="ESPN 7" start="20250401000000 -1000" stop="20250401170000 -1000">
+		<title>ESPN 7</title>
+	</programme>
+MAR 1	<programme channel="ESPN 7" start="20250401170000 -1000" stop="20250401190000 -1000">
+		<title>Carabobo vs Estudiantes ~ CONMEBOL Libertadores</title>
+	</programme>
+MAR 1	<programme channel="ESPN 7" start="20250401190000 -1000" stop="20250401193000 -1000">
+		<title>ESPN 7</title>
+	</programme>
+MAR 1	<programme channel="ESPN 7" start="20250401193000 -1000" stop="20250401213000 -1000">
+		<title>Fortaleza vs Racing Club ~ CONMEBOL Libertadores</title>
+	</programme>
+MAR 1	<programme channel="ESPN 7" start="20250401213000 -1000" stop="20250402000000 -1000">
+		<title>ESPN 7</title>
+	</programme>
+MIE 2	<programme channel="ESPN 7" start="20250402000000 -1000" stop="20250402193000 -1000">
+		<title>ESPN 7</title>
+	</programme>
+MIE 2	<programme channel="ESPN 7" start="20250402193000 -1000" stop="20250402213000 -1000">
+		<title>Universitario vs River Plate ~ CONMEBOL Libertadores</title>
+	</programme>
+MIE 2	<programme channel="ESPN 7" start="20250402213000 -1000" stop="20250403000000 -1000">
+		<title>ESPN 7</title>
+	</programme>
+JUE 3	<programme channel="ESPN 7" start="20250403000000 -1000" stop="20250403170000 -1000">
+		<title>ESPN 7</title>
+	</programme>
+JUE 3	<programme channel="ESPN 7" start="20250403170000 -1000" stop="20250403190000 -1000">
+		<title>Bahia vs Internacional ~ CONMEBOL Libertadores</title>
+	</programme>
+JUE 3	<programme channel="ESPN 7" start="20250403190000 -1000" stop="20250404000000 -1000">
 		<title>ESPN 7</title>
 	</programme>
 *****************************************************************************************************
@@ -1128,25 +1808,235 @@ MAR 13	<programme channel="ESPN 5 Chile" start="20240813000000 -1000" stop="2024
 		<title>ESPN 5 🇨🇱</title>
 	</programme>
 *****************************************************************************************************
+	<channel id="ESPN Deportes">
+		<display-name>ESPN Deportes</display-name>
+		<display-name>ESPN Deportes SD</display-name>
+		<display-name>ESPN Deportes HD</display-name>
+		<display-name>ESPN Deportes 🇺🇸 </display-name>
+		<display-name>ESPN Deportes 🇺🇸 SD</display-name>
+		<display-name>ESPN Deportes 🇺🇸 HD</display-name>
+	</channel>
+JUE 20	<programme channel="ESPN Deportes" start="20250320000000 -1000" stop="20250320223000 -1000">
+		<title>ESPN Deportes 🇺🇸</title>
+	</programme>
+JUE 20	<programme channel="ESPN Deportes" start="20250320223000 -1000" stop="20250321000000 -1000">
+		<title>F1 ~ Practicas Libres</title>
+	</programme>
+VIE 21	<programme channel="ESPN Deportes" start="20250321000000 -1000" stop="20250321023000 -1000">
+		<title>ESPN Deportes 🇺🇸</title>
+	</programme>
+VIE 21	<programme channel="ESPN Deportes" start="20250321023000 -1000" stop="20250321040000 -1000">
+		<title>F1 ~ Clasificacion SPRINT</title>
+	</programme>
+VIE 21	<programme channel="ESPN Deportes" start="20250321040000 -1000" stop="20250321220000 -1000">
+		<title>ESPN Deportes 🇺🇸</title>
+	</programme>
+VIE 21	<programme channel="ESPN Deportes" start="20250321220000 -1000" stop="20250322000000 -1000">
+		<title>F1 ~ Carrera SPRINT</title>
+	</programme>
+SAB 22	<programme channel="ESPN Deportes" start="20250322000000 -1000" stop="20250322020000 -1000">
+		<title>ESPN Deportes 🇺🇸</title>
+	</programme>
+SAB 22	<programme channel="ESPN Deportes" start="20250322020000 -1000" stop="20250322040000 -1000">
+		<title>F1 ~ Clasificacion</title>
+	</programme>
+SAB 22	<programme channel="ESPN Deportes" start="20250322040000 -1000" stop="20250323000000 -1000">
+		<title>ESPN Deportes 🇺🇸</title>
+	</programme>
+DOM 23	<programme channel="ESPN Deportes" start="20250323000000 -1000" stop="20250323020000 -1000">
+		<title>ESPN Deportes 🇺🇸</title>
+	</programme>
+DOM 23	<programme channel="ESPN Deportes" start="20250323020000 -1000" stop="20250323040000 -1000">
+		<title>F1 ~ Carrera</title>
+	</programme>
+DOM 23	<programme channel="ESPN Deportes" start="20250323040000 -1000" stop="20250324000000 -1000">
+		<title>ESPN Deportes 🇺🇸</title>
+	</programme>
+*****************************************************************************************************
+	<channel id="ESPN MX">
+		<display-name>ESPN MX</display-name>
+	</channel>
+JUE 20	<programme channel="ESPN MX" start="20250320000000 -1000" stop="20250320053500 -1000">
+		<title>ESPN 🇲🇽</title>
+	</programme>
+JUE 20	<programme channel="ESPN MX" start="20250320053500 -1000" stop="20250320073500 -1000">
+		<title>Japón vs Bahréin ~ Eliminatorias ASIA</title>
+	</programme>
+JUE 20	<programme channel="ESPN MX" start="20250320073500 -1000" stop="20250321000000 -1000">
+		<title>ESPN 🇲🇽</title>
+	</programme>
+*****************************************************************************************************
 	<channel id="ESPN Centro">
 		<display-name>ESPN Centro</display-name>
 	</channel>
-MAR 24	<programme channel="ESPN Centro" start="20240924000000 -1000" stop="20240924134500 -1000">
-		<title>ESPN Centro</title>
+JUE 20	<programme channel="ESPN Centro" start="20250320000000 -1000" stop="20250320053500 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+JUE 20	<programme channel="ESPN Centro" start="20250320053500 -1000" stop="20250320073500 -1000">
+		<title>Japón vs Bahréin ~ Eliminatorias ASIA</title>
+	</programme>
+JUE 20	<programme channel="ESPN Centro" start="20250320073500 -1000" stop="20250320120000 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+JUE 20	<programme channel="ESPN Centro" start="20250320120000 -1000" stop="20250320140000 -1000">
+		<title>Turquía vs Hungría ~ Liga de las Naciones de la UEFA</title>
+	</programme>
+JUE 20	<programme channel="ESPN Centro" start="20250320140000 -1000" stop="20250320144500 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+JUE 20	<programme channel="ESPN Centro" start="20250320144500 -1000" stop="20250320164500 -1000">
+		<title>Países Bajos vs España ~ Liga de las Naciones de la UEFA</title>
+	</programme>
+JUE 20	<programme channel="ESPN Centro" start="20250320164500 -1000" stop="20250321000000 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+VIE 21	<programme channel="ESPN Centro" start="20250321000000 -1000" stop="20250321120000 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+VIE 21	<programme channel="ESPN Centro" start="20250321120000 -1000" stop="20250321140000 -1000">
+		<title>Chipre vs San Marino ~ Eliminatorias UEFA</title>
+	</programme>
+VIE 21	<programme channel="ESPN Centro" start="20250321140000 -1000" stop="20250321144500 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+VIE 21	<programme channel="ESPN Centro" start="20250321144500 -1000" stop="20250321164500 -1000">
+		<title>Inglaterra vs Albania ~ Eliminatorias UEFA</title>
+	</programme>
+VIE 21	<programme channel="ESPN Centro" start="20250321164500 -1000" stop="20250321170000 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+VIE 21	<programme channel="ESPN Centro" start="20250321170000 -1000" stop="20250321190000 -1000">
+		<title>Surinam vs Martinica ~ CONCACAF Copa ORO</title>
+	</programme>
+VIE 21	<programme channel="ESPN Centro" start="20250321190000 -1000" stop="20250321210000 -1000">
+		<title>Guadalupe vs Nicaragua ~ CONCACAF Copa ORO</title>
+	</programme>
+VIE 21	<programme channel="ESPN Centro" start="20250321210000 -1000" stop="20250321230000 -1000">
+		<title>Belice vs Costa Rica ~ CONCACAF Copa ORO</title>
+	</programme>
+VIE 21	<programme channel="ESPN Centro" start="20250321230000 -1000" stop="20250322000000 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+SAB 22	<programme channel="ESPN Centro" start="20250322000000 -1000" stop="20250322090000 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+SAB 22	<programme channel="ESPN Centro" start="20250322090000 -1000" stop="20250322110000 -1000">
+		<title>Liechtenstein vs Macedonia del Norte ~ Eliminatorias UEFA</title>
+	</programme>
+SAB 22	<programme channel="ESPN Centro" start="20250322110000 -1000" stop="20250322120000 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+SAB 22	<programme channel="ESPN Centro" start="20250322120000 -1000" stop="20250322140000 -1000">
+		<title>Moldavia vs Noruega ~ Eliminatorias UEFA</title>
+	</programme>
+SAB 22	<programme channel="ESPN Centro" start="20250322140000 -1000" stop="20250322144500 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+SAB 22	<programme channel="ESPN Centro" start="20250322144500 -1000" stop="20250322164500 -1000">
+		<title>Gales vs Kazajstán ~ Eliminatorias UEFA</title>
+	</programme>
+SAB 22	<programme channel="ESPN Centro" start="20250322164500 -1000" stop="20250323000000 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+DOM 23	<programme channel="ESPN Centro" start="20250323000000 -1000" stop="20250323090000 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+DOM 23	<programme channel="ESPN Centro" start="20250323090000 -1000" stop="20250323110000 -1000">
+		<title>Georgia vs Armenia ~ Eliminatorias UEFA</title>
+	</programme>
+DOM 23	<programme channel="ESPN Centro" start="20250323110000 -1000" stop="20250323120000 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+DOM 23	<programme channel="ESPN Centro" start="20250323120000 -1000" stop="20250323140000 -1000">
+		<title>Hungría vs Turquía ~ Eliminatorias UEFA</title>
+	</programme>
+DOM 23	<programme channel="ESPN Centro" start="20250323140000 -1000" stop="20250323144500 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+DOM 23	<programme channel="ESPN Centro" start="20250323144500 -1000" stop="20250323164500 -1000">
+		<title>Alemania vs Italia ~ Eliminatorias UEFA</title>
+	</programme>
+DOM 23	<programme channel="ESPN Centro" start="20250323164500 -1000" stop="20250324000000 -1000">
+		<title>ESPN Centroamerica</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="ESPN 2 Centro">
 		<display-name>ESPN 2 Centro</display-name>
 	</channel>
-MAR 17	<programme channel="ESPN 2 Centro" start="20240917000000 -1000" stop="20240917114500 -1000">
+MAR 11	<programme channel="ESPN 2 Centro" start="20250311000000 -1000" stop="20250311144500 -1000">
 		<title>ESPN 2 Centroamerica</title>
+	</programme>
+MAR 11	<programme channel="ESPN 2 Centro" start="20250311144500 -1000" stop="20250311170000 -1000">
+		<title>Bayer Leverkusen vs Bayern München ~ 8vos VUELTA (IDA 0-3)</title>
+	</programme>
+MAR 11	<programme channel="ESPN 2 Centro" start="20250311170000 -1000" stop="20250311190000 -1000">
+		<title>Alianza Lima vs Deportes Iquique ~ LIB2025 / 3F VUELTA (IDA 2-1)</title>
+	</programme>
+MAR 11	<programme channel="ESPN 2 Centro" start="20250311190000 -1000" stop="20250312000000 -1000">
+		<title>ESPN 2 Centroamerica</title>
+	</programme>
+MIE 12	<programme channel="ESPN 2 Centro" start="20250312000000 -1000" stop="20250312144500 -1000">
+		<title>ESPN 2 Centroamerica</title>
+	</programme>
+MIE 12	<programme channel="ESPN 2 Centro" start="20250312144500 -1000" stop="20250312170000 -1000">
+		<title>Arsenal vs PSV ~ UEFA Champions League ~ 8vos VUELTA (IDA 7-1)</title>
+	</programme>
+MIE 12	<programme channel="ESPN 2 Centro" start="20250312170000 -1000" stop="20250313000000 -1000">
+		<title>ESPN 2 Centroamerica</title>
+	</programme>
+*****************************************************************************************************
+	<channel id="ESPN 4 Centro">
+		<display-name>ESPN 4 Centro</display-name>
+		<display-name>ESPN 4 Centro SD</display-name>
+		<display-name>ESPN 4 Centro HD</display-name>
+	</channel>
+JUE 20	<programme channel="ESPN 4 Centro" start="20250320000000 -1000" stop="20250320131500 -1000">
+		<title>ESPN 4 Centroamerica</title>
+	</programme>
+JUE 20	<programme channel="ESPN 4 Centro" start="20250320131500 -1000" stop="20250320151500 -1000">
+		<title>Arabia Saudita vs China ~ Eliminatorias ASIA</title>
+	</programme>
+JUE 20	<programme channel="ESPN 4 Centro" start="20250320151500 -1000" stop="20250321000000 -1000">
+		<title>ESPN 4 Centroamerica</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="ESPN 5 Centro">
 		<display-name>ESPN 5 Centro</display-name>
+		<display-name>ESPN 5 Centro SD</display-name>
+		<display-name>ESPN 5 Centro HD</display-name>
 	</channel>
-MAR 17	<programme channel="ESPN 5 Centro" start="20240917000000 -1000" stop="20240917140000 -1000">
+JUE 20	<programme channel="ESPN 5 Centro" start="20250320000000 -1000" stop="20250320144500 -1000">
 		<title>ESPN 5 Centroamerica</title>
+	</programme>
+JUE 20	<programme channel="ESPN 5 Centro" start="20250320144500 -1000" stop="20250320164500 -1000">
+		<title>Croacia vs Francia ~ UEFA Nations League ~ 4tos</title>
+	</programme>
+JUE 20	<programme channel="ESPN 5 Centro" start="20250320164500 -1000" stop="20250321000000 -1000">
+		<title>ESPN 5 Centroamerica</title>
+	</programme>
+DOM 23	<programme channel="ESPN 5 Centro" start="20250323000000 -1000" stop="20250323144500 -1000">
+		<title>ESPN 5 Centroamerica</title>
+	</programme>
+DOM 23	<programme channel="ESPN 5 Centro" start="20250321445000 -1000" stop="20250323164500 -1000">
+		<title>Portugal vs Dinamarca ~ UEFA Nations League ~ 4tos</title>
+	</programme>
+DOM 23	<programme channel="ESPN 5 Centro" start="20250323164500 -1000" stop="20250324000000 -1000">
+		<title>ESPN 5 Centroamerica</title>
+	</programme>
+*****************************************************************************************************
+	<channel id="ESPN 4 MX">
+		<display-name>ESPN 4 MX</display-name>
+		<display-name>ESPN 4 MX SD</display-name>
+		<display-name>ESPN 4 MX HD</display-name>
+	</channel>
+JUE 20	<programme channel="ESPN 4 MX" start="20250320000000 -1000" stop="20250320131500 -1000">
+		<title>ESPN 4 🇲🇽</title>
+	</programme>
+JUE 20	<programme channel="ESPN 4 MX" start="20250320131500 -1000" stop="20250320151500 -1000">
+		<title>Arabia Saudita vs China ~ Eliminatorias ASIA</title>
+	</programme>
+JUE 20	<programme channel="ESPN 4 MX" start="20250320151500 -1000" stop="20250321000000 -1000">
+		<title>ESPN 4 🇲🇽</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="Apple TV 1">
@@ -1159,7 +2049,31 @@ MAR 13	<programme channel="Apple TV 1" start="20240813000000 -1000" stop="202408
 	<channel id="LaLiga">
 		<display-name>LaLiga</display-name>
 	</channel>
-VIE 20	<programme channel="LaLiga" start="20240920000000 -1000" stop="20240920140000 -1000">
+DOM 9	<programme channel="LaLiga" start="20250309000000 -1000" stop="20250309080000 -1000">
+		<title>LaLiga 🇪🇸</title>
+	</programme>
+DOM 9	<programme channel="LaLiga" start="20250309080000 -1000" stop="20250309100000 -1000">
+		<title>Getafe vs Atlético Madrid ~ LaLiga</title>
+	</programme>
+DOM 9	<programme channel="LaLiga" start="20250309100000 -1000" stop="20250309121500 -1000">
+		<title>Real Madrid vs Rayo Vallecano ~ LaLiga</title>
+	</programme>
+DOM 9	<programme channel="LaLiga" start="20250309121500 -1000" stop="20250309144500 -1000">
+		<title>Athletic Club vs Mallorca ~ LaLiga</title>
+	</programme>
+DOM 9	<programme channel="LaLiga" start="20250309144500 -1000" stop="20250309170000 -1000">
+		<title>Real Sociedad vs Sevilla ~ LaLiga</title>
+	</programme>
+DOM 9	<programme channel="LaLiga" start="20250309170000 -1000" stop="20250310000000 -1000">
+		<title>LaLiga 🇪🇸</title>
+	</programme>
+LUN 10	<programme channel="LaLiga" start="20250310000000 -1000" stop="20250310150000 -1000">
+		<title>LaLiga 🇪🇸</title>
+	</programme>
+LUN 10	<programme channel="LaLiga" start="20250310150000 -1000" stop="20250310170000 -1000">
+		<title>Espanyol vs Girona ~ LaLiga</title>
+	</programme>
+LUN 10	<programme channel="LaLiga" start="20250310170000 -1000" stop="20250311000000 -1000">
 		<title>LaLiga 🇪🇸</title>
 	</programme>
 *****************************************************************************************************
@@ -1187,15 +2101,39 @@ DOM 15	<programme channel="TCS+" start="20240915070000 -1000" stop="202409151200
 	<channel id="Caracol & RCN">
 		<display-name>Caracol & RCN</display-name>
 	</channel>
-MAR 15	<programme channel="Caracol & RCN" start="20241015000000 -1000" stop="20241015153000 -1000">
+MAR 25	<programme channel="Caracol & RCN" start="20250325000000 -1000" stop="20250325150000 -1000">
+		<title>Caracol & RCN</title>
+	</programme>
+MAR 25	<programme channel="Caracol & RCN" start="20250325150000 -1000" stop="20250325170000 -1000">
+		<title>Bolivia vs Uruguay ~ Eliminatorias CONMEBOL ~ J14</title>
+	</programme>
+MAR 25	<programme channel="Caracol & RCN" start="20250325170000 -1000" stop="20250325190000 -1000">
+		<title>Caracol & RCN</title>
+	</programme>
+MAR 25	<programme channel="Caracol & RCN" start="20250325190000 -1000" stop="20250325210000 -1000">
+		<title>Colombia vs Paraguay ~ Eliminatorias CONMEBOL ~ J14</title>
+	</programme>
+MAR 25	<programme channel="Caracol & RCN" start="20250325210000 -1000" stop="20250326000000 -1000">
 		<title>Caracol & RCN</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="Chilevision">
 		<display-name>Chilevision</display-name>
 	</channel>
-MAR 15	<programme channel="Chilevision" start="20241015000000 -1000" stop="20241015153000 -1000">
+MAR 25	<programme channel="Chilevision" start="20250325000000 -1000" stop="20250325190000 -1000">
 		<title>Chilevision</title>
+		<desc>Paramount-Chilevision & Disney-ESPN poseen los derechos de trasmision de las Eliminatorias Conmebol para Chile de 8 Selecciones (Argentina, Colombia, Chile, Ecuador, Paraguay, Peru, Uruguay y Venezuela)</desc>
+	</programme>
+MAR 25	<programme channel="Chilevision" start="20250325190000 -1000" stop="20250325210000 -1000">
+		<title>Chile vs Ecuador ~ Eliminatorias CONMEBOL ~ J14</title>
+		<desc>Paramount-Chilevision & Disney-ESPN poseen los derechos de trasmision de las Eliminatorias Conmebol para Chile de 8 Selecciones (Argentina, Colombia, Chile, Ecuador, Paraguay, Peru, Uruguay y Venezuela)</desc>
+	</programme>
+MAR 25	<programme channel="Chilevision" start="20250325210000 -1000" stop="20250325223000 -1000">
+		<title>Chilevision</title>
+		<desc>Paramount-Chilevision & Disney-ESPN poseen los derechos de trasmision de las Eliminatorias Conmebol para Chile de 8 Selecciones (Argentina, Colombia, Chile, Ecuador, Paraguay, Peru, Uruguay y Venezuela)</desc>
+	</programme>
+MAR 25	<programme channel="Chilevision" start="20250325223000 -1000" stop="20250326003000 -1000">
+		<title>(R) Argentinan vs Brasil ~ Eliminatorias CONMEBOL ~ J14</title>
 		<desc>Paramount-Chilevision & Disney-ESPN poseen los derechos de trasmision de las Eliminatorias Conmebol para Chile de 8 Selecciones (Argentina, Colombia, Chile, Ecuador, Paraguay, Peru, Uruguay y Venezuela)</desc>
 	</programme>
 *****************************************************************************************************
@@ -1210,126 +2148,431 @@ MAR 15	<programme channel="Mega CL" start="20241015000000 -1000" stop="202410151
 	<channel id="Latina">
 		<display-name>Latina</display-name>
 	</channel>
-MAR 15	<programme channel="Latina" start="20241015000000 -1000" stop="20241015194500 -1000">
+MAR 25	<programme channel="Latina" start="20250325000000 -1000" stop="20250325150000 -1000">
+		<title>Latina</title>
+	</programme>
+MAR 25	<programme channel="Latina" start="20250325150000 -1000" stop="20250325170000 -1000">
+		<title>Bolivia vs Uruguay ~ Eliminatorias CONMEBOL ~ J14</title>
+	</programme>
+MAR 25	<programme channel="Latina" start="20250325170000 -1000" stop="20250326000000 -1000">
 		<title>Latina</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="America & ATV">
 		<display-name>America & ATV</display-name>
 	</channel>
-VIE 11	<programme channel="America & ATV" start="20241011000000 -1000" stop="20241011203000 -1000">
+MIE 2	<programme channel="America & ATV" start="20250402000000 -1000" stop="20250402143000 -1000">
+		<title>America & ATV</title>
+	</programme>
+MIE 2	<programme channel="America & ATV" start="20250402143000 -1000" stop="20250402163000 -1000">
+		<title>Atletico Madrid vs Barcelona ~ Copa del Rey (NO en ATV)</title>
+	</programme>
+MIE 2	<programme channel="America & ATV" start="20250402163000 -1000" stop="20250403000000 -1000">
 		<title>America & ATV</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="Movistar Deportes">
 		<display-name>Movistar Deportes</display-name>
 	</channel>
-MAR 15	<programme channel="Movistar Deportes" start="20241015000000 -1000" stop="20241015153000 -1000">
-		<title>Movistar Deportes</title>
+JUE 20	<programme channel="Movistar Deportes" start="20250320000000 -1000" stop="20250320203000 -1000">
+		<title>Movistar Deportes 🇵🇪</title>
+	</programme>
+JUE 20	<programme channel="Movistar Deportes" start="20250320203000 -1000" stop="20250320223000 -1000">
+		<title>Peru vs Bolivia ~ Eliminatorias CONMEBOL ~ J13</title>
+	</programme>
+JUE 20	<programme channel="Movistar Deportes" start="20250320223000 -1000" stop="20250321000000 -1000">
+		<title>Movistar Deportes 🇵🇪</title>
+	</programme>
+VIE 21	<programme channel="Movistar Deportes" start="20250321000000 -1000" stop="20250321160000 -1000">
+		<title>Movistar Deportes 🇵🇪</title>
+	</programme>
+VIE 21	<programme channel="Movistar Deportes" start="20250321160000 -1000" stop="20250321180000 -1000">
+		<title>Ecuador vs Venezuela ~ Eliminatorias CONMEBOL ~ J13</title>
+	</programme>
+VIE 21	<programme channel="Movistar Deportes" start="20250321180000 -1000" stop="20250321183000 -1000">
+		<title>Movistar Deportes 🇵🇪</title>
+	</programme>
+VIE 21	<programme channel="Movistar Deportes" start="20250321183000 -1000" stop="20250321203000 -1000">
+		<title>Uruguay vs Argentina ~ Eliminatorias CONMEBOL ~ J13</title>
+	</programme>
+VIE 21	<programme channel="Movistar Deportes" start="20250321203000 -1000" stop="20250322000000 -1000">
+		<title>Movistar Deportes 🇵🇪</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="Televen y Tves">
 		<display-name>Televen y Tves</display-name>
 	</channel>
-JUE 10	<programme channel="Televen y Tves" start="20241010000000 -1000" stop="20241010160000 -1000">
+MAR 25	<programme channel="Televen y Tves" start="20250325000000 -1000" stop="20250325190000 -1000">
+		<title>Televen y Tves</title>
+	</programme>
+MAR 25	<programme channel="Televen y Tves" start="20250325190000 -1000" stop="20250325210000 -1000">
+		<title>Venezuela vs Peru ~ Eliminatorias CONMEBOL ~ J14</title>
+	</programme>
+MAR 25	<programme channel="Televen y Tves" start="20250325210000 -1000" stop="20250326000000 -1000">
 		<title>Televen y Tves</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="Venevision">
 		<display-name>Venevision</display-name>
 	</channel>
-MAR 15	<programme channel="Venevision" start="20241015000000 -1000" stop="20241015153000 -1000">
+JUE 20	<programme channel="Venevision" start="20250320000000 -1000" stop="20250320180000 -1000">
+		<title>Venevision</title>
+	</programme>
+JUE 20	<programme channel="Venevision" start="20250320180000 -1000" stop="20250320200000 -1000">
+		<title>Paraguay vs Chile ~ Eliminatorias CONMEBOL ~ J13</title>
+	</programme>
+JUE 20	<programme channel="Venevision" start="20250320200000 -1000" stop="20250320214500 -1000">
+		<title>Brasil vs Colombia ~ Eliminatorias CONMEBOL ~ J13</title>
+	</programme>
+JUE 20	<programme channel="Venevision" start="20250320214500 -1000" stop="20250321000000 -1000">
+		<title>Venevision</title>
+	</programme>
+VIE 21	<programme channel="Venevision" start="20250321000000 -1000" stop="20250321160000 -1000">
+		<title>Venevision</title>
+	</programme>
+VIE 21	<programme channel="Venevision" start="20250321160000 -1000" stop="20250321180000 -1000">
+		<title>Ecuador vs Venezuela ~ Eliminatorias CONMEBOL ~ J13</title>
+	</programme>
+VIE 21	<programme channel="Venevision" start="20250321180000 -1000" stop="20250321183000 -1000">
+		<title>Venevision</title>
+	</programme>
+VIE 21	<programme channel="Venevision" start="20250321183000 -1000" stop="20250321203000 -1000">
+		<title>Uruguay vs Argentina ~ Eliminatorias CONMEBOL ~ J13</title>
+	</programme>
+VIE 21	<programme channel="Venevision" start="20250321203000 -1000" stop="20250322000000 -1000">
 		<title>Venevision</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="Telefe">
 		<display-name>Telefe</display-name>
 	</channel>
-MAR 15	<programme channel="Telefe" start="20241015000000 -1000" stop="20241015190000 -1000">
+VIE 21	<programme channel="Telefe" start="20250321000000 -1000" stop="20250321183000 -1000">
+		<title>Telefe</title>
+	</programme>
+VIE 21	<programme channel="Telefe" start="20250321183000 -1000" stop="20250321203000 -1000">
+		<title>Uruguay vs Argentina ~ Eliminatorias CONMEBOL ~ J13</title>
+	</programme>
+VIE 21	<programme channel="Telefe" start="20250321203000 -1000" stop="20250322000000 -1000">
+		<title>Telefe</title>
+	</programme>
+MAR 25	<programme channel="Telefe" start="20250325000000 -1000" stop="20250325190000 -1000">
+		<title>Telefe</title>
+	</programme>
+MAR 25	<programme channel="Telefe" start="20250325190000 -1000" stop="20250325210000 -1000">
+		<title>Argentina vs Brasil ~ Eliminatorias CONMEBOL ~ J14</title>
+	</programme>
+MAR 25	<programme channel="Telefe" start="20250325210000 -1000" stop="20250326000000 -1000">
 		<title>Telefe</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="Meridiano TV">
 		<display-name>Meridiano TV</display-name>
 	</channel>
-MAR 15	<programme channel="Meridiano TV" start="20241015000000 -1000" stop="20241015183000 -1000">
+JUE 20	<programme channel="Meridiano TV" start="20250320000000 -1000" stop="20250320203000 -1000">
+		<title>Meridiano TV</title>
+	</programme>
+JUE 20	<programme channel="Meridiano TV" start="20250320203000 -1000" stop="20250320223000 -1000">
+		<title>Peru vs Bolivia ~ Eliminatorias CONMEBOL ~ J13</title>
+	</programme>
+JUE 20	<programme channel="Meridiano TV" start="20250320223000 -1000" stop="20250321000000 -1000">
 		<title>Meridiano TV</title>
 	</programme>
 *****************************************************************************************************
-	<channel id="FOX Sports Argentina">
-		<display-name>FOX Sports Argentinaentina</display-name>
+	<channel id="Estrella TV">
+		<display-name>Estrella TV</display-name>
 	</channel>
-MAR 4	<programme channel="FOX Sports Argentina" start="20250304000000 -1000" stop="20250304124500 -1000">
+SAB 15	<programme channel="Estrella TV" start="20250315000000 -1000" stop="20250315180000 -1000">
+		<title>Estrella TV 🇺🇸</title>
+	</programme>
+SAB 15	<programme channel="Estrella TV" start="20250315180000 -1000" stop="20250315200000 -1000">
+		<title>Tigres vs Santos ~ LigaMX / J12</title>
+	</programme>
+SAB 15	<programme channel="Estrella TV" start="20250315200000 -1000" stop="20250316000000 -1000">
+		<title>Estrella TV 🇺🇸</title>
+	</programme>
+*****************************************************************************************************
+	<channel id="M+ Liga de Campeones 2">
+		<display-name>M+ Liga de Campeones 2</display-name>
+	</channel>
+JUE 20	<programme channel="M+ Liga de Campeones 2" start="20250320000000 -1000" stop="20250320180000 -1000">
+		<title>M+ Liga de Campeones 2 🇪🇸</title>
+	</programme>
+JUE 20	<programme channel="M+ Liga de Campeones 2" start="20250320180000 -1000" stop="20250320200000 -1000">
+		<title>Paraguay vs Chile ~ Eliminatorias CONMEBOL ~ J13</title>
+	</programme>
+JUE 20	<programme channel="M+ Liga de Campeones 2" start="20250320200000 -1000" stop="20250320203000 -1000">
+		<title>M+ Liga de Campeones 2 🇪🇸</title>
+	</programme>
+JUE 20	<programme channel="M+ Liga de Campeones 2" start="20250320203000 -1000" stop="20250320223000 -1000">
+		<title>Peru vs Bolivia ~ Eliminatorias CONMEBOL ~ J13</title>
+	</programme>
+JUE 20	<programme channel="M+ Liga de Campeones 2" start="20250320223000 -1000" stop="20250321000000 -1000">
+		<title>M+ Liga de Campeones 2 🇪🇸</title>
+	</programme>
+VIE 21	<programme channel="M+ Liga de Campeones 2" start="20250321000000 -1000" stop="20250321160000 -1000">
+		<title>M+ Liga de Campeones 2 🇪🇸</title>
+	</programme>
+VIE 21	<programme channel="M+ Liga de Campeones 2" start="20250321160000 -1000" stop="20250321180000 -1000">
+		<title>Ecuador vs Venezuela ~ Eliminatorias CONMEBOL ~ J13</title>
+	</programme>
+VIE 21	<programme channel="M+ Liga de Campeones 2" start="20250321180000 -1000" stop="20250321183000 -1000">
+		<title>M+ Liga de Campeones 2 🇪🇸</title>
+	</programme>
+VIE 21	<programme channel="M+ Liga de Campeones 2" start="20250321183000 -1000" stop="20250321203000 -1000">
+		<title>Uruguay vs Argentina ~ Eliminatorias CONMEBOL ~ J13</title>
+	</programme>
+VIE 21	<programme channel="M+ Liga de Campeones 2" start="20250321203000 -1000" stop="20250322000000 -1000">
+		<title>M+ Liga de Campeones 2 🇪🇸</title>
+	</programme>
+*****************************************************************************************************
+	<channel id="M+ Liga de Campeones 3">
+		<display-name>M+ Liga de Campeones 3</display-name>
+	</channel>
+JUE 20	<programme channel="M+ Liga de Campeones 3" start="20250320000000 -1000" stop="20250320194500 -1000">
+		<title>M+ Liga de Campeones 3 🇪🇸</title>
+	</programme>
+JUE 20	<programme channel="M+ Liga de Campeones 3" start="20250320194500 -1000" stop="20250320214500 -1000">
+		<title>Brasil vs Colombia ~ Eliminatorias CONMEBOL ~ J13</title>
+	</programme>
+JUE 20	<programme channel="M+ Liga de Campeones 3" start="20250320214500 -1000" stop="20250321000000 -1000">
+		<title>M+ Liga de Campeones 3 🇪🇸</title>
+	</programme>
+*****************************************************************************************************
+	<channel id="FOX Sports Argentina">
+		<display-name>FOX Sports Argentina</display-name>
+		<display-name>FOX Sports Argentina SD</display-name>
+		<display-name>FOX Sports Argentina HD</display-name>
+		<display-name>FOX Sports 🇦🇷</display-name>
+		<display-name>FOX Sports 🇦🇷 SD</display-name>
+		<display-name>FOX Sports 🇦🇷 HD</display-name>
+	</channel>
+MAR 1	<programme channel="FOX Sports Argentina" start="20250401000000 -1000" stop="20250401170000 -1000">
 		<title>FOX Sports 🇦🇷</title>
 	</programme>
-MAR 4	<programme channel="FOX Sports Argentina" start="20250304124500 -1000" stop="20250304144500 -1000">
-		<title>Club Brugge vs Aston Villa ~ UEFA Champions League ~ 8vos IDA</title>
+MAR 1	<programme channel="FOX Sports Argentina" start="20250401170000 -1000" stop="20250401190000 -1000">
+		<title>Carabobo vs Estudiantes ~ CONMEBOL Libertadores</title>
 	</programme>
-MAR 4	<programme channel="FOX Sports Argentina" start="20250304144500 -1000" stop="20250304150000 -1000">
+MAR 1	<programme channel="FOX Sports Argentina" start="20250401190000 -1000" stop="20250401193000 -1000">
 		<title>FOX Sports 🇦🇷</title>
 	</programme>
-MAR 4	<programme channel="FOX Sports Argentina" start="20250304150000 -1000" stop="20250304170000 -1000">
-		<title>PSV Eindhoven vs Arsenal ~ UEFA Champions League ~ 8vos IDA</title>
+MAR 1	<programme channel="FOX Sports Argentina" start="20250401193000 -1000" stop="20250401213000 -1000">
+		<title>Fortaleza vs Racing Club ~ CONMEBOL Libertadores</title>
 	</programme>
-MAR 4	<programme channel="FOX Sports Argentina" start="20250304170000 -1000" stop="20250304190000 -1000">
-		<title>Deportes Iquique (CHI) vs Alianza Lima (PER) ~ LIB2025 F3 IDA</title>
-	</programme>
-MAR 4	<programme channel="FOX Sports Argentina" start="20250304190000 -1000" stop="20250305000000 -1000">
+MAR 1	<programme channel="FOX Sports Argentina" start="20250401213000 -1000" stop="20250402000000 -1000">
 		<title>FOX Sports 🇦🇷</title>
 	</programme>
-MIE 5	<programme channel="FOX Sports Argentina" start="20250305000000 -1000" stop="20250305150000 -1000">
+MIE 2	<programme channel="FOX Sports Argentina" start="20250402000000 -1000" stop="20250402090000 -1000">
 		<title>FOX Sports 🇦🇷</title>
 	</programme>
-MIE 5	<programme channel="FOX Sports Argentina" start="20250305150000 -1000" stop="20250305170000 -1000">
-		<title>PSG vs Liverpool ~ UEFA Champions League ~ 8vos IDA</title>
+MIE 2	<programme channel="FOX Sports Argentina" start="20250402090000 -1000" stop="20250402110000 -1000">
+		<title>(R) Alianza Lima vs Libertad ~ CONMEBOL Libertadores</title>
 	</programme>
-MIE 5	<programme channel="FOX Sports Argentina" start="20250305170000 -1000" stop="20250305190000 -1000">
-		<title>Melgar (PER) vs Cerro Porteño (PAR) ~ LIB2025 F3 IDA</title>
-	</programme>
-MIE 5	<programme channel="FOX Sports Argentina" start="20250305190000 -1000" stop="20250305193000 -1000">
+MIE 2	<programme channel="FOX Sports Argentina" start="20250402110000 -1000" stop="20250402170000 -1000">
 		<title>FOX Sports 🇦🇷</title>
 	</programme>
-MIE 5	<programme channel="FOX Sports Argentina" start="20250305193000 -1000" stop="20250305213000 -1000">
-		<title>Barcelona (ECU) vs Corinthians (BRA) ~ LIB2025 F3 IDA</title>
+MIE 2	<programme channel="FOX Sports Argentina" start="20250402170000 -1000" stop="20250402190000 -1000">
+		<title>Velez Sarsfield vs Peñarol ~ CONMEBOL Libertadores</title>
 	</programme>
-MIE 5	<programme channel="FOX Sports Argentina" start="20250305213000 -1000" stop="20250306000000 -1000">
+MIE 2	<programme channel="FOX Sports Argentina" start="20250402190000 -1000" stop="20250402193000 -1000">
+		<title>FOX Sports 🇦🇷</title>
+	</programme>
+MIE 2	<programme channel="FOX Sports Argentina" start="20250402193000 -1000" stop="20250402213000 -1000">
+		<title>Universitario vs River Plate ~ CONMEBOL Libertadores</title>
+	</programme>
+MIE 2	<programme channel="FOX Sports Argentina" start="20250402213000 -1000" stop="20250403000000 -1000">
+		<title>FOX Sports 🇦🇷</title>
+	</programme>
+JUE 3	<programme channel="FOX Sports Argentina" start="20250403000000 -1000" stop="20250403170000 -1000">
+		<title>FOX Sports 🇦🇷</title>
+	</programme>
+JUE 3	<programme channel="FOX Sports Argentina" start="20250403170000 -1000" stop="20250403190000 -1000">
+		<title>Central Cordoba vs Liga de Quito ~ CONMEBOL Libertadores</title>
+	</programme>
+JUE 3	<programme channel="FOX Sports Argentina" start="20250403190000 -1000" stop="20250404000000 -1000">
 		<title>FOX Sports 🇦🇷</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="FOX Sports 2 Argentina">
-		<display-name>FOX Sports 2 Argentinaentina</display-name>
+		<display-name>FOX Sports 2 Argentina</display-name>
+		<display-name>FOX Sports 2 Argentina SD</display-name>
+		<display-name>FOX Sports 2 Argentina HD</display-name>
+		<display-name>FOX Sports 2 🇦🇷</display-name>
+		<display-name>FOX Sports 2 🇦🇷 SD</display-name>
+		<display-name>FOX Sports 2 🇦🇷 HD</display-name>
 	</channel>
-MIE 5	<programme channel="FOX Sports 2 Argentina" start="20250305000000 -1000" stop="20250305150000 -1000">
+MAR 1	<programme channel="FOX Sports 2 Argentina" start="20250401000000 -1000" stop="20250401170000 -1000">
 		<title>FOX Sports 2 🇦🇷</title>
 	</programme>
-MIE 5	<programme channel="FOX Sports 2 Argentina" start="20250305150000 -1000" stop="20250305170000 -1000">
-		<title>Bayern Munich vs Bayer Leverkusen ~ UEFA Champions League ~ 8vos IDA</title>
+MAR 1	<programme channel="FOX Sports 2 Argentina" start="20250401170000 -1000" stop="20250401190000 -1000">
+		<title>Cerro Porteño vs Bolivar ~ CONMEBOL Libertadores</title>
 	</programme>
-MIE 5	<programme channel="FOX Sports 2 Argentina" start="20250305170000 -1000" stop="20250306000000 -1000">
+MAR 1	<programme channel="FOX Sports 2 Argentina" start="20250401190000 -1000" stop="20250401193000 -1000">
 		<title>FOX Sports 2 🇦🇷</title>
 	</programme>
-JUE 6	<programme channel="FOX Sports 2 Argentina" start="20250306000000 -1000" stop="20250306193000 -1000">
+MAR 1	<programme channel="FOX Sports 2 Argentina" start="20250401193000 -1000" stop="20250401213000 -1000">
+		<title>Atletico Bucaramanga vs Colo Colo ~ CONMEBOL Libertadores</title>
+	</programme>
+MAR 1	<programme channel="FOX Sports 2 Argentina" start="20250401213000 -1000" stop="20250402000000 -1000">
 		<title>FOX Sports 2 🇦🇷</title>
 	</programme>
-JUE 6	<programme channel="FOX Sports 2 Argentina" start="20250306193000 -1000" stop="20250306213000 -1000">
-		<title>Boston River (URU) vs Bahia (BRA) ~ LIB2025 F3 IDA</title>
+MIE 2	<programme channel="FOX Sports 2 Argentina" start="20250402000000 -1000" stop="20250402170000 -1000">
+		<title>FOX Sports 2 🇦🇷</title>
 	</programme>
-JUE 6	<programme channel="FOX Sports 2 Argentina" start="20250306213000 -1000" stop="20250307000000 -1000">
+MIE 2	<programme channel="FOX Sports 2 Argentina" start="20250402170000 -1000" stop="20250402190000 -1000">
+		<title>San Antonio Bulo Bulo vs Olimpia ~ CONMEBOL Libertadores</title>
+	</programme>
+MIE 2	<programme channel="FOX Sports 2 Argentina" start="20250402190000 -1000" stop="20250402193000 -1000">
+		<title>FOX Sports 2 🇦🇷</title>
+	</programme>
+MIE 2	<programme channel="FOX Sports 2 Argentina" start="20250402193000 -1000" stop="20250402213000 -1000">
+		<title>Talleres Cordoba vs Sao Paulo ~ CONMEBOL Libertadores</title>
+	</programme>
+MIE 2	<programme channel="FOX Sports 2 Argentina" start="20250402213000 -1000" stop="20250402233000 -1000">
+		<title>(R) Universidad de Chile vs Botafogo ~ CONMEBOL Libertadores</title>
+	</programme>
+MIE 2	<programme channel="FOX Sports 2 Argentina" start="20250402233000 -1000" stop="20250403000000 -1000">
+		<title>FOX Sports 2 🇦🇷</title>
+	</programme>
+JUE 3	<programme channel="FOX Sports 2 Argentina" start="20250403000000 -1000" stop="20250403170000 -1000">
+		<title>FOX Sports 2 🇦🇷</title>
+	</programme>
+JUE 3	<programme channel="FOX Sports 2 Argentina" start="20250403170000 -1000" stop="20250403190000 -1000">
+		<title>Sporting Cristal vs Palmeiras ~ CONMEBOL Libertadores</title>
+	</programme>
+JUE 3	<programme channel="FOX Sports 2 Argentina" start="20250403190000 -1000" stop="20250403193000 -1000">
+		<title>FOX Sports 2 🇦🇷</title>
+	</programme>
+JUE 3	<programme channel="FOX Sports 2 Argentina" start="20250403193000 -1000" stop="20250403213000 -1000">
+		<title>Deportivo Tachira vs Flamengo ~ CONMEBOL Libertadores</title>
+	</programme>
+JUE 3	<programme channel="FOX Sports 2 Argentina" start="20250403213000 -1000" stop="20250404000000 -1000">
 		<title>FOX Sports 2 🇦🇷</title>
 	</programme>
 *****************************************************************************************************
-	<channel id="FOX Sports Premium MX">
-		<display-name>FOX Sports Premium MX</display-name>
+	<channel id="FOX Sports 3 Argentina">
+		<display-name>FOX Sports 3 Argentina</display-name>
+		<display-name>FOX Sports 3 Argentina SD</display-name>
+		<display-name>FOX Sports 3 Argentina HD</display-name>
+		<display-name>FOX Sports 3 🇦🇷</display-name>
+		<display-name>FOX Sports 3 🇦🇷 SD</display-name>
+		<display-name>FOX Sports 3 🇦🇷 HD</display-name>
 	</channel>
-SAB 21	<programme channel="FOX Sports Premium MX" start="20240921000000 -1000" stop="20240921063000 -1000">
-		<title>FOX Sports Premium MX</title>
+MIE 2	<programme channel="FOX Sports 3 Argentina" start="20250402000000 -1000" stop="20250402210000 -1000">
+		<title>FOX Sports 3 🇦🇷</title>
+	</programme>
+MIE 2	<programme channel="FOX Sports 3 Argentina" start="20250402210000 -1000" stop="20250402230000 -1000">
+		<title>Atletico Nacional vs Nacional ~ CONMEBOL Libertadores</title>
+	</programme>
+MIE 2	<programme channel="FOX Sports 3 Argentina" start="20250402230000 -1000" stop="20250403000000 -1000">
+		<title>FOX Sports 3 🇦🇷</title>
+	</programme>
+JUE 3	<programme channel="FOX Sports 3 Argentina" start="20250403000000 -1000" stop="20250403170000 -1000">
+		<title>FOX Sports 3 🇦🇷</title>
+	</programme>
+JUE 3	<programme channel="FOX Sports 3 Argentina" start="20250403170000 -1000" stop="20250403190000 -1000">
+		<title>Bahia vs Internacional ~ CONMEBOL Libertadores</title>
+	</programme>
+JUE 3	<programme channel="FOX Sports 3 Argentina" start="20250403190000 -1000" stop="20250404000000 -1000">
+		<title>FOX Sports 3 🇦🇷</title>
+	</programme>
+*****************************************************************************************************
+	<channel id="FOX Deportes">
+		<display-name>FOX Deportes</display-name>
+	</channel>
+DOM 30	<programme channel="FOX Deportes" start="20250330000000 -1000" stop="20250330110000 -1000">
+		<title>FOX Deportes 🇺🇸</title>
+	</programme>
+DOM 30	<programme channel="FOX Deportes" start="20250330110000 -1000" stop="20250330130000 -1000">
+		<title>Internazionale vs Udinese ~ Serie A</title>
+	</programme>
+DOM 30	<programme channel="FOX Deportes" start="20250330130000 -1000" stop="20250330134500 -1000">
+		<title>FOX Deportes 🇺🇸</title>
+	</programme>
+DOM 30	<programme channel="FOX Deportes" start="20250330134500 -1000" stop="20250330154500 -1000">
+		<title>Napoli vs Milan ~ Serie A</title>
+	</programme>
+DOM 30	<programme channel="FOX Deportes" start="20250330154500 -1000" stop="20250330181500 -1000">
+		<title>FOX Deportes 🇺🇸</title>
+	</programme>
+DOM 30	<programme channel="FOX Deportes" start="20250330181500 -1000" stop="20250330201500 -1000">
+		<title>Olimpia vs Real España ~ Liga Nacional Hondureña</title>
+	</programme>
+DOM 30	<programme channel="FOX Deportes" start="20250330201500 -1000" stop="20250330220600 -1000">
+		<title>FOX Deportes 🇺🇸</title>
+	</programme>
+DOM 30	<programme channel="FOX Deportes" start="20250330220600 -1000" stop="20250331000600 -1000">
+		<title>Tigres UANL vs Juarez ~ Liga MX Femenil</title>
+	</programme>
+*****************************************************************************************************
+	<channel id="FOX Sports Premium">
+		<display-name>FOX Sports Premium</display-name>
+	</channel>
+JUE 20	<programme channel="FOX Sports Premium" start="20250320000000 -1000" stop="20250320223000 -1000">
+		<title>FOX Sports Premium</title>
+	</programme>
+JUE 20	<programme channel="FOX Sports Premium" start="20250320223000 -1000" stop="20250321000000 -1000">
+		<title>F1 ~ Practicas Libres</title>
+	</programme>
+VIE 21	<programme channel="FOX Sports Premium" start="20250321000000 -1000" stop="20250321023000 -1000">
+		<title>FOX Sports Premium</title>
+	</programme>
+VIE 21	<programme channel="FOX Sports Premium" start="20250321023000 -1000" stop="20250321040000 -1000">
+		<title>F1 ~ Clasificacion SPRINT</title>
+	</programme>
+VIE 21	<programme channel="FOX Sports Premium" start="20250321040000 -1000" stop="20250321220000 -1000">
+		<title>FOX Sports Premium</title>
+	</programme>
+VIE 21	<programme channel="FOX Sports Premium" start="20250321220000 -1000" stop="20250322000000 -1000">
+		<title>F1 ~ Carrera SPRINT</title>
+	</programme>
+SAB 22	<programme channel="FOX Sports Premium" start="20250322000000 -1000" stop="20250322020000 -1000">
+		<title>FOX Sports Premium</title>
+	</programme>
+SAB 22	<programme channel="FOX Sports Premium" start="20250322020000 -1000" stop="20250322040000 -1000">
+		<title>F1 ~ Clasificacion</title>
+	</programme>
+SAB 22	<programme channel="FOX Sports Premium" start="20250322040000 -1000" stop="20250323000000 -1000">
+		<title>FOX Sports Premium</title>
+	</programme>
+DOM 23	<programme channel="FOX Sports Premium" start="20250323000000 -1000" stop="20250323020000 -1000">
+		<title>FOX Sports Premium</title>
+	</programme>
+DOM 23	<programme channel="FOX Sports Premium" start="20250323020000 -1000" stop="20250323040000 -1000">
+		<title>F1 ~ Carrera</title>
+	</programme>
+DOM 23	<programme channel="FOX Sports Premium" start="20250323040000 -1000" stop="20250324000000 -1000">
+		<title>FOX Sports Premium</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="FOX Sports MX">
 		<display-name>FOX Sports MX</display-name>
 	</channel>
-DOM 22	<programme channel="FOX Sports MX" start="20240922000000 -1000" stop="20240922080000 -1000">
-		<title>FOX Sports MX</title>
+JUE 20	<programme channel="FOX Sports MX" start="20250320000000 -1000" stop="20250320223000 -1000">
+		<title>FOX Sports 🇲🇽</title>
+	</programme>
+JUE 20	<programme channel="FOX Sports MX" start="20250320223000 -1000" stop="20250321000000 -1000">
+		<title>F1 ~ Practicas Libres</title>
+	</programme>
+VIE 21	<programme channel="FOX Sports MX" start="20250321000000 -1000" stop="20250321023000 -1000">
+		<title>FOX Sports 🇲🇽</title>
+	</programme>
+VIE 21	<programme channel="FOX Sports MX" start="20250321023000 -1000" stop="20250321040000 -1000">
+		<title>F1 ~ Clasificacion SPRINT</title>
+	</programme>
+VIE 21	<programme channel="FOX Sports MX" start="20250321040000 -1000" stop="20250321220000 -1000">
+		<title>FOX Sports 🇲🇽</title>
+	</programme>
+VIE 21	<programme channel="FOX Sports MX" start="20250321220000 -1000" stop="20250322000000 -1000">
+		<title>F1 ~ Carrera SPRINT</title>
+	</programme>
+SAB 22	<programme channel="FOX Sports MX" start="20250322000000 -1000" stop="20250322020000 -1000">
+		<title>FOX Sports 🇲🇽</title>
+	</programme>
+SAB 22	<programme channel="FOX Sports MX" start="20250322020000 -1000" stop="20250322040000 -1000">
+		<title>F1 ~ Clasificacion</title>
+	</programme>
+SAB 22	<programme channel="FOX Sports MX" start="20250322040000 -1000" stop="20250323000000 -1000">
+		<title>FOX Sports 🇲🇽</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="FOX Sports 2 MX">
@@ -1342,7 +2585,22 @@ SAB 21	<programme channel="FOX Sports 2 MX" start="20240921000000 -1000" stop="2
 	<channel id="Azteca 7">
 		<display-name>Azteca 7</display-name>
 	</channel>
-VIE 13	<programme channel="Azteca 7" start="20240913000000 -1000" stop="20240913190000 -1000">
+VIE 14	<programme channel="Azteca 7" start="20250314000000 -1000" stop="20250314220500 -1000">
+		<title>Azteca 7</title>
+	</programme>
+VIE 14	<programme channel="Azteca 7" start="20250314220500 -1000" stop="20250315000500 -1000">
+		<title>Puebla vs Toluca ~ LigaMX / J12</title>
+	</programme>
+SAB 15	<programme channel="Azteca 7" start="20250315000000 -1000" stop="20250315180000 -1000">
+		<title>Azteca 7</title>
+	</programme>
+SAB 15	<programme channel="Azteca 7" start="20250315180000 -1000" stop="20250315200000 -1000">
+		<title>Tigres vs Santos ~ LigaMX / J12</title>
+	</programme>
+SAB 15	<programme channel="Azteca 7" start="20250315200000 -1000" stop="20250315220000 -1000">
+		<title>Juarez vs Chivas ~ LigaMX / J12</title>
+	</programme>
+SAB 15	<programme channel="Azteca 7" start="20250315220000 -1000" stop="20250316000000 -1000">
 		<title>Azteca 7</title>
 	</programme>
 *****************************************************************************************************
