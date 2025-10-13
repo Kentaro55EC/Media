@@ -41,13 +41,13 @@ SAB 4	<programme channel="Ecuavisa" start="20251004210000 -1000" stop="202510050
 	<channel id="Teleamazonas">
 		<display-name>Teleamazonas</display-name>
 	</channel>
-VIE 10	<programme channel="Teleamazonas" start="20251010000000 -1000" stop="20251010214500 -1000">
+LUN 13	<programme channel="Teleamazonas" start="20251013000000 -1000" stop="20251013180000 -1000">
 		<title>Teleamazonas</title>
 	</programme>
-VIE 10	<programme channel="Teleamazonas" start="20251010214500 -1000" stop="20251010234500 -1000">
-		<title>(R) Estados Unidos vs Ecuador ~ Amistoso Internacional</title>
+LUN 13	<programme channel="Teleamazonas" start="20251013180000 -1000" stop="20251013200000 -1000">
+		<title>Independiente del Valle vs Universidad Catolica ~ Copa Ecuador</title>
 	</programme>
-VIE 10	<programme channel="Teleamazonas" start="20251010234500 -1000" stop="20251011000000 -1000">
+LUN 13	<programme channel="Teleamazonas" start="20251013200000 -1000" stop="20251014000000 -1000">
 		<title>Teleamazonas</title>
 	</programme>
 *****************************************************************************************************
@@ -760,37 +760,13 @@ MAR 14	<programme channel="TSN 5" start="20251014210000 -1000" stop="20251015000
 	<channel id="Directv Sports EC">
 		<display-name>Directv Sports EC</display-name>
 	</channel>
-MIE 8	<programme channel="Directv Sports EC" start="20251008000000 -1000" stop="20251008160000 -1000">
+LUN 13	<programme channel="Directv Sports EC" start="20251013000000 -1000" stop="20251013180000 -1000">
 		<title>Directv Sports Ecuador</title>
 	</programme>
-MIE 8	<programme channel="Directv Sports EC" start="20251008160000 -1000" stop="20251008180000 -1000">
-		<title>Leones del Norte vs Emelec ~ Copa Ecuador / 8vos</title>
+LUN 13	<programme channel="Directv Sports EC" start="20251013180000 -1000" stop="20251013200000 -1000">
+		<title>Independiente del Valle vs Universidad Catolica ~ Copa Ecuador</title>
 	</programme>
-MIE 8	<programme channel="Directv Sports EC" start="20251008180000 -1000" stop="20251008190000 -1000">
-		<title>Directv Sports Ecuador</title>
-	</programme>
-MIE 8	<programme channel="Directv Sports EC" start="20251008190000 -1000" stop="20251008210000 -1000">
-		<title>Gualaceo vs Independiente del Valle ~ Copa Ecuador / 8vos</title>
-	</programme>
-MIE 8	<programme channel="Directv Sports EC" start="20251008210000 -1000" stop="20251009000000 -1000">
-		<title>Directv Sports Ecuador</title>
-	</programme>
-JUE 9	<programme channel="Directv Sports EC" start="20251009000000 -1000" stop="20251009170000 -1000">
-		<title>Directv Sports Ecuador</title>
-	</programme>
-JUE 9	<programme channel="Directv Sports EC" start="20251009170000 -1000" stop="20251009190000 -1000">
-		<title>San Antonio vs Liga de Quito ~ Copa Ecuador / 8vos</title>
-	</programme>
-JUE 9	<programme channel="Directv Sports EC" start="20251009190000 -1000" stop="20251010000000 -1000">
-		<title>Directv Sports Ecuador</title>
-	</programme>
-VIE 10	<programme channel="Directv Sports EC" start="20251010000000 -1000" stop="20251010190000 -1000">
-		<title>Directv Sports Ecuador</title>
-	</programme>
-VIE 10	<programme channel="Directv Sports EC" start="20251010190000 -1000" stop="20251010210000 -1000">
-		<title>Argentina vs Venezuela ~ Amistoso Internacional</title>
-	</programme>
-VIE 10	<programme channel="Directv Sports EC" start="20251010210000 -1000" stop="20251011000000 -1000">
+LUN 13	<programme channel="Directv Sports EC" start="20251013200000 -1000" stop="20251014000000 -1000">
 		<title>Directv Sports Ecuador</title>
 	</programme>
 *****************************************************************************************************
