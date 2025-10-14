@@ -54,13 +54,13 @@ LUN 13	<programme channel="Teleamazonas" start="20251013200000 -1000" stop="2025
 	<channel id="ECDF">
 		<display-name>ECDF</display-name>
 	</channel>
-VIE 10	<programme channel="ECDF" start="20251010000000 -1000" stop="20251010193000 -1000">
+MAR 13	<programme channel="ECDF" start="20251013000000 -1000" stop="20251013213000 -1000">
 		<title>El Canal del Futbol</title>
 	</programme>
-VIE 10	<programme channel="ECDF" start="20251010193000 -1000" stop="20251010213000 -1000">
-		<title>Estados Unidos vs Ecuador ~ Amistoso Internacional</title>
+MAR 13	<programme channel="ECDF" start="20251013213000 -1000" stop="20251013233000 -1000">
+		<title>México vs Ecuador ~ Amistoso Internacional</title>
 	</programme>
-VIE 10	<programme channel="ECDF" start="20251010213000 -1000" stop="20251011000000 -1000">
+MAR 13	<programme channel="ECDF" start="20251013233000 -1000" stop="20251014000000 -1000">
 		<title>El Canal del Futbol</title>
 	</programme>
 *****************************************************************************************************
@@ -445,82 +445,67 @@ SAB 3	<programme channel="VTVplus" start="20250503000000 -1000" stop="2025050315
 	<channel id="TUDN USA">
 		<display-name>TUDN USA</display-name>
 	</channel>
-VIE 3	<programme channel="TUDN USA" start="20251003000000 -1000" stop="20251003200000 -1000">
+MAR 13	<programme channel="TUDN USA" start="20251013000000 -1000" stop="20251013213000 -1000">
 		<title>TUDN 🇺🇸</title>
 	</programme>
-VIE 3	<programme channel="TUDN USA" start="20251003200000 -1000" stop="20251003220000 -1000">
-		<title>Necaxa vs Pachuca ~ LigaMX</title>
+MAR 13	<programme channel="TUDN USA" start="20251013213000 -1000" stop="20251013233000 -1000">
+		<title>México vs Ecuador ~ Amistoso Internacional</title>
 	</programme>
-VIE 3	<programme channel="TUDN USA" start="20251003220000 -1000" stop="20251004000000 -1000">
-		<title>Mazatlan vs Atletico San Luis ~ LigaMX</title>
-	</programme>
-SAB 4	<programme channel="TUDN USA" start="20251004000000 -1000" stop="20251004150000 -1000">
+MAR 13	<programme channel="TUDN USA" start="20251013233000 -1000" stop="20251014000000 -1000">
 		<title>TUDN 🇺🇸</title>
 	</programme>
-SAB 4	<programme channel="TUDN USA" start="20251004150000 -1000" stop="20251004170000 -1000">
-		<title>Detroit City vs North Carolina ~ USL Championship</title>
-	</programme>
-SAB 4	<programme channel="TUDN USA" start="20251004170000 -1000" stop="20251004200000 -1000">
+VIE 17	<programme channel="TUDN USA" start="20251017000000 -1000" stop="20251017200000 -1000">
 		<title>TUDN 🇺🇸</title>
 	</programme>
-SAB 4	<programme channel="TUDN USA" start="20251004200000 -1000" stop="20251004220000 -1000">
-		<title>Leon vs Toluca ~ LigaMX</title>
+VIE 17	<programme channel="TUDN USA" start="20251017200000 -1000" stop="20251017220000 -1000">
+		<title>Puebla vs Tijuana ~ LigaMX</title>
 	</programme>
-SAB 4	<programme channel="TUDN USA" start="20251004220000 -1000" stop="20251005000500 -1000">
-		<title>America vs Santos Laguna ~ LigaMX</title>
+VIE 17	<programme channel="TUDN USA" start="20251017220000 -1000" stop="20251018000000 -1000">
+		<title>Atlético San Luis vs Atlas ~ LigaMX</title>
 	</programme>
-DOM 5	<programme channel="TUDN USA" start="20251005000000 -1000" stop="20251005200000 -1000">
+SAB 18	<programme channel="TUDN USA" start="20251018000000 -1000" stop="20251018200000 -1000">
 		<title>TUDN 🇺🇸</title>
 	</programme>
-DOM 5	<programme channel="TUDN USA" start="20251005200000 -1000" stop="20251005220000 -1000">
-		<title>Pumas vs Chivas ~ LigaMX</title>
+SAB 18	<programme channel="TUDN USA" start="20251018200000 -1000" stop="20251018220000 -1000">
+		<title>Monterrey vs Pumas ~ LigaMX</title>
 	</programme>
-DOM 5	<programme channel="TUDN USA" start="20251005220000 -1000" stop="20251006000500 -1000">
-		<title>Tijuana vs Monterrey ~ LigaMX</title>
-	</programme>
-LUN 6	<programme channel="TUDN USA" start="20251006000000 -1000" stop="20251006210000 -1000">
-		<title>TUDN 🇺🇸</title>
-	</programme>
-LUN 6	<programme channel="TUDN USA" start="20251006210000 -1000" stop="20251006230000 -1000">
-		<title>Monterrey vs America ~ LigaMX Femenil</title>
-	</programme>
-LUN 6	<programme channel="TUDN USA" start="20251006230000 -1000" stop="20251007000000 -1000">
-		<title>TUDN 🇺🇸</title>
-	</programme>
-SAB 11	<programme channel="TUDN USA" start="20251011000000 -1000" stop="20251011200000 -1000">
-		<title>TUDN 🇺🇸</title>
-	</programme>
-SAB 11	<programme channel="TUDN USA" start="20251011200000 -1000" stop="20251011220000 -1000">
-		<title>Mexico vs Colombia ~ Amistoso Internacional</title>
-	</programme>
-SAB 11	<programme channel="TUDN USA" start="20251011220000 -1000" stop="20251012000000 -1000">
-		<title>TUDN 🇺🇸</title>
+SAB 18	<programme channel="TUDN USA" start="20251018220000 -1000" stop="20251019000000 -1000">
+		<title>Cruz Azul vs América ~ LigaMX</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="TUDN MX">
 		<display-name>TUDN MX</display-name>
 	</channel>
-SAB 11	<programme channel="TUDN MX" start="20251011000000 -1000" stop="20251011200000 -1000">
+MAR 13	<programme channel="TUDN MX" start="20251013000000 -1000" stop="20251013213000 -1000">
 		<title>TUDN México</title>
 	</programme>
-SAB 11	<programme channel="TUDN MX" start="20251011200000 -1000" stop="20251011220000 -1000">
-		<title>Mexico vs Colombia ~ Amistoso Internacional</title>
+MAR 13	<programme channel="TUDN MX" start="20251013213000 -1000" stop="20251013233000 -1000">
+		<title>México vs Ecuador ~ Amistoso Internacional</title>
 	</programme>
-SAB 11	<programme channel="TUDN MX" start="20251011220000 -1000" stop="20251012000000 -1000">
+MAR 13	<programme channel="TUDN MX" start="20251013233000 -1000" stop="20251014000000 -1000">
 		<title>TUDN México</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="Univision">
 		<display-name>Univision</display-name>
 	</channel>
-SAB 11	<programme channel="Univision" start="20251011000000 -1000" stop="20251011200000 -1000">
-		<title>Univision</title>
+MAR 13	<programme channel="Univision" start="20251013000000 -1000" stop="20251013213000 -1000">
+		<title>Univision 🇺🇸</title>
 	</programme>
-SAB 11	<programme channel="Univision" start="20251011200000 -1000" stop="20251011220000 -1000">
-		<title>Mexico vs Colombia ~ Amistoso Internacional</title>
+MAR 13	<programme channel="TUDN USA" start="20251013213000 -1000" stop="20251013233000 -1000">
+		<title>México vs Ecuador ~ Amistoso Internacional</title>
 	</programme>
-SAB 11	<programme channel="Univision" start="20251011220000 -1000" stop="20251012000000 -1000">
-		<title>Univision</title>
+MAR 13	<programme channel="Univision" start="20251013233000 -1000" stop="20251014000000 -1000">
+		<title>Univision 🇺🇸</title>
+	</programme>
+SAB 18	<programme channel="Univision" start="20251018000000 -1000" stop="20251018200000 -1000">
+		<title>Univision 🇺🇸</title>
+	</programme>
+SAB 18	<programme channel="Univision" start="20251018200000 -1000" stop="20251018220000 -1000">
+		<title>Monterrey vs Pumas ~ LigaMX</title>
+	</programme>
+SAB 18	<programme channel="Univision" start="20251018220000 -1000" stop="20251019000000 -1000">
+		<title>Cruz Azul vs América ~ LigaMX</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="Unimas">
@@ -570,13 +555,94 @@ DOM 5	<programme channel="Telemundo" start="20251005123000 -1000" stop="20251006
 	<channel id="NBC Universo">
 		<display-name>NBC Universo</display-name>
 	</channel>
-VIE 10	<programme channel="NBC Universo" start="20251010000000 -1000" stop="20251010193000 -1000">
+LUN 13	<programme channel="NBC Universo" start="20251013000000 -1000" stop="20251013210000 -1000">
 		<title>NBC Universo</title>
 	</programme>
-VIE 10	<programme channel="NBC Universo" start="20251010193000 -1000" stop="20251010213000 -1000">
-		<title>Estados Unidos vs Ecuador ~ Amistoso Internacional</title>
+LUN 13	<programme channel="NBC Universo" start="20251013210000 -1000" stop="20251013230000 -1000">
+		<title>Costa Rica vs Nicaragua ~ Eliminatorias CONCACAF</title>
 	</programme>
-VIE 10	<programme channel="NBC Universo" start="20251010213000 -1000" stop="20251011000000 -1000">
+LUN 13	<programme channel="NBC Universo" start="20251013230000 -1000" stop="20251014000000 -1000">
+		<title>NBC Universo</title>
+	</programme>
+MAR 14	<programme channel="NBC Universo" start="20251014000000 -1000" stop="20251014200000 -1000">
+		<title>NBC Universo</title>
+	</programme>
+MAR 14	<programme channel="NBC Universo" start="20251014200000 -1000" stop="20251014220000 -1000">
+		<title>Estados Unidos vs Australia ~ Amistoso Internacional</title>
+	</programme>
+MAR 14	<programme channel="NBC Universo" start="20251014220000 -1000" stop="20251015000000 -1000">
+		<title>NBC Universo</title>
+	</programme>
+MIE 15	<programme channel="NBC Universo" start="20251015000000 -1000" stop="20251015150000 -1000">
+		<title>NBC Universo</title>
+	</programme>
+MIE 15	<programme channel="NBC Universo" start="20251015150000 -1000" stop="20251015170000 -1000">
+		<title>Marruecos vs Francia ~ Mundial Sub20 / Semifinal 1</title>
+	</programme>
+MIE 15	<programme channel="NBC Universo" start="20251015170000 -1000" stop="20251015180000 -1000">
+		<title>NBC Universo</title>
+	</programme>
+MIE 15	<programme channel="NBC Universo" start="20251015180000 -1000" stop="20251015200000 -1000">
+		<title>Argentina vs Colombia ~ Mundial Sub20 / Semifinal 1</title>
+	</programme>
+MIE 15	<programme channel="NBC Universo" start="20251015200000 -1000" stop="20251016000000 -1000">
+		<title>NBC Universo</title>
+	</programme>
+VIE 17	<programme channel="NBC Universo" start="20251017000000 -1000" stop="20251017220000 -1000">
+		<title>NBC Universo</title>
+	</programme>
+VIE 17	<programme channel="NBC Universo" start="20251017220000 -1000" stop="20251018000000 -1000">
+		<title>Tigres vs Necaxa ~ LigaMX</title>
+	</programme>
+SAB 18	<programme channel="NBC Universo" start="20251018000000 -1000" stop="20251018063000 -1000">
+		<title>NBC Universo</title>
+	</programme>
+SAB 18	<programme channel="NBC Universo" start="20251018063000 -1000" stop="20251018083000 -1000">
+		<title>Nottingham Forest vs Chelsea ~ Premier League</title>
+	</programme>
+SAB 18	<programme channel="NBC Universo" start="20251018083000 -1000" stop="20251018090000 -1000">
+		<title>NBC Universo</title>
+	</programme>
+SAB 18	<programme channel="NBC Universo" start="20251018090000 -1000" stop="20251018110000 -1000">
+		<title>Brighton & Hove Albion vs Newcastle United ~ Premier League</title>
+	</programme>
+SAB 18	<programme channel="NBC Universo" start="20251018110000 -1000" stop="20251018113000 -1000">
+		<title>NBC Universo</title>
+	</programme>
+SAB 18	<programme channel="NBC Universo" start="20251018113000 -1000" stop="20251018133000 -1000">
+		<title>Fulham vs Arsenal ~ Premier League</title>
+	</programme>
+SAB 18	<programme channel="NBC Universo" start="20251018133000 -1000" stop="20251018180000 -1000">
+		<title>NBC Universo</title>
+	</programme>
+SAB 18	<programme channel="NBC Universo" start="20251018180000 -1000" stop="20251018200000 -1000">
+		<title>Juárez vs Pachuca ~ LigaMX</title>
+	</programme>
+SAB 18	<programme channel="NBC Universo" start="20251018200000 -1000" stop="20251018200700 -1000">
+		<title>NBC Universo</title>
+	</programme>
+SAB 18	<programme channel="NBC Universo" start="20251018200700 -1000" stop="20251018220700 -1000">
+		<title>Chivas vs Mazatlán ~ LigaMX</title>
+	</programme>
+SAB 18	<programme channel="NBC Universo" start="20251018220700 -1000" stop="20251019000000 -1000">
+		<title>NBC Universo</title>
+	</programme>
+DOM 26	<programme channel="NBC Universo" start="20251026000000 -1000" stop="20251026150000 -1000">
+		<title>NBC Universo</title>
+	</programme>
+DOM 26	<programme channel="NBC Universo" start="20251026150000 -1000" stop="20251026170000 -1000">
+		<title>Estados Unidos vs Portugal ~ Amistoso Internacional</title>
+	</programme>
+DOM 26	<programme channel="NBC Universo" start="20251026170000 -1000" stop="20251027000000 -1000">
+		<title>NBC Universo</title>
+	</programme>
+MIE 29	<programme channel="NBC Universo" start="20251029000000 -1000" stop="20251029190000 -1000">
+		<title>NBC Universo</title>
+	</programme>
+MIE 29	<programme channel="NBC Universo" start="20251029190000 -1000" stop="20251029210000 -1000">
+		<title>Estados Unidos vs Nueva Zelanda ~ Amistoso Internacional</title>
+	</programme>
+MIE 29	<programme channel="NBC Universo" start="20251029210000 -1000" stop="20251030000000 -1000">
 		<title>NBC Universo</title>
 	</programme>
 *****************************************************************************************************
@@ -617,13 +683,13 @@ DOM 5	<programme channel="USA Network" start="20251005123000 -1000" stop="202510
 	<channel id="CBS Sports">
 		<display-name>CBS Sports</display-name>
 	</channel>
-VIE 10	<programme channel="CBS Sports" start="20251010000000 -1000" stop="20251010160000 -1000">
+LUN 13	<programme channel="CBS Sports" start="20251013000000 -1000" stop="20251013210000 -1000">
 		<title>CBS Sports</title>
 	</programme>
-VIE 10	<programme channel="CBS Sports" start="20251010160000 -1000" stop="20251010180000 -1000">
-		<title>Surinam vs Guatemala ~ Eliminatorias CONCACAF</title>
+LUN 13	<programme channel="CBS Sports" start="20251013210000 -1000" stop="20251013230000 -1000">
+		<title>Costa Rica vs Nicaragua ~ Eliminatorias CONCACAF</title>
 	</programme>
-VIE 10	<programme channel="CBS Sports" start="20251010180000 -1000" stop="20251011000000 -1000">
+LUN 13	<programme channel="CBS Sports" start="20251013230000 -1000" stop="20251014000000 -1000">
 		<title>CBS Sports</title>
 	</programme>
 *****************************************************************************************************
@@ -711,42 +777,6 @@ JUE 9	<programme channel="TSN 4" start="20251009200000 -1000" stop="202510100000
 		<display-name>TSN 5 Canada</display-name>
 		<display-name>🇨🇦 TSN 5</display-name>
 	</channel>
-MAR 7	<programme channel="TSN 5" start="20251007000000 -1000" stop="20251007143000 -1000">
-		<title>TSN 5 Canadá</title>
-	</programme>
-MAR 7	<programme channel="TSN 5" start="20251007143000 -1000" stop="20251007163000 -1000">
-		<title>Ucrania vs España ~ Mundial Sub20</title>
-	</programme>
-MAR 7	<programme channel="TSN 5" start="20251007163000 -1000" stop="20251007180000 -1000">
-		<title>TSN 5 Canadá</title>
-	</programme>
-MAR 7	<programme channel="TSN 5" start="20251007180000 -1000" stop="20251007200000 -1000">
-		<title>Chile vs México ~ Mundial Sub20</title>
-	</programme>
-MAR 7	<programme channel="TSN 5" start="20251007200000 -1000" stop="20251008000000 -1000">
-		<title>TSN 5 Canadá</title>
-	</programme>
-MIE 8	<programme channel="TSN 5" start="20251008000000 -1000" stop="20251008180000 -1000">
-		<title>TSN 5 Canadá</title>
-	</programme>
-MIE 8	<programme channel="TSN 5" start="20251008180000 -1000" stop="20251008200000 -1000">
-		<title>Paraguay vs Noruega ~ Mundial Sub20</title>
-	</programme>
-MIE 8	<programme channel="TSN 5" start="20251008200000 -1000" stop="20251009000000 -1000">
-		<title>TSN 5 Canadá</title>
-	</programme>
-VIE 10	<programme channel="TSN 5" start="20251010000000 -1000" stop="20251010183000 -1000">
-		<title>TSN 5 Canadá</title>
-	</programme>
-VIE 10	<programme channel="TSN 5" start="20251010183000 -1000" stop="20251010203000 -1000">
-		<title>Canadá vs Australia ~ Amistoso Internacional</title>
-	</programme>
-VIE 10	<programme channel="TSN 5" start="20251010203000 -1000" stop="20251010223000 -1000">
-		<title>Cavalry vs Forge ~ Canadian Premier League</title>
-	</programme>
-VIE 10	<programme channel="TSN 5" start="20251010223000 -1000" stop="20251011000000 -1000">
-		<title>TSN 5 Canadá</title>
-	</programme>
 MAR 14	<programme channel="TSN 5" start="20251014000000 -1000" stop="20251014190000 -1000">
 		<title>TSN 5 Canadá</title>
 	</programme>
@@ -754,6 +784,45 @@ MAR 14	<programme channel="TSN 5" start="20251014190000 -1000" stop="20251014210
 		<title>Canadá vs Colombia ~ Amistoso Internacional</title>
 	</programme>
 MAR 14	<programme channel="TSN 5" start="20251014210000 -1000" stop="20251015000000 -1000">
+		<title>TSN 5 Canadá</title>
+	</programme>
+MIE 15	<programme channel="TSN 5" start="20251015000000 -1000" stop="20251015150000 -1000">
+		<title>TSN 5 Canadá</title>
+	</programme>
+MIE 15	<programme channel="TSN 5" start="20251015150000 -1000" stop="20251015170000 -1000">
+		<title>Marruecos vs Francia ~ Mundial Sub20 / Semifinal 1</title>
+	</programme>
+MIE 15	<programme channel="TSN 5" start="20251015170000 -1000" stop="20251015180000 -1000">
+		<title>TSN 5 Canadá</title>
+	</programme>
+MIE 15	<programme channel="TSN 5" start="20251015180000 -1000" stop="20251015200000 -1000">
+		<title>Argentina vs Colombia ~ Mundial Sub20 / Semifinal 1</title>
+	</programme>
+MIE 15	<programme channel="TSN 5" start="20251015200000 -1000" stop="20251016000000 -1000">
+		<title>TSN 5 Canadá</title>
+	</programme>
+SAB 18	<programme channel="TSN 5" start="20251018000000 -1000" stop="20251018170000 -1000">
+		<title>TSN 5 Canadá</title>
+	</programme>
+SAB 18	<programme channel="TSN 5" start="20251018170000 -1000" stop="20251018190000 -1000">
+		<title>Toronto FC vs Orlando City SC ~ MLS</title>
+	</programme>
+SAB 18	<programme channel="TSN 5" start="20251018190000 -1000" stop="20251018200000 -1000">
+		<title>TSN 5 Canadá</title>
+	</programme>
+SAB 18	<programme channel="TSN 5" start="20251018200000 -1000" stop="20251018220000 -1000">
+		<title>Vancouver Whitecaps vs FC Dallas ~ MLS</title>
+	</programme>
+SAB 18	<programme channel="TSN 5" start="20251018220000 -1000" stop="20251019000000 -1000">
+		<title>TSN 5 Canadá</title>
+	</programme>
+DOM 19	<programme channel="TSN 5" start="20251019000000 -1000" stop="20251019140000 -1000">
+		<title>TSN 5 Canadá</title>
+	</programme>
+DOM 19	<programme channel="TSN 5" start="20251019140000 -1000" stop="20251019160000 -1000">
+		<title>Mundial Sub20 / FINAL</title>
+	</programme>
+DOM 19	<programme channel="TSN 5" start="20251019160000 -1000" stop="20251020000000 -1000">
 		<title>TSN 5 Canadá</title>
 	</programme>
 *****************************************************************************************************
@@ -769,17 +838,26 @@ LUN 13	<programme channel="Directv Sports EC" start="20251013180000 -1000" stop=
 LUN 13	<programme channel="Directv Sports EC" start="20251013200000 -1000" stop="20251014000000 -1000">
 		<title>Directv Sports Ecuador</title>
 	</programme>
+MAR 14	<programme channel="Directv Sports EC" start="20251014000000 -1000" stop="20251014190000 -1000">
+		<title>Directv Sports Ecuador</title>
+	</programme>
+MAR 14	<programme channel="Directv Sports EC" start="20251014190000 -1000" stop="20251014210000 -1000">
+		<title>Puerto Rico vs Argentina ~ Amistoso Internacional</title>
+	</programme>
+MAR 14	<programme channel="Directv Sports EC" start="20251014210000 -1000" stop="20251015000000 -1000">
+		<title>Directv Sports Ecuador</title>
+	</programme>
 *****************************************************************************************************
 	<channel id="Directv Sports">
 		<display-name>Directv Sports</display-name>
 	</channel>
-VIE 10	<programme channel="Directv Sports" start="20251010000000 -1000" stop="20251010190000 -1000">
+MAR 14	<programme channel="Directv Sports" start="20251014000000 -1000" stop="20251014190000 -1000">
 		<title>Directv Sports</title>
 	</programme>
-VIE 10	<programme channel="Directv Sports" start="20251010190000 -1000" stop="20251010210000 -1000">
-		<title>Argentina vs Venezuela ~ Amistoso Internacional</title>
+MAR 14	<programme channel="Directv Sports" start="20251014190000 -1000" stop="20251014210000 -1000">
+		<title>Puerto Rico vs Argentina ~ Amistoso Internacional</title>
 	</programme>
-VIE 10	<programme channel="Directv Sports" start="20251010210000 -1000" stop="20251011000000 -1000">
+MAR 14	<programme channel="Directv Sports" start="20251014210000 -1000" stop="20251015000000 -1000">
 		<title>Directv Sports</title>
 	</programme>
 *****************************************************************************************************
@@ -848,13 +926,13 @@ JUE 9	<programme channel="Directv Sports +" start="20251009200000 -1000" stop="2
 	<channel id="beIN SPORTS ñ">
 		<display-name>beIN SPORTS ñ</display-name>
 	</channel>
-VIE 10	<programme channel="beIN SPORTS ñ" start="20251010000000 -1000" stop="20251010190000 -1000">
+MAR 14	<programme channel="beIN SPORTS ñ" start="20251014000000 -1000" stop="20251014190000 -1000">
 		<title>beIN SPORTS en Español</title>
 	</programme>
-VIE 10	<programme channel="beIN SPORTS ñ" start="20251010190000 -1000" stop="20251010210000 -1000">
-		<title>Argentina vs Venezuela ~ Amistoso Internacional</title>
+MAR 14	<programme channel="beIN SPORTS ñ" start="20251014190000 -1000" stop="20251014210000 -1000">
+		<title>Puerto Rico vs Argentina ~ Amistoso Internacional</title>
 	</programme>
-VIE 10	<programme channel="beIN SPORTS ñ" start="20251010210000 -1000" stop="20251011000000 -1000">
+MAR 14	<programme channel="beIN SPORTS ñ" start="20251014210000 -1000" stop="20251015000000 -1000">
 		<title>beIN SPORTS en Español</title>
 	</programme>
 *****************************************************************************************************
@@ -868,27 +946,27 @@ MIE 17	<programme channel="beIN SPORTS XTRA ñ" start="20250917000000 -1000" sto
 	<channel id="beIN SPORTS">
 		<display-name>beIN SPORTS</display-name>
 	</channel>
-VIE 10	<programme channel="beIN SPORTS" start="20251010000000 -1000" stop="20251010190000 -1000">
+MAR 14	<programme channel="beIN SPORTS" start="20251014000000 -1000" stop="20251014190000 -1000">
 		<title>beIN SPORTS</title>
 	</programme>
-VIE 10	<programme channel="beIN SPORTS" start="20251010190000 -1000" stop="20251010210000 -1000">
-		<title>Argentina vs Venezuela ~ Amistoso Internacional</title>
+MAR 14	<programme channel="beIN SPORTS" start="20251014190000 -1000" stop="20251014210000 -1000">
+		<title>Puerto Rico vs Argentina ~ Amistoso Internacional</title>
 	</programme>
-VIE 10	<programme channel="beIN SPORTS" start="20251010210000 -1000" stop="20251011000000 -1000">
+MAR 14	<programme channel="beIN SPORTS" start="20251014210000 -1000" stop="20251015000000 -1000">
 		<title>beIN SPORTS</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="TyC Sports ARG">
 		<display-name>TyC Sports ARG</display-name>
 	</channel>
-VIE 10	<programme channel="TyC Sports ARG" start="20251010000000 -1000" stop="20251010190000 -1000">
-		<title>TyC Sports 🇦🇷</title>
+MAR 14	<programme channel="TyC Sports ARG" start="20251014000000 -1000" stop="20251014190000 -1000">
+		<title>TyC Sports ARG</title>
 	</programme>
-VIE 10	<programme channel="TyC Sports ARG" start="20251010190000 -1000" stop="20251010210000 -1000">
-		<title>Argentina vs Venezuela ~ Amistoso Internacional</title>
+MAR 14	<programme channel="TyC Sports ARG" start="20251014190000 -1000" stop="20251014210000 -1000">
+		<title>Puerto Rico vs Argentina ~ Amistoso Internacional</title>
 	</programme>
-VIE 10	<programme channel="TyC Sports ARG" start="20251010210000 -1000" stop="20251011000000 -1000">
-		<title>TyC Sports 🇦🇷</title>
+MAR 14	<programme channel="TyC Sports ARG" start="20251014210000 -1000" stop="20251015000000 -1000">
+		<title>TyC Sports ARG</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="TyC Sports LATAM">
@@ -1022,23 +1100,14 @@ SAB 31	<programme channel="ESPN Argentina" start="20240831000000 -1000" stop="20
 		<display-name>ESPN 🇵🇪 SD</display-name>
 		<display-name>ESPN 🇵🇪 HD</display-name>
 	</channel>
-VIE 10	<programme channel="ESPN Peru" start="20251010000000 -1000" stop="20251010134500 -1000">
+MAR 14	<programme channel="ESPN Peru" start="20251014000000 -1000" stop="20251014134500 -1000">
 		<title>ESPN Peru</title>
 	</programme>
-VIE 10	<programme channel="ESPN Peru" start="20251010134500 -1000" stop="20251010154500 -1000">
-		<title>Alemania vs Luxemburgo ~ Eliminatorias UEFA / J7</title>
+MAR 14	<programme channel="ESPN Peru" start="20251014134500 -1000" stop="20251014154500 -1000">
+		<title>Italia vs Israel ~ Eliminatorias UEFA</title>
 	</programme>
-VIE 10	<programme channel="ESPN Peru" start="20251010154500 -1000" stop="20251011000000 -1000">
+MAR 14	<programme channel="ESPN Peru" start="20251014154500 -1000" stop="20251015000000 -1000">
 		<title>ESPN Peru</title>
-	</programme>
-DOM 12	<programme channel="ESPN Peru" start="20251012000000 -1000" stop="20251012171500 -1000">
-		<title>ESPN Peru</title>
-	</programme>
-DOM 12	<programme channel="ESPN Peru" start="20251012171500 -1000" stop="20251012191500 -1000">
-		<title>River Plate vs Sarmiento ~ LFP Argentino / J12</title>
-	</programme>
-DOM 12	<programme channel="ESPN Peru" start="20251012191500 -1000" stop="20251013000000 -1000">
-		<title>Postergado el juego entre Barracas Central vs Boca Juniors</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="ESPN Colombia">
@@ -1052,23 +1121,44 @@ DOM 12	<programme channel="ESPN Peru" start="20251012191500 -1000" stop="2025101
 		<display-name>ESPN 🇨🇴 SD</display-name>
 		<display-name>ESPN 🇨🇴 HD</display-name>
 	</channel>
-VIE 10	<programme channel="ESPN Colombia" start="20251010000000 -1000" stop="20251010134500 -1000">
+MAR 14	<programme channel="ESPN Colombia" start="20251014000000 -1000" stop="20251014134500 -1000">
 		<title>ESPN Colombia</title>
 	</programme>
-VIE 10	<programme channel="ESPN Colombia" start="20251010134500 -1000" stop="20251010154500 -1000">
-		<title>Alemania vs Luxemburgo ~ Eliminatorias UEFA / J7</title>
+MAR 14	<programme channel="ESPN Colombia" start="20251014134500 -1000" stop="20251014154500 -1000">
+		<title>Italia vs Israel ~ Eliminatorias UEFA</title>
 	</programme>
-VIE 10	<programme channel="ESPN Colombia" start="20251010154500 -1000" stop="20251011000000 -1000">
+MAR 14	<programme channel="ESPN Colombia" start="20251014154500 -1000" stop="20251015000000 -1000">
 		<title>ESPN Colombia</title>
 	</programme>
-DOM 12	<programme channel="ESPN Colombia" start="20251012000000 -1000" stop="20251012171500 -1000">
+MIE 15	<programme channel="ESPN Colombia" start="20251015000000 -1000" stop="20251015114500 -1000">
 		<title>ESPN Colombia</title>
 	</programme>
-DOM 12	<programme channel="ESPN Colombia" start="20251012171500 -1000" stop="20251012191500 -1000">
-		<title>River Plate vs Sarmiento ~ LFP Argentino / J12</title>
+MIE 15	<programme channel="ESPN Colombia" start="20251015114500 -1000" stop="20251015134500 -1000">
+		<title>OL.Lyonnes vs SKN ST.Polten ~ UEFA Wome's Champions League</title>
 	</programme>
-DOM 12	<programme channel="ESPN Colombia" start="20251012191500 -1000" stop="20251013000000 -1000">
-		<title>Postergado el juego entre Barracas Central vs Boca Juniors</title>
+MIE 15	<programme channel="ESPN Colombia" start="20251015134500 -1000" stop="20251015140000 -1000">
+		<title>ESPN Colombia</title>
+	</programme>
+MIE 15	<programme channel="ESPN Colombia" start="20251015140000 -1000" stop="20251015160000 -1000">
+		<title>AS Roma vs FC Barcelona ~ UEFA Wome's Champions League</title>
+	</programme>
+MIE 15	<programme channel="ESPN Colombia" start="20251015160000 -1000" stop="20251016000000 -1000">
+		<title>ESPN Colombia</title>
+	</programme>
+JUE 16	<programme channel="ESPN Colombia" start="20251016000000 -1000" stop="20251016114500 -1000">
+		<title>ESPN Colombia</title>
+	</programme>
+JUE 16	<programme channel="ESPN Colombia" start="20251016114500 -1000" stop="20251016134500 -1000">
+		<title>Atlético de Madrid vs Manchester United ~ UEFA Wome's Champions League</title>
+	</programme>
+JUE 16	<programme channel="ESPN Colombia" start="20251016134500 -1000" stop="20251016140000 -1000">
+		<title>ESPN Colombia</title>
+	</programme>
+JUE 16	<programme channel="ESPN Colombia" start="20251016140000 -1000" stop="20251016160000 -1000">
+		<title>Paris Saint-Germain~ UEFA Wome's Champions League</title>
+	</programme>
+JUE 16	<programme channel="ESPN Colombia" start="20251016160000 -1000" stop="20251017000000 -1000">
+		<title>ESPN Colombia</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="ESPN Chile">
@@ -1082,29 +1172,44 @@ DOM 12	<programme channel="ESPN Colombia" start="20251012191500 -1000" stop="202
 		<display-name>ESPN 🇨🇱 SD</display-name>
 		<display-name>ESPN 🇨🇱 HD</display-name>
 	</channel>
-VIE 10	<programme channel="ESPN Chile" start="20251010000000 -1000" stop="20251010134500 -1000">
+MAR 14	<programme channel="ESPN Chile" start="20251014000000 -1000" stop="20251014134500 -1000">
 		<title>ESPN Chile</title>
 	</programme>
-VIE 10	<programme channel="ESPN Chile" start="20251010134500 -1000" stop="20251010154500 -1000">
-		<title>Alemania vs Luxemburgo ~ Eliminatorias UEFA / J7</title>
+MAR 14	<programme channel="ESPN Chile" start="20251014134500 -1000" stop="20251014154500 -1000">
+		<title>Italia vs Israel ~ Eliminatorias UEFA</title>
 	</programme>
-VIE 10	<programme channel="ESPN Chile" start="20251010154500 -1000" stop="20251010180000 -1000">
+MAR 14	<programme channel="ESPN Chile" start="20251014154500 -1000" stop="20251015000000 -1000">
 		<title>ESPN Chile</title>
 	</programme>
-VIE 10	<programme channel="ESPN Chile" start="20251010180000 -1000" stop="20251010200000 -1000">
-		<title>Chile vs Peru ~ Amistoso Internacional</title>
-	</programme>
-VIE 10	<programme channel="ESPN Chile" start="20251010200000 -1000" stop="20251011000000 -1000">
+MIE 15	<programme channel="ESPN Chile" start="20251015000000 -1000" stop="20251015114500 -1000">
 		<title>ESPN Chile</title>
 	</programme>
-DOM 12	<programme channel="ESPN Chile" start="20251012000000 -1000" stop="20251012171500 -1000">
+MIE 15	<programme channel="ESPN Chile" start="20251015114500 -1000" stop="20251015134500 -1000">
+		<title>OL.Lyonnes vs SKN ST.Polten ~ UEFA Wome's Champions League</title>
+	</programme>
+MIE 15	<programme channel="ESPN Chile" start="20251015134500 -1000" stop="20251015140000 -1000">
 		<title>ESPN Chile</title>
 	</programme>
-DOM 12	<programme channel="ESPN Chile" start="20251012171500 -1000" stop="20251012191500 -1000">
-		<title>River Plate vs Sarmiento ~ LFP Argentino / J12</title>
+MIE 15	<programme channel="ESPN Chile" start="20251015140000 -1000" stop="20251015160000 -1000">
+		<title>AS Roma vs FC Barcelona ~ UEFA Wome's Champions League</title>
 	</programme>
-DOM 12	<programme channel="ESPN Chile" start="20251012191500 -1000" stop="20251013000000 -1000">
-		<title>Postergado el juego entre Barracas Central vs Boca Juniors</title>
+MIE 15	<programme channel="ESPN Chile" start="20251015160000 -1000" stop="20251016000000 -1000">
+		<title>ESPN Chile</title>
+	</programme>
+JUE 16	<programme channel="ESPN Chile" start="20251016000000 -1000" stop="20251016114500 -1000">
+		<title>ESPN Chile</title>
+	</programme>
+JUE 16	<programme channel="ESPN Chile" start="20251016114500 -1000" stop="20251016134500 -1000">
+		<title>Atlético de Madrid vs Manchester United ~ UEFA Wome's Champions League</title>
+	</programme>
+JUE 16	<programme channel="ESPN Chile" start="20251016134500 -1000" stop="20251016140000 -1000">
+		<title>ESPN Chile</title>
+	</programme>
+JUE 16	<programme channel="ESPN Chile" start="20251016140000 -1000" stop="20251016160000 -1000">
+		<title>Paris Saint-Germain~ UEFA Wome's Champions League</title>
+	</programme>
+JUE 16	<programme channel="ESPN Chile" start="20251016160000 -1000" stop="20251017000000 -1000">
+		<title>ESPN Chile</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="ESPN 2 Peru">
@@ -1118,34 +1223,49 @@ DOM 12	<programme channel="ESPN Chile" start="20251012191500 -1000" stop="202510
 		<display-name>ESPN 2 🇵🇪 SD</display-name>
 		<display-name>ESPN 2 🇵🇪 HD</display-name>
 	</channel>
-VIE 10	<programme channel="ESPN 2 Peru" start="20251010000000 -1000" stop="20251010134500 -1000">
+MAR 14	<programme channel="ESPN 2 Peru" start="20251014000000 -1000" stop="20251014110000 -1000">
 		<title>ESPN 2 Peru</title>
 	</programme>
-VIE 10	<programme channel="ESPN 2 Peru" start="20251010134500 -1000" stop="20251010154500 -1000">
-		<title>Suecia vs Suiza ~ Eliminatorias UEFA / J7</title>
+MAR 14	<programme channel="ESPN 2 Peru" start="20251014110000 -1000" stop="20251014130000 -1000">
+		<title>Estonia vs Moldavia ~ Eliminatorias UEFA</title>
 	</programme>
-VIE 10	<programme channel="ESPN 2 Peru" start="20251010154500 -1000" stop="20251011000000 -1000">
+MAR 14	<programme channel="ESPN 2 Peru" start="20251014130000 -1000" stop="20251014134500 -1000">
 		<title>ESPN 2 Peru</title>
 	</programme>
-SAB 11	<programme channel="ESPN 2 Peru" start="20251011000000 -1000" stop="20251011080000 -1000">
+MAR 14	<programme channel="ESPN 2 Peru" start="20251014134500 -1000" stop="20251014154500 -1000">
+		<title>Letonia vs Inglaterra ~ Eliminatorias UEFA</title>
+	</programme>
+MAR 14	<programme channel="ESPN 2 Peru" start="20251014154500 -1000" stop="20251015000000 -1000">
 		<title>ESPN 2 Peru</title>
 	</programme>
-SAB 11	<programme channel="ESPN 2 Peru" start="20251011080000 -1000" stop="20251011100000 -1000">
-		<title>Letonia vs Andorra ~ Eliminatorias UEFA / J7</title>
-	</programme>
-SAB 11	<programme channel="ESPN 2 Peru" start="20251011100000 -1000" stop="20251011110000 -1000">
+MIE 15	<programme channel="ESPN 2 Peru" start="20251015000000 -1000" stop="20251015114500 -1000">
 		<title>ESPN 2 Peru</title>
 	</programme>
-SAB 11	<programme channel="ESPN 2 Peru" start="20251011110000 -1000" stop="20251011130000 -1000">
-		<title>Noruega vs Israel ~ Eliminatorias UEFA / J7</title>
+MIE 15	<programme channel="ESPN 2 Peru" start="20251015114500 -1000" stop="20251015134500 -1000">
+		<title>OL.Lyonnes vs SKN ST.Polten ~ UEFA Wome's Champions League</title>
 	</programme>
-SAB 11	<programme channel="ESPN 2 Peru" start="20251011130000 -1000" stop="20251011134500 -1000">
+MIE 15	<programme channel="ESPN 2 Peru" start="20251015134500 -1000" stop="20251015140000 -1000">
 		<title>ESPN 2 Peru</title>
 	</programme>
-SAB 11	<programme channel="ESPN 2 Peru" start="20251011134500 -1000" stop="20251011154500 -1000">
-		<title>España vs Georgia ~ Eliminatorias UEFA / J7</title>
+MIE 15	<programme channel="ESPN 2 Peru" start="20251015140000 -1000" stop="20251015160000 -1000">
+		<title>AS Roma vs FC Barcelona ~ UEFA Wome's Champions League</title>
 	</programme>
-SAB 11	<programme channel="ESPN 2 Peru" start="20251011154500 -1000" stop="20251012000000 -1000">
+MIE 15	<programme channel="ESPN 2 Peru" start="20251015160000 -1000" stop="20251016000000 -1000">
+		<title>ESPN 2 Peru</title>
+	</programme>
+JUE 16	<programme channel="ESPN 2 Peru" start="20251016000000 -1000" stop="20251016114500 -1000">
+		<title>ESPN 2 Peru</title>
+	</programme>
+JUE 16	<programme channel="ESPN 2 Peru" start="20251016114500 -1000" stop="20251016134500 -1000">
+		<title>Atlético de Madrid vs Manchester United ~ UEFA Wome's Champions League</title>
+	</programme>
+JUE 16	<programme channel="ESPN 2 Peru" start="20251016134500 -1000" stop="20251016140000 -1000">
+		<title>ESPN 2 Peru</title>
+	</programme>
+JUE 16	<programme channel="ESPN 2 Peru" start="20251016140000 -1000" stop="20251016160000 -1000">
+		<title>Paris Saint-Germain~ UEFA Wome's Champions League</title>
+	</programme>
+JUE 16	<programme channel="ESPN 2 Peru" start="20251016160000 -1000" stop="20251017000000 -1000">
 		<title>ESPN 2 Peru</title>
 	</programme>
 *****************************************************************************************************
@@ -1160,34 +1280,19 @@ SAB 11	<programme channel="ESPN 2 Peru" start="20251011154500 -1000" stop="20251
 		<display-name>ESPN 2 🇨🇴 SD</display-name>
 		<display-name>ESPN 2 🇨🇴 HD</display-name>
 	</channel>
-VIE 10	<programme channel="ESPN 2 Colombia" start="20251010000000 -1000" stop="20251010134500 -1000">
+MAR 14	<programme channel="ESPN 2 Colombia" start="20251014000000 -1000" stop="20251014110000 -1000">
 		<title>ESPN 2 Colombia</title>
 	</programme>
-VIE 10	<programme channel="ESPN 2 Colombia" start="20251010134500 -1000" stop="20251010154500 -1000">
-		<title>Suecia vs Suiza ~ Eliminatorias UEFA / J7</title>
+MAR 14	<programme channel="ESPN 2 Colombia" start="20251014110000 -1000" stop="20251014130000 -1000">
+		<title>Estonia vs Moldavia ~ Eliminatorias UEFA</title>
 	</programme>
-VIE 10	<programme channel="ESPN 2 Colombia" start="20251010154500 -1000" stop="20251011000000 -1000">
+MAR 14	<programme channel="ESPN 2 Colombia" start="20251014130000 -1000" stop="20251014134500 -1000">
 		<title>ESPN 2 Colombia</title>
 	</programme>
-SAB 11	<programme channel="ESPN 2 Colombia" start="20251011000000 -1000" stop="20251011080000 -1000">
-		<title>ESPN 2 Colombia</title>
+MAR 14	<programme channel="ESPN 2 Colombia" start="20251014134500 -1000" stop="20251014154500 -1000">
+		<title>Letonia vs Inglaterra ~ Eliminatorias UEFA</title>
 	</programme>
-SAB 11	<programme channel="ESPN 2 Colombia" start="20251011080000 -1000" stop="20251011100000 -1000">
-		<title>Letonia vs Andorra ~ Eliminatorias UEFA / J7</title>
-	</programme>
-SAB 11	<programme channel="ESPN 2 Colombia" start="20251011100000 -1000" stop="20251011110000 -1000">
-		<title>ESPN 2 Colombia</title>
-	</programme>
-SAB 11	<programme channel="ESPN 2 Colombia" start="20251011110000 -1000" stop="20251011130000 -1000">
-		<title>Noruega vs Israel ~ Eliminatorias UEFA / J7</title>
-	</programme>
-SAB 11	<programme channel="ESPN 2 Colombia" start="20251011130000 -1000" stop="20251011134500 -1000">
-		<title>ESPN 2 Colombia</title>
-	</programme>
-SAB 11	<programme channel="ESPN 2 Colombia" start="20251011134500 -1000" stop="20251011154500 -1000">
-		<title>España vs Georgia ~ Eliminatorias UEFA / J7</title>
-	</programme>
-SAB 11	<programme channel="ESPN 2 Colombia" start="20251011154500 -1000" stop="20251012000000 -1000">
+MAR 14	<programme channel="ESPN 2 Colombia" start="20251014154500 -1000" stop="20251015000000 -1000">
 		<title>ESPN 2 Colombia</title>
 	</programme>
 *****************************************************************************************************
@@ -1202,34 +1307,19 @@ SAB 11	<programme channel="ESPN 2 Colombia" start="20251011154500 -1000" stop="2
 		<display-name>ESPN 2 🇨🇱 SD</display-name>
 		<display-name>ESPN 2 🇨🇱 HD</display-name>
 	</channel>
-VIE 10	<programme channel="ESPN 2 Chile" start="20251010000000 -1000" stop="20251010134500 -1000">
+MAR 14	<programme channel="ESPN 2 Chile" start="20251014000000 -1000" stop="20251014110000 -1000">
 		<title>ESPN 2 Chile</title>
 	</programme>
-VIE 10	<programme channel="ESPN 2 Chile" start="20251010134500 -1000" stop="20251010154500 -1000">
-		<title>Suecia vs Suiza ~ Eliminatorias UEFA / J7</title>
+MAR 14	<programme channel="ESPN 2 Chile" start="20251014110000 -1000" stop="20251014130000 -1000">
+		<title>Estonia vs Moldavia ~ Eliminatorias UEFA</title>
 	</programme>
-VIE 10	<programme channel="ESPN 2 Chile" start="20251010154500 -1000" stop="20251011000000 -1000">
+MAR 14	<programme channel="ESPN 2 Chile" start="20251014130000 -1000" stop="20251014134500 -1000">
 		<title>ESPN 2 Chile</title>
 	</programme>
-SAB 11	<programme channel="ESPN 2 Chile" start="20251011000000 -1000" stop="20251011080000 -1000">
-		<title>ESPN 2 Chile</title>
+MAR 14	<programme channel="ESPN 2 Chile" start="20251014134500 -1000" stop="20251014154500 -1000">
+		<title>Letonia vs Inglaterra ~ Eliminatorias UEFA</title>
 	</programme>
-SAB 11	<programme channel="ESPN 2 Chile" start="20251011080000 -1000" stop="20251011100000 -1000">
-		<title>Letonia vs Andorra ~ Eliminatorias UEFA / J7</title>
-	</programme>
-SAB 11	<programme channel="ESPN 2 Chile" start="20251011100000 -1000" stop="20251011110000 -1000">
-		<title>ESPN 2 Chile</title>
-	</programme>
-SAB 11	<programme channel="ESPN 2 Chile" start="20251011110000 -1000" stop="20251011130000 -1000">
-		<title>Noruega vs Israel ~ Eliminatorias UEFA / J7</title>
-	</programme>
-SAB 11	<programme channel="ESPN 2 Chile" start="20251011130000 -1000" stop="20251011134500 -1000">
-		<title>ESPN 2 Chile</title>
-	</programme>
-SAB 11	<programme channel="ESPN 2 Chile" start="20251011134500 -1000" stop="20251011154500 -1000">
-		<title>España vs Georgia ~ Eliminatorias UEFA / J7</title>
-	</programme>
-SAB 11	<programme channel="ESPN 2 Chile" start="20251011154500 -1000" stop="20251012000000 -1000">
+MAR 14	<programme channel="ESPN 2 Chile" start="20251014154500 -1000" stop="20251015000000 -1000">
 		<title>ESPN 2 Chile</title>
 	</programme>
 *****************************************************************************************************
@@ -1400,67 +1490,34 @@ JUE 2	<programme channel="ESPN 5 Chile" start="20251002000000 -1000" stop="20251
 		<display-name>ESPN Deportes 🇺🇸 SD</display-name>
 		<display-name>ESPN Deportes 🇺🇸 HD</display-name>
 	</channel>
-VIE 3	<programme channel="ESPN Deportes" start="20251003000000 -1000" stop="20251003140000 -1000">
+MIE 15	<programme channel="ESPN Deportes" start="20251015000000 -1000" stop="20251015114500 -1000">
 		<title>ESPN Deportes</title>
 	</programme>
-VIE 3	<programme channel="ESPN Deportes" start="20251003140000 -1000" stop="20251003160000 -1000">
-		<title>Osasuna vs Getafe ~ LaLiga / J8</title>
+MIE 15	<programme channel="ESPN Deportes" start="20251015114500 -1000" stop="20251015134500 -1000">
+		<title>OL.Lyonnes vs SKN ST.Polten ~ UEFA Wome's Champions League</title>
 	</programme>
-VIE 3	<programme channel="ESPN Deportes" start="20251003160000 -1000" stop="20251004000000 -1000">
+MIE 15	<programme channel="ESPN Deportes" start="20251015134500 -1000" stop="20251015140000 -1000">
 		<title>ESPN Deportes</title>
 	</programme>
-SAB 4	<programme channel="ESPN Deportes" start="20251004000000 -1000" stop="20251004070000 -1000">
+MIE 15	<programme channel="ESPN Deportes" start="20251015140000 -1000" stop="20251015160000 -1000">
+		<title>AS Roma vs FC Barcelona ~ UEFA Wome's Champions League</title>
+	</programme>
+MIE 15	<programme channel="ESPN Deportes" start="20251015160000 -1000" stop="20251016000000 -1000">
 		<title>ESPN Deportes</title>
 	</programme>
-SAB 4	<programme channel="ESPN Deportes" start="20251004070000 -1000" stop="20251004090000 -1000">
-		<title>Real Oviedo vs Levante ~ LaLiga / J8</title>
-	</programme>
-SAB 4	<programme channel="ESPN Deportes" start="20251004090000 -1000" stop="20251004091500 -1000">
+JUE 16	<programme channel="ESPN Deportes" start="20251016000000 -1000" stop="20251016114500 -1000">
 		<title>ESPN Deportes</title>
 	</programme>
-SAB 4	<programme channel="ESPN Deportes" start="20251004091500 -1000" stop="20251004111500 -1000">
-		<title>Girona vs Valencia ~ LaLiga / J8</title>
+JUE 16	<programme channel="ESPN Deportes" start="20251016114500 -1000" stop="20251016134500 -1000">
+		<title>Atlético de Madrid vs Manchester United ~ UEFA Wome's Champions League</title>
 	</programme>
-SAB 4	<programme channel="ESPN Deportes" start="20251004111500 -1000" stop="20251004113000 -1000">
+JUE 16	<programme channel="ESPN Deportes" start="20251016134500 -1000" stop="20251016140000 -1000">
 		<title>ESPN Deportes</title>
 	</programme>
-SAB 4	<programme channel="ESPN Deportes" start="20251004113000 -1000" stop="20251004133000 -1000">
-		<title>Athletic Club vs Mallorca ~ LaLiga / J8</title>
+JUE 16	<programme channel="ESPN Deportes" start="20251016140000 -1000" stop="20251016160000 -1000">
+		<title>Paris Saint-Germain~ UEFA Wome's Champions League</title>
 	</programme>
-SAB 4	<programme channel="ESPN Deportes" start="20251004133000 -1000" stop="20251004140000 -1000">
-		<title>ESPN Deportes</title>
-	</programme>
-SAB 4	<programme channel="ESPN Deportes" start="20251004140000 -1000" stop="20251004160000 -1000">
-		<title>Real Madrid vs Villareal ~ LaLiga / J8</title>
-	</programme>
-SAB 4	<programme channel="ESPN Deportes" start="20251004160000 -1000" stop="20251005000000 -1000">
-		<title>ESPN Deportes</title>
-	</programme>
-DOM 5	<programme channel="ESPN Deportes" start="20251005000000 -1000" stop="20251005070000 -1000">
-		<title>ESPN Deportes</title>
-	</programme>
-DOM 5	<programme channel="ESPN Deportes" start="20251005070000 -1000" stop="20251005090000 -1000">
-		<title>Alaves vs Elche ~ LaLiga / J8</title>
-	</programme>
-DOM 5	<programme channel="ESPN Deportes" start="20251005090000 -1000" stop="20251005091500 -1000">
-		<title>ESPN Deportes</title>
-	</programme>
-DOM 5	<programme channel="ESPN Deportes" start="20251005091500 -1000" stop="20251005111500 -1000">
-		<title>Sevilla vs Barcelona ~ LaLiga / J8</title>
-	</programme>
-DOM 5	<programme channel="ESPN Deportes" start="20251005111500 -1000" stop="20251005113000 -1000">
-		<title>ESPN Deportes</title>
-	</programme>
-DOM 5	<programme channel="ESPN Deportes" start="20251005113000 -1000" stop="20251005133000 -1000">
-		<title>Espanyol vs Real Betis ~ LaLiga / J8</title>
-	</programme>
-DOM 5	<programme channel="ESPN Deportes" start="20251005133000 -1000" stop="20251005140000 -1000">
-		<title>ESPN Deportes</title>
-	</programme>
-DOM 5	<programme channel="ESPN Deportes" start="20251005140000 -1000" stop="20251005160000 -1000">
-		<title>Celta de Vigo vs Atletico de Madrid ~ LaLiga / J8</title>
-	</programme>
-DOM 5	<programme channel="ESPN Deportes" start="20251005160000 -1000" stop="20251006000000 -1000">
+JUE 16	<programme channel="ESPN Deportes" start="20251016160000 -1000" stop="20251017000000 -1000">
 		<title>ESPN Deportes</title>
 	</programme>
 *****************************************************************************************************
@@ -1479,35 +1536,62 @@ JUE 20	<programme channel="ESPN MX" start="20250320000000 -1000" stop="202503200
 	<channel id="ESPN Centro">
 		<display-name>ESPN Centro</display-name>
 	</channel>
-SAB 11	<programme channel="ESPN Centro" start="20251011000000 -1000" stop="20251011110000 -1000">
+MAR 14	<programme channel="ESPN Centro" start="20251014000000 -1000" stop="20251014110000 -1000">
 		<title>ESPN Centroamerica</title>
 	</programme>
-SAB 11	<programme channel="ESPN Centro" start="20251011110000 -1000" stop="20251011130000 -1000">
-		<title>Noruega vs Israel ~ Eliminatorias UEFA / J7</title>
+MAR 14	<programme channel="ESPN Centro" start="20251014110000 -1000" stop="20251014130000 -1000">
+		<title>Estonia vs Moldavia ~ Eliminatorias UEFA</title>
 	</programme>
-SAB 11	<programme channel="ESPN Centro" start="20251011130000 -1000" stop="20251012000000 -1000">
+MAR 14	<programme channel="ESPN Centro" start="20251014130000 -1000" stop="20251014134500 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+MAR 14	<programme channel="ESPN Centro" start="20251014134500 -1000" stop="20251014154500 -1000">
+		<title>Italia vs Israel ~ Eliminatorias UEFA</title>
+	</programme>
+MAR 14	<programme channel="ESPN Centro" start="20251014154500 -1000" stop="20251015000000 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+MIE 15	<programme channel="ESPN Centro" start="20251015000000 -1000" stop="20251015114500 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+MIE 15	<programme channel="ESPN Centro" start="20251015114500 -1000" stop="20251015134500 -1000">
+		<title>OL.Lyonnes vs SKN ST.Polten ~ UEFA Wome's Champions League</title>
+	</programme>
+MIE 15	<programme channel="ESPN Centro" start="20251015134500 -1000" stop="20251015140000 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+MIE 15	<programme channel="ESPN Centro" start="20251015140000 -1000" stop="20251015160000 -1000">
+		<title>AS Roma vs FC Barcelona ~ UEFA Wome's Champions League</title>
+	</programme>
+MIE 15	<programme channel="ESPN Centro" start="20251015160000 -1000" stop="20251016000000 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+JUE 16	<programme channel="ESPN Centro" start="20251016000000 -1000" stop="20251016114500 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+JUE 16	<programme channel="ESPN Centro" start="20251016114500 -1000" stop="20251016134500 -1000">
+		<title>Atlético de Madrid vs Manchester United ~ UEFA Wome's Champions League</title>
+	</programme>
+JUE 16	<programme channel="ESPN Centro" start="20251016134500 -1000" stop="20251016140000 -1000">
+		<title>ESPN Centroamerica</title>
+	</programme>
+JUE 16	<programme channel="ESPN Centro" start="20251016140000 -1000" stop="20251016160000 -1000">
+		<title>Paris Saint-Germain~ UEFA Wome's Champions League</title>
+	</programme>
+JUE 16	<programme channel="ESPN Centro" start="20251016160000 -1000" stop="20251017000000 -1000">
 		<title>ESPN Centroamerica</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="ESPN 2 Centro">
 		<display-name>ESPN 2 Centro</display-name>
 	</channel>
-VIE 10	<programme channel="ESPN 2 Centro" start="20251010000000 -1000" stop="20251010134500 -1000">
-		<title>ESPN 2 Centro</title>
-	</programme>
-VIE 10	<programme channel="ESPN 2 Centro" start="20251010134500 -1000" stop="20251010154500 -1000">
-		<title>Alemania vs Luxemburgo ~ Eliminatorias UEFA / J7</title>
-	</programme>
-VIE 10	<programme channel="ESPN 2 Centro" start="20251010154500 -1000" stop="20251011000000 -1000">
-		<title>ESPN 2 Centro</title>
-	</programme>
-SAB 11	<programme channel="ESPN 2 Centro" start="20251011000000 -1000" stop="20251011134500 -1000">
+MAR 14	<programme channel="ESPN 2 Centro" start="20251014000000 -1000" stop="20251014134500 -1000">
 		<title>ESPN 2 Centroamerica</title>
 	</programme>
-SAB 11	<programme channel="ESPN 2 Centro" start="20251011134500 -1000" stop="20251011154500 -1000">
-		<title>España vs Georgia ~ Eliminatorias UEFA / J7</title>
+MAR 14	<programme channel="ESPN 2 Centro" start="20251014134500 -1000" stop="20251014154500 -1000">
+		<title>Letonia vs Inglaterra ~ Eliminatorias UEFA</title>
 	</programme>
-SAB 11	<programme channel="ESPN 2 Centro" start="20251011154500 -1000" stop="20251012000000 -1000">
+MAR 14	<programme channel="ESPN 2 Centro" start="20251014154500 -1000" stop="20251015000000 -1000">
 		<title>ESPN 2 Centroamerica</title>
 	</programme>
 *****************************************************************************************************
@@ -1614,6 +1698,15 @@ SAB 11	<programme channel="ESPN 5 Centro" start="20251011134500 -1000" stop="202
 		<title>Portugal vs Irlanda ~ Eliminatorias UEFA / J7</title>
 	</programme>
 SAB 11	<programme channel="ESPN 5 Centro" start="20251011154500 -1000" stop="20251012000000 -1000">
+		<title>ESPN 5 Centroamerica</title>
+	</programme>
+MAR 14	<programme channel="ESPN 5 Centro" start="20251014000000 -1000" stop="20251014190000 -1000">
+		<title>ESPN 5 Centroamerica</title>
+	</programme>
+MAR 14	<programme channel="ESPN 5 Centro" start="20251014190000 -1000" stop="20251014210000 -1000">
+		<title>Puerto Rico vs Argentina ~ Amistoso Internacional</title>
+	</programme>
+MAR 14	<programme channel="ESPN 5 Centro" start="20251014210000 -1000" stop="20251015000000 -1000">
 		<title>ESPN 5 Centroamerica</title>
 	</programme>
 *****************************************************************************************************
@@ -1740,11 +1833,30 @@ DOM 5	<programme channel="LaLiga" start="20251005160000 -1000" stop="20251006000
 		<title>LaLiga 🇪🇸</title>
 	</programme>
 *****************************************************************************************************
+	<channel id="GLOBO">
+		<display-name>GLOBO</display-name>
+	</channel>
+MAR 14	<programme channel="GLOBO" start="20251014000000 -1000" stop="20251014053000 -1000">
+		<title>GLOBO 🇧🇷</title>
+	</programme>
+MAR 14	<programme channel="GLOBO" start="20251014053000 -1000" stop="20251014073000 -1000">
+		<title>Japón vs Brasil ~ Amistoso Internacional</title>
+	</programme>
+MAR 14	<programme channel="GLOBO" start="20251014073000 -1000" stop="20251015000000 -1000">
+		<title>GLOBO 🇧🇷</title>
+	</programme>
+*****************************************************************************************************
 	<channel id="Sportv">
 		<display-name>Sportv</display-name>
 	</channel>
-MAR 2	<programme channel="Sportv" start="20240702200000 -1000" stop="20240701220000 -1000">
-		<title>COPA AMERICA ~ Brasil vs Colombia</title>
+MAR 14	<programme channel="Sportv" start="20251014000000 -1000" stop="20251014053000 -1000">
+		<title>Sportv 🇧🇷</title>
+	</programme>
+MAR 14	<programme channel="Sportv" start="20251014053000 -1000" stop="20251014073000 -1000">
+		<title>Japón vs Brasil ~ Amistoso Internacional</title>
+	</programme>
+MAR 14	<programme channel="Sportv" start="20251014073000 -1000" stop="20251015000000 -1000">
+		<title>Sportv 🇧🇷</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="Sport TV 1">
@@ -1804,6 +1916,39 @@ MAR 14	<programme channel="Canal 4 El Salvador" start="20251014210000 -1000" sto
 		<title>El Salvador vs Guatemala ~ Eliminatorias CONCACAF</title>
 	</programme>
 MAR 14	<programme channel="Canal 4 El Salvador" start="20251014230000 -1000" stop="20251015000000 -1000">
+		<title>Canal 4 El Salvador</title>
+	</programme>
+MIE 15	<programme channel="Canal 4 El Salvador" start="20251015000000 -1000" stop="20251015150000 -1000">
+		<title>Canal 4 El Salvador</title>
+	</programme>
+MIE 15	<programme channel="Canal 4 El Salvador" start="20251015150000 -1000" stop="20251015170000 -1000">
+		<title>Marruecos vs Francia ~ Mundial Sub20 / Semifinal 1</title>
+	</programme>
+MIE 15	<programme channel="Canal 4 El Salvador" start="20251015170000 -1000" stop="20251015180000 -1000">
+		<title>Canal 4 El Salvador</title>
+	</programme>
+MIE 15	<programme channel="Canal 4 El Salvador" start="20251015180000 -1000" stop="20251015200000 -1000">
+		<title>Argentina vs Colombia ~ Mundial Sub20 / Semifinal 1</title>
+	</programme>
+MIE 15	<programme channel="Canal 4 El Salvador" start="20251015200000 -1000" stop="20251016000000 -1000">
+		<title>Canal 4 El Salvador</title>
+	</programme>
+SAB 18	<programme channel="Canal 4 El Salvador" start="20251018000000 -1000" stop="20251018140000 -1000">
+		<title>Canal 4 El Salvador</title>
+	</programme>
+SAB 18	<programme channel="Canal 4 El Salvador" start="20251018140000 -1000" stop="20251018160000 -1000">
+		<title>Mundial Sub20 / Juego por el 3er Lugar</title>
+	</programme>
+SAB 18	<programme channel="Canal 4 El Salvador" start="20251018160000 -1000" stop="20251019000000 -1000">
+		<title>Canal 4 El Salvador</title>
+	</programme>
+DOM 19	<programme channel="Canal 4 El Salvador" start="20251019000000 -1000" stop="20251019140000 -1000">
+		<title>Canal 4 El Salvador</title>
+	</programme>
+DOM 19	<programme channel="Canal 4 El Salvador" start="20251019140000 -1000" stop="20251019160000 -1000">
+		<title>Mundial Sub20 / FINAL</title>
+	</programme>
+DOM 19	<programme channel="Canal 4 El Salvador" start="20251019160000 -1000" stop="20251020000000 -1000">
 		<title>Canal 4 El Salvador</title>
 	</programme>
 *****************************************************************************************************
@@ -1886,26 +2031,50 @@ LUN 13	<programme channel="REPRETEL Canal 6" start="20251013230000 -1000" stop="
 	<channel id="Teletica">
 		<display-name>Teletica</display-name>
 	</channel>
-JUE 9	<programme channel="Teletica" start="20251009000000 -1000" stop="20251009210000 -1000">
-		<title>Teletica 🇨🇷</title>
+LUN 13	<programme channel="Teletica" start="20251013000000 -1000" stop="20251013210000 -1000">
+		<title>Teletica Costa Rica</title>
 	</programme>
-JUE 9	<programme channel="Teletica" start="20251009210000 -1000" stop="20251009230000 -1000">
-		<title>Honduras vs Costa Rica ~ Eliminatorias CONCACAF</title>
+LUN 13	<programme channel="Teletica" start="20251013210000 -1000" stop="20251013230000 -1000">
+		<title>Costa Rica vs Nicaragua ~ Eliminatorias CONCACAF</title>
 	</programme>
-JUE 9	<programme channel="Teletica" start="20251009230000 -1000" stop="20251010000000 -1000">
-		<title>Teletica 🇨🇷</title>
+LUN 13	<programme channel="Teletica" start="20251013230000 -1000" stop="20251014000000 -1000">
+		<title>Teletica Costa Rica</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="TD+">
 		<display-name>TD+</display-name>
 	</channel>
-JUE 9	<programme channel="TD+" start="20251009000000 -1000" stop="20251009210000 -1000">
+MIE 15	<programme channel="TD+" start="20251015000000 -1000" stop="20251015150000 -1000">
 		<title>TD+ 🇨🇷</title>
 	</programme>
-JUE 9	<programme channel="TD+" start="20251009210000 -1000" stop="20251009230000 -1000">
-		<title>Honduras vs Costa Rica ~ Eliminatorias CONCACAF</title>
+MIE 15	<programme channel="TD+" start="20251015150000 -1000" stop="20251015170000 -1000">
+		<title>Marruecos vs Francia ~ Mundial Sub20 / Semifinal 1</title>
 	</programme>
-JUE 9	<programme channel="TD+" start="20251009230000 -1000" stop="20251010000000 -1000">
+MIE 15	<programme channel="TD+" start="20251015170000 -1000" stop="20251015180000 -1000">
+		<title>TD+ 🇨🇷</title>
+	</programme>
+MIE 15	<programme channel="TD+" start="20251015180000 -1000" stop="20251015200000 -1000">
+		<title>Argentina vs Colombia ~ Mundial Sub20 / Semifinal 1</title>
+	</programme>
+MIE 15	<programme channel="TD+" start="20251015200000 -1000" stop="20251016000000 -1000">
+		<title>TD+ 🇨🇷</title>
+	</programme>
+SAB 18	<programme channel="TD+" start="20251018000000 -1000" stop="20251018140000 -1000">
+		<title>TD+ 🇨🇷</title>
+	</programme>
+SAB 18	<programme channel="TD+" start="20251018140000 -1000" stop="20251018160000 -1000">
+		<title>Mundial Sub20 / Juego por el 3er Lugar</title>
+	</programme>
+SAB 18	<programme channel="TD+" start="20251018160000 -1000" stop="20251019000000 -1000">
+		<title>TD+ 🇨🇷</title>
+	</programme>
+DOM 19	<programme channel="TD+" start="20251019000000 -1000" stop="20251019140000 -1000">
+		<title>TD+ 🇨🇷</title>
+	</programme>
+DOM 19	<programme channel="TD+" start="20251019140000 -1000" stop="20251019160000 -1000">
+		<title>Mundial Sub20 / FINAL</title>
+	</programme>
+DOM 19	<programme channel="TD+" start="20251019160000 -1000" stop="20251020000000 -1000">
 		<title>TD+ 🇨🇷</title>
 	</programme>
 *****************************************************************************************************
@@ -1956,13 +2125,13 @@ MAR 14	<programme channel="RCN" start="20251014210000 -1000" stop="2025101500000
 	<channel id="Chilevision">
 		<display-name>Chilevision</display-name>
 	</channel>
-VIE 10	<programme channel="Chilevision" start="20251010000000 -1000" stop="20251010180000 -1000">
+MAR 14	<programme channel="Chilevision" start="20251014000000 -1000" stop="20251014090000 -1000">
 		<title>Chilevision</title>
 	</programme>
-VIE 10	<programme channel="Chilevision" start="20251010180000 -1000" stop="20251010200000 -1000">
-		<title>Chile vs Peru ~ Amistoso Internacional</title>
+MAR 14	<programme channel="Chilevision" start="20251014090000 -1000" stop="20251014110000 -1000">
+		<title>Irán vs Chile ~ Amistoso Internacional</title>
 	</programme>
-VIE 10	<programme channel="Chilevision" start="20251010200000 -1000" stop="20251011000000 -1000">
+MAR 14	<programme channel="Chilevision" start="20251014110000 -1000" stop="20251015000000 -1000">
 		<title>Chilevision</title>
 	</programme>
 *****************************************************************************************************
@@ -2030,13 +2199,13 @@ MAR 10	<programme channel="Venevision" start="20250610000000 -1000" stop="202506
 	<channel id="Telefe">
 		<display-name>Telefe</display-name>
 	</channel>
-VIE 10	<programme channel="Telefe" start="20251010000000 -1000" stop="20251010190000 -1000">
+MAR 14	<programme channel="Telefe" start="20251014000000 -1000" stop="20251014190000 -1000">
 		<title>Telefe</title>
 	</programme>
-VIE 10	<programme channel="Telefe" start="20251010190000 -1000" stop="20251010210000 -1000">
-		<title>Argentina vs Venezuela ~ Amistoso Internacional</title>
+MAR 14	<programme channel="Telefe" start="20251014190000 -1000" stop="20251014210000 -1000">
+		<title>Puerto Rico vs Argentina ~ Amistoso Internacional</title>
 	</programme>
-VIE 10	<programme channel="Telefe" start="20251010210000 -1000" stop="20251011000000 -1000">
+MAR 14	<programme channel="Telefe" start="20251014210000 -1000" stop="20251015000000 -1000">
 		<title>Telefe</title>
 	</programme>
 *****************************************************************************************************
@@ -2217,13 +2386,13 @@ MAR 14	<programme channel="Azteca 7" start="20251014233000 -1000" stop="20251015
 	<channel id="Canal 5 MX">
 		<display-name>Canal 5 MX</display-name>
 	</channel>
-SAB 11	<programme channel="Canal 5 MX" start="20251011000000 -1000" stop="20251011200000 -1000">
+MAR 13	<programme channel="Canal 5 MX" start="20251013000000 -1000" stop="20251013213000 -1000">
 		<title>Canal 5 México</title>
 	</programme>
-SAB 11	<programme channel="Canal 5 MX" start="20251011200000 -1000" stop="20251011220000 -1000">
-		<title>Mexico vs Colombia ~ Amistoso Internacional</title>
+MAR 13	<programme channel="Canal 5 MX" start="20251013213000 -1000" stop="20251013233000 -1000">
+		<title>México vs Ecuador ~ Amistoso Internacional</title>
 	</programme>
-SAB 11	<programme channel="Canal 5 MX" start="20251011220000 -1000" stop="20251012000000 -1000">
+MAR 13	<programme channel="Canal 5 MX" start="20251013233000 -1000" stop="20251014000000 -1000">
 		<title>Canal 5 México</title>
 	</programme>
 *****************************************************************************************************
@@ -2248,36 +2417,29 @@ VIE 20	<programme channel="FS2" start="20240920000000 -1000" stop="2024092019000
 		<title>FS2</title>
 	</programme>
 *****************************************************************************************************
-	<channel id="GLOBO">
-		<display-name>GLOBO</display-name>
-	</channel>
-MAR 9	<programme channel="GLOBO" start="20250909000000 -1000" stop="20250909235959 -1000">
-		<title>GLOBO 🇧🇷 (BRAvsCHI ~ Eliminatorias ~ Confirmar hora)</title>
-	</programme>
-*****************************************************************************************************
 	<channel id="TNT USA">
 		<display-name>TNT USA</display-name>
 	</channel>
-VIE 10	<programme channel="TNT USA" start="20251010000000 -1000" stop="20251010193000 -1000">
+MAR 14	<programme channel="TNT USA" start="20251014000000 -1000" stop="20251014200000 -1000">
 		<title>TNT 🇺🇸</title>
 	</programme>
-VIE 10	<programme channel="TNT USA" start="20251010193000 -1000" stop="20251010213000 -1000">
-		<title>Estados Unidos vs Ecuador ~ Amistoso Internacional</title>
+MAR 14	<programme channel="TNT USA" start="20251014200000 -1000" stop="20251014220000 -1000">
+		<title>Estados Unidos vs Australia ~ Amistoso Internacional</title>
 	</programme>
-VIE 10	<programme channel="TNT USA" start="20251010213000 -1000" stop="20251011000000 -1000">
+MAR 14	<programme channel="TNT USA" start="20251014220000 -1000" stop="20251015000000 -1000">
 		<title>TNT 🇺🇸</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="TruTV">
 		<display-name>TruTV</display-name>
 	</channel>
-VIE 10	<programme channel="TruTV" start="20251010000000 -1000" stop="20251010193000 -1000">
+MAR 14	<programme channel="TruTV" start="20251014000000 -1000" stop="20251014200000 -1000">
 		<title>TruTV 🇺🇸</title>
 	</programme>
-VIE 10	<programme channel="TruTV" start="20251010193000 -1000" stop="20251010213000 -1000">
-		<title>Estados Unidos vs Ecuador ~ Amistoso Internacional</title>
+MAR 14	<programme channel="TruTV" start="20251014200000 -1000" stop="20251014220000 -1000">
+		<title>Estados Unidos vs Australia ~ Amistoso Internacional</title>
 	</programme>
-VIE 10	<programme channel="TruTV" start="20251010213000 -1000" stop="20251011000000 -1000">
+MAR 14	<programme channel="TruTV" start="20251014220000 -1000" stop="20251015000000 -1000">
 		<title>TruTV 🇺🇸</title>
 	</programme>
 *****************************************************************************************************
