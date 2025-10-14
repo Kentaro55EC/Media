@@ -54,13 +54,13 @@ LUN 13	<programme channel="Teleamazonas" start="20251013200000 -1000" stop="2025
 	<channel id="ECDF">
 		<display-name>ECDF</display-name>
 	</channel>
-MAR 13	<programme channel="ECDF" start="20251013000000 -1000" stop="20251013213000 -1000">
+MAR 14	<programme channel="ECDF" start="20251014000000 -1000" stop="20251014213000 -1000">
 		<title>El Canal del Futbol</title>
 	</programme>
-MAR 13	<programme channel="ECDF" start="20251013213000 -1000" stop="20251013233000 -1000">
+MAR 14	<programme channel="ECDF" start="20251014213000 -1000" stop="20251014233000 -1000">
 		<title>México vs Ecuador ~ Amistoso Internacional</title>
 	</programme>
-MAR 13	<programme channel="ECDF" start="20251013233000 -1000" stop="20251014000000 -1000">
+MAR 14	<programme channel="ECDF" start="20251014233000 -1000" stop="20251015000000 -1000">
 		<title>El Canal del Futbol</title>
 	</programme>
 *****************************************************************************************************
@@ -93,51 +93,6 @@ LUN 6	<programme channel="WIN Sports" start="20251006213000 -1000" stop="2025100
 		<display-name>WIN+ Futbol HD</display-name>
 		<display-name>Win Sports +</display-name>
 	</channel>
-SAB 11	<programme channel="WIN+ Futbol" start="20251011000000 -1000" stop="20251011150000 -1000">
-		<title>WIN+ Futbol</title>
-	</programme>
-SAB 11	<programme channel="WIN+ Futbol" start="20251011150000 -1000" stop="20251011170000 -1000">
-		<title>Deportes Tolíma vs Envigado ~ Liga Dimayor</title>
-	</programme>
-SAB 11	<programme channel="WIN+ Futbol" start="20251011170000 -1000" stop="20251011193000 -1000">
-		<title>Barranquilla vs Real Cartagena ~ Torneo Dimayor</title>
-	</programme>
-SAB 11	<programme channel="WIN+ Futbol" start="20251011193000 -1000" stop="20251011213000 -1000">
-		<title>América de Cali vs La Equidad ~ Liga Dimayor</title>
-	</programme>
-SAB 11	<programme channel="WIN+ Futbol" start="20251011213000 -1000" stop="20251012000000 -1000">
-		<title>WIN+ Futbol</title>
-	</programme>
-DOM 12	<programme channel="WIN+ Futbol" start="20251012000000 -1000" stop="20251012140000 -1000">
-		<title>WIN+ Futbol</title>
-	</programme>
-DOM 12	<programme channel="WIN+ Futbol" start="20251012140000 -1000" stop="20251012160000 -1000">
-		<title>Santa Fe vs Llaneros ~ Liga Dimayor</title>
-	</programme>
-DOM 12	<programme channel="WIN+ Futbol" start="20251012160000 -1000" stop="20251012182000 -1000">
-		<title>Alíanza vs Junior ~ Liga Dimayor</title>
-	</programme>
-DOM 12	<programme channel="WIN+ Futbol" start="20251012182000 -1000" stop="20251012203000 -1000">
-		<title>Atlético Bucaramanga vs Unión Magdalena ~ Liga Dimayor</title>
-	</programme>
-DOM 12	<programme channel="WIN+ Futbol" start="20251012203000 -1000" stop="20251012223000 -1000">
-		<title>Rionegro Águilas vs Deportivo Pasto ~ Liga Dimayor</title>
-	</programme>
-DOM 12	<programme channel="WIN+ Futbol" start="20251012223000 -1000" stop="20251013000000 -1000">
-		<title>WIN+ Futbol</title>
-	</programme>
-LUN 13	<programme channel="WIN+ Futbol" start="20251013000000 -1000" stop="20251013171500 -1000">
-		<title>WIN+ Futbol</title>
-	</programme>
-LUN 13	<programme channel="WIN+ Futbol" start="20251013171500 -1000" stop="20251013191500 -1000">
-		<title>Once Pechos Frios vs Medellín ~ Liga Dimayor</title>
-	</programme>
-LUN 13	<programme channel="WIN+ Futbol" start="20251013191500 -1000" stop="20251013213000 -1000">
-		<title>Fortaleza vs Boyacá Chicó ~ Liga Dimayor</title>
-	</programme>
-LUN 13	<programme channel="WIN+ Futbol" start="20251013213000 -1000" stop="20251014000000 -1000">
-		<title>WIN+ Futbol</title>
-	</programme>
 MAR 14	<programme channel="WIN+ Futbol" start="20251014000000 -1000" stop="20251014193000 -1000">
 		<title>WIN+ Futbol</title>
 	</programme>
@@ -445,17 +400,17 @@ SAB 3	<programme channel="VTVplus" start="20250503000000 -1000" stop="2025050315
 	<channel id="TUDN USA">
 		<display-name>TUDN USA</display-name>
 	</channel>
-MAR 13	<programme channel="TUDN USA" start="20251013000000 -1000" stop="20251013213000 -1000">
-		<title>TUDN 🇺🇸</title>
+MAR 14	<programme channel="TUDN USA" start="20251014000000 -1000" stop="20251014213000 -1000">
+		<title>TUDN Estados Unidos</title>
 	</programme>
-MAR 13	<programme channel="TUDN USA" start="20251013213000 -1000" stop="20251013233000 -1000">
+MAR 14	<programme channel="TUDN USA" start="20251014213000 -1000" stop="20251014233000 -1000">
 		<title>México vs Ecuador ~ Amistoso Internacional</title>
 	</programme>
-MAR 13	<programme channel="TUDN USA" start="20251013233000 -1000" stop="20251014000000 -1000">
-		<title>TUDN 🇺🇸</title>
+MAR 14	<programme channel="TUDN USA" start="20251014233000 -1000" stop="20251015000000 -1000">
+		<title>TUDN Estados Unidos</title>
 	</programme>
 VIE 17	<programme channel="TUDN USA" start="20251017000000 -1000" stop="20251017200000 -1000">
-		<title>TUDN 🇺🇸</title>
+		<title>TUDN Estados Unidos</title>
 	</programme>
 VIE 17	<programme channel="TUDN USA" start="20251017200000 -1000" stop="20251017220000 -1000">
 		<title>Puebla vs Tijuana ~ LigaMX</title>
@@ -464,7 +419,7 @@ VIE 17	<programme channel="TUDN USA" start="20251017220000 -1000" stop="20251018
 		<title>Atlético San Luis vs Atlas ~ LigaMX</title>
 	</programme>
 SAB 18	<programme channel="TUDN USA" start="20251018000000 -1000" stop="20251018200000 -1000">
-		<title>TUDN 🇺🇸</title>
+		<title>TUDN Estados Unidos</title>
 	</programme>
 SAB 18	<programme channel="TUDN USA" start="20251018200000 -1000" stop="20251018220000 -1000">
 		<title>Monterrey vs Pumas ~ LigaMX</title>
@@ -476,30 +431,30 @@ SAB 18	<programme channel="TUDN USA" start="20251018220000 -1000" stop="20251019
 	<channel id="TUDN MX">
 		<display-name>TUDN MX</display-name>
 	</channel>
-MAR 13	<programme channel="TUDN MX" start="20251013000000 -1000" stop="20251013213000 -1000">
+MAR 14	<programme channel="TUDN MX" start="20251014000000 -1000" stop="20251014213000 -1000">
 		<title>TUDN México</title>
 	</programme>
-MAR 13	<programme channel="TUDN MX" start="20251013213000 -1000" stop="20251013233000 -1000">
+MAR 14	<programme channel="TUDN MX" start="20251014213000 -1000" stop="20251014233000 -1000">
 		<title>México vs Ecuador ~ Amistoso Internacional</title>
 	</programme>
-MAR 13	<programme channel="TUDN MX" start="20251013233000 -1000" stop="20251014000000 -1000">
+MAR 14	<programme channel="TUDN MX" start="20251014233000 -1000" stop="20251015000000 -1000">
 		<title>TUDN México</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="Univision">
 		<display-name>Univision</display-name>
 	</channel>
-MAR 13	<programme channel="Univision" start="20251013000000 -1000" stop="20251013213000 -1000">
-		<title>Univision 🇺🇸</title>
+MAR 14	<programme channel="Univision" start="20251014000000 -1000" stop="20251014213000 -1000">
+		<title>Univision Estados Unidos</title>
 	</programme>
-MAR 13	<programme channel="TUDN USA" start="20251013213000 -1000" stop="20251013233000 -1000">
+MAR 14	<programme channel="TUDN USA" start="20251014213000 -1000" stop="20251014233000 -1000">
 		<title>México vs Ecuador ~ Amistoso Internacional</title>
 	</programme>
-MAR 13	<programme channel="Univision" start="20251013233000 -1000" stop="20251014000000 -1000">
-		<title>Univision 🇺🇸</title>
+MAR 14	<programme channel="Univision" start="20251014233000 -1000" stop="20251015000000 -1000">
+		<title>Univision Estados Unidos</title>
 	</programme>
 SAB 18	<programme channel="Univision" start="20251018000000 -1000" stop="20251018200000 -1000">
-		<title>Univision 🇺🇸</title>
+		<title>Univision Estados Unidos</title>
 	</programme>
 SAB 18	<programme channel="Univision" start="20251018200000 -1000" stop="20251018220000 -1000">
 		<title>Monterrey vs Pumas ~ LigaMX</title>
@@ -972,45 +927,6 @@ MAR 14	<programme channel="TyC Sports ARG" start="20251014210000 -1000" stop="20
 	<channel id="TyC Sports LATAM">
 		<display-name>TyC Sports LATAM</display-name>
 	</channel>
-VIE 10	<programme channel="TyC Sports LATAM" start="20251010000000 -1000" stop="20251010123000 -1000">
-		<title>TyC Sports LATAM</title>
-	</programme>
-VIE 10	<programme channel="TyC Sports LATAM" start="20251010123000 -1000" stop="20251010143000 -1000">
-		<title>San Lorenzo vs San Martin SJ ~ LPF Argentino / J12</title>
-	</programme>
-VIE 10	<programme channel="TyC Sports LATAM" start="20251010143000 -1000" stop="20251010163000 -1000">
-		<title>Defensa y Justicia vs Argentinos ~ LPF Argentino / J12</title>
-	</programme>
-VIE 10	<programme channel="TyC Sports LATAM" start="20251010163000 -1000" stop="20251010183000 -1000">
-		<title>Newell's Old Boys vs Tigre ~ LPF Argentino / J12</title>
-	</programme>
-VIE 10	<programme channel="TyC Sports LATAM" start="20251010183000 -1000" stop="20251011000000 -1000">
-		<title>TyC Sports LATAM</title>
-	</programme>
-SAB 11	<programme channel="TyC Sports LATAM" start="20251011000000 -1000" stop="20251011201500 -1000">
-		<title>TyC Sports LATAM</title>
-	</programme>
-SAB 11	<programme channel="TyC Sports LATAM" start="20251011201500 -1000" stop="20251011221500 -1000">
-		<title>Belgrano vs Estudiantes ~ LPF Argentino / J12</title>
-	</programme>
-SAB 11	<programme channel="TyC Sports LATAM" start="20251011221500 -1000" stop="20251012000000 -1000">
-		<title>TyC Sports LATAM</title>
-	</programme>
-DOM 12	<programme channel="TyC Sports LATAM" start="20251012000000 -1000" stop="20251012123000 -1000">
-		<title>TyC Sports LATAM</title>
-	</programme>
-DOM 12	<programme channel="TyC Sports LATAM" start="20251012123000 -1000" stop="20251012143000 -1000">
-		<title>Aldosivi vs Huracán ~ LPF Argentino / J12</title>
-	</programme>
-DOM 12	<programme channel="TyC Sports LATAM" start="20251012143000 -1000" stop="20251012915000 -1000">
-		<title>TyC Sports LATAM</title>
-	</programme>
-DOM 12	<programme channel="TyC Sports LATAM" start="20251012191500 -1000" stop="20251012211500 -1000">
-		<title>Independiente vs Lanús ~ LPF Argentino / J12</title>
-	</programme>
-DOM 12	<programme channel="TyC Sports LATAM" start="20251012211500 -1000" stop="20251013000000 -1000">
-		<title>TyC Sports LATAM</title>
-	</programme>
 LUN 13	<programme channel="TyC Sports LATAM" start="20251013000000 -1000" stop="20251013163000 -1000">
 		<title>TyC Sports LATAM</title>
 	</programme>
@@ -2220,7 +2136,7 @@ JUE 20	<programme channel="Meridiano TV" start="20250320000000 -1000" stop="2025
 		<display-name>Estrella TV</display-name>
 	</channel>
 SAB 13	<programme channel="Estrella TV" start="20250913000000 -1000" stop="20250913200000 -1000">
-		<title>Estrella TV 🇺🇸</title>
+		<title>Estrella TV Estados Unidos</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="M+ Liga de Campeones 2">
@@ -2386,13 +2302,13 @@ MAR 14	<programme channel="Azteca 7" start="20251014233000 -1000" stop="20251015
 	<channel id="Canal 5 MX">
 		<display-name>Canal 5 MX</display-name>
 	</channel>
-MAR 13	<programme channel="Canal 5 MX" start="20251013000000 -1000" stop="20251013213000 -1000">
+MAR 14	<programme channel="Canal 5 MX" start="20251014000000 -1000" stop="20251014213000 -1000">
 		<title>Canal 5 México</title>
 	</programme>
-MAR 13	<programme channel="Canal 5 MX" start="20251013213000 -1000" stop="20251013233000 -1000">
+MAR 14	<programme channel="Canal 5 MX" start="20251014213000 -1000" stop="20251014233000 -1000">
 		<title>México vs Ecuador ~ Amistoso Internacional</title>
 	</programme>
-MAR 13	<programme channel="Canal 5 MX" start="20251013233000 -1000" stop="20251014000000 -1000">
+MAR 14	<programme channel="Canal 5 MX" start="20251014233000 -1000" stop="20251015000000 -1000">
 		<title>Canal 5 México</title>
 	</programme>
 *****************************************************************************************************
@@ -2421,26 +2337,26 @@ VIE 20	<programme channel="FS2" start="20240920000000 -1000" stop="2024092019000
 		<display-name>TNT USA</display-name>
 	</channel>
 MAR 14	<programme channel="TNT USA" start="20251014000000 -1000" stop="20251014200000 -1000">
-		<title>TNT 🇺🇸</title>
+		<title>TNT Estados Unidos</title>
 	</programme>
 MAR 14	<programme channel="TNT USA" start="20251014200000 -1000" stop="20251014220000 -1000">
 		<title>Estados Unidos vs Australia ~ Amistoso Internacional</title>
 	</programme>
 MAR 14	<programme channel="TNT USA" start="20251014220000 -1000" stop="20251015000000 -1000">
-		<title>TNT 🇺🇸</title>
+		<title>TNT Estados Unidos</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="TruTV">
 		<display-name>TruTV</display-name>
 	</channel>
 MAR 14	<programme channel="TruTV" start="20251014000000 -1000" stop="20251014200000 -1000">
-		<title>TruTV 🇺🇸</title>
+		<title>TruTV Estados Unidos</title>
 	</programme>
 MAR 14	<programme channel="TruTV" start="20251014200000 -1000" stop="20251014220000 -1000">
 		<title>Estados Unidos vs Australia ~ Amistoso Internacional</title>
 	</programme>
 MAR 14	<programme channel="TruTV" start="20251014220000 -1000" stop="20251015000000 -1000">
-		<title>TruTV 🇺🇸</title>
+		<title>TruTV Estados Unidos</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="Space CL">
