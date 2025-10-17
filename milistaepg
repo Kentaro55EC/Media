@@ -101,7 +101,7 @@ VIE 17	<programme channel="Teleamazonas" start="20251017000000 -1000" stop="2025
 VIE 17	<programme channel="Teleamazonas" start="20251017180000 -1000" stop="20251017200000 -1000">
 		<title>Orense vs Independiente del Valle ~ LigaPro</title>
 	</programme>
-VIE 17	<programme channel="Teleamazonas" start="20251017200000 -1000" stop="20251017201500 -1000">
+VIE 17	<programme channel="Teleamazonas" start="20251017200000 -1000" stop="20251018000000 -1000">
 		<title>LigaPro 🇪🇨</title>
 	</programme>
 DOM 19	<programme channel="Teleamazonas" start="20251019000000 -1000" stop="20251019153000 -1000">
@@ -587,6 +587,23 @@ SAB 18	<programme channel="Telemundo" start="20251018200000 -1000" stop="2025101
 SAB 18	<programme channel="Telemundo" start="20251018220700 -1000" stop="20251019000000 -1000">
 		<title>Telemundo</title>
 	</programme>
+DOM 19	<programme channel="Telemundo" start="20251019000000 -1000" stop="20251019080000 -1000">
+		<title>Telemundo</title>
+	</programme>
+DOM 19	<programme channel="Telemundo" start="20251019080000 -1000" stop="20251019100000 -1000">
+		<title>Tottenham vs Aston Villa ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN Sudamerica, FOX México, Telemundo y USA Network (en Ingles)</desc>
+	</programme>
+DOM 19	<programme channel="Telemundo" start="20251019100000 -1000" stop="20251019103000 -1000">
+		<title>Telemundo</title>
+	</programme>
+DOM 19	<programme channel="Telemundo" start="20251019103000 -1000" stop="20251019123000 -1000">
+		<title>Liverpool vs Manchester United ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN Sudamerica, FOX México, Telemundo y USA Network (en Ingles)</desc>
+	</programme>
+DOM 19	<programme channel="Telemundo" start="20251019123000 -1000" stop="20251020000000 -1000">
+		<title>Telemundo</title>
+	</programme>
 *****************************************************************************************************
 	<channel id="NBC Universo">
 		<display-name>NBC Universo</display-name>
@@ -685,34 +702,55 @@ MIE 29	<programme channel="NBC Universo" start="20251029210000 -1000" stop="2025
 	<channel id="USA Network">
 		<display-name>USA Network</display-name>
 	</channel>
-SAB 4	<programme channel="USA Network" start="20251004000000 -1000" stop="20251004063000 -1000">
+SAB 18	<programme channel="USA Network" start="20251018000000 -1000" stop="20251018063000 -1000">
 		<title>USA Network</title>
 	</programme>
-SAB 4	<programme channel="USA Network" start="20251004063000 -1000" stop="20251004083000 -1000">
-		<title>Leeds United vs Tottenham Hotspur ~ Premier League / J7</title>
+SAB 18	<programme channel="USA Network" start="20251018063000 -1000" stop="20251018083000 -1000">
+		<title>Nottingham Forest vs Chelsea ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN Sudamerica, TNT México, NBC Universo y USA Network (en Ingles)</desc>
 	</programme>
-SAB 4	<programme channel="USA Network" start="20251004083000 -1000" stop="20251004090000 -1000">
+SAB 18	<programme channel="USA Network" start="20251018083000 -1000" stop="20251018090000 -1000">
 		<title>USA Network</title>
 	</programme>
-SAB 4	<programme channel="USA Network" start="20251004090000 -1000" stop="20251004110000 -1000">
-		<title>Manchester United vs Sunderland ~ Premier League / J7</title>
+SAB 18	<programme channel="USA Network" start="20251018090000 -1000" stop="20251018110000 -1000">
+		<title>Brighton vs Newcastle ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: TNT México, NBC Universo y USA Network (en Ingles)</desc>
 	</programme>
-SAB 4	<programme channel="USA Network" start="20251004110000 -1000" stop="20251005000000 -1000">
+SAB 18	<programme channel="USA Network" start="20251018110000 -1000" stop="20251018113000 -1000">
 		<title>USA Network</title>
 	</programme>
-DOM 5	<programme channel="USA Network" start="20251005000000 -1000" stop="20251005080000 -1000">
+SAB 18	<programme channel="USA Network" start="20251018113000 -1000" stop="20251018133000 -1000">
+		<title>Fulham vs Arsenal ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN 5 Sudamerica (excepto AGyCL) ESPN ARyCL, NBC Universo y NBC (en Ingles)</desc>
+	</programme>
+SAB 18	<programme channel="USA Network" start="20251018133000 -1000" stop="20251019000000 -1000">
 		<title>USA Network</title>
 	</programme>
-DOM 5	<programme channel="USA Network" start="20251005080000 -1000" stop="20251005100000 -1000">
-		<title>Newcastle United vs Nottingham Forest ~ Premier League / J7</title>
-	</programme>
-DOM 5	<programme channel="USA Network" start="20251005100000 -1000" stop="20251005103000 -1000">
+DOM 19	<programme channel="USA Network" start="20251019000000 -1000" stop="20251019080000 -1000">
 		<title>USA Network</title>
 	</programme>
-DOM 5	<programme channel="USA Network" start="20251005103000 -1000" stop="20251005123000 -1000">
-		<title>Brentford vs Manchester City ~ Premier League / J7</title>
+DOM 19	<programme channel="USA Network" start="20251019080000 -1000" stop="20251019100000 -1000">
+		<title>Tottenham vs Aston Villa ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN Sudamerica, FOX México, Telemundo y USA Network (en Ingles)</desc>
 	</programme>
-DOM 5	<programme channel="USA Network" start="20251005123000 -1000" stop="20251006000000 -1000">
+DOM 19	<programme channel="USA Network" start="20251019100000 -1000" stop="20251019103000 -1000">
+		<title>USA Network</title>
+	</programme>
+DOM 19	<programme channel="USA Network" start="20251019103000 -1000" stop="20251019123000 -1000">
+		<title>Liverpool vs Manchester United ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN Sudamerica, FOX México, Telemundo y USA Network (en Ingles)</desc>
+	</programme>
+DOM 19	<programme channel="USA Network" start="20251019123000 -1000" stop="20251020000000 -1000">
+		<title>USA Network</title>
+	</programme>
+LUN 20	<programme channel="USA Network" start="20251020000000 -1000" stop="20251020140000 -1000">
+		<title>USA Network</title>
+	</programme>
+LUN 20	<programme channel="USA Network" start="20251020140000 -1000" stop="20251020160000 -1000">
+		<title>West Ham vs Brentford ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN Chile y Colombia, ESPN 2 Peru, TNT México y USA Network (en Ingles)</desc>
+	</programme>
+LUN 20	<programme channel="USA Network" start="20251020160000 -1000" stop="20251021000000 -1000">
 		<title>USA Network</title>
 	</programme>
 *****************************************************************************************************
@@ -732,13 +770,14 @@ LUN 13	<programme channel="CBS Sports" start="20251013230000 -1000" stop="202510
 	<channel id="NBC">
 		<display-name>NBC</display-name>
 	</channel>
-SAB 4	<programme channel="NBC" start="20251004000000 -1000" stop="20251004113000 -1000">
+SAB 18	<programme channel="NBC" start="20251018083000 -1000" stop="20251018113000 -1000">
 		<title>NBC</title>
 	</programme>
-SAB 4	<programme channel="NBC" start="20251004113000 -1000" stop="20251004133000 -1000">
-		<title>Chelsea vs Liverpool ~ Premier League</title>
+SAB 18	<programme channel="NBC" start="20251018113000 -1000" stop="20251018133000 -1000">
+		<title>Fulham vs Arsenal ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN 5 Sudamerica (excepto AGyCL) ESPN ARyCL, NBC Universo y NBC (en Ingles)</desc>
 	</programme>
-SAB 4	<programme channel="NBC" start="20251004133000 -1000" stop="20251005000000 -1000">
+SAB 18	<programme channel="NBC" start="20251018133000 -1000" stop="20251019000000 -1000">
 		<title>NBC</title>
 	</programme>
 *****************************************************************************************************
@@ -1074,6 +1113,45 @@ SAB 18	<programme channel="TyC Sports LATAM" start="20251018155500 -1000" stop="
 SAB 18	<programme channel="TyC Sports LATAM" start="20251018180000 -1000" stop="20251019000000 -1000">
 		<title>TyC Sports LATAM</title>
 	</programme>
+DOM 19	<programme channel="TyC Sports LATAM" start="20251019000000 -1000" stop="20251019130000 -1000">
+		<title>TyC Sports Latinoamerica</title>
+	</programme>
+DOM 19	<programme channel="TyC Sports LATAM" start="20251019130000 -1000" stop="20251019150000 -1000">
+		<title>Estudiantes vs Gimnasia ~ LPF Argentino</title>
+	</programme>
+DOM 19	<programme channel="TyC Sports LATAM" start="20251019150000 -1000" stop="20251019160000 -1000">
+		<title>TyC Sports Latinoamerica</title>
+	</programme>
+DOM 19	<programme channel="TyC Sports LATAM" start="20251019160000 -1000" stop="20251019180000 -1000">
+		<title>San Martín SJ vs Independiente ~ LPF Argentino</title>
+	</programme>
+DOM 19	<programme channel="TyC Sports LATAM" start="20251019180000 -1000" stop="20251020000000 -1000">
+		<title>TyC Sports Latinoamerica</title>
+	</programme>
+LUN 20	<programme channel="TyC Sports LATAM" start="20251020000000 -1000" stop="20251020170000 -1000">
+		<title>TyC Sports Latinoamerica</title>
+	</programme>
+LUN 20	<programme channel="TyC Sports LATAM" start="20251020170000 -1000" stop="20251020190000 -1000">
+		<title>Deportivo Riestra vs Instituto ~ LPF Argentino</title>
+	</programme>
+LUN 20	<programme channel="TyC Sports LATAM" start="20251020190000 -1000" stop="20251020191500 -1000">
+		<title>TyC Sports Latinoamerica</title>
+	</programme>
+LUN 20	<programme channel="TyC Sports LATAM" start="20251020191500 -1000" stop="20251020211500 -1000">
+		<title>Atletico Tucuman vs San Lorenso ~ LPF Argentino</title>
+	</programme>
+LUN 20	<programme channel="TyC Sports LATAM" start="20251020211500 -1000" stop="20251021000000 -1000">
+		<title>TyC Sports Latinoamerica</title>
+	</programme>
+MIE 22	<programme channel="TyC Sports LATAM" start="20251022000000 -1000" stop="20251022173000 -1000">
+		<title>TyC Sports Latinoamerica</title>
+	</programme>
+MIE 22	<programme channel="TyC Sports LATAM" start="20251022173000 -1000" stop="20251022193000 -1000">
+		<title>Huracan vs Central Cordoba ~ LPF Argentino</title>
+	</programme>
+MIE 22	<programme channel="TyC Sports LATAM" start="20251022193000 -1000" stop="20251023000000 -1000">
+		<title>TyC Sports Latinoamerica</title>
+	</programme>
 *****************************************************************************************************
 	<channel id="TNT Sports Premium Argentina">
 		<display-name>TNT Sports Premium Argentina</display-name>
@@ -1236,6 +1314,7 @@ VIE 17	<programme channel="ESPN Premium Chile" start="20251017143000 -1000" stop
 	</programme>
 VIE 17	<programme channel="ESPN Premium Chile" start="20251017163000 -1000" stop="20251017183000 -1000">
 		<title>F1 Clasificación Spint</title>
+		<desc>Clasificación para el esprint del Gran Premio de los Estados Unidos durante la ronda 19 de la Fórmula 1, 2025. Desde el Circuito de las Américas, en Texas, Estados Unidos.</desc>
 	</programme>
 VIE 17	<programme channel="ESPN Premium Chile" start="20251017183000 -1000" stop="20251018000000 -1000">
 		<title>ESPN Premium Chile</title>
@@ -1304,7 +1383,14 @@ VIE 17	<programme channel="ESPN Peru" start="20251017134500 -1000" stop="2025101
 VIE 17	<programme channel="ESPN Peru" start="20251017154500 -1000" stop="20251018000000 -1000">
 		<title>ESPN Perú</title>
 	</programme>
-SAB 18	<programme channel="ESPN Peru" start="20251018000000 -1000" stop="20251018091500 -1000">
+SAB 18	<programme channel="ESPN Peru" start="20251018000000 -1000" stop="20251018063000 -1000">
+		<title>ESPN Perú</title>
+	</programme>
+SAB 18	<programme channel="ESPN Peru" start="20251018063000 -1000" stop="20251018083000 -1000">
+		<title>Nottingham Forest vs Chelsea ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN Sudamerica, TNT México, NBC Universo y USA Network (en Ingles)</desc>
+	</programme>
+SAB 18	<programme channel="ESPN Peru" start="20251018083000 -1000" stop="20251018091500 -1000">
 		<title>ESPN Perú</title>
 	</programme>
 SAB 18	<programme channel="ESPN Peru" start="20251018091500 -1000" stop="20251018111500 -1000">
@@ -1313,25 +1399,39 @@ SAB 18	<programme channel="ESPN Peru" start="20251018091500 -1000" stop="2025101
 SAB 18	<programme channel="ESPN Peru" start="20251018111500 -1000" stop="20251018113000 -1000">
 		<title>ESPN Perú</title>
 	</programme>
-SAB 18	<programme channel="ESPN Peru" start="20251018113000 -1000" stop="2025101813300 -1000">
+SAB 18	<programme channel="ESPN Peru" start="20251018113000 -1000" stop="20251018133000 -1000">
 		<title>Bayern Munich vs Borussia Dortmund ~ Bundesliga</title>
 	</programme>
-SAB 18	<programme channel="ESPN Peru" start="20251018133000 -1000" stop="20251018160000 -1000">
+SAB 18	<programme channel="ESPN Peru" start="20251018133000 -1000" stop="20251018134500 -1000">
 		<title>ESPN Perú</title>
 	</programme>
-SAB 18	<programme channel="ESPN Peru" start="20251018160000 -1000" stop="20251018180000 -1000">
-		<title>Boca Juniors vs Belgrano ~ LPF Argentino</title>
+SAB 18	<programme channel="ESPN Peru" start="20251018134500 -1000" stop="20251018154500 -1000">
+		<title>Roma vs Inter ~ Serie A</title>
 	</programme>
-SAB 18	<programme channel="ESPN Peru" start="20251018180000 -1000" stop="20251018183000 -1000">
+SAB 18	<programme channel="ESPN Peru" start="20251018154500 -1000" stop="20251019000000 -1000">
 		<title>ESPN Perú</title>
 	</programme>
-SAB 18	<programme channel="ESPN Peru" start="20251018183000 -1000" stop="20251018203000 -1000">
-		<title>Talleres vs River Plate ~ LPF Argentino</title>
-	</programme>
-SAB 18	<programme channel="ESPN Peru" start="20251018203000 -1000" stop="20251019000000 -1000">
+DOM 19	<programme channel="ESPN Peru" start="20251019000000 -1000" stop="20251019053000 -1000">
 		<title>ESPN Perú</title>
 	</programme>
-DOM 19	<programme channel="ESPN Peru" start="20251019000000 -1000" stop="20251019140000 -1000">
+DOM 19	<programme channel="ESPN Peru" start="20251019053000 -1000" stop="20251019073000 -1000">
+		<title>Como vs Juventus ~ Serie A</title>
+	</programme>
+DOM 19	<programme channel="ESPN Peru" start="20251019073000 -1000" stop="20251019080000 -1000">
+		<title>ESPN Perú</title>
+	</programme>
+DOM 19	<programme channel="ESPN Peru" start="20251019080000 -1000" stop="20251019100000 -1000">
+		<title>Tottenham vs Aston Villa ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN Sudamerica, FOX México, Telemundo y USA Network (en Ingles)</desc>
+	</programme>
+DOM 19	<programme channel="ESPN Peru" start="20251019100000 -1000" stop="20251019103000 -1000">
+		<title>ESPN Perú</title>
+	</programme>
+DOM 19	<programme channel="ESPN Peru" start="20251019103000 -1000" stop="20251019123000 -1000">
+		<title>Liverpool vs Manchester United ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN Sudamerica, FOX México, Telemundo y USA Network (en Ingles)</desc>
+	</programme>
+DOM 19	<programme channel="ESPN Peru" start="20251019123000 -1000" stop="20251019140000 -1000">
 		<title>ESPN Perú</title>
 	</programme>
 DOM 19	<programme channel="ESPN Peru" start="20251019140000 -1000" stop="20251019160000 -1000">
@@ -1361,7 +1461,14 @@ VIE 17	<programme channel="ESPN Colombia" start="20251017134500 -1000" stop="202
 VIE 17	<programme channel="ESPN Colombia" start="20251017154500 -1000" stop="20251018000000 -1000">
 		<title>ESPN Colombia</title>
 	</programme>
-SAB 18	<programme channel="ESPN Colombia" start="20251018000000 -1000" stop="20251018091500 -1000">
+SAB 18	<programme channel="ESPN Colombia" start="20251018000000 -1000" stop="20251018063000 -1000">
+		<title>ESPN Colombia</title>
+	</programme>
+SAB 18	<programme channel="ESPN Colombia" start="20251018063000 -1000" stop="20251018083000 -1000">
+		<title>Nottingham Forest vs Chelsea ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN Sudamerica, TNT México, NBC Universo y USA Network (en Ingles)</desc>
+	</programme>
+SAB 18	<programme channel="ESPN Colombia" start="20251018083000 -1000" stop="20251018091500 -1000">
 		<title>ESPN Colombia</title>
 	</programme>
 SAB 18	<programme channel="ESPN Colombia" start="20251018091500 -1000" stop="20251018111500 -1000">
@@ -1370,31 +1477,55 @@ SAB 18	<programme channel="ESPN Colombia" start="20251018091500 -1000" stop="202
 SAB 18	<programme channel="ESPN Colombia" start="20251018111500 -1000" stop="20251018113000 -1000">
 		<title>ESPN Colombia</title>
 	</programme>
-SAB 18	<programme channel="ESPN Colombia" start="20251018113000 -1000" stop="2025101813300 -1000">
+SAB 18	<programme channel="ESPN Colombia" start="20251018113000 -1000" stop="20251018133000 -1000">
 		<title>Bayern Munich vs Borussia Dortmund ~ Bundesliga</title>
 	</programme>
-SAB 18	<programme channel="ESPN Colombia" start="20251018133000 -1000" stop="20251018160000 -1000">
+SAB 18	<programme channel="ESPN Colombia" start="20251018133000 -1000" stop="20251018134500 -1000">
 		<title>ESPN Colombia</title>
 	</programme>
-SAB 18	<programme channel="ESPN Colombia" start="20251018160000 -1000" stop="20251018180000 -1000">
-		<title>Boca Juniors vs Belgrano ~ LPF Argentino</title>
+SAB 18	<programme channel="ESPN Colombia" start="20251018134500 -1000" stop="20251018154500 -1000">
+		<title>Roma vs Inter ~ Serie A</title>
 	</programme>
-SAB 18	<programme channel="ESPN Colombia" start="20251018180000 -1000" stop="20251018183000 -1000">
+SAB 18	<programme channel="ESPN Colombia" start="20251018154500 -1000" stop="20251019000000 -1000">
 		<title>ESPN Colombia</title>
 	</programme>
-SAB 18	<programme channel="ESPN Colombia" start="20251018183000 -1000" stop="20251018203000 -1000">
-		<title>Talleres vs River Plate ~ LPF Argentino</title>
-	</programme>
-SAB 18	<programme channel="ESPN Colombia" start="20251018203000 -1000" stop="20251019000000 -1000">
+DOM 19	<programme channel="ESPN Colombia" start="20251019000000 -1000" stop="20251019053000 -1000">
 		<title>ESPN Colombia</title>
 	</programme>
-DOM 19	<programme channel="ESPN Colombia" start="20251019000000 -1000" stop="20251019140000 -1000">
+DOM 19	<programme channel="ESPN Colombia" start="20251019053000 -1000" stop="20251019073000 -1000">
+		<title>Como vs Juventus ~ Serie A</title>
+	</programme>
+DOM 19	<programme channel="ESPN Colombia" start="20251019073000 -1000" stop="20251019080000 -1000">
+		<title>ESPN Colombia</title>
+	</programme>
+DOM 19	<programme channel="ESPN Colombia" start="20251019080000 -1000" stop="20251019100000 -1000">
+		<title>Tottenham vs Aston Villa ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN Sudamerica, FOX México, Telemundo y USA Network (en Ingles)</desc>
+	</programme>
+DOM 19	<programme channel="ESPN Colombia" start="20251019100000 -1000" stop="20251019103000 -1000">
+		<title>ESPN Colombia</title>
+	</programme>
+DOM 19	<programme channel="ESPN Colombia" start="20251019103000 -1000" stop="20251019123000 -1000">
+		<title>Liverpool vs Manchester United ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN Sudamerica, FOX México, Telemundo y USA Network (en Ingles)</desc>
+	</programme>
+DOM 19	<programme channel="ESPN Colombia" start="20251019123000 -1000" stop="20251019140000 -1000">
 		<title>ESPN Colombia</title>
 	</programme>
 DOM 19	<programme channel="ESPN Colombia" start="20251019140000 -1000" stop="20251019160000 -1000">
 		<title>F1 Carrera ~ Premio de los Estados Unidos</title>
 	</programme>
 DOM 19	<programme channel="ESPN Colombia" start="20251019160000 -1000" stop="20251020000000 -1000">
+		<title>ESPN Colombia</title>
+	</programme>
+LUN 20	<programme channel="ESPN Colombia" start="20251020000000 -1000" stop="20251020140000 -1000">
+		<title>ESPN Colombia</title>
+	</programme>
+LUN 20	<programme channel="ESPN Colombia" start="20251020140000 -1000" stop="20251020160000 -1000">
+		<title>West Ham vs Brentford ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN 2 Chile y Colombia, ESPN 2 2 Peru, TNT México y USA Network (en Ingles)</desc>
+	</programme>
+LUN 20	<programme channel="ESPN Colombia" start="20251020160000 -1000" stop="20251021000000 -1000">
 		<title>ESPN Colombia</title>
 	</programme>
 *****************************************************************************************************
@@ -1418,7 +1549,14 @@ VIE 17	<programme channel="ESPN Chile" start="20251017134500 -1000" stop="202510
 VIE 17	<programme channel="ESPN Chile" start="20251017154500 -1000" stop="20251018000000 -1000">
 		<title>ESPN Chile</title>
 	</programme>
-SAB 18	<programme channel="ESPN Chile" start="20251018000000 -1000" stop="20251018091500 -1000">
+SAB 18	<programme channel="ESPN Chile" start="20251018000000 -1000" stop="20251018063000 -1000">
+		<title>ESPN Chile</title>
+	</programme>
+SAB 18	<programme channel="ESPN Chile" start="20251018063000 -1000" stop="20251018083000 -1000">
+		<title>Nottingham Forest vs Chelsea ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN Sudamerica, TNT México, NBC Universo y USA Network (en Ingles)</desc>
+	</programme>
+SAB 18	<programme channel="ESPN Chile" start="20251018083000 -1000" stop="20251018091500 -1000">
 		<title>ESPN Chile</title>
 	</programme>
 SAB 18	<programme channel="ESPN Chile" start="20251018091500 -1000" stop="20251018111500 -1000">
@@ -1427,19 +1565,68 @@ SAB 18	<programme channel="ESPN Chile" start="20251018091500 -1000" stop="202510
 SAB 18	<programme channel="ESPN Chile" start="20251018111500 -1000" stop="20251018113000 -1000">
 		<title>ESPN Chile</title>
 	</programme>
-SAB 18	<programme channel="ESPN Chile" start="20251018113000 -1000" stop="2025101813300 -1000">
-		<title>Bayern Munich vs Borussia Dortmund ~ Bundesliga</title>
+SAB 18	<programme channel="ESPN Chile" start="20251018113000 -1000" stop="20251018133000 -1000">
+		<title>Fulham vs Arsenal ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN 5 Sudamerica (excepto AGyCL) ESPN ARyCL, NBC Universo y NBC (en Ingles)</desc>
 	</programme>
-SAB 18	<programme channel="ESPN Chile" start="20251018133000 -1000" stop="20251019000000 -1000">
+SAB 18	<programme channel="ESPN Chile" start="20251018133000 -1000" stop="20251018134500 -1000">
 		<title>ESPN Chile</title>
 	</programme>
-DOM 19	<programme channel="ESPN Chile" start="20251019000000 -1000" stop="20251019140000 -1000">
+SAB 18	<programme channel="ESPN Chile" start="20251018134500 -1000" stop="20251018154500 -1000">
+		<title>Roma vs Inter ~ Serie A</title>
+	</programme>
+SAB 18	<programme channel="ESPN Chile" start="20251018154500 -1000" stop="20251018160000 -1000">
+		<title>ESPN Chile</title>
+	</programme>
+SAB 18	<programme channel="ESPN Chile" start="20251018160000 -1000" stop="20251018180000 -1000">
+		<title>Boca Juniors vs Belgrano ~ LPF Argentino</title>
+	</programme>
+SAB 18	<programme channel="ESPN Chile" start="20251018180000 -1000" stop="20251018183000 -1000">
+		<title>ESPN Chile</title>
+	</programme>
+SAB 18	<programme channel="ESPN Chile" start="20251018183000 -1000" stop="20251018203000 -1000">
+		<title>Talleres vs River Plate ~ LPF Argentino</title>
+	</programme>
+SAB 18	<programme channel="ESPN Chile" start="20251018203000 -1000" stop="20251019000000 -1000">
+		<title>ESPN Chile</title>
+	</programme>
+DOM 19	<programme channel="ESPN Chile" start="20251019000000 -1000" stop="20251019053000 -1000">
+		<title>ESPN Chile</title>
+	</programme>
+DOM 19	<programme channel="ESPN Chile" start="20251019053000 -1000" stop="20251019073000 -1000">
+		<title>Como vs Juventus ~ Serie A</title>
+	</programme>
+DOM 19	<programme channel="ESPN Chile" start="20251019073000 -1000" stop="20251019080000 -1000">
+		<title>ESPN Chile</title>
+	</programme>
+DOM 19	<programme channel="ESPN Chile" start="20251019080000 -1000" stop="20251019100000 -1000">
+		<title>Tottenham vs Aston Villa ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN Sudamerica, FOX México, Telemundo y USA Network (en Ingles)</desc>
+	</programme>
+DOM 19	<programme channel="ESPN Chile" start="20251019100000 -1000" stop="20251019103000 -1000">
+		<title>ESPN Chile</title>
+	</programme>
+DOM 19	<programme channel="ESPN Chile" start="20251019103000 -1000" stop="20251019123000 -1000">
+		<title>Liverpool vs Manchester United ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN Sudamerica, FOX México, Telemundo y USA Network (en Ingles)</desc>
+	</programme>
+DOM 19	<programme channel="ESPN Chile" start="20251019123000 -1000" stop="20251019140000 -1000">
 		<title>ESPN Chile</title>
 	</programme>
 DOM 19	<programme channel="ESPN Chile" start="20251019140000 -1000" stop="20251019160000 -1000">
 		<title>F1 Carrera ~ Premio de los Estados Unidos</title>
 	</programme>
 DOM 19	<programme channel="ESPN Chile" start="20251019160000 -1000" stop="20251020000000 -1000">
+		<title>ESPN Chile</title>
+	</programme>
+LUN 20	<programme channel="ESPN Chile" start="20251020000000 -1000" stop="20251020140000 -1000">
+		<title>ESPN Chile</title>
+	</programme>
+LUN 20	<programme channel="ESPN Chile" start="20251020140000 -1000" stop="20251020160000 -1000">
+		<title>West Ham vs Brentford ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN 2 Chile y Colombia, ESPN 2 2 Peru, TNT México y USA Network (en Ingles)</desc>
+	</programme>
+LUN 20	<programme channel="ESPN Chile" start="20251020160000 -1000" stop="20251021000000 -1000">
 		<title>ESPN Chile</title>
 	</programme>
 *****************************************************************************************************
@@ -1454,67 +1641,120 @@ DOM 19	<programme channel="ESPN Chile" start="20251019160000 -1000" stop="202510
 		<display-name>ESPN 2 🇵🇪 SD</display-name>
 		<display-name>ESPN 2 🇵🇪 HD</display-name>
 	</channel>
-VIE 17	<programme channel="ESPN 2 Perú" start="20251017000000 -1000" stop="20251017123000 -1000">
+VIE 17	<programme channel="ESPN 2 Peru" start="20251017000000 -1000" stop="20251017123000 -1000">
 		<title>ESPN 2 Perú</title>
 	</programme>
-VIE 17	<programme channel="ESPN 2 Perú" start="20251017123000 -1000" stop="20251017140000 -1000">
+VIE 17	<programme channel="ESPN 2 Peru" start="20251017123000 -1000" stop="20251017140000 -1000">
 		<title>F1 Practicas Libres 1</title>
 	</programme>
-VIE 17	<programme channel="ESPN 2 Perú" start="20251017140000 -1000" stop="20251017160000 -1000">
-		<title>Real Oviedo vs Espanyol ~ ESPN 2 Perú</title>
+VIE 17	<programme channel="ESPN 2 Peru" start="20251017140000 -1000" stop="20251017160000 -1000">
+		<title>Real Oviedo vs Espanyol ~ LaLiga</title>
 	</programme>
-VIE 17	<programme channel="ESPN 2 Perú" start="20251017160000 -1000" stop="20251017163000 -1000">
+VIE 17	<programme channel="ESPN 2 Peru" start="20251017160000 -1000" stop="20251017162500 -1000">
 		<title>ESPN 2 Perú</title>
 	</programme>
-VIE 17	<programme channel="ESPN 2 Perú" start="20251017163000 -1000" stop="20251017183000 -1000">
+VIE 17	<programme channel="ESPN 2 Peru" start="20251017162500 -1000" stop="20251017172000 -1000">
 		<title>F1 Clasificación Spint</title>
+		<desc>Clasificación para el esprint del Gran Premio de los Estados Unidos durante la ronda 19 de la Fórmula 1, 2025. Desde el Circuito de las Américas, en Texas, Estados Unidos.</desc>
 	</programme>
-VIE 17	<programme channel="ESPN 2 Perú" start="20251017183000 -1000" stop="20251018000000 -1000">
+VIE 17	<programme channel="ESPN 2 Peru" start="20251017172000 -1000" stop="20251017223000 -1000">
 		<title>ESPN 2 Perú</title>
 	</programme>
-SAB 18	<programme channel="ESPN 2 Perú" start="20251018000000 -1000" stop="20251018120000 -1000">
+VIE 17	<programme channel="ESPN 2 Peru" start="20251017223000 -1000" stop="20251017234500 -1000">
+		<title>Campeonato Mundial de MotoGP - Grand Prix of Austria - Sprint Race</title>
+		<desc>Carrera sprint de la fecha 13 del Mundial de Moto GP, en Austria. Desde el Red Bull Ring, en Spielberg, Austria.</desc>
+	</programme>
+VIE 17	<programme channel="ESPN 2 Peru" start="20251017234500 -1000" stop="20251018000000 -1000">
 		<title>ESPN 2 Perú</title>
 	</programme>
-SAB 18	<programme channel="ESPN 2 Perú" start="20251018120000 -1000" stop="20251018140000 -1000">
+SAB 18	<programme channel="ESPN 2 Peru" start="20251018000000 -1000" stop="20251018055500 -1000">
+		<title>ESPN 2 Perú</title>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Peru" start="20251018055500 -1000" stop="20251018080000 -1000">
+		<title>Campeonato Mundial de Superbikes</title>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Peru" start="20251018080000 -1000" stop="20251018085000 -1000">
+		<title>MotoGP</title>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Peru" start="20251018085000 -1000" stop="20251018090000 -1000">
+		<title>ESPN 2 Perú</title>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Peru" start="20251018090000 -1000" stop="20251018110000 -1000">
+		<title>Crystal Palace vs Bournemouth ~ Premier League / J8</title>
+		<desc>Solo por ESPN 2 Sudamerica</desc>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Peru" start="20251018110000 -1000" stop="20251018115500 -1000">
+		<title>ESPN 2 Perú</title>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Peru" start="20251018115500 -1000" stop="20251018133000 -1000">
 		<title>F1 Carrera Sprint</title>
 	</programme>
-SAB 18	<programme channel="ESPN 2 Perú" start="20251018140000 -1000" stop="20251018160000 -1000">
-		<title>Atlético de Madrid vs Osasuna ~ ESPN 2 Perú</title>
+SAB 18	<programme channel="ESPN 2 Peru" start="20251018133000 -1000" stop="20251018140000 -1000">
+		<title>SportsCenter+</title>
 	</programme>
-SAB 18	<programme channel="ESPN 2 Perú" start="20251018160000 -1000" stop="20251018180000 -1000">
+SAB 18	<programme channel="ESPN 2 Peru" start="20251018140000 -1000" stop="20251018160000 -1000">
+		<title>Atlético de Madrid vs Osasuna ~ LaLiga</title>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Peru" start="20251018160000 -1000" stop="20251018180000 -1000">
 		<title>F1 Clasificación</title>
 	</programme>
-SAB 18	<programme channel="ESPN 2 Perú" start="20251018180000 -1000" stop="20251019000000 -1000">
+SAB 18	<programme channel="ESPN 2 Peru" start="20251018180000 -1000" stop="20251018184500 -1000">
 		<title>ESPN 2 Perú</title>
 	</programme>
-DOM 19	<programme channel="ESPN 2 Perú" start="20251019000000 -1000" stop="20251019070000 -1000">
+SAB 18	<programme channel="ESPN 2 Peru" start="20251018184500 -1000" stop="20251018231500 -1000">
+		<title>Campeonato Mundial de MotoGP ~ Premio de Australia (Moto3, Moto2 & MotoGP)</title>
+		<desc>Cobertura de la carrera principal de la ronda 19 del MotoGP 2025 con el Gran Premio de Australia. Desde el Circuito de Phillip Island, en Victoria, Australia.</desc>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Peru" start="20251018231500 -1000" stop="20251019000000 -1000">
 		<title>ESPN 2 Perú</title>
 	</programme>
-DOM 19	<programme channel="ESPN 2 Perú" start="20251019070000 -1000" stop="20251019090000 -1000">
-		<title>Elche vs Athletic Club ~ ESPN 2 Perú</title>
-	</programme>
-DOM 19	<programme channel="ESPN 2 Perú" start="20251019090000 -1000" stop="20251019192000 -1000">
+DOM 19	<programme channel="ESPN 2 Peru" start="20251019000000 -1000" stop="20251019070000 -1000">
 		<title>ESPN 2 Perú</title>
 	</programme>
-DOM 19	<programme channel="ESPN 2 Perú" start="20251019192000 -1000" stop="20251019212000 -1000">
+DOM 19	<programme channel="ESPN 2 Peru" start="20251019070000 -1000" stop="20251019090000 -1000">
+		<title>Elche vs Athletic Club ~ LaLiga</title>
+	</programme>
+DOM 19	<programme channel="ESPN 2 Peru" start="20251019090000 -1000" stop="20251019110000 -1000">
+		<title>ESPN 2 Perú</title>
+	</programme>
+DOM 19	<programme channel="ESPN 2 Peru" start="20251019110000 -1000" stop="20251019130000 -1000">
+		<title>Atalanta vs Lazio ~ Serie A</title>
+	</programme>
+DOM 19	<programme channel="ESPN 2 Peru" start="20251019130000 -1000" stop="20251019134500 -1000">
+		<title>ESPN 2 Perú</title>
+	</programme>
+DOM 19	<programme channel="ESPN 2 Peru" start="20251019134500 -1000" stop="20251019154500 -1000">
+		<title>Milan vs Fiorentina ~ Serie A</title>
+	</programme>
+DOM 19	<programme channel="ESPN 2 Peru" start="20251019154500 -1000" stop="20251019192000 -1000">
+		<title>ESPN 2 Perú</title>
+	</programme>
+DOM 19	<programme channel="ESPN 2 Peru" start="20251019192000 -1000" stop="20251019212000 -1000">
 		<title>Falcons vs 49ers ~ NFL</title>
 	</programme>
-DOM 19	<programme channel="ESPN 2 Perú" start="20251019212000 -1000" stop="20251020000000 -1000">
+DOM 19	<programme channel="ESPN 2 Peru" start="20251019212000 -1000" stop="20251020000000 -1000">
 		<title>ESPN 2 Perú</title>
 	</programme>
-LUN 20	<programme channel="ESPN 2 Perú" start="20251020000000 -1000" stop="20251020180000 -1000">
+LUN 20	<programme channel="ESPN 2 Peru" start="20251020000000 -1000" stop="20251020140000 -1000">
 		<title>ESPN 2 Perú</title>
 	</programme>
-LUN 20	<programme channel="ESPN 2 Perú" start="20251020180000 -1000" stop="20251020200000 -1000">
+LUN 20	<programme channel="ESPN 2 Peru" start="20251020140000 -1000" stop="20251020160000 -1000">
+		<title>West Ham vs Brentford ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN 2 Chile y Colombia, ESPN 2 2 Peru, TNT México y USA Network (en Ingles)</desc>
+	</programme>
+LUN 20	<programme channel="ESPN 2 Peru" start="20251020160000 -1000" stop="20251020180000 -1000">
+		<title>ESPN 2 Perú</title>
+	</programme>
+LUN 20	<programme channel="ESPN 2 Peru" start="20251020180000 -1000" stop="20251020200000 -1000">
 		<title>Buccaneers vs Lions ~ NFL</title>
 	</programme>
-LUN 20	<programme channel="ESPN 2 Perú" start="20251020200000 -1000" stop="20251020210000 -1000">
+LUN 20	<programme channel="ESPN 2 Peru" start="20251020200000 -1000" stop="20251020210000 -1000">
 		<title>ESPN 2 Perú</title>
 	</programme>
-LUN 20	<programme channel="ESPN 2 Perú" start="20251020210000 -1000" stop="20251020230000 -1000">
+LUN 20	<programme channel="ESPN 2 Peru" start="20251020210000 -1000" stop="20251020230000 -1000">
 		<title>Texans vs Seahawks ~ NFL</title>
 	</programme>
-LUN 20	<programme channel="ESPN 2 Perú" start="20251020230000 -1000" stop="20251021000000 -1000">
+LUN 20	<programme channel="ESPN 2 Peru" start="20251020230000 -1000" stop="20251021000000 -1000">
 		<title>ESPN 2 Perú</title>
 	</programme>
 *****************************************************************************************************
@@ -1536,39 +1776,78 @@ VIE 17	<programme channel="ESPN 2 Colombia" start="20251017123000 -1000" stop="2
 		<title>F1 Practicas Libres 1</title>
 	</programme>
 VIE 17	<programme channel="ESPN 2 Colombia" start="20251017140000 -1000" stop="20251017160000 -1000">
-		<title>Real Oviedo vs Espanyol ~ ESPN 2 Colombia</title>
+		<title>Real Oviedo vs Espanyol ~ LaLiga</title>
 	</programme>
-VIE 17	<programme channel="ESPN 2 Colombia" start="20251017160000 -1000" stop="20251017163000 -1000">
+VIE 17	<programme channel="ESPN 2 Colombia" start="20251017160000 -1000" stop="20251017162500 -1000">
 		<title>ESPN 2 Colombia</title>
 	</programme>
-VIE 17	<programme channel="ESPN 2 Colombia" start="20251017163000 -1000" stop="20251017183000 -1000">
+VIE 17	<programme channel="ESPN 2 Colombia" start="20251017162500 -1000" stop="20251017172000 -1000">
 		<title>F1 Clasificación Spint</title>
+		<desc>Clasificación para el esprint del Gran Premio de los Estados Unidos durante la ronda 19 de la Fórmula 1, 2025. Desde el Circuito de las Américas, en Texas, Estados Unidos.</desc>
 	</programme>
-VIE 17	<programme channel="ESPN 2 Colombia" start="20251017183000 -1000" stop="20251018000000 -1000">
+VIE 17	<programme channel="ESPN 2 Colombia" start="20251017172000 -1000" stop="20251017223000 -1000">
 		<title>ESPN 2 Colombia</title>
 	</programme>
-SAB 18	<programme channel="ESPN 2 Colombia" start="20251018000000 -1000" stop="20251018120000 -1000">
+VIE 17	<programme channel="ESPN 2 Colombia" start="20251017223000 -1000" stop="20251017234500 -1000">
+		<title>Campeonato Mundial de MotoGP - Grand Prix of Austria - Sprint Race</title>
+		<desc>Carrera sprint de la fecha 13 del Mundial de Moto GP, en Austria. Desde el Red Bull Ring, en Spielberg, Austria.</desc>
+	</programme>
+VIE 17	<programme channel="ESPN 2 Colombia" start="20251017234500 -1000" stop="20251018000000 -1000">
 		<title>ESPN 2 Colombia</title>
 	</programme>
-SAB 18	<programme channel="ESPN 2 Colombia" start="20251018120000 -1000" stop="20251018140000 -1000">
+SAB 18	<programme channel="ESPN 2 Colombia" start="20251018000000 -1000" stop="20251018055500 -1000">
+		<title>ESPN 2 Colombia</title>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Colombia" start="20251018055500 -1000" stop="20251018080000 -1000">
+		<title>Campeonato Mundial de Superbikes</title>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Colombia" start="20251018080000 -1000" stop="20251018085000 -1000">
+		<title>MotoGP</title>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Colombia" start="20251018085000 -1000" stop="20251018115500 -1000">
+		<title>ESPN 2 Colombia</title>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Colombia" start="20251018115500 -1000" stop="20251018133000 -1000">
 		<title>F1 Carrera Sprint</title>
 	</programme>
+SAB 18	<programme channel="ESPN 2 Colombia" start="20251018133000 -1000" stop="20251018140000 -1000">
+		<title>SportsCenter+</title>
+	</programme>
 SAB 18	<programme channel="ESPN 2 Colombia" start="20251018140000 -1000" stop="20251018160000 -1000">
-		<title>Atlético de Madrid vs Osasuna ~ ESPN 2 Colombia</title>
+		<title>Atlético de Madrid vs Osasuna ~ LaLiga</title>
 	</programme>
 SAB 18	<programme channel="ESPN 2 Colombia" start="20251018160000 -1000" stop="20251018180000 -1000">
 		<title>F1 Clasificación</title>
 	</programme>
-SAB 18	<programme channel="ESPN 2 Colombia" start="20251018180000 -1000" stop="20251019000000 -1000">
+SAB 18	<programme channel="ESPN 2 Colombia" start="20251018180000 -1000" stop="20251018184500 -1000">
+		<title>ESPN 2 Colombia</title>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Colombia" start="20251018184500 -1000" stop="20251018231500 -1000">
+		<title>Campeonato Mundial de MotoGP ~ Premio de Australia (Moto3, Moto2 & MotoGP)</title>
+		<desc>Cobertura de la carrera principal de la ronda 19 del MotoGP 2025 con el Gran Premio de Australia. Desde el Circuito de Phillip Island, en Victoria, Australia.</desc>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Colombia" start="20251018231500 -1000" stop="20251019000000 -1000">
 		<title>ESPN 2 Colombia</title>
 	</programme>
 DOM 19	<programme channel="ESPN 2 Colombia" start="20251019000000 -1000" stop="20251019070000 -1000">
 		<title>ESPN 2 Colombia</title>
 	</programme>
 DOM 19	<programme channel="ESPN 2 Colombia" start="20251019070000 -1000" stop="20251019090000 -1000">
-		<title>Elche vs Athletic Club ~ ESPN 2 Colombia</title>
+		<title>Elche vs Athletic Club ~ LaLiga</title>
 	</programme>
-DOM 19	<programme channel="ESPN 2 Colombia" start="20251019090000 -1000" stop="20251019192000 -1000">
+DOM 19	<programme channel="ESPN 2 Colombia" start="20251019090000 -1000" stop="20251019110000 -1000">
+		<title>ESPN 2 Colombia</title>
+	</programme>
+DOM 19	<programme channel="ESPN 2 Colombia" start="20251019110000 -1000" stop="20251019130000 -1000">
+		<title>Atalanta vs Lazio ~ Serie A</title>
+	</programme>
+DOM 19	<programme channel="ESPN 2 Colombia" start="20251019130000 -1000" stop="20251019134500 -1000">
+		<title>ESPN 2 Colombia</title>
+	</programme>
+DOM 19	<programme channel="ESPN 2 Colombia" start="20251019134500 -1000" stop="20251019154500 -1000">
+		<title>Milan vs Fiorentina ~ Serie A</title>
+	</programme>
+DOM 19	<programme channel="ESPN 2 Colombia" start="20251019154500 -1000" stop="20251019192000 -1000">
 		<title>ESPN 2 Colombia</title>
 	</programme>
 DOM 19	<programme channel="ESPN 2 Colombia" start="20251019192000 -1000" stop="20251019212000 -1000">
@@ -1611,39 +1890,78 @@ VIE 17	<programme channel="ESPN 2 Chile" start="20251017123000 -1000" stop="2025
 		<title>F1 Practicas Libres 1</title>
 	</programme>
 VIE 17	<programme channel="ESPN 2 Chile" start="20251017140000 -1000" stop="20251017160000 -1000">
-		<title>Real Oviedo vs Espanyol ~ ESPN 2 Chile</title>
+		<title>Real Oviedo vs Espanyol ~ LaLiga</title>
 	</programme>
-VIE 17	<programme channel="ESPN 2 Chile" start="20251017160000 -1000" stop="20251017163000 -1000">
+VIE 17	<programme channel="ESPN 2 Chile" start="20251017160000 -1000" stop="20251017162500 -1000">
 		<title>ESPN 2 Chile</title>
 	</programme>
-VIE 17	<programme channel="ESPN 2 Chile" start="20251017163000 -1000" stop="20251017183000 -1000">
+VIE 17	<programme channel="ESPN 2 Chile" start="20251017162500 -1000" stop="20251017172000 -1000">
 		<title>F1 Clasificación Spint</title>
+		<desc>Clasificación para el esprint del Gran Premio de los Estados Unidos durante la ronda 19 de la Fórmula 1, 2025. Desde el Circuito de las Américas, en Texas, Estados Unidos.</desc>
 	</programme>
-VIE 17	<programme channel="ESPN 2 Chile" start="20251017183000 -1000" stop="20251018000000 -1000">
+VIE 17	<programme channel="ESPN 2 Chile" start="20251017172000 -1000" stop="20251017223000 -1000">
 		<title>ESPN 2 Chile</title>
 	</programme>
-SAB 18	<programme channel="ESPN 2 Chile" start="20251018000000 -1000" stop="20251018120000 -1000">
+VIE 17	<programme channel="ESPN 2 Chile" start="20251017223000 -1000" stop="20251017234500 -1000">
+		<title>Campeonato Mundial de MotoGP - Grand Prix of Austria - Sprint Race</title>
+		<desc>Carrera sprint de la fecha 13 del Mundial de Moto GP, en Austria. Desde el Red Bull Ring, en Spielberg, Austria.</desc>
+	</programme>
+VIE 17	<programme channel="ESPN 2 Chile" start="20251017234500 -1000" stop="20251018000000 -1000">
 		<title>ESPN 2 Chile</title>
 	</programme>
-SAB 18	<programme channel="ESPN 2 Chile" start="20251018120000 -1000" stop="20251018140000 -1000">
+SAB 18	<programme channel="ESPN 2 Chile" start="20251018000000 -1000" stop="20251018055500 -1000">
+		<title>ESPN 2 Chile</title>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Chile" start="20251018055500 -1000" stop="20251018080000 -1000">
+		<title>Campeonato Mundial de Superbikes</title>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Chile" start="20251018080000 -1000" stop="20251018085000 -1000">
+		<title>MotoGP</title>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Chile" start="20251018085000 -1000" stop="20251018115500 -1000">
+		<title>ESPN 2 Chile</title>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Chile" start="20251018115500 -1000" stop="20251018133000 -1000">
 		<title>F1 Carrera Sprint</title>
 	</programme>
+SAB 18	<programme channel="ESPN 2 Chile" start="20251018133000 -1000" stop="20251018140000 -1000">
+		<title>SportsCenter+</title>
+	</programme>
 SAB 18	<programme channel="ESPN 2 Chile" start="20251018140000 -1000" stop="20251018160000 -1000">
-		<title>Atlético de Madrid vs Osasuna ~ ESPN 2 Chile</title>
+		<title>Atlético de Madrid vs Osasuna ~ LaLiga</title>
 	</programme>
 SAB 18	<programme channel="ESPN 2 Chile" start="20251018160000 -1000" stop="20251018180000 -1000">
 		<title>F1 Clasificación</title>
 	</programme>
-SAB 18	<programme channel="ESPN 2 Chile" start="20251018180000 -1000" stop="20251019000000 -1000">
+SAB 18	<programme channel="ESPN 2 Chile" start="20251018180000 -1000" stop="20251018184500 -1000">
+		<title>ESPN 2 Chile</title>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Chile" start="20251018184500 -1000" stop="20251018231500 -1000">
+		<title>Campeonato Mundial de MotoGP ~ Premio de Australia (Moto3, Moto2 & MotoGP)</title>
+		<desc>Cobertura de la carrera principal de la ronda 19 del MotoGP 2025 con el Gran Premio de Australia. Desde el Circuito de Phillip Island, en Victoria, Australia.</desc>
+	</programme>
+SAB 18	<programme channel="ESPN 2 Chile" start="20251018231500 -1000" stop="20251019000000 -1000">
 		<title>ESPN 2 Chile</title>
 	</programme>
 DOM 19	<programme channel="ESPN 2 Chile" start="20251019000000 -1000" stop="20251019070000 -1000">
 		<title>ESPN 2 Chile</title>
 	</programme>
 DOM 19	<programme channel="ESPN 2 Chile" start="20251019070000 -1000" stop="20251019090000 -1000">
-		<title>Elche vs Athletic Club ~ ESPN 2 Chile</title>
+		<title>Elche vs Athletic Club ~ LaLiga</title>
 	</programme>
-DOM 19	<programme channel="ESPN 2 Chile" start="20251019090000 -1000" stop="20251019192000 -1000">
+DOM 19	<programme channel="ESPN 2 Chile" start="20251019090000 -1000" stop="20251019110000 -1000">
+		<title>ESPN 2 Chile</title>
+	</programme>
+DOM 19	<programme channel="ESPN 2 Chile" start="20251019110000 -1000" stop="20251019130000 -1000">
+		<title>Atalanta vs Lazio ~ Serie A</title>
+	</programme>
+DOM 19	<programme channel="ESPN 2 Chile" start="20251019130000 -1000" stop="20251019134500 -1000">
+		<title>ESPN 2 Chile</title>
+	</programme>
+DOM 19	<programme channel="ESPN 2 Chile" start="20251019134500 -1000" stop="20251019154500 -1000">
+		<title>Milan vs Fiorentina ~ Serie A</title>
+	</programme>
+DOM 19	<programme channel="ESPN 2 Chile" start="20251019154500 -1000" stop="20251019192000 -1000">
 		<title>ESPN 2 Chile</title>
 	</programme>
 DOM 19	<programme channel="ESPN 2 Chile" start="20251019192000 -1000" stop="20251019212000 -1000">
@@ -1682,7 +2000,13 @@ SAB 18	<programme channel="ESPN 3" start="20251018140500 -1000" stop="2025101816
 SAB 18	<programme channel="ESPN 3" start="20251018160500 -1000" stop="20251019000000 -1000">
 		<title>ESPN 3</title>
 	</programme>
-DOM 19	<programme channel="ESPN 3" start="20251019000000 -1000" stop="20251019134500 -1000">
+DOM 19	<programme channel="ESPN 3" start="20251019000000 -1000" stop="20251019080000 -1000">
+		<title>ESPN 3</title>
+	</programme>
+DOM 19	<programme channel="ESPN 3" start="20251019080000 -1000" stop="20251019100000 -1000">
+		<title>Cagliari vs Bologna ~ Serie A</title>
+	</programme>
+DOM 19	<programme channel="ESPN 3" start="20251019100000 -1000" stop="20251019134500 -1000">
 		<title>ESPN 3</title>
 	</programme>
 DOM 19	<programme channel="ESPN 3" start="20251019134500 -1000" stop="20251019154500 -1000">
@@ -1736,7 +2060,14 @@ SAB 18	<programme channel="ESPN 5" start="20251018000000 -1000" stop="2025101808
 SAB 18	<programme channel="ESPN 5" start="20251018083000 -1000" stop="20251018103000 -1000">
 		<title>Mainz 05 vs Bayer Leverkusen ~ Bundesliga</title>
 	</programme>
-SAB 18	<programme channel="ESPN 5" start="20251018103000 -1000" stop="20251018160000 -1000">
+SAB 18	<programme channel="ESPN 5" start="20251018103000 -1000" stop="20251018113000 -1000">
+		<title>ESPN 5</title>
+	</programme>
+SAB 18	<programme channel="ESPN 5" start="20251018113000 -1000" stop="20251018133000 -1000">
+		<title>Fulham vs Arsenal ~ Premier League / J8</title>
+		<desc>Este Partido va por los siguientes canales: ESPN 5 Sudamerica (excepto AGyCL) ESPN ARyCL, NBC Universo y NBC (en Ingles)</desc>
+	</programme>
+SAB 18	<programme channel="ESPN 5" start="20251018133000 -1000" stop="20251018160000 -1000">
 		<title>ESPN 5</title>
 	</programme>
 SAB 18	<programme channel="ESPN 5" start="20251018160000 -1000" stop="20251018180000 -1000">
@@ -1832,56 +2163,14 @@ DOM 19	<programme channel="ESPN 7" start="20251019170000 -1000" stop="2025102000
 		<display-name>ESPN 5 🇨🇱 SD</display-name>
 		<display-name>ESPN 5 🇨🇱 HD</display-name>
 	</channel>
-MIE 1	<programme channel="ESPN 5 Chile" start="20251001000000 -1000" stop="20251001010000 -1000">
+SAB 18	<programme channel="ESPN 5 Chile" start="20251018000000 -1000" stop="20251018113000 -1000">
 		<title>ESPN 5 Chile</title>
 	</programme>
-MIE 1	<programme channel="ESPN 5 Chile" start="20251001010000 -1000" stop="20251001020000 -1000">
-		<title>UEFA Europa & Conference League Magazine</title>
+SAB 18	<programme channel="ESPN 5 Chile" start="20251018113000 -1000" stop="20251018133000 -1000">
+		<title>Bayern Munich vs Borussia Dortmund ~ Bundesliga</title>
 	</programme>
-MIE 1	<programme channel="ESPN 5 Chile" start="20251001020000 -1000" stop="20251001040000 -1000">
-		<title>	FC Groningen vs. Feyenoord : Fútbol Eredivisie</title>
-	</programme>
-MIE 1	<programme channel="ESPN 5 Chile" start="20251001040000 -1000" stop="20251001060000 -1000">
-		<title>Fútbol Turco Superliga - Besiktas vs. Kocaelispor</title>
-	</programme>
-MIE 1	<programme channel="ESPN 5 Chile" start="20251001060000 -1000" stop="20251001080000 -1000">
-		<title>Derby County vs. Charlton Athletic : Fútbol Inglés Championship</title>
-	</programme>
-MIE 1	<programme channel="ESPN 5 Chile" start="20251001080000 -1000" stop="20251001090000 -1000">
-		<title>Goles de la Bundesliga</title>
-	</programme>
-MIE 1	<programme channel="ESPN 5 Chile" start="20251001090000 -1000" stop="20251001110000 -1000">
-		<title>Olympique de Marsella vs. Ajax : Fútbol UEFA Champions League</title>
-	</programme>
-MIE 1	<programme channel="ESPN 5 Chile" start="20251001110000 -1000" stop="20251001120000 -1000">
-		<title>NFL Semanal</title>
-	</programme>
-MIE 1	<programme channel="ESPN 5 Chile" start="20251001120000 -1000" stop="20251001150000 -1000">
-		<title>Detroit Tigers vs. Cleveland Guardians : Béisbol de las Grandes Ligas</title>
-	</programme>
-MIE 1	<programme channel="ESPN 5 Chile" start="20251001150000 -1000" stop="20251001160000 -1000">
-		<title>ESPN Compact</title>
-	</programme>
-MIE 1	<programme channel="ESPN 5 Chile" start="20251001160000 -1000" stop="20251001170000 -1000">
-		<title>Goles de la Bundesliga</title>
-	</programme>
-MIE 1	<programme channel="ESPN 5 Chile" start="20251001170000 -1000" stop="20251001200000 -1000">
-		<title>Boston Red Sox vs. New York Yankees : Béisbol de las Grandes Ligas </title>
-	</programme>
-MIE 1	<programme channel="ESPN 5 Chile" start="20251001200000 -1000" stop="20251001210000 -1000">
-		<title>NFL Semanal</title>
-	</programme>
-MIE 1	<programme channel="ESPN 5 Chile" start="20251001210000 -1000" stop="20251001213000 -1000">
-		<title>ATP World Tour Weekly</title>
-	</programme>
-MIE 1	<programme channel="ESPN 5 Chile" start="20251001213000 -1000" stop="20251001220000 -1000">
-		<title>MotoGP: Resúmenes - Lo mejor de MotoGP 2025</title>
-	</programme>
-MIE 1	<programme channel="ESPN 5 Chile" start="20251001220000 -1000" stop="20251002000000 -1000">
-		<title>Queens Park Rangers vs. Oxford United : Fútbol Inglés Championship</title>
-	</programme>
-JUE 2	<programme channel="ESPN 5 Chile" start="20251002000000 -1000" stop="20251002020000 -1000">
-		<title>Bayer 04 Leverkusen vs. PSV : Fútbol UEFA Champions League</title>
+SAB 18	<programme channel="ESPN 5 Chile" start="20251018133000 -1000" stop="20251019000000 -1000">
+		<title>ESPN 5 Chile</title>
 	</programme>
 *****************************************************************************************************
 	<channel id="ESPN Deportes">
@@ -1899,7 +2188,7 @@ VIE 17	<programme channel="ESPN Deportes" start="20251017123000 -1000" stop="202
 		<title>F1 Practicas Libres 1</title>
 	</programme>
 VIE 17	<programme channel="ESPN Deportes" start="20251017140000 -1000" stop="20251017160000 -1000">
-		<title>Real Oviedo vs Espanyol ~ ESPN Deportes</title>
+		<title>Real Oviedo vs Espanyol ~ LaLiga</title>
 	</programme>
 VIE 17	<programme channel="ESPN Deportes" start="20251017160000 -1000" stop="20251017163000 -1000">
 		<title>ESPN Deportes</title>
@@ -1914,13 +2203,13 @@ SAB 18	<programme channel="ESPN Deportes" start="20251018000000 -1000" stop="202
 		<title>ESPN Deportes</title>
 	</programme>
 SAB 18	<programme channel="ESPN Deportes" start="20251018070000 -1000" stop="20251018090000 -1000">
-		<title>Sevilla vs Mallorca ~ ESPN Deportes</title>
+		<title>Sevilla vs Mallorca ~ LaLiga</title>
 	</programme>
 SAB 18	<programme channel="ESPN Deportes" start="20251018090000 -1000" stop="20251018091500 -1000">
 		<title>ESPN Deportes</title>
 	</programme>
 SAB 18	<programme channel="ESPN Deportes" start="20251018091500 -1000" stop="20251018111500 -1000">
-		<title>Barcelona FC vs Girona ~ ESPN Deportes</title>
+		<title>Barcelona FC vs Girona ~ LaLiga</title>
 	</programme>
 SAB 18	<programme channel="ESPN Deportes" start="20251018111500 -1000" stop="20251018113000 -1000">
 		<title>ESPN Deportes</title>
@@ -1932,7 +2221,7 @@ SAB 18	<programme channel="ESPN Deportes" start="20251018133000 -1000" stop="202
 		<title>ESPN Deportes</title>
 	</programme>
 SAB 18	<programme channel="ESPN Deportes" start="20251018140000 -1000" stop="20251018160000 -1000">
-		<title>Atlético de Madrid vs Osasuna ~ ESPN Deportes</title>
+		<title>Atlético de Madrid vs Osasuna ~ LaLiga</title>
 	</programme>
 SAB 18	<programme channel="ESPN Deportes" start="20251018160000 -1000" stop="20251018180000 -1000">
 		<title>F1 Clasificación</title>
@@ -1944,25 +2233,25 @@ DOM 19	<programme channel="ESPN Deportes" start="20251019000000 -1000" stop="202
 		<title>ESPN Deportes</title>
 	</programme>
 DOM 19	<programme channel="ESPN Deportes" start="20251019070000 -1000" stop="20251019090000 -1000">
-		<title>Elche vs Athletic Club ~ ESPN Deportes</title>
+		<title>Elche vs Athletic Club ~ LaLiga</title>
 	</programme>
 DOM 19	<programme channel="ESPN Deportes" start="20251019090000 -1000" stop="20251019091500 -1000">
 		<title>ESPN Deportes</title>
 	</programme>
 DOM 19	<programme channel="ESPN Deportes" start="20251019091500 -1000" stop="20251019111500 -1000">
-		<title>Celta de Vigo vs Real Sociedad ~ ESPN Deportes</title>
+		<title>Celta de Vigo vs Real Sociedad ~ LaLiga</title>
 	</programme>
 DOM 19	<programme channel="ESPN Deportes" start="20251019111500 -1000" stop="20251019113000 -1000">
 		<title>ESPN Deportes</title>
 	</programme>
 DOM 19	<programme channel="ESPN Deportes" start="20251019113000 -1000" stop="20251019133000 -1000">
-		<title>Levante vs Rayo Vallecano ~ ESPN Deportes</title>
+		<title>Levante vs Rayo Vallecano ~ LaLiga</title>
 	</programme>
 DOM 19	<programme channel="ESPN Deportes" start="20251019133000 -1000" stop="20251019140000 -1000">
 		<title>ESPN Deportes</title>
 	</programme>
 DOM 19	<programme channel="ESPN Deportes" start="20251019140000 -1000" stop="20251019160000 -1000">
-		<title>Getafe vs Real Madrid ~ ESPN Deportes</title>
+		<title>Getafe vs Real Madrid ~ LaLiga</title>
 	</programme>
 DOM 19	<programme channel="ESPN Deportes" start="20251019160000 -1000" stop="20251020000000 -1000">
 		<title>ESPN Deportes</title>
@@ -1971,7 +2260,7 @@ LUN 20	<programme channel="ESPN Deportes" start="20251020000000 -1000" stop="202
 		<title>ESPN Deportes</title>
 	</programme>
 LUN 20	<programme channel="ESPN Deportes" start="20251020140000 -1000" stop="20251020160000 -1000">
-		<title>Deportivo Alavés vs Valencia ~ ESPN Deportes</title>
+		<title>Deportivo Alavés vs Valencia ~ LaLiga</title>
 	</programme>
 LUN 20	<programme channel="ESPN Deportes" start="20251020160000 -1000" stop="20251021000000 -1000">
 		<title>ESPN Deportes</title>
@@ -1992,58 +2281,22 @@ JUE 20	<programme channel="ESPN MX" start="20250320000000 -1000" stop="202503200
 	<channel id="ESPN Centro">
 		<display-name>ESPN Centro</display-name>
 	</channel>
-MAR 14	<programme channel="ESPN Centro" start="20251014000000 -1000" stop="20251014110000 -1000">
+SAB 18	<programme channel="ESPN Centro" start="20251018000000 -1000" stop="20251018134500 -1000">
 		<title>ESPN Centroamerica</title>
 	</programme>
-MAR 14	<programme channel="ESPN Centro" start="20251014110000 -1000" stop="20251014130000 -1000">
-		<title>Estonia vs Moldavia ~ Eliminatorias UEFA</title>
+SAB 18	<programme channel="ESPN Centro" start="20251018134500 -1000" stop="20251018154500 -1000">
+		<title>Roma vs Inter ~ Serie A</title>
 	</programme>
-MAR 14	<programme channel="ESPN Centro" start="20251014130000 -1000" stop="20251014134500 -1000">
+SAB 18	<programme channel="ESPN Centro" start="20251018154500 -1000" stop="20251019000000 -1000">
 		<title>ESPN Centroamerica</title>
 	</programme>
-MAR 14	<programme channel="ESPN Centro" start="20251014134500 -1000" stop="20251014154500 -1000">
-		<title>Italia vs Israel ~ Eliminatorias UEFA</title>
-	</programme>
-MAR 14	<programme channel="ESPN Centro" start="20251014154500 -1000" stop="20251015000000 -1000">
+DOM 19	<programme channel="ESPN Centro" start="20251019000000 -1000" stop="20251019053000 -1000">
 		<title>ESPN Centroamerica</title>
 	</programme>
-MIE 15	<programme channel="ESPN Centro" start="20251015000000 -1000" stop="20251015114500 -1000">
-		<title>ESPN Centroamerica</title>
+DOM 19	<programme channel="ESPN Centro" start="20251019053000 -1000" stop="20251019073000 -1000">
+		<title>Como vs Juventus ~ Serie A</title>
 	</programme>
-MIE 15	<programme channel="ESPN Centro" start="20251015114500 -1000" stop="20251015134500 -1000">
-		<title>OL.Lyonnes vs SKN ST.Polten ~ UEFA Wome's Champions League</title>
-	</programme>
-MIE 15	<programme channel="ESPN Centro" start="20251015134500 -1000" stop="20251015140000 -1000">
-		<title>ESPN Centroamerica</title>
-	</programme>
-MIE 15	<programme channel="ESPN Centro" start="20251015140000 -1000" stop="20251015160000 -1000">
-		<title>AS Roma vs FC Barcelona ~ UEFA Wome's Champions League</title>
-	</programme>
-MIE 15	<programme channel="ESPN Centro" start="20251015160000 -1000" stop="20251016000000 -1000">
-		<title>ESPN Centroamerica</title>
-	</programme>
-JUE 16	<programme channel="ESPN Centro" start="20251016000000 -1000" stop="20251016114500 -1000">
-		<title>ESPN Centroamerica</title>
-	</programme>
-JUE 16	<programme channel="ESPN Centro" start="20251016114500 -1000" stop="20251016134500 -1000">
-		<title>Atlético de Madrid vs Manchester United ~ UEFA Wome's Champions League</title>
-	</programme>
-JUE 16	<programme channel="ESPN Centro" start="20251016134500 -1000" stop="20251016140000 -1000">
-		<title>ESPN Centroamerica</title>
-	</programme>
-JUE 16	<programme channel="ESPN Centro" start="20251016140000 -1000" stop="20251016160000 -1000">
-		<title>Paris Saint-Germain~ UEFA Wome's Champions League</title>
-	</programme>
-JUE 16	<programme channel="ESPN Centro" start="20251016160000 -1000" stop="20251016191500 -1000">
-		<title>ESPN Centroamerica</title>
-	</programme>
-JUE 16	<programme channel="ESPN Centro" start="20251016191500 -1000" stop="20251016211500 -1000">
-		<title>Steelers vs Bengals ~ NFL</title>
-	</programme>
-JUE 16	<programme channel="ESPN Centro" start="20251016211500 -1000" stop="20251017000000 -1000">
-		<title>ESPN Centroamerica</title>
-	</programme>
-DOM 19	<programme channel="ESPN Centro" start="20251019000000 -1000" stop="20251019083000 -1000">
+DOM 19	<programme channel="ESPN Centro" start="20251019073000 -1000" stop="20251019083000 -1000">
 		<title>ESPN Centroamerica</title>
 	</programme>
 DOM 19	<programme channel="ESPN Centro" start="20251019083000 -1000" stop="20251019103000 -1000">
@@ -2222,7 +2475,13 @@ VIE 17	<programme channel="ESPN 5 Centro" start="20251017134500 -1000" stop="202
 VIE 17	<programme channel="ESPN 5 Centro" start="20251017154500 -1000" stop="20251018000000 -1000">
 		<title>ESPN 5 Centroamerica</title>
 	</programme>
-DOM 19	<programme channel="ESPN 5 Centro" start="20251019000000 -1000" stop="20251019120000 -1000">
+DOM 19	<programme channel="ESPN 5 Centro" start="20251019000000 -1000" stop="20251019080000 -1000">
+		<title>ESPN 5 Centroamerica</title>
+	</programme>
+DOM 19	<programme channel="ESPN 5 Centro" start="20251019080000 -1000" stop="20251019100000 -1000">
+		<title>Cagliari vs Bologna ~ Serie A</title>
+	</programme>
+DOM 19	<programme channel="ESPN 5 Centro" start="20251019100000 -1000" stop="20251019120000 -1000">
 		<title>ESPN 5 Centroamerica</title>
 	</programme>
 DOM 19	<programme channel="ESPN 5 Centro" start="20251019120000 -1000" stop="20251019140000 -1000">
